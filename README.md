@@ -1,2 +1,2 @@
-# legacy.io
-Legacy files for the DAIS website, hosted via github pages
+# dais-ita.github.io
+Legacy files for the DAIS ITA website, hosted via github pages.

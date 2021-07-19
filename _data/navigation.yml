@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "Cluster 1"
+    url: /cluster1/
+  - title: "Cluster 2"
+    url: /cluster2/
+  - title: "Cluster 3"
+    url: /cluster3/
+  - title: "Science Library"
+    url: /science-library/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
