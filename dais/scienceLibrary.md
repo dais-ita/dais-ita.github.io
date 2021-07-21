@@ -1,3 +1,4 @@
+
 ---
 layout: splash
 permalink: /science-library/
@@ -126,9 +127,8 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     </tbody>
 </table>
 
-<h1>Publications</h1>
 
-<p>All of the publications from the DAIS ITA program are listed in the table below.</p>
+All of the publications from the DAIS ITA program are listed in the table below.
 
 <table>
     <tbody>
@@ -5073,7 +5073,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>external conference</td>
         <td>DQ Scheduler: Deep Reinforcement Learning Based Controller Synchronization in Distributed SDN<br />
             <br />
-            <em>Best paper award at ICC-2019 </em><br />
+            <em>Best paper award at ICC-2019</em><br />
             <br />
             Download: <a href="https://dais-ita.org/sites/default/files/3115.pdf">paper</a></td>
         <td>
@@ -8151,7 +8151,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Aug-2018</td>
-        <td>&nbsp;</td>
+        <td></td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -8403,7 +8403,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Jul-2018</td>
-        <td>&nbsp;</td>
+        <td></td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -11978,7 +11978,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Jun-2017</td>
-        <td>&nbsp;</td>
+        <td></td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -12563,5 +12563,6 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>Annual Conference of the Special Interest Group on Data Communication 2016</td>
         <td>collaborative</td>
     </tr>
+
     </tbody>
 </table>
