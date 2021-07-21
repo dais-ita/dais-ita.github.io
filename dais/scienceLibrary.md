@@ -140,9 +140,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td><strong>collaboration</strong></td>
     </tr>
     <tr>
-        <td><a href="/doc-5994/">A New Upper Bound on Cache Hit Probability for Non-anticipative Caching Policies<br />
-            <br />
-            Download: <a href="https://dl.acm.org/doi/abs/10.1145/3453953.3453985">paper</a></a></td>
+        <td><a href="/doc-5994/">A New Upper Bound on Cache Hit Probability for Non-anticipative Caching Policies</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -157,9 +155,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-6004/">On the Analysis of Spatially Constrained Power of Two Choice Policies<br />
-            <br />
-            Download: <a href="https://dl.acm.org/doi/abs/10.1145/3453953.3453964">paper</a></a></td>
+        <td><a href="/doc-6004/">On the Analysis of Spatially Constrained Power of Two Choice Policies</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -175,9 +171,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5970/">A Framework for Fostering Transparency in Shared Artificial Intelligence Models by Increasing Visibility of Contributions<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/abstract/document/9355673">paper</a></a></td>
+        <td><a href="/doc-5970/">A Framework for Fostering Transparency in Shared Artificial Intelligence Models by Increasing Visibility of Contributions</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -194,9 +188,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-6003/">Service Placement for Collaborative Edge Applications<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9212591">paper</a></a></td>
+        <td><a href="/doc-6003/">Service Placement for Collaborative Edge Applications</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -213,8 +205,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5937/">Percolation Thresholds for Robust Network Connectivity<br />
-            <br />
-            Download: <a href="https://iopscience.iop.org/article/10.1088/1742-5468/abd312">paper</a><br />
             Variants: doc-5645</a></td>
         <td>journal</td>
         <td>
@@ -231,9 +221,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5945/">Overcoming Noisy and Irrelevant Data in Federated Learning<br />
-            <br />
-            Download: <a href="https://arxiv.org/abs/2001.08300">paper</a></a></td>
+        <td><a href="/doc-5945/">Overcoming Noisy and Irrelevant Data in Federated Learning</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -250,8 +238,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-6006/">Optimizing in the Dark: Learning Optimal Network Resource Reservation Through a Simple Request Interface<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9316313">paper</a><br />
             Variants: doc-3591</a></td>
         <td>journal</td>
         <td>
@@ -270,9 +256,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5921/">Online Multitask Learning with Long-Term Memory<br />
-            <br />
-            Download: <a href="https://proceedings.neurips.cc/paper/2020/file/cdfa4c42f465a5a66871587c69fcfa34-Paper.pdf">paper</a></a></td>
+        <td><a href="/doc-5921/">Online Multitask Learning with Long-Term Memory</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -286,9 +270,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5924/">Online Algorithms for Multi-shop Ski Rental with Machine Learned Advice<br />
-            <br />
-            Download: <a href="https://proceedings.neurips.cc/paper/2020/file/5cc4bb753030a3d804351b2dfec0d8b5-Paper.pdf">paper</a></a></td>
+        <td><a href="/doc-5924/">Online Algorithms for Multi-shop Ski Rental with Machine Learned Advice</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -302,9 +284,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5939/">Let's Share: A Game-Theoretic Framework for Resource Sharing in Mobile Edge Clouds<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9295377">paper</a></a></td>
+        <td><a href="/doc-5939/">Let's Share: A Game-Theoretic Framework for Resource Sharing in Mobile Edge Clouds</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -322,8 +302,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5941/">Online Matrix Completion with Side Information<br />
-            <br />
-            Download: <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwiAsLGhkajvAhX6VBUIHdXSDTgQFjABegQIAhAD&amp;url=https%3A%2F%2Fproceedings.neurips.cc%2Fpaper%2F2020%2Ffile%2Feb06b9db06012a7a4179b8f3cb5384d3-Paper.pdf&amp;usg=AOvVaw1VWrh8PpF3RAh2Evig-bYP">paper</a><br />
             Variants: doc-5732</a></td>
         <td>external conference</td>
         <td>
@@ -338,9 +316,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5996/">How Can I Explain This to You? An Empirical Study of Deep Neural Network Explanation Methods<br />
-            <br />
-            Download: <a href="https://proceedings.neurips.cc/paper/2020/file/2c29d89cc56cdb191c60db2f0bae796b-Paper.pdf">paper</a></a></td>
+        <td><a href="/doc-5996/">How Can I Explain This to You? An Empirical Study of Deep Neural Network Explanation Methods</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -356,9 +332,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5914/">An Experimentation Platform for Explainable Coalition Situational Understanding<br />
-            <br />
-            Download: <a href="https://arxiv.org/abs/2010.14388">paper</a></a></td>
+        <td><a href="/doc-5914/">An Experimentation Platform for Explainable Coalition Situational Understanding</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -380,9 +354,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5919/">Towards human-agent knowledge fusion (HAKF) in support of distributed coalition teams<br />
-            <br />
-            Download: <a href="https://arxiv.org/abs/2010.12327">paper</a></a></td>
+        <td><a href="/doc-5919/">Towards human-agent knowledge fusion (HAKF) in support of distributed coalition teams</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -400,9 +372,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5956/">Neuroplex: Learning to Detect Complex Events in Sensor Networks through Knowledge Injection<br />
-            <br />
-            Download: <a href="https://dl.acm.org/doi/abs/10.1145/3384419.3431158">paper</a></a></td>
+        <td><a href="/doc-5956/">Neuroplex: Learning to Detect Complex Events in Sensor Networks through Knowledge Injection</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -420,9 +390,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5962/">Jarvis: Moving Towards a Smarter Internet of Things<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/abstract/document/9355673">paper</a></a></td>
+        <td><a href="/doc-5962/">Jarvis: Moving Towards a Smarter Internet of Things</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -435,9 +403,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5981/">Enabling Discoverable Trusted Services for Highly Dynamic Decentralized Workflows<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/abstract/document/9308118">paper</a></a></td>
+        <td><a href="/doc-5981/">Enabling Discoverable Trusted Services for Highly Dynamic Decentralized Workflows</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -453,9 +419,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5989/">A Large-scale Empirical Study on the Vulnerability of Deployed IoT Devices<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9259111">paper</a></a></td>
+        <td><a href="/doc-5989/">A Large-scale Empirical Study on the Vulnerability of Deployed IoT Devices</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -475,9 +439,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5991/">Matching through Embedding in Dense Graphs<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/2011.06767.pdf">paper</a></a></td>
+        <td><a href="/doc-5991/">Matching through Embedding in Dense Graphs</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -491,9 +453,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-6049/">Adaptive Gradient Sparsification for Efficient Federated Learning: An Online Learning Approach<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/2001.04756.pdf">paper</a></a></td>
+        <td><a href="/doc-6049/">Adaptive Gradient Sparsification for Efficient Federated Learning: An Online Learning Approach</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -507,9 +467,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-6052/">FLAP - A Federated Learning Framework for Attribute-based Access Control Policies<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/2010.09767.pdf">paper</a></a></td>
+        <td><a href="/doc-6052/">FLAP - A Federated Learning Framework for Attribute-based Access Control Policies</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -545,8 +503,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-6077/">The Science Library: Curation and Visualization of a Science Gateway repository<br />
-            <br />
-            Download: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.6100">paper</a><br />
             Variants: doc-6071</a></td>
         <td>journal</td>
         <td>
@@ -561,9 +517,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5546/">Stable and Supported Semantics in Continuous Vector Spaces<br />
-            <br />
-            Download: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167739X19317467">paper</a></a></td>
+        <td><a href="/doc-5546/">Stable and Supported Semantics in Continuous Vector Spaces</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -579,8 +533,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5912/">Breadth verses depth: the impact of tree structure on cultural influence<br />
-            <br />
-            Download: <a href="https://link.springer.com/chapter/10.1007/978-3-030-61255-9_9">paper</a><br />
             Variants: doc-6089</a></td>
         <td>external conference</td>
         <td>
@@ -596,9 +548,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5947/">Approximation Algorithms for Data-Intensive Service Chain Embedding<br />
-            <br />
-            Download: <a href="https://dl.acm.org/doi/10.1145/3397166.3409149">paper</a></a></td>
+        <td><a href="/doc-5947/">Approximation Algorithms for Data-Intensive Service Chain Embedding</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -613,9 +563,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5976/">Beyond Dyads and Triads: A Comparison of Tetrads in Twenty Social Networks<br />
-            <br />
-            Download: <a href="https://journals.sagepub.com/doi/10.1177/0190272520944151?icid=int.sj-abstract.citing-articles.1">paper</a></a></td>
+        <td><a href="/doc-5976/">Beyond Dyads and Triads: A Comparison of Tetrads in Twenty Social Networks</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -628,9 +576,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5997/">Energy-Efficient Target Recognition using ReRAM Crossbars for Enabling On-Device Intelligence<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9195230">paper</a></a></td>
+        <td><a href="/doc-5997/">Energy-Efficient Target Recognition using ReRAM Crossbars for Enabling On-Device Intelligence</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -645,9 +591,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-6050/">Preparing Network Intrusion Detection Deep Learning Models with Minimal Data Using Adversarial Domain Adaptation<br />
-            <br />
-            Download: <a href="https://dl.acm.org/doi/10.1145/3320269.3384718">paper</a></a></td>
+        <td><a href="/doc-6050/">Preparing Network Intrusion Detection Deep Learning Models with Minimal Data Using Adversarial Domain Adaptation</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -681,9 +625,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5736/">Increasing negotiation performance at the edge of the network<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/2003.13668.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/4628_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-5736/">Increasing negotiation performance at the edge of the network</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -698,9 +640,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5794/">DAIS-ITA Experimentation Environment and Scenario<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5421.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/5421_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-5794/">DAIS-ITA Experimentation Environment and Scenario</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -717,9 +657,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-6000/">Gradual Channel Pruning While Training Using Feature Relevance Scores for Convolutional Neural Networks<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9199834">paper</a></a></td>
+        <td><a href="/doc-6000/">Gradual Channel Pruning While Training Using Feature Relevance Scores for Convolutional Neural Networks</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -735,8 +673,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-6005/">Resource Allocation in One-dimensional Distributed Service Networks with Applications<br />
-            <br />
-            Download: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0166531620300304">paper</a><br />
             Variants: doc-4373,doc-4751</a></td>
         <td>journal</td>
         <td>
@@ -756,8 +692,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-6069/">Second-Order Learning and Inference using Incomplete Data for Uncertain Bayesian Networks: A Two Node Example<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5171_slides.pdf">presentation</a><br />
             Variants: doc-5929</a></td>
         <td>internal conference</td>
         <td>
@@ -774,8 +708,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-6071/">The Science Library: Curation and Visualization of a Science Gateway repository<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5172.pdf">paper</a><br />
             Variants: doc-6077</a></td>
         <td>internal conference</td>
         <td>
@@ -790,9 +722,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-6072/">Explainable Multimodal Activity Recognition for Interpretable Coalition Situational Understanding<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5325.pdf">paper</a></a></td>
+        <td><a href="/doc-6072/">Explainable Multimodal Activity Recognition for Interpretable Coalition Situational Understanding</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -809,9 +739,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-6073/">Continuous Federated Learning of Global Policies in Coalition Environments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5332.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/5332_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-6073/">Continuous Federated Learning of Global Policies in Coalition Environments</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -832,8 +760,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-6074/">Assessing temporal and spatial features in detecting disruptive users on Reddit<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5337_slides.pdf">presentation</a><br />
             Variants: doc-5992</a></td>
         <td>internal conference</td>
         <td>
@@ -850,9 +776,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-6075/">Optimizing the efficiency of collective decision making in groups<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5343.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/5343_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-6075/">Optimizing the efficiency of collective decision making in groups</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -881,9 +805,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-6080/">Towards Maintaining and Reusing Complex Event Processing Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5345.pdf">paper</a></a></td>
+        <td><a href="/doc-6080/">Towards Maintaining and Reusing Complex Event Processing Systems</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -906,9 +828,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-6081/">Exploiting Human Perception for Adversarial Attacks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5347.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/5347_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-6081/">Exploiting Human Perception for Adversarial Attacks</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -921,9 +841,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-6084/">On Collaboration in Machine Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5348.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/5348_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-6084/">On Collaboration in Machine Learning</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -937,9 +855,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-6085/">Joint State-Action Embedding for Efficient Reinforcement Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5393.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/5393_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-6085/">Joint State-Action Embedding for Efficient Reinforcement Learning</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -953,9 +869,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-6086/">Using Positive and Negative Network Ties in AI Models: An Application Predicting Terrorism in India<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5394.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/5394_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-6086/">Using Positive and Negative Network Ties in AI Models: An Application Predicting Terrorism in India</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -989,9 +903,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-6088/">Extracting Interpretable Rules from Deep Models Across Coalitions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5401.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/5401_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-6088/">Extracting Interpretable Rules from Deep Models Across Coalitions</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -1008,8 +920,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-6089/">Breadth verses depth: the impact of tree structure on cultural influence<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5406.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/5406_slides.pdf">presentation</a><br />
             Variants: doc-5912</a></td>
         <td>external conference</td>
         <td>
@@ -1025,9 +935,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-6090/">A Security-Constrained Reinforcement Learning Framework for Software Defined Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5407.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/5407_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-6090/">A Security-Constrained Reinforcement Learning Framework for Software Defined Networks</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -1042,9 +950,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5586/">Biologically Plausible Class Discrimination Based Recurrent Neural Network Training for Motor Pattern Generation<br />
-            <br />
-            Download: <a href="https://www.frontiersin.org/articles/10.3389/fnins.2020.00772/full">paper</a></a></td>
+        <td><a href="/doc-5586/">Biologically Plausible Class Discrimination Based Recurrent Neural Network Training for Motor Pattern Generation</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -1058,9 +964,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5596/">Prophet: Toward Fast, Error-Tolerant Model-Based Throughput Prediction for Reactive Flows in DC Networks<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/abstract/document/9178502">paper</a></a></td>
+        <td><a href="/doc-5596/">Prophet: Toward Fast, Error-Tolerant Model-Based Throughput Prediction for Reactive Flows in DC Networks</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -1075,9 +979,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5639/">Deep Spiking Neural Network: Energy Efficiency Through Time based Coding<br />
-            <br />
-            Download: <a href="https://eccv2020.eu/posters/">paper</a></a></td>
+        <td><a href="/doc-5639/">Deep Spiking Neural Network: Energy Efficiency Through Time based Coding</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1090,9 +992,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5647/">Robustness Hidden in Plain Sight: Can Analog Computing Defend Against Adversarial Attacks?<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/2008.12016.pdf">paper</a></a></td>
+        <td><a href="/doc-5647/">Robustness Hidden in Plain Sight: Can Analog Computing Defend Against Adversarial Attacks?</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -1107,9 +1007,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5662/">TREND: Transferability based Robust ENsemble Design<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/2008.01524.pdf">paper</a></a></td>
+        <td><a href="/doc-5662/">TREND: Transferability based Robust ENsemble Design</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -1124,9 +1022,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5724/">Fast-Fourier-Forecasting Resource Utilisation in Distributed Systems<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/2001.04281">paper</a></a></td>
+        <td><a href="/doc-5724/">Fast-Fourier-Forecasting Resource Utilisation in Distributed Systems</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1141,8 +1037,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5992/">Assessing temporal and spatial features in detecting disruptive users on Reddit<br />
-            <br />
-            Download: <a href="http://orca.cf.ac.uk/136908/">paper</a><br />
             Variants: doc-6074</a></td>
         <td>external conference</td>
         <td>
@@ -1159,9 +1053,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5506/">Decentralized placement of data and analytics in wireless networks for energy-efficient execution<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9155222">paper</a></a></td>
+        <td><a href="/doc-5506/">Decentralized placement of data and analytics in wireless networks for energy-efficient execution</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1180,9 +1072,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5524/">Toward Optimal Software-Defined Interdomain Routing<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/abstract/document/9155486">paper</a></a></td>
+        <td><a href="/doc-5524/">Toward Optimal Software-Defined Interdomain Routing</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1200,9 +1090,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5538/">VADR: Discriminative Multimodal Explanations for Situational Understanding<br />
-            <br />
-            Download: <a href="https://www.fusion2020.org/wp-content/uploads/2020/07/Fusion2020_session_schedule_speakers_17_12.pdf">paper</a></a></td>
+        <td><a href="/doc-5538/">VADR: Discriminative Multimodal Explanations for Situational Understanding</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1217,9 +1105,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5542/">On Security Policy Migrations<br />
-            <br />
-            Download: <a href="https://www.fusion2020.org/wp-content/uploads/2020/07/Fusion2020_session_schedule_speakers_17_12.pdf">paper</a></a></td>
+        <td><a href="/doc-5542/">On Security Policy Migrations</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1233,9 +1119,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5544/">Efficient orchestration of Node-RED IoT workflows using a Vector Symbolic Architecture<br />
-            <br />
-            Download: <a href="https://www.sciencedirect.com/science/article/pii/S266638992030060X">paper</a></a></td>
+        <td><a href="/doc-5544/">Efficient orchestration of Node-RED IoT workflows using a Vector Symbolic Architecture</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -1252,9 +1136,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5565/">Toward Programmable Interdomain Routing<br />
-            <br />
-            Download: <a href="https://dl.acm.org/doi/abs/10.1145/3404868.3406672">paper</a></a></td>
+        <td><a href="/doc-5565/">Toward Programmable Interdomain Routing</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1269,9 +1151,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5576/">Distributed Learning using Ensemble-Based Fusion<br />
-            <br />
-            Download: <a href="https://patents.google.com/patent/US20200219014A1/en">paper</a></a></td>
+        <td><a href="/doc-5576/">Distributed Learning using Ensemble-Based Fusion</a></td>
         <td>patent</td>
         <td>
             <ul>
@@ -1284,9 +1164,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5582/">Online Network Flow Optimization for Multi-Grade Service Chains<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9155341">paper</a></a></td>
+        <td><a href="/doc-5582/">Online Network Flow Optimization for Multi-Grade Service Chains</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1301,9 +1179,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5608/">Rapid Trust Calibration through Interpretable and Uncertainty-Aware AI<br />
-            <br />
-            Download: <a href="https://www.sciencedirect.com/science/article/pii/S266638992030060X">paper</a></a></td>
+        <td><a href="/doc-5608/">Rapid Trust Calibration through Interpretable and Uncertainty-Aware AI</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -1322,9 +1198,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5995/">Enabling Homeostasis using Temporal Decay Mechanisms in Spiking CNNs Trained with Unsupervised Spike Timing Dependent Plasticity<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9207240">paper</a></a></td>
+        <td><a href="/doc-5995/">Enabling Homeostasis using Temporal Decay Mechanisms in Spiking CNNs Trained with Unsupervised Spike Timing Dependent Plasticity</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1339,9 +1213,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-6051/">Sharing Models or Coresets: A Study based on Membership Inference Attack<br />
-            <br />
-            Download: <a href="https://arxiv.org/abs/2007.02977">paper</a></a></td>
+        <td><a href="/doc-6051/">Sharing Models or Coresets: A Study based on Membership Inference Attack</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1358,8 +1230,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5512/">Robust Coreset Construction for Distributed Machine Learning<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9109724">paper</a><br />
             Variants: doc-4903</a></td>
         <td>journal</td>
         <td>
@@ -1378,8 +1248,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5516/">Joint Coreset Construction and Quantization for Distributed Machine Learning<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9142757">paper</a><br />
             Variants: doc-5899</a></td>
         <td>external conference</td>
         <td>
@@ -1398,9 +1266,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5518/">Waypoint-based Topology Inference<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/abstract/document/9149348">paper</a></a></td>
+        <td><a href="/doc-5518/">Waypoint-based Topology Inference</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1415,9 +1281,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5520/">Service Placement and Request Routing in MEC Networks With Storage, Computation, and Communication Constraints<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9055440">paper</a></a></td>
+        <td><a href="/doc-5520/">Service Placement and Request Routing in MEC Networks With Storage, Computation, and Communication Constraints</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -1433,9 +1297,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5526/">Trident: Toward Distributed Reactive SDN Programming with Consistent Updates<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9107221">paper</a></a></td>
+        <td><a href="/doc-5526/">Trident: Toward Distributed Reactive SDN Programming with Consistent Updates</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -1450,9 +1312,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5578/">Toward Scalable, Efficient, and Accurate Deep Spiking Neural Networks With Backward Residual Connections, Stochastic Softmax, and Hybridization<br />
-            <br />
-            Download: <a href="https://www.frontiersin.org/articles/10.3389/fnins.2020.00653/full">paper</a></a></td>
+        <td><a href="/doc-5578/">Toward Scalable, Efficient, and Accurate Deep Spiking Neural Networks With Backward Residual Connections, Stochastic Softmax, and Hybridization</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -1466,9 +1326,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5613/">Pathways to efficient neuromorphic computing with non-volatile memory technologies<br />
-            <br />
-            Download: <a href="https://aip.scitation.org/doi/10.1063/1.5113536">paper</a></a></td>
+        <td><a href="/doc-5613/">Pathways to efficient neuromorphic computing with non-volatile memory technologies</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -1484,9 +1342,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5643/">RMP-SNN: Residual Membrane Potential Neuron for Enabling Deeper High-Accuracy and Low-Latency Spiking Neural Network<br />
-            <br />
-            Download: <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Han_RMP-SNN_Residual_Membrane_Potential_Neuron_for_Enabling_Deeper_High-Accuracy_and_CVPR_2020_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-5643/">RMP-SNN: Residual Membrane Potential Neuron for Enabling Deeper High-Accuracy and Low-Latency Spiking Neural Network</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1501,8 +1357,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5645/">Percolation Thresholds for Robust Network Connectivity<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/2006.14496.pdf">paper</a><br />
             Variants: doc-5937</a></td>
         <td>tech report</td>
         <td>
@@ -1519,9 +1373,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5651/">Menes: Towards a Generic, Fully-Automated Test and Validation Platform for Wireless Networks<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/2006.02270.pdf">paper</a></a></td>
+        <td><a href="/doc-5651/">Menes: Towards a Generic, Fully-Automated Test and Validation Platform for Wireless Networks</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -1533,9 +1385,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5664/">Online Learning of Facility Locations<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/2007.02801.pdf">paper</a></a></td>
+        <td><a href="/doc-5664/">Online Learning of Facility Locations</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -1551,9 +1401,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5934/">Line-Speed and Scalable Intrusion Detection at the Network Edge via Federated Learning<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/abstract/document/9142704">paper</a></a></td>
+        <td><a href="/doc-5934/">Line-Speed and Scalable Intrusion Detection at the Network Edge via Federated Learning</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1568,9 +1416,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5148/">Negative Ties Network based Modeling of Terrorist Incidents<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5133.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/5133_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-5148/">Negative Ties Network based Modeling of Terrorist Incidents</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1585,9 +1431,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5152/">Using AI/ML to predict perpetrators for terrorist incidents<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/5134.pdf">paper</a></a></td>
+        <td><a href="/doc-5152/">Using AI/ML to predict perpetrators for terrorist incidents</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1603,9 +1447,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5508/">Capacity Analysis of Distributed Computing Systems with Multiple Resource Types<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9120531">paper</a></a></td>
+        <td><a href="/doc-5508/">Capacity Analysis of Distributed Computing Systems with Multiple Resource Types</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1619,9 +1461,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5534/">Strategyproof Reinforcement Learning for Online Resource Allocation<br />
-            <br />
-            Download: <a href="https://dl.acm.org/doi/abs/10.5555/3398761.3398911">paper</a></a></td>
+        <td><a href="/doc-5534/">Strategyproof Reinforcement Learning for Online Resource Allocation</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1639,9 +1479,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5536/">Policy based ensembles for multi domain operations<br />
-            <br />
-            Download: <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11413/2558727/Policy-based-ensembles-for-multi-domain-operations/10.1117/12.2558727.short?SSO=1">paper</a></a></td>
+        <td><a href="/doc-5536/">Policy based ensembles for multi domain operations</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1657,9 +1495,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5567/">Training Deep Spiking Neural Networks for Energy-Efficient Neuromorphic Computing<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9053914">paper</a></a></td>
+        <td><a href="/doc-5567/">Training Deep Spiking Neural Networks for Energy-Efficient Neuromorphic Computing</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1676,9 +1512,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5594/">Generating result explanations for neural networks<br />
-            <br />
-            Download: <a href="https://patents.google.com/patent/US20200167677A1/en">paper</a></a></td>
+        <td><a href="/doc-5594/">Generating result explanations for neural networks</a></td>
         <td>patent</td>
         <td>
             <ul>
@@ -1692,9 +1526,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5660/">Conditionally Deep Hybrid Neural Networks Across Edge and Cloud<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/2005.10851.pdf">paper</a></a></td>
+        <td><a href="/doc-5660/">Conditionally Deep Hybrid Neural Networks Across Edge and Cloud</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -1709,8 +1541,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5732/">Online Matrix Completion with Side Information<br />
-            <br />
-            Download: <a href="https://arxiv.org/abs/1906.07255">paper</a><br />
             Variants: doc-5941</a></td>
         <td>tech report</td>
         <td>
@@ -1725,9 +1555,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5584/">Distributed learning preserving model security<br />
-            <br />
-            Download: <a href="https://patents.google.com/patent/US20200125739A1/en">paper</a></a></td>
+        <td><a href="/doc-5584/">Distributed learning preserving model security</a></td>
         <td>patent</td>
         <td>
             <ul>
@@ -1741,9 +1569,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5653/">The current state of automated negotiation theory: a literature review<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/2004.02614.pdf">paper</a></a></td>
+        <td><a href="/doc-5653/">The current state of automated negotiation theory: a literature review</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -1758,9 +1584,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5528/">The Implications of Shared Identity on Indirect Reciprocity<br />
-            <br />
-            Download: <a href="https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1741858">paper</a></a></td>
+        <td><a href="/doc-5528/">The Implications of Shared Identity on Indirect Reciprocity</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -1776,9 +1600,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5738/">Explaining Motion Relevance for Activity Recognition in Video Deep Learning Models<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/2003.14285.pdf">paper</a></a></td>
+        <td><a href="/doc-5738/">Explaining Motion Relevance for Activity Recognition in Video Deep Learning Models</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -1796,8 +1618,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4694/">Sanity Checks for Saliency Metrics<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4564.pdf">paper</a><br />
             Variants: doc-4699</a></td>
         <td>external conference</td>
         <td>
@@ -1814,9 +1634,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4723/">FastLAS: Scalable Inductive Logic Programming incorporating Domain-specific Optimisation Criteria<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4590.pdf">paper</a></a></td>
+        <td><a href="/doc-4723/">FastLAS: Scalable Inductive Logic Programming incorporating Domain-specific Optimisation Criteria</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1832,9 +1650,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4727/">Defending with Shared Resources on a Network<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4583.pdf">paper</a></a></td>
+        <td><a href="/doc-4727/">Defending with Shared Resources on a Network</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1848,9 +1664,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4733/">Uncertainty-Aware Deep Classifiers using Generative Models<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4543_0.pdf">paper</a></a></td>
+        <td><a href="/doc-4733/">Uncertainty-Aware Deep Classifiers using Generative Models</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1865,9 +1679,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4990/">Enabling Spike-Based Backpropagation for Training Deep Neural Network Architectures<br />
-            <br />
-            Download: <a href="https://www.frontiersin.org/articles/10.3389/fnins.2020.00119/full">paper</a></a></td>
+        <td><a href="/doc-4990/">Enabling Spike-Based Backpropagation for Training Deep Neural Network Architectures</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -1883,9 +1695,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4909/">Tree-CNN: A Hierarchical Deep Convolutional Neural Network for Incremental Learning<br />
-            <br />
-            Download: <a href="https://www.sciencedirect.com/science/article/pii/S0893608019302710">paper</a></a></td>
+        <td><a href="/doc-4909/">Tree-CNN: A Hierarchical Deep Convolutional Neural Network for Incremental Learning</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -1899,9 +1709,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4986/">Ranking and updating machine learning models based on data inputs at edge nodes<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4966_0.pdf">paper</a></a></td>
+        <td><a href="/doc-4986/">Ranking and updating machine learning models based on data inputs at edge nodes</a></td>
         <td>patent</td>
         <td>
             <ul>
@@ -1916,9 +1724,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4988/">Vectorization of documents<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4974.pdf">paper</a></a></td>
+        <td><a href="/doc-4988/">Vectorization of documents</a></td>
         <td>patent</td>
         <td>
             <ul>
@@ -1933,9 +1739,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5573/">Online Convex Optimization with Perturbed Constraints: Optimal Rates against Stronger Benchmarks<br />
-            <br />
-            Download: <a href="http://proceedings.mlr.press/v108/valls20a.html">paper</a></a></td>
+        <td><a href="/doc-5573/">Online Convex Optimization with Perturbed Constraints: Optimal Rates against Stronger Benchmarks</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -1950,9 +1754,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4721/">Policy based Ensembles for applying ML on Big Data<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4618.pdf">paper</a></a></td>
+        <td><a href="/doc-4721/">Policy based Ensembles for applying ML on Big Data</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1969,8 +1771,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4737/">Towards a Coalition Focused Neural-Symbolic Generative Policy Model<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4531.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/4531_poster.pdf">poster</a><br />
             Variants: doc-5842</a></td>
         <td>poster</td>
         <td>
@@ -1986,9 +1786,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4739/">Towards a Neural-Symbolic Generative Policy Model<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4530.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/4530_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-4739/">Towards a Neural-Symbolic Generative Policy Model</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -2005,8 +1803,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4763/">A Comparison Between Statistical and Symbolic Learning Approaches for Generative Policy Models<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3898.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3898_slides.pdf">presentation</a><br />
             Variants: doc-5827</a></td>
         <td>external conference</td>
         <td>
@@ -2025,8 +1821,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4903/">Robust Coreset Construction for Distributed Machine Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3425.pdf">paper</a><br />
             Variants: doc-5512</a></td>
         <td>external conference</td>
         <td>
@@ -2044,9 +1838,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4976/">A Low Effort Approach to Structured CNN Design Using PCA<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8941144">paper</a></a></td>
+        <td><a href="/doc-4976/">A Low Effort Approach to Structured CNN Design Using PCA</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -2060,9 +1852,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5004/">Incremental Learning in Deep Convolutional Neural Networks Using Partial Network Sharing<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8945358">paper</a></a></td>
+        <td><a href="/doc-5004/">Incremental Learning in Deep Convolutional Neural Networks Using Partial Network Sharing</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -2076,9 +1866,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5012/">IoT Security A Comprehensive Life Cycle Framework<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4962.pdf">paper</a></a></td>
+        <td><a href="/doc-5012/">IoT Security A Comprehensive Life Cycle Framework</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -2090,9 +1878,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5571/">SENSE: Semantically Enhanced Node Sequence Embedding<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/9006591">paper</a></a></td>
+        <td><a href="/doc-5571/">SENSE: Semantically Enhanced Node Sequence Embedding</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -2110,9 +1896,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5592/">Distributed Optimization Framework for In-Network Data Processing<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8924930">paper</a></a></td>
+        <td><a href="/doc-5592/">Distributed Optimization Framework for In-Network Data Processing</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -2126,9 +1910,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4725/">On Reliability of Interpretability Mechanisms<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4586_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-4725/">On Reliability of Interpretability Mechanisms</a></td>
         <td>invited talk</td>
         <td>
             <ul>
@@ -2140,9 +1922,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4729/">Coalition C3 Information Exchange Using Binary Symbolic Vectors<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4581.pdf">paper</a></a></td>
+        <td><a href="/doc-4729/">Coalition C3 Information Exchange Using Binary Symbolic Vectors</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -2160,9 +1940,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4731/">Explainable AI for Intelligence Augmentation in Multi-Domain Operations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4544.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/4544_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-4731/">Explainable AI for Intelligence Augmentation in Multi-Domain Operations</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -2177,9 +1955,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4743/">Using Graphical Models as Explanations in Deep Neural Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4359.pdf">paper</a></a></td>
+        <td><a href="/doc-4743/">Using Graphical Models as Explanations in Deep Neural Networks</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -2194,9 +1970,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4749/">Dandelion: A Novel, High-Level Programming System for Software Defined Coalitions with Local State Sharing<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4282.pdf">paper</a></a></td>
+        <td><a href="/doc-4749/">Dandelion: A Novel, High-Level Programming System for Software Defined Coalitions with Local State Sharing</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -2213,8 +1987,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4872/">Constructing distributed time-critical applications using cognitive enabled services<br />
-            <br />
-            Download: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167739X18311762">paper</a><br />
             Variants: doc-4874</a></td>
         <td>journal</td>
         <td>
@@ -2233,9 +2005,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4925/">Towards spike-based machine intelligence with neuromorphic computing<br />
-            <br />
-            Download: <a href="https://www.nature.com/articles/s41586-019-1677-2">paper</a></a></td>
+        <td><a href="/doc-4925/">Towards spike-based machine intelligence with neuromorphic computing</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -2250,8 +2020,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4998/">Federated Learning for Coalition Operations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4958.pdf">paper</a><br />
             Variants: doc-5833</a></td>
         <td>external conference</td>
         <td>
@@ -2274,9 +2042,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5043/">SenseHAR: A Robust Virtual Activity Sensor for Smartphones and Wearables<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4968.pdf">paper</a></a></td>
+        <td><a href="/doc-5043/">SenseHAR: A Robust Virtual Activity Sensor for Smartphones and Wearables</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -2291,9 +2057,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5598/">Demo Abstract: Acoustic Anomaly Detection System<br />
-            <br />
-            Download: <a href="https://dl.acm.org/doi/10.1145/3356250.3361963">paper</a></a></td>
+        <td><a href="/doc-5598/">Demo Abstract: Acoustic Anomaly Detection System</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -2312,9 +2076,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4688/">MACS: Deep Reinforcement Learning based SDN Controller Synchronization Policy Design<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4031.pdf">paper</a></a></td>
+        <td><a href="/doc-4688/">MACS: Deep Reinforcement Learning based SDN Controller Synchronization Policy Design</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -2332,8 +2094,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4751/">Resource Allocation in One-dimensional Distributed Service Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4281.pdf">paper</a><br />
             Variants: doc-6005,doc-4373</a></td>
         <td>external conference</td>
         <td>
@@ -2352,9 +2112,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4765/">A Generative Policy Model for Connected and Autonomous Vehicles<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3897.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3897_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-4765/">A Generative Policy Model for Connected and Autonomous Vehicles</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -2372,9 +2130,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4984/">Distributed machine learning at edge nodes<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4955_0.pdf">paper</a></a></td>
+        <td><a href="/doc-4984/">Distributed machine learning at edge nodes</a></td>
         <td>patent</td>
         <td>
             <ul>
@@ -2390,9 +2146,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4365/">DRL based SDN Controller Synchronization Policy Design for joint Communication and Computation Resource Optimisations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3945_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3945_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3945_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-4365/">DRL based SDN Controller Synchronization Policy Design for joint Communication and Computation Resource Optimisations</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -2410,8 +2164,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4367/">Learning the Optimal Synchronization Rates in Distributed SDN Control Architectures<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3956_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3956_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3956_slides.pdf">presentation</a><br />
             Variants: doc-3579</a></td>
         <td>internal conference</td>
         <td>
@@ -2429,9 +2181,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4369/">Polisma - A Framework for Learning Attribute-based Access Control Policies<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3904_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3904_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3904_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-4369/">Polisma - A Framework for Learning Attribute-based Access Control Policies</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -2449,9 +2199,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4371/">Cooperative-Game Framework for Resource Sharing in SDC<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3942_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3942_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3942_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-4371/">Cooperative-Game Framework for Resource Sharing in SDC</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -2469,8 +2217,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4373/">Resource Allocation in One-dimensional Distributed Service Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3972_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3972_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3972_slides.pdf">presentation</a><br />
             Variants: doc-6005,doc-4751</a></td>
         <td>internal conference</td>
         <td>
@@ -2490,8 +2236,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4376/">MAXHEDGE: Maximising a Maximum Online<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3951_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3951_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3951_slides.pdf">presentation</a><br />
             Variants: doc-3586</a></td>
         <td>internal conference</td>
         <td>
@@ -2508,9 +2252,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4378/">Joint Service Placement and Request Routing in Mobile Edge Networks with Storage, Computation, and Communication Constraints<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3907_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3907_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3907_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-4378/">Joint Service Placement and Request Routing in Mobile Edge Networks with Storage, Computation, and Communication Constraints</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -2525,8 +2267,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4380/">Probabilistic Logic Programming with Beta-Distributed Random Variables<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3985_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3985_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3985_slides.pdf">presentation</a><br />
             Variants: doc-3581</a></td>
         <td>internal conference</td>
         <td>
@@ -2543,8 +2283,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4382/">A Hybrid Neural-Symbolic Approach to Uncertainty-Aware Complex Event Detection<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3948_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3948_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3948_slides.pdf">presentation</a><br />
             Variants: doc-4395</a></td>
         <td>internal conference</td>
         <td>
@@ -2565,8 +2303,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4384/">Indirect Reciprocity and the Evolution of Prejudicial Groups<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3920_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3920_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3920_slides.pdf">presentation</a><br />
             Variants: doc-2768</a></td>
         <td>internal conference</td>
         <td>
@@ -2582,8 +2318,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4386/">Demonstration of Federated Learning in a Resource- Constrained Networked Environment<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4243_poster.pdf">paper</a><br />
             Variants: doc-4099</a></td>
         <td>demo</td>
         <td>
@@ -2602,8 +2336,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4391/">A Demonstration of Generative Policy Models in Coalition Environments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3976_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3976_poster.pdf">poster</a><br />
             Variants: doc-4117</a></td>
         <td>demo</td>
         <td>
@@ -2619,9 +2351,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4393/">Demonstration of Game Theoretic Resource Allocation in a Coalition<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4244_poster.pdf">paper</a></a></td>
+        <td><a href="/doc-4393/">Demonstration of Game Theoretic Resource Allocation in a Coalition</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -2640,8 +2370,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4395/">A Hybrid Neural-Symbolic Approach to Complex Spatial-Temporal Event Detection<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3995_poster.pdf">poster</a><br />
             Variants: doc-4382</a></td>
         <td>demo</td>
         <td>
@@ -2660,9 +2388,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4397/">Optimized SDN Controller Placement and Synchronization Strategy in Edge Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3983_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4397/">Optimized SDN Controller Placement and Synchronization Strategy in Edge Networks</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -2698,8 +2424,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4401/">Magellan: Toward a Unified SDC Programming Framework with Automatic, Fast Updates<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3991_poster.pdf">poster</a><br />
             Variants: doc-5898</a></td>
         <td>demo</td>
         <td>
@@ -2721,9 +2445,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4405/">Carbide: A Highly Reliable and Programmable Software Defined Coalition (SDC) Architecture using Multiple Control Plane Composition with Distributed Verification<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3993_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4405/">Carbide: A Highly Reliable and Programmable Software Defined Coalition (SDC) Architecture using Multiple Control Plane Composition with Distributed Verification</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -2744,9 +2466,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4407/">SFP: Toward Fine-Grained, Unified Resource Discovery and Orchestration in Software Defined Coalition<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3978_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4407/">SFP: Toward Fine-Grained, Unified Resource Discovery and Orchestration in Software Defined Coalition</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -2764,9 +2484,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4409/">Enabling coalition situational understanding through semantic vector queries of distributed machine learning resources<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4042_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4409/">Enabling coalition situational understanding through semantic vector queries of distributed machine learning resources</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -2783,9 +2501,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4411/">Cultural evolution in organisations and networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3986_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4411/">Cultural evolution in organisations and networks</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -2801,8 +2517,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4413/">Understanding the Signature of Controversial Wikipedia Articles through Motifs in Editor Revision Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4074_poster.pdf">poster</a><br />
             Variants: doc-3601</a></td>
         <td>demo</td>
         <td>
@@ -2820,9 +2534,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4415/">Edge-of-network coalition operations – towards an end-to-end concept demonstration<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4038_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4415/">Edge-of-network coalition operations – towards an end-to-end concept demonstration</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -2839,8 +2551,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4421/">Using an ASG based Generative Policy to Model Human Rules<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3914_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3914_paper-page-1.jpg">poster</a><br />
             Variants: doc-4110</a></td>
         <td>internal conference</td>
         <td>
@@ -2857,8 +2567,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4423/">Multicast-based Weight Inference in General Network Topologies<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3934_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3934_poster.pdf">poster</a><br />
             Variants: doc-3768</a></td>
         <td>internal conference</td>
         <td>
@@ -2875,9 +2583,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4425/">Predicting Automated Negotiation Bandwidth Usage at the Edge of the Network<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3922_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3922_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4425/">Predicting Automated Negotiation Bandwidth Usage at the Edge of the Network</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -2892,9 +2598,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4427/">Incremental/Decremental Learning for LS-SVM<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3944_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3944_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4427/">Incremental/Decremental Learning for LS-SVM</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -2911,8 +2615,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4429/">Deep Q-Learning For Directed Acyclic Graph Generation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3965_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3965_poster.pdf">poster</a><br />
             Variants: doc-4116</a></td>
         <td>internal conference</td>
         <td>
@@ -2930,8 +2632,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4433/">Explaining Temporal Information in Activity Recognition for Situational Understanding<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3919_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3919_poster.pdf">poster</a><br />
             Variants: doc-4735</a></td>
         <td>internal conference</td>
         <td>
@@ -2950,9 +2650,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4437/">Nash Bargaining Solution to Multi-Objective Resource Allocation and Sharing in SDC<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3943_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3943_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4437/">Nash Bargaining Solution to Multi-Objective Resource Allocation and Sharing in SDC</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -2970,8 +2668,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4440/">Competitive Influence Maximisation using Voting Dynamics<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3933_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3933_poster.pdf">poster</a><br />
             Variants: doc-4759</a></td>
         <td>internal conference</td>
         <td>
@@ -2990,8 +2686,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4442/">A Truthful Online Mechanism for Resource Allocation in Fog Computing<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3988_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3988_poster.pdf">poster</a><br />
             Variants: doc-4771</a></td>
         <td>internal conference</td>
         <td>
@@ -3009,8 +2703,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4444/">Hybrid SDN Control in Mobile Ad Hoc Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3975_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3975_poster.pdf">poster</a><br />
             Variants: doc-4101,doc-4399</a></td>
         <td>internal conference</td>
         <td>
@@ -3029,8 +2721,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4446/">ProFact: A Provenance-based Analytics Framework for Access Control Policies<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3905_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3905_poster.pdf">poster</a><br />
             Variants: doc-3887</a></td>
         <td>internal conference</td>
         <td>
@@ -3050,8 +2740,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4448/">Generating Client Side Policies for Cyber-Physical Safety<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3909_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3909_poster.pdf">poster</a><br />
             Variants: doc-4769</a></td>
         <td>internal conference</td>
         <td>
@@ -3068,8 +2756,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4450/">On the Impact of Generative Policies on Security Metrics<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3910_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3910_poster.pdf">poster</a><br />
             Variants: doc-4063</a></td>
         <td>internal conference</td>
         <td>
@@ -3086,8 +2772,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4452/">A Systematic Method to Understand Requirements for Explainable AI (XAI) Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3935_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3935_poster.pdf">poster</a><br />
             Variants: doc-4597</a></td>
         <td>internal conference</td>
         <td>
@@ -3105,9 +2789,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4458/">Investigating the robustness of peer-to-peer machine learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3939_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3939_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4458/">Investigating the robustness of peer-to-peer machine learning</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -3121,9 +2803,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4460/">Self-Learning Neural Network Architectures for Variable Length Encoding Schemes<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3952_paper_0.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3952_poster_0.pdf">poster</a></a></td>
+        <td><a href="/doc-4460/">Self-Learning Neural Network Architectures for Variable Length Encoding Schemes</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -3138,9 +2818,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4462/">An Exploratory Analysis of Suspicious Reddit User Accounts based on Sentiment and Interactions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3926_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3926_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4462/">An Exploratory Analysis of Suspicious Reddit User Accounts based on Sentiment and Interactions</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -3160,8 +2838,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4464/">Dynamic Patterns of Terrorist Networks: Security versus Efficiency in the Evolution of Eleven Islamic Extremist Groups<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3917_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3917_poster.pdf">poster</a><br />
             Variants: doc-4707</a></td>
         <td>internal conference</td>
         <td>
@@ -3177,8 +2853,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4466/">Evidence to support common application switching behaviour on smartphones<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3929_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3929_poster.pdf">poster</a><br />
             Variants: doc-3588</a></td>
         <td>internal conference</td>
         <td>
@@ -3198,8 +2872,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4699/">Sanity Checks for Saliency Metrics<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4012.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/4012_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/4012_slides.pdf">presentation</a><br />
             Variants: doc-4694</a></td>
         <td>internal conference</td>
         <td>
@@ -3216,9 +2888,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4716/">Motif signatures of social networks are function of hierarchy and homophily.<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3570.pdf">poster</a></a></td>
+        <td><a href="/doc-4716/">Motif signatures of social networks are function of hierarchy and homophily.</a></td>
         <td>poster</td>
         <td>
             <ul>
@@ -3232,8 +2902,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4735/">Explaining Temporal Information in Activity Recognition for Situational Understanding<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4532_poster.pdf">poster</a><br />
             Variants: doc-4433</a></td>
         <td>poster</td>
         <td>
@@ -3251,9 +2919,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4741/">Audio-Visual Explanations for Activity Recognition using Discriminative Relevance<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4506_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4741/">Audio-Visual Explanations for Activity Recognition using Discriminative Relevance</a></td>
         <td>poster</td>
         <td>
             <ul>
@@ -3269,9 +2935,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4767/">Deep Residual Neural Networks for Audio Spoofing Detection<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3869.pdf">paper</a></a></td>
+        <td><a href="/doc-4767/">Deep Residual Neural Networks for Audio Spoofing Detection</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -3286,8 +2950,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4874/">Constructing Distributed Time-Critical Applications Using a Vector Symbolic Architecture<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3968.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3968_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3968_slides.pdf">presentation</a><br />
             Variants: doc-4872</a></td>
         <td>internal conference</td>
         <td>
@@ -3306,9 +2968,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
     <tr>
         <td><a href="/doc-4915/">Modelling stereotyping in cooperation systems<br />
             <br />
-            <em>Best paper nomination</em><br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3433.pdf">paper</a></a></td>
+            <em>Best paper nomination</em></a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -3324,9 +2984,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4929/">Exact Incremental and Decremental Learning for LS-SVM<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3308.pdf">paper</a></a></td>
+        <td><a href="/doc-4929/">Exact Incremental and Decremental Learning for LS-SVM</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -3342,9 +3000,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4939/">A Game-Theoretic Framework for Resource Sharing in Clouds<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3391.pdf">paper</a></a></td>
+        <td><a href="/doc-4939/">A Game-Theoretic Framework for Resource Sharing in Clouds</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -3360,9 +3016,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5050/">Structured Learning for Action Recognition in Videos<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8805090">paper</a></a></td>
+        <td><a href="/doc-5050/">Structured Learning for Action Recognition in Videos</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -3377,9 +3031,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5550/">Illuminated Decision Trees with Lucid<br />
-            <br />
-            Download: <a href="https://arxiv.org/abs/1909.05644">paper</a></a></td>
+        <td><a href="/doc-5550/">Illuminated Decision Trees with Lucid</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -3393,8 +3045,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5827/">A Comparison Between Statistical and Symbolic Learning Approaches for Generative Policy Models<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3913.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3913_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3913_slides.pdf">presentation</a><br />
             Variants: doc-4763</a></td>
         <td>internal conference</td>
         <td>
@@ -3412,8 +3062,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5833/">Federated Learning for Coalition Operations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3966.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3966_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3966_slides.pdf">presentation</a><br />
             Variants: doc-4998</a></td>
         <td>internal conference</td>
         <td>
@@ -3437,8 +3085,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5834/">Service Placement and Request Scheduling for Data-intensive Applications in Edge Clouds<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3958.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3958_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3958_slides.pdf">presentation</a><br />
             Variants: doc-3578,doc-5779</a></td>
         <td>internal conference</td>
         <td>
@@ -3459,8 +3105,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5835/">Neural Networks at the Edge<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3903.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3903_poster.pdf">poster</a><br />
             Variants: doc-4094</a></td>
         <td>internal conference</td>
         <td>
@@ -3480,9 +3124,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5836/">Targeted Poisoning Attacks In Coalition Systems Under Incomplete Model Information<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3979.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3979_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3979_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-5836/">Targeted Poisoning Attacks In Coalition Systems Under Incomplete Model Information</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -3500,9 +3142,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5837/">Analyzing spatially constrained Power of two choice based policies in a two-dimensional distributed service network<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3973.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3973_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-5837/">Analyzing spatially constrained Power of two choice based policies in a two-dimensional distributed service network</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -3520,8 +3160,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5838/">Understanding Patterns of Terrorism in India Using AI Machine Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3931_poster.pdf">poster</a><br />
             Variants: doc-4002</a></td>
         <td>internal conference</td>
         <td>
@@ -3538,9 +3176,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5839/">Federated Learning with Diverse Tasks and Data<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3949_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-5839/">Federated Learning with Diverse Tasks and Data</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -3556,9 +3192,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5840/">Adaptive Gradient Sparsification for Communication-Efficient Federated Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3950_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-5840/">Adaptive Gradient Sparsification for Communication-Efficient Federated Learning</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -3573,8 +3207,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5841/">gl2vec: Learning Feature Representation Using Graphlets for Directed Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3923.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3923_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3923_slides.pdf">presentation</a><br />
             Variants: doc-5800,doc-4826</a></td>
         <td>internal conference</td>
         <td>
@@ -3591,8 +3223,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5842/">Towards a Coalition Focused Neural-Symbolic Generative Policy Model<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3916_poster.pdf">poster</a><br />
             Variants: doc-4737</a></td>
         <td>internal conference</td>
         <td>
@@ -3608,9 +3238,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5843/">Exploring the future of Explainable AI solutions with military stakeholders<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3941_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-5843/">Exploring the future of Explainable AI solutions with military stakeholders</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -3625,9 +3253,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5897/">A Highly Reliable and Programmable Software Defined Coalition (SDC) Architecture using Multiple Control Plane Composition with Distributed Verification<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3940.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3940_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3940_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-5897/">A Highly Reliable and Programmable Software Defined Coalition (SDC) Architecture using Multiple Control Plane Composition with Distributed Verification</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -3649,8 +3275,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5898/">Magellan: Toward a Unified SDC Programming Framework with Automatic, Fast Updates<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3960_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3960_slides.pdf">presentation</a><br />
             Variants: doc-4401</a></td>
         <td>internal conference</td>
         <td>
@@ -3673,8 +3297,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5899/">Joint Coreset Construction and Quantization for Distributed Machine Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3936.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3936_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/3936_slides.pdf">presentation</a><br />
             Variants: doc-5516</a></td>
         <td>internal conference</td>
         <td>
@@ -3694,8 +3316,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3595/">A General Approach to Reasoning with Probabilities<br />
-            <br />
-            Download: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0888613X18305681?via%3Dihub">paper</a><br />
             Variants: doc-3018</a></td>
         <td>journal</td>
         <td>
@@ -3709,9 +3329,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4054/">How Advantageous Is It? An Analytical Study of Controller-Assisted Path Construction in Distributed SDN<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8755338">paper</a></a></td>
+        <td><a href="/doc-4054/">How Advantageous Is It? An Analytical Study of Controller-Assisted Path Construction in Distributed SDN</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -3728,9 +3346,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4145/">MOPT: Optimized Mutation Scheduling for Fuzzers<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3522.pdf">paper</a></a></td>
+        <td><a href="/doc-4145/">MOPT: Optimized Mutation Scheduling for Fuzzers</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -3749,8 +3365,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4597/">A Systematic Method to Understand Requirements for Explainable AI (XAI) Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/paper27.pdf">paper</a><br />
             Variants: doc-4452</a></td>
         <td>external conference</td>
         <td>
@@ -3769,9 +3383,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4691/">Discriminating Spatial and Temporal Relevance in Deep Taylor Decompositions for Explainable Activity Recognition<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4024.pdf">paper</a></a></td>
+        <td><a href="/doc-4691/">Discriminating Spatial and Temporal Relevance in Deep Taylor Decompositions for Explainable Activity Recognition</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -3801,9 +3413,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4755/">What Prize is Right? How to Learn the Optimal Structure for Crowdsourcing Contests<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4236.pdf">paper</a></a></td>
+        <td><a href="/doc-4755/">What Prize is Right? How to Learn the Optimal Structure for Crowdsourcing Contests</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -3819,8 +3429,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4759/">Competitive Influence Maximisation using Voting Dynamics<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3902.pdf">paper</a><br />
             Variants: doc-4440</a></td>
         <td>external conference</td>
         <td>
@@ -3839,8 +3447,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4771/">A Truthful Online Mechanism for Resource Allocation in Fog Computing<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3862.pdf">paper</a><br />
             Variants: doc-4442</a></td>
         <td>external conference</td>
         <td>
@@ -3858,8 +3464,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4826/">gl2vec: Learning Feature Representation Using Graphlets for Directed Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3435.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3435_slides.pdf">presentation</a><br />
             Variants: doc-5800,doc-5841</a></td>
         <td>external conference</td>
         <td>
@@ -3876,9 +3480,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4937/">Toward Fine-Grained, Privacy-Preserving, Efficient Multi-Domain Network Resource Discovery<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8756056">paper</a>, <a href="https://dais-ita.org/sites/default/files/3280_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-4937/">Toward Fine-Grained, Privacy-Preserving, Efficient Multi-Domain Network Resource Discovery</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -3898,9 +3500,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4941/">Unearthing and Exploiting Latent Semantics behind DNS Domains for Deep Network Traffic Analysis<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3542.pdf">paper</a></a></td>
+        <td><a href="/doc-4941/">Unearthing and Exploiting Latent Semantics behind DNS Domains for Deep Network Traffic Analysis</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -3914,9 +3514,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5039/">Reinforcement Learning with Low-Complexity Liquid State Machines<br />
-            <br />
-            Download: <a href="https://www.frontiersin.org/articles/10.3389/fnins.2019.00883/full">paper</a></a></td>
+        <td><a href="/doc-5039/">Reinforcement Learning with Low-Complexity Liquid State Machines</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -3930,9 +3528,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-3872/">Pooling Tweets by Fine-Grained Emotions to Uncover Topic Trends in Social Media<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/PID6001927.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/FUSION_2019_grdemel-Fine-Grained-Emotions.pptx">presentation</a></a></td>
+        <td><a href="/doc-3872/">Pooling Tweets by Fine-Grained Emotions to Uncover Topic Trends in Social Media</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -3945,9 +3541,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-3878/">A Pilot Study on Detecting Violence in Videos Fusing Proxy Models<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/FUSION_VideoViolence.pdf">paper</a></a></td>
+        <td><a href="/doc-3878/">A Pilot Study on Detecting Violence in Videos Fusing Proxy Models</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -3963,9 +3557,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-3885/">Supporting User Fusion of AI Services through Conversational Explanations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/PID5973411.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/FUSION_2019_ConversationalExplanations_FINAL.pdf">presentation</a></a></td>
+        <td><a href="/doc-3885/">Supporting User Fusion of AI Services through Conversational Explanations</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -3980,8 +3572,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4070/">GenAttack: Practical Black-box Attacks with Gradient-Free Optimization<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/genattack.pdf">paper</a><br />
             Variants: doc-5791</a></td>
         <td>external conference</td>
         <td>
@@ -3999,9 +3589,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4123/">Generative Policies for Coalition Systems – A Symbolic Learning Framework<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3332.pdf">paper</a></a></td>
+        <td><a href="/doc-4123/">Generative Policies for Coalition Systems – A Symbolic Learning Framework</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4025,8 +3613,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4125/">Online Collection and Forecasting of Resource Utilization in Large-Scale Distributed Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3147.pdf">paper</a><br />
             Variants: doc-5865</a></td>
         <td>external conference</td>
         <td>
@@ -4042,9 +3628,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4126/">Deep Neural Networks for Network Routing<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3848.pdf">paper</a></a></td>
+        <td><a href="/doc-4126/">Deep Neural Networks for Network Routing</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4061,9 +3645,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4130/">Investigating Statistical Privacy Frameworks from the Perspective of Hypothesis Testing<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3502.pdf">paper</a></a></td>
+        <td><a href="/doc-4130/">Investigating Statistical Privacy Frameworks from the Perspective of Hypothesis Testing</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4079,9 +3661,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4157/">Federated AI for the Enterprise: A Web Services based Implementation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3864.pdf">paper</a></a></td>
+        <td><a href="/doc-4157/">Federated AI for the Enterprise: A Web Services based Implementation</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4095,9 +3675,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4747/">Supporting Multi-domain Use Cases with ALTO<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4283.pdf">paper</a></a></td>
+        <td><a href="/doc-4747/">Supporting Multi-domain Use Cases with ALTO</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4117,8 +3695,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4769/">Generating Client Side Policies for Cyber-Physical Safety<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3865.pdf">paper</a><br />
             Variants: doc-4448</a></td>
         <td>external conference</td>
         <td>
@@ -4134,9 +3710,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4933/">Feature Importance Identification through Bottleneck Reconstruction<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3259.pdf">paper</a></a></td>
+        <td><a href="/doc-4933/">Feature Importance Identification through Bottleneck Reconstruction</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4152,9 +3726,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4945/">Scaling Deep Spiking Neural Networks with Binary Stochastic Activations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3811.pdf">paper</a></a></td>
+        <td><a href="/doc-4945/">Scaling Deep Spiking Neural Networks with Binary Stochastic Activations</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4168,9 +3740,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4980/">An AI enabled system for Distributed System Characterization<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4953.pdf">paper</a></a></td>
+        <td><a href="/doc-4980/">An AI enabled system for Distributed System Characterization</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4187,9 +3757,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4995/">Evaluating the Stability of Recurrent Neural Models during Training with Eigenvalue Spectra Analysis<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4957.pdf">paper</a></a></td>
+        <td><a href="/doc-4995/">Evaluating the Stability of Recurrent Neural Models during Training with Eigenvalue Spectra Analysis</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4203,9 +3771,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5008/">IoT Data Management System for Rapid Development of Machine Learning Models<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4961.pdf">paper</a></a></td>
+        <td><a href="/doc-5008/">IoT Data Management System for Rapid Development of Machine Learning Models</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4221,9 +3787,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5637/">The evolving liaisons between the transaction networks of Bitcoin and its price dynamics<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/1907.03577.pdf">paper</a></a></td>
+        <td><a href="/doc-5637/">The evolving liaisons between the transaction networks of Bitcoin and its price dynamics</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -4241,9 +3805,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5649/">Quantifying Transparency of Machine Learning Systems through Analysis of Contributions<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/1907.03483.pdf">paper</a></a></td>
+        <td><a href="/doc-5649/">Quantifying Transparency of Machine Learning Systems through Analysis of Contributions</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -4259,8 +3821,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5929/">Second-Order Learning and Inference using Incomplete Data for Uncertain Bayesian Networks: A Two Node Example<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/abstract/document/9190472">paper</a><br />
             Variants: doc-6069</a></td>
         <td>external conference</td>
         <td>
@@ -4276,9 +3836,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3857/">Towards Traceability in Data Ecosystems using a Bill of Materials Model<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/IWSG2019_paper3.pdf">paper</a></a></td>
+        <td><a href="/doc-3857/">Towards Traceability in Data Ecosystems using a Bill of Materials Model</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4293,9 +3851,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-3859/">The Science Library: A Controlled Natural Language driven Science Gateway<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/IWSG_SL_final.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/IWSG_SL_Deck.pdf">presentation</a></a></td>
+        <td><a href="/doc-3859/">The Science Library: A Controlled Natural Language driven Science Gateway</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -4308,9 +3864,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4050/">Analyzing Federated Learning through an Adversarial Lens<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3256.pdf">paper</a></a></td>
+        <td><a href="/doc-4050/">Analyzing Federated Learning through an Adversarial Lens</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4325,9 +3879,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4057/">NeuroMask: Explaining Predictions of Deep Neural Networks through Mask Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3554.pdf">paper</a></a></td>
+        <td><a href="/doc-4057/">NeuroMask: Explaining Predictions of Deep Neural Networks through Mask Learning</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4343,8 +3895,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4063/">On the Impact of Generative Policies on Security Metrics<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3553.pdf">paper</a><br />
             Variants: doc-4450</a></td>
         <td>external conference</td>
         <td>
@@ -4360,9 +3910,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4077/">Synthesizing Images From Spatio-Temporal Representations Using Spike-Based Backpropagation<br />
-            <br />
-            Download: <a href="https://www.frontiersin.org/articles/10.3389/fnins.2019.00621/full">paper</a></a></td>
+        <td><a href="/doc-4077/">Synthesizing Images From Spatio-Temporal Representations Using Spike-Based Backpropagation</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -4376,9 +3924,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4084/">Pruning Deep Convolutional Neural Networks for Efficient Edge Computing in Condition Assessment of Infrastructures<br />
-            <br />
-            Download: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12449">paper</a></a></td>
+        <td><a href="/doc-4084/">Pruning Deep Convolutional Neural Networks for Efficient Edge Computing in Condition Assessment of Infrastructures</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -4395,9 +3941,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4087/">Overcoming the Lack of Labeled Data: Training Intrusion Detection Models Using Transfer Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3395.pdf">paper</a></a></td>
+        <td><a href="/doc-4087/">Overcoming the Lack of Labeled Data: Training Intrusion Detection Models Using Transfer Learning</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4411,9 +3955,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4092/">A TTL-based Approach for Data Aggregation in Geo-distributed Streaming Analytics<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3568.pdf">paper</a></a></td>
+        <td><a href="/doc-4092/">A TTL-based Approach for Data Aggregation in Geo-distributed Streaming Analytics</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4429,8 +3971,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4094/">Neural Networks at the Edge<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3870.pdf">paper</a><br />
             Variants: doc-5835</a></td>
         <td>external conference</td>
         <td>
@@ -4449,9 +3989,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4098/">Large-Scale Hybrid ad hoc Network for Mobile Platforms: Challenges and Experiences<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3316.pdf">paper</a></a></td>
+        <td><a href="/doc-4098/">Large-Scale Hybrid ad hoc Network for Mobile Platforms: Challenges and Experiences</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4468,8 +4006,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4099/">Demonstration of Federated Learning in a Resource-Constrained Networked Environment<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3500.pdf">paper</a><br />
             Variants: doc-4386</a></td>
         <td>external conference</td>
         <td>
@@ -4485,9 +4021,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4100/">On Data Summarization for Machine Learning in Multi-organization Federations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3501.pdf">paper</a></a></td>
+        <td><a href="/doc-4100/">On Data Summarization for Machine Learning in Multi-organization Federations</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4503,8 +4037,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4101/">Hybrid SDN Control in Mobile Ad Hoc Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3528.pdf">paper</a><br />
             Variants: doc-4444,doc-4399</a></td>
         <td>external conference</td>
         <td>
@@ -4522,9 +4054,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4102/">Magnalium: Highly Reliable SDC Networks with Multiple Control Plane Composition<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3529.pdf">paper</a></a></td>
+        <td><a href="/doc-4102/">Magnalium: Highly Reliable SDC Networks with Multiple Control Plane Composition</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4545,9 +4075,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4108/">Online Distributed Analytics at the Edge with Multiple Service Grades<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3562.pdf">paper</a></a></td>
+        <td><a href="/doc-4108/">Online Distributed Analytics at the Edge with Multiple Service Grades</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4563,8 +4091,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4110/">Using an ASG based Generative Policy to Model Human Rules<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3438.pdf">paper</a><br />
             Variants: doc-4421</a></td>
         <td>external conference</td>
         <td>
@@ -4580,9 +4106,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4111/">Demonstration of Dynamic Distributed Orchestration of Node-RED IoT Workflows Using a Vector Symbolic Architecture<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3550.pdf">paper</a></a></td>
+        <td><a href="/doc-4111/">Demonstration of Dynamic Distributed Orchestration of Node-RED IoT Workflows Using a Vector Symbolic Architecture</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4600,9 +4124,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4112/">Cooperative Learning for Multi-perspective Image Classification<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3566.pdf">paper</a></a></td>
+        <td><a href="/doc-4112/">Cooperative Learning for Multi-perspective Image Classification</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4616,9 +4138,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4114/">DeepCEP: Deep Complex Event Processing Using Distributed Multimodal Information<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3113.pdf">paper</a></a></td>
+        <td><a href="/doc-4114/">DeepCEP: Deep Complex Event Processing Using Distributed Multimodal Information</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4637,8 +4157,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4116/">Deep Q-Learning for Directed Acyclic Graph Generation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3541.pdf">paper</a><br />
             Variants: doc-4429</a></td>
         <td>external conference</td>
         <td>
@@ -4654,8 +4172,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4117/">A Demonstration of Generative Policy Models in Coalition Environments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3408.pdf">paper</a><br />
             Variants: doc-4391</a></td>
         <td>external conference</td>
         <td>
@@ -4671,9 +4187,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4246/">Reactive Access Control Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/ReactiveAccessControlSystems.pdf">paper</a></a></td>
+        <td><a href="/doc-4246/">Reactive Access Control Systems</a></td>
         <td>poster</td>
         <td>
             <ul>
@@ -4686,9 +4200,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4267/">Jointly Compressing and Caching Data in Wireless Sensor Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/fdais19.pdf">paper</a></a></td>
+        <td><a href="/doc-4267/">Jointly Compressing and Caching Data in Wireless Sensor Networks</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4704,9 +4216,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4931/">How Deep Learning is Making Information Security More Intelligent<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8713268">paper</a></a></td>
+        <td><a href="/doc-4931/">How Deep Learning is Making Information Security More Intelligent</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -4719,9 +4229,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5000/">Generative Policy Framework for AI Training Data Curation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4959.pdf">paper</a></a></td>
+        <td><a href="/doc-5000/">Generative Policy Framework for AI Training Data Curation</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4739,9 +4247,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5060/">Implicit Generative Modeling of Random Noise during Training improves Adversarial Robustness<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4975.pdf">paper</a></a></td>
+        <td><a href="/doc-5060/">Implicit Generative Modeling of Random Noise during Training improves Adversarial Robustness</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4755,8 +4261,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3601/">Understanding the Signature of Controversial Wikipedia Articles through Motifs in Editor Revision Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/paper_8.pdf">paper</a><br />
             Variants: doc-4413</a></td>
         <td>external conference</td>
         <td>
@@ -4775,8 +4279,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3768/">Multicast-based Weight Inference in General Network Topologies<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/YL_ICC2019.pdf">paper</a><br />
             Variants: doc-4423</a></td>
         <td>external conference</td>
         <td>
@@ -4793,9 +4295,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3997/">A Truthful Online Mechanism for Allocating Fog Computing Resources<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3329.pdf">paper</a></a></td>
+        <td><a href="/doc-3997/">A Truthful Online Mechanism for Allocating Fog Computing Resources</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4813,9 +4313,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
     <tr>
         <td><a href="/doc-4046/">DQ Scheduler: Deep Reinforcement Learning Based Controller Synchronization in Distributed SDN<br />
             <br />
-            <em>Best paper award at ICC-2019</em><br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3115.pdf">paper</a></a></td>
+            <em>Best paper award at ICC-2019</em></a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4831,9 +4329,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4088/">Dynamic Service Migration in Mobile Edge Computing Based on Markov Decision Process<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8727722">paper</a></a></td>
+        <td><a href="/doc-4088/">Dynamic Service Migration in Mobile Edge Computing Based on Markov Decision Process</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -4850,9 +4346,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4121/">The impact of peer pressure: extending Axelrod's model on cultural polarisation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3250.pdf">paper</a></a></td>
+        <td><a href="/doc-4121/">The impact of peer pressure: extending Axelrod's model on cultural polarisation</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4867,9 +4361,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4284/">Analysis of Liquid Ensembles for Enhancing the Performance and Accuracy of Liquid State Machines<br />
-            <br />
-            Download: <a href="https://www.frontiersin.org/articles/10.3389/fnins.2019.00504/full">paper</a></a></td>
+        <td><a href="/doc-4284/">Analysis of Liquid Ensembles for Enhancing the Performance and Accuracy of Liquid State Machines</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -4884,9 +4376,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4982/">Discretization based solutions for secure machine learning against adversarial attacks<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8723317">paper</a></a></td>
+        <td><a href="/doc-4982/">Discretization based solutions for secure machine learning against adversarial attacks</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -4900,9 +4390,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5058/">Triptych: Multi-objective Optimisation of Service Deployment Costs, Application Delay and Bandwidth Usage<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4973.pdf">paper</a></a></td>
+        <td><a href="/doc-5058/">Triptych: Multi-objective Optimisation of Service Deployment Costs, Application Delay and Bandwidth Usage</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -4918,9 +4406,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3382/">Conversational Explanations: Explainable AI through human-machine conversation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3369_0.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/3369_slides_0.pdf">presentation</a></a></td>
+        <td><a href="/doc-3382/">Conversational Explanations: Explainable AI through human-machine conversation</a></td>
         <td>invited talk</td>
         <td>
             <ul>
@@ -4932,9 +4418,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-3573/">An Objective-Driven On-Demand Network Abstraction for Adaptive Applications<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8674832">paper</a></a></td>
+        <td><a href="/doc-3573/">An Objective-Driven On-Demand Network Abstraction for Adaptive Applications</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -4951,8 +4435,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3576/">Looking Glass of NFV: Inferring the Structure and State of NFV Network from External Observations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3576_0.pdf">paper</a><br />
             Variants: doc-5767</a></td>
         <td>external conference</td>
         <td>
@@ -4970,8 +4452,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3577/">Service Placement with Provable Guarantees in Heterogeneous Edge Computing Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/SP_INFOCOM2019.pdf">paper</a><br />
             Variants: doc-5777</a></td>
         <td>external conference</td>
         <td>
@@ -4988,8 +4468,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3578/">Service Placement and Request Scheduling for Data-intensive Applications in Edge Clouds<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/VF_INFOCOM2019.pdf">paper</a><br />
             Variants: doc-5834,doc-5779</a></td>
         <td>external conference</td>
         <td>
@@ -5009,8 +4487,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3579/">Learning the Optimal Synchronization Rates in Distributed SDN Control Architectures<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/PID5753181.pdf">paper</a><br />
             Variants: doc-5801,doc-4367</a></td>
         <td>external conference</td>
         <td>
@@ -5028,9 +4504,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3584/">Achieving Useful AI Explanations in a High-Tempo Complex Environment<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Braines_SPIE2019_finaldraft.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/SPIE_2019_AIExplanations_Small.pdf">presentation</a></a></td>
+        <td><a href="/doc-3584/">Achieving Useful AI Explanations in a High-Tempo Complex Environment</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5044,9 +4518,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3585/">Techniques and Systems for Anomaly Detection in Database Systems<br />
-            <br />
-            Download: <a href="https://link.springer.com/chapter/10.1007/978-3-030-17277-0_7">paper</a></a></td>
+        <td><a href="/doc-3585/">Techniques and Systems for Anomaly Detection in Database Systems</a></td>
         <td>book chapter</td>
         <td>
             <ul>
@@ -5060,8 +4532,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3586/">MaxHedge: Maximising a Maximum Online<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3586.pdf">paper</a><br />
             Variants: doc-4376</a></td>
         <td>external conference</td>
         <td>
@@ -5078,9 +4548,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3587/">Joint Service Placement and Request Routing in Multi-cell Mobile Edge Computing Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/PID5753171.pdf">paper</a></a></td>
+        <td><a href="/doc-3587/">Joint Service Placement and Request Routing in Multi-cell Mobile Edge Computing Networks</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5097,8 +4565,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3592/">Unicorn: Unified resource orchestration for multi-domain, geo-distributed data analytics<br />
-            <br />
-            Download: <a href="https://www.sciencedirect.com/science/article/pii/S0167739X18302413">paper</a><br />
             Variants: doc-1975,doc-1395</a></td>
         <td>journal</td>
         <td>
@@ -5116,9 +4582,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3593/">Tetrad Motifs: A Comparison of the Local Structure in 20 Social Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Tetrad Motifs_PAA 2019 submission_9_16_2018.pdf">paper</a></a></td>
+        <td><a href="/doc-3593/">Tetrad Motifs: A Comparison of the Local Structure in 20 Social Networks</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5132,9 +4596,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-3597/">STB: Space Time Boxes<br />
-            <br />
-            Download: <a href="https://link.springer.com/article/10.1007/s42486-019-00006-1">paper</a></a></td>
+        <td><a href="/doc-3597/">STB: Space Time Boxes</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -5149,9 +4611,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3598/">Model poisoning attacks against distributed machine learning systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/SPIE2019_P2P_ML_Poisoning(2).pdf">paper</a></a></td>
+        <td><a href="/doc-3598/">Model poisoning attacks against distributed machine learning systems</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5165,9 +4625,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3599/">Uncertainty-aware Situational Understanding<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/SPIE2019_UncertaintyAware.pdf">paper</a></a></td>
+        <td><a href="/doc-3599/">Uncertainty-aware Situational Understanding</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5187,9 +4645,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3600/">Properties of federated averaging on highly distributed data<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/main_12.pdf">paper</a></a></td>
+        <td><a href="/doc-3600/">Properties of federated averaging on highly distributed data</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5202,9 +4658,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-3602/">Federated Machine Learning for Multi-Domain Operations at the Tactical Edge<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Federated AI_SPIE_2019 Cirincione-Verma.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/Federated ML Cirincione-Verma.pdf">presentation</a></a></td>
+        <td><a href="/doc-3602/">Federated Machine Learning for Multi-Domain Operations at the Tactical Edge</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5217,9 +4671,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3603/">DAIS-ITA Scenario<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/SPIE_2019___DAIS_ITA_Scenario.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/SPIE_2019___DAIS_ITA_Scenario_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-3603/">DAIS-ITA Scenario</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5236,9 +4688,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3604/">Towards a Learning-Algorithm Agnostic Generative Policy Model for Coalitions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/SPIE__Towards_Learning_Algorithm_Agnostic_Generative_Policy_Models_for_Coalitions_submitted.pdf">paper</a></a></td>
+        <td><a href="/doc-3604/">Towards a Learning-Algorithm Agnostic Generative Policy Model for Coalitions</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5257,8 +4707,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3605/">Developing the sensitivity of LIME for better machine learning explanation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/SPIE2019_LIME.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/SPIE_LIME_Poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/SPIE_LIME_Presentation.pdf">presentation</a><br />
             Variants: doc-2904</a></td>
         <td>external conference</td>
         <td>
@@ -5275,9 +4723,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3606/">Managing Training Data from Untrusted Partners Using Self-generating Policies<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Training_Data_Policies___SPIE_2019.pdf">paper</a></a></td>
+        <td><a href="/doc-3606/">Managing Training Data from Untrusted Partners Using Self-generating Policies</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5298,9 +4744,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3607/">VoI for complex AI based solutions in coalition environments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/VoI___SPIE_2019.pdf">paper</a></a></td>
+        <td><a href="/doc-3607/">VoI for complex AI based solutions in coalition environments</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5314,9 +4758,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3608/">Approaches to address the Data Skew Problem in Federated Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/SPIE_2019___Data_Skew.pdf">paper</a></a></td>
+        <td><a href="/doc-3608/">Approaches to address the Data Skew Problem in Federated Learning</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5333,9 +4775,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3609/">Efficient Influence Maximization Under Network Uncertainty<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Efficient_Influence_Maximization_Under_Network_Uncertainty_final version_ SE.pdf">paper</a></a></td>
+        <td><a href="/doc-3609/">Efficient Influence Maximization Under Network Uncertainty</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5351,9 +4791,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-3834/">Update Algebra: Toward Continuous, Non-Blocking Composition of Network Updates in SDN<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2562.pdf">paper</a></a></td>
+        <td><a href="/doc-3834/">Update Algebra: Toward Continuous, Non-Blocking Composition of Network Updates in SDN</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5369,9 +4807,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-3842/">Self Generating Policies for Machine Learning in Coalition Environments<br />
-            <br />
-            Download: <a href="https://link.springer.com/chapter/10.1007/978-3-030-17277-0_3">paper</a></a></td>
+        <td><a href="/doc-3842/">Self Generating Policies for Machine Learning in Coalition Environments</a></td>
         <td>book chapter</td>
         <td>
             <ul>
@@ -5392,9 +4828,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3850/">A Conceptual Architecture for Contractual Data Sharing in a Decentralised Environment<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1904.03045.pdf">paper</a></a></td>
+        <td><a href="/doc-3850/">A Conceptual Architecture for Contractual Data Sharing in a Decentralised Environment</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5409,9 +4843,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4006/">A Survey of Indoor Localization Systems and Technologies<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8692423">paper</a></a></td>
+        <td><a href="/doc-4006/">A Survey of Indoor Localization Systems and Technologies</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -5425,9 +4857,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4078/">Precedence: Enabling Compact Pipeline Layouts By Table Dependency Resolution<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3286.pdf">paper</a></a></td>
+        <td><a href="/doc-4078/">Precedence: Enabling Compact Pipeline Layouts By Table Dependency Resolution</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5440,9 +4870,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4082/">Experiences Implementing Live VM Migration over the WAN with Multi-Path TCP<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3543.pdf">paper</a></a></td>
+        <td><a href="/doc-4082/">Experiences Implementing Live VM Migration over the WAN with Multi-Path TCP</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5455,9 +4883,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4719/">Optimal Energy Consumption for Communication, Computation, Caching and Quality Guarantee<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8700288">paper</a></a></td>
+        <td><a href="/doc-4719/">Optimal Energy Consumption for Communication, Computation, Caching and Quality Guarantee</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -5473,9 +4899,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3574/">Enabling smart environments through scalable policy reasoning and IoT<br />
-            <br />
-            Download: <a href="https://onlinelibrary.wiley.com/doi/10.1002/widm.1290">paper</a></a></td>
+        <td><a href="/doc-3574/">Enabling smart environments through scalable policy reasoning and IoT</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -5490,8 +4914,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3588/">Evidence to support common application switching behaviour on smartphones<br />
-            <br />
-            Download: <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.190018">paper</a><br />
             Variants: doc-4466</a></td>
         <td>journal</td>
         <td>
@@ -5510,9 +4932,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-3594/">ReStoCNet: Residual Stochastic Binary Convolutional Spiking Neural Network for Memory-Efficient Neuromorphic Computing<br />
-            <br />
-            Download: <a href="https://www.frontiersin.org/articles/10.3389/fnins.2019.00189/full">paper</a></a></td>
+        <td><a href="/doc-3594/">ReStoCNet: Residual Stochastic Binary Convolutional Spiking Neural Network for Memory-Efficient Neuromorphic Computing</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -5525,9 +4945,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-3596/">NN-SAR: A Neural Network Approach for Spatial AutoRegression<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/PID5743419.pdf">paper</a></a></td>
+        <td><a href="/doc-3596/">NN-SAR: A Neural Network Approach for Spatial AutoRegression</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5543,8 +4961,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4002/">Understanding Patterns of Terrorism in India Using AI Machine Learning: 2007-2017<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3743.pdf">paper</a><br />
             Variants: doc-5838,doc-5514</a></td>
         <td>external conference</td>
         <td>
@@ -5560,9 +4976,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4083/">Adaptive Federated Learning in Resource Constrained Edge Computing Systems<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8664630">paper</a></a></td>
+        <td><a href="/doc-4083/">Adaptive Federated Learning in Resource Constrained Edge Computing Systems</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -5580,9 +4994,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4277/">Explaining models: an empirical study of how explanations impact fairness judgment<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/p275-dodge.pdf">paper</a></a></td>
+        <td><a href="/doc-4277/">Explaining models: an empirical study of how explanations impact fairness judgment</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5599,8 +5011,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4911/">Deep Learning Interpretability - Theory, techniques, and importantly, metrics<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3353_slides.pdf">presentation</a><br />
             Variants: doc-4913</a></td>
         <td>invited talk</td>
         <td>
@@ -5626,9 +5036,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5056/">Transmission errors and influence maximization in the voter model<br />
-            <br />
-            Download: <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ab054b">paper</a></a></td>
+        <td><a href="/doc-5056/">Transmission errors and influence maximization in the voter model</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -5642,9 +5050,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5734/">Enabling Spike-based Backpropagation in State-of-the-art Deep Neural Network Architectures<br />
-            <br />
-            Download: <a href="https://deeplearn.org/arxiv/67928/enabling-spike-based-backpropagation-in-state-of-the-art-deep-neural-network-architectures">paper</a></a></td>
+        <td><a href="/doc-5734/">Enabling Spike-based Backpropagation in State-of-the-art Deep Neural Network Architectures</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -5658,9 +5064,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-3572/">Methods and Tools for Policy Analysis<br />
-            <br />
-            Download: <a href="https://dl.acm.org/citation.cfm?id=3295749">paper</a></a></td>
+        <td><a href="/doc-3572/">Methods and Tools for Policy Analysis</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -5680,8 +5084,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3887/">ProFact: A Provenance-based Analytics Framework for Access Control Policies<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8645805">paper</a><br />
             Variants: doc-4446,doc-5772</a></td>
         <td>journal</td>
         <td>
@@ -5700,9 +5102,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4757/">Browser-Based Deep Behavioral Detection of Web Cryptomining with CoinSpy<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3915.pdf">paper</a></a></td>
+        <td><a href="/doc-4757/">Browser-Based Deep Behavioral Detection of Web Cryptomining with CoinSpy</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5714,9 +5114,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4761/">Physics-Inspired Placement of Analytics Services on Heterogeneous Resources for Multisensor Fusion<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3900.pdf">paper</a></a></td>
+        <td><a href="/doc-4761/">Physics-Inspired Placement of Analytics Services on Heterogeneous Resources for Multisensor Fusion</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5735,8 +5133,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3575/">Representing and Learning Grammars in Answer Set Programming<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/paper_full.pdf">paper</a><br />
             Variants: doc-2854</a></td>
         <td>external conference</td>
         <td>
@@ -5754,8 +5150,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3581/">Probabilistic Logic Programming with Beta-Distributed Random Variables<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/BetaProblog.pdf">paper</a><br />
             Variants: doc-4380</a></td>
         <td>external conference</td>
         <td>
@@ -5771,9 +5165,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3590/">Fair Transfer Learning with Missing Protected Attributes<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Fair_Transfer_Learning_with_Missing_Protected_Attributes.pdf">paper</a></a></td>
+        <td><a href="/doc-3590/">Fair Transfer Learning with Missing Protected Attributes</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5792,8 +5184,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3591/">Optimizing in the Dark: Learning an Optimal Solution Through a Simple Request Interface<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/aaai19-camera-ready-v4.pdf">paper</a><br />
             Variants: doc-6006</a></td>
         <td>external conference</td>
         <td>
@@ -5812,8 +5202,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4707/">Dynamic Patterns of Terrorist Networks: Efficiency and Security in the Evolution of Eleven Islamic Extremist Attack Networks<br />
-            <br />
-            Download: <a href="https://link.springer.com/article/10.1007/s10940-019-09426-9">paper</a><br />
             Variants: doc-4464</a></td>
         <td>journal</td>
         <td>
@@ -5829,8 +5217,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5514/">Location, Location, Location: Understanding Patterns of Terrorism in India (2007-2017) Using Artificial Intelligence Machine Learning<br />
-            <br />
-            Download: <a href="https://cgscholar.com/bookstore/works/understanding-patterns-of-terrorism-in-india-20072017-using-artificial-intelligence-machine-learning?category_id=cgrn">paper</a><br />
             Variants: doc-4002</a></td>
         <td>journal</td>
         <td>
@@ -5846,9 +5232,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3415/">Evidential Deep Learning to Quantify Classification Uncertainty<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2574.pdf">paper</a></a></td>
+        <td><a href="/doc-3415/">Evidential Deep Learning to Quantify Classification Uncertainty</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5862,9 +5246,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3580/">Learning to Simplify Distributed Systems Management<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/PID5663549.pdf">paper</a></a></td>
+        <td><a href="/doc-3580/">Learning to Simplify Distributed Systems Management</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5880,8 +5262,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3582/">Optimal Energy Tradeoff among Communication, Computation and Caching with QoI-Guarantee<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/energy-opt-globecom18.pdf">paper</a><br />
             Variants: doc-4711</a></td>
         <td>external conference</td>
         <td>
@@ -5898,9 +5278,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3583/">A Tool to Highlight Weaknesses and Strengthen Cases: CISpaces.org<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Cerutti.pdf">paper</a></a></td>
+        <td><a href="/doc-3583/">A Tool to Highlight Weaknesses and Strengthen Cases: CISpaces.org</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5914,9 +5292,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4069/">Model Poisoning Attacks in Federated Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/main_secml_model_poison.pdf">paper</a></a></td>
+        <td><a href="/doc-4069/">Model Poisoning Attacks in Federated Learning</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5931,9 +5307,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4162/">Learning Light-Weight Edge-Deployable Privacy Models<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2961.pdf">paper</a></a></td>
+        <td><a href="/doc-4162/">Learning Light-Weight Edge-Deployable Privacy Models</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5948,9 +5322,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2982/">Generating Natural Language Adversarial Examples<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2385.pdf">paper</a></a></td>
+        <td><a href="/doc-2982/">Generating Natural Language Adversarial Examples</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5967,9 +5339,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3008/">A Game-Theoretic Approach to Multi-Objective Resource Sharing and Allocation in Mobile Edge Clouds<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2518.pdf">paper</a></a></td>
+        <td><a href="/doc-3008/">A Game-Theoretic Approach to Multi-Objective Resource Sharing and Allocation in Mobile Edge Clouds</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -5986,8 +5356,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3018/">A General Approach to Reasoning with Probabilities<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2570.pdf">paper</a><br />
             Variants: doc-3595</a></td>
         <td>external conference</td>
         <td>
@@ -6001,9 +5369,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3037/">Dynamic Distributed Orchestration of Node-RED IOT Workflows Using a Vector Symbolic Architecture<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2607.pdf">paper</a></a></td>
+        <td><a href="/doc-3037/">Dynamic Distributed Orchestration of Node-RED IOT Workflows Using a Vector Symbolic Architecture</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6020,9 +5386,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-3049/">SCOPE: Sensemaking in Cyber Social Spaces<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2609.pdf">paper</a></a></td>
+        <td><a href="/doc-3049/">SCOPE: Sensemaking in Cyber Social Spaces</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6040,9 +5404,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3053/">Multimodal Explanations for AI-based Multisensor Fusion<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2968.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2968-slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-3053/">Multimodal Explanations for AI-based Multisensor Fusion</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6057,8 +5419,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4064/">Fine-Grained, Multi-Domain Network Resource Abstraction as a Fundamental Primitive to Enable High-Performance, Collaborative Data Sciences<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3822.pdf">paper</a><br />
             Variants: doc-2822</a></td>
         <td>external conference</td>
         <td>
@@ -6079,9 +5439,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4272/">Sentio: Driver-in-the-Loop Forward Collision Warning Using Multisample Reinforcement Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/p28-Elmalaki.pdf">paper</a></a></td>
+        <td><a href="/doc-4272/">Sentio: Driver-in-the-Loop Forward Collision Warning Using Multisample Reinforcement Learning</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6095,9 +5453,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-2972/">Achieving Pareto-Optimal MI-Based Privacy-Utility Tradeoffs Under Full Data<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8394983">paper</a></a></td>
+        <td><a href="/doc-2972/">Achieving Pareto-Optimal MI-Based Privacy-Utility Tradeoffs Under Full Data</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -6112,8 +5468,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2976/">On the Design of Resource Allocation Algorithms for Low-Latency Video Analytics<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2334.pdf">paper</a><br />
             Variants: doc-5780</a></td>
         <td>external conference</td>
         <td>
@@ -6130,9 +5484,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2978/">Provisioning Robust and Interpretable AI/ML-based Service Bundles<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2340_0.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2340-slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-2978/">Provisioning Robust and Interpretable AI/ML-based Service Bundles</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6148,9 +5500,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2980/">SDN Controller Placement with Delay-Overhead Balancing in Wireless Edge Networks<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8491378">paper</a></a></td>
+        <td><a href="/doc-2980/">SDN Controller Placement with Delay-Overhead Balancing in Wireless Edge Networks</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -6167,8 +5517,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2992/">Unsupervised estimation of domain applicability of models<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2399.pdf">paper</a><br />
             Variants: doc-5784</a></td>
         <td>external conference</td>
         <td>
@@ -6185,9 +5533,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2994/">Learning Service Semantics for Self-organization in Distributed Environments: Concepts and Research Directions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2400.pdf">paper</a></a></td>
+        <td><a href="/doc-2994/">Learning Service Semantics for Self-organization in Distributed Environments: Concepts and Research Directions</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6208,8 +5554,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2996/">Image Classification on the Edge for Fast Multi-Camera Object Tracking<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2401.pdf">paper</a><br />
             Variants: doc-5782</a></td>
         <td>external conference</td>
         <td>
@@ -6225,9 +5569,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3000/">Hows and Whys of Artificial Intelligence for Public Sector Decisions: Explanation and Evaluation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2484.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2484-slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-3000/">Hows and Whys of Artificial Intelligence for Public Sector Decisions: Explanation and Evaluation</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6242,9 +5584,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3010/">Stakeholders in Explainable AI<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2519.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2519-slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-3010/">Stakeholders in Explainable AI</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6260,9 +5600,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-3012/">OpenSDC: A Novel, Generic Datapath for Software Defined Coalitions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2557.pdf">paper</a></a></td>
+        <td><a href="/doc-3012/">OpenSDC: A Novel, Generic Datapath for Software Defined Coalitions</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6280,9 +5618,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3020/">Decentralized Public Key Infrastructure for Internet-of-Things<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2588.pdf">paper</a></a></td>
+        <td><a href="/doc-3020/">Decentralized Public Key Infrastructure for Internet-of-Things</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6297,9 +5633,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3035/">Effects of Time Horizons on Influence Maximization in the Voter Dynamics<br />
-            <br />
-            Download: <a href="https://academic.oup.com/comnet/advance-article-abstract/doi/10.1093/comnet/cny027/5149693?redirectedFrom=fulltext">paper</a></a></td>
+        <td><a href="/doc-3035/">Effects of Time Horizons on Influence Maximization in the Voter Dynamics</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -6313,9 +5647,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-3039/">Uncertainty Aware AI ML: Why and How<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2764.pdf">paper</a></a></td>
+        <td><a href="/doc-3039/">Uncertainty Aware AI ML: Why and How</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6331,9 +5663,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3041/">A Systems Approach to Achieving the Benefits of Artificial Intelligence in UK Defence<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2908.pdf">paper</a></a></td>
+        <td><a href="/doc-3041/">A Systems Approach to Achieving the Benefits of Artificial Intelligence in UK Defence</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6348,8 +5678,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3055/">Flexible SDN control in tactical ad hoc networks<br />
-            <br />
-            Download: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1570870518303470">paper</a><br />
             Variants: doc-3197</a></td>
         <td>journal</td>
         <td>
@@ -6366,9 +5694,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-3096/">Probabilistic Augmentations for Knowledge Representation Formalisms<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3095.pdf">paper</a></a></td>
+        <td><a href="/doc-3096/">Probabilistic Augmentations for Knowledge Representation Formalisms</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6381,9 +5707,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3160/">Federated AI for building AI Solutions across Multiple Agencies<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2500.pdf">paper</a></a></td>
+        <td><a href="/doc-3160/">Federated AI for building AI Solutions across Multiple Agencies</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6397,9 +5721,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4254/">Deep Convolutional Bidirectional LSTM Based Transportation Mode Recognition<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/DeepConvolutionalBidirectional.pdf">paper</a></a></td>
+        <td><a href="/doc-4254/">Deep Convolutional Bidirectional LSTM Based Transportation Mode Recognition</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6416,9 +5738,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5655/">MaxHedge: Maximising a Maximum Online with Theoretical Performance Guarantees<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/1810.11843v1.pdf">paper</a></a></td>
+        <td><a href="/doc-5655/">MaxHedge: Maximising a Maximum Online with Theoretical Performance Guarantees</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -6434,8 +5754,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2768/">Indirect Reciprocity and the Evolution of Prejudicial Groups<br />
-            <br />
-            Download: <a href="https://www.nature.com/articles/s41598-018-31363-z">paper</a><br />
             Variants: doc-4384</a></td>
         <td>journal</td>
         <td>
@@ -6450,9 +5768,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2797/">Network Classification in Temporal Networks Using Motifs<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2496.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/AALTD18.pdf">presentation</a></a></td>
+        <td><a href="/doc-2797/">Network Classification in Temporal Networks Using Motifs</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6468,9 +5784,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2799/">On the Convergence of the TTL Approximation for an LRU Cache under Independent Stationary Request Processes<br />
-            <br />
-            Download: <a href="https://dl.acm.org/citation.cfm?id=3239164">paper</a></a></td>
+        <td><a href="/doc-2799/">On the Convergence of the TTL Approximation for an LRU Cache under Independent Stationary Request Processes</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -6485,8 +5799,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2802/">AGENP: An ASGrammar-based GENerative Policy Framework<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2483.pdf">paper</a><br />
             Variants: doc-5802</a></td>
         <td>external conference</td>
         <td>
@@ -6504,9 +5816,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2808/">Value of Information: Quantification and Application to Coalition Machine Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2493.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2493-slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-2808/">Value of Information: Quantification and Application to Coalition Machine Learning</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6520,9 +5830,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2810/">Can N-version Decision-Making Prevent the Rebirth of HAL 9000 in Military Camo?<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2482.pdf">paper</a></a></td>
+        <td><a href="/doc-2810/">Can N-version Decision-Making Prevent the Rebirth of HAL 9000 in Military Camo?</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6535,9 +5843,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-2812/">Self Generating Policies for Training Data Curation in Coalition Environments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2492.pdf">paper</a></a></td>
+        <td><a href="/doc-2812/">Self Generating Policies for Training Data Curation in Coalition Environments</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6557,9 +5863,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2834/">Probabilistic Graded Semantics<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2572.pdf">paper</a></a></td>
+        <td><a href="/doc-2834/">Probabilistic Graded Semantics</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6573,9 +5877,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2836/">CISpaces.org: from Fact Extraction to Report generation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/cispaces-org-fact.pdf">paper</a></a></td>
+        <td><a href="/doc-2836/">CISpaces.org: from Fact Extraction to Report generation</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6590,9 +5892,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2852/">Routing Performance in Distributed SDN under Synchronization Constraint<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2485.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2485-slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-2852/">Routing Performance in Distributed SDN under Synchronization Constraint</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -6612,8 +5912,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2854/">Representing and Learning Grammars in Answer Set Programming<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2512.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2512-slides.pdf">presentation</a><br />
             Variants: doc-3575</a></td>
         <td>internal conference</td>
         <td>
@@ -6631,8 +5929,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2863/">Security Issues for Distributed Fusion in Coalition Environments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2520-slides.pdf">presentation</a><br />
             Variants: doc-2694</a></td>
         <td>internal conference</td>
         <td>
@@ -6646,9 +5942,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2873/">Classifying Types of Network Communities Using Motifs<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/graphClassificationStatic.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/DATAM2018-Braines-NetworkMotifs.pdf">presentation</a></a></td>
+        <td><a href="/doc-2873/">Classifying Types of Network Communities Using Motifs</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6665,8 +5959,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2904/">An Analysis of Reliability Using LIME with Deep Learning Models<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2534.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2534-poster.pdf">poster</a><br />
             Variants: doc-3605</a></td>
         <td>internal conference</td>
         <td>
@@ -6700,9 +5992,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2914/">Enabling Collaboration Across the DAIS ITA Research Program<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/DAIS-ITA-Enablement-Position.pdf">paper</a></a></td>
+        <td><a href="/doc-2914/">Enabling Collaboration Across the DAIS ITA Research Program</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -6718,9 +6008,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-3030/">Dynamic competitive opinion control: theory, simulations, and experiments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2601.pdf">paper</a></a></td>
+        <td><a href="/doc-3030/">Dynamic competitive opinion control: theory, simulations, and experiments</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6736,9 +6024,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-3033/">Influence maximisation in real-world social networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2602.pdf">paper</a></a></td>
+        <td><a href="/doc-3033/">Influence maximisation in real-world social networks</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -6755,8 +6041,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3162/">Policy Support for Autonomous Swarms of Drones<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2156.pdf">paper</a><br />
             Variants: doc-5775</a></td>
         <td>external conference</td>
         <td>
@@ -6773,9 +6057,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4471/">Self Generation of Policies for Training Data Curation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2494_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2494_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4471/">Self Generation of Policies for Training Data Curation</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -6797,9 +6079,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4473/">Exploration of the Effect of Task and User Role on the Evaluation of Interpretability Techniques<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2421_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2421_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4473/">Exploration of the Effect of Task and User Role on the Evaluation of Interpretability Techniques</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -6821,9 +6101,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4475/">Coalition Situational Understanding Facilitated By Vector Symbolic Architecture<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2420_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2420_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4475/">Coalition Situational Understanding Facilitated By Vector Symbolic Architecture</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -6842,9 +6120,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4477/">Optimized SDN Controller Placement Strategy in Edge Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2584_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2584_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4477/">Optimized SDN Controller Placement Strategy in Edge Networks</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -6859,9 +6135,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4479/">Evaluating Competitive Influence Maximisation Strategies Using an Online Game<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2464_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2464_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4479/">Evaluating Competitive Influence Maximisation Strategies Using an Online Game</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -6876,9 +6150,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4481/">Merging Models Across Coalition Edge Devices using Generative Policy<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2435_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2435_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4481/">Merging Models Across Coalition Edge Devices using Generative Policy</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -6898,9 +6170,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4483/">Distributed Resource Allocation, An Experimentation and Demonstration Framework for Algorithm Evaluation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2567_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2567_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4483/">Distributed Resource Allocation, An Experimentation and Demonstration Framework for Algorithm Evaluation</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -6916,9 +6186,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4485/">Understanding motifs in complex graphs<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2439_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2439_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4485/">Understanding motifs in complex graphs</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -6938,9 +6206,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4487/">Understanding intolerance, conviction and extremism: interpreting an evolutionary model<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2446_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2446_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4487/">Understanding intolerance, conviction and extremism: interpreting an evolutionary model</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -6959,9 +6225,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4491/">Unsupervised detection of anomalous model inputs at and emergence of new classes at the edge<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2441_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2441_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4491/">Unsupervised detection of anomalous model inputs at and emergence of new classes at the edge</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -6977,8 +6241,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4493/">Learning and Reasoning in Complex Coalition Information Environments: a Critical Analysis<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2522_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2522_slides.pdf">presentation</a><br />
             Variants: doc-2685</a></td>
         <td>internal conference</td>
         <td>
@@ -7002,9 +6264,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4495/">On Adversarial Examples and Model Interpretability<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2427_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-4495/">On Adversarial Examples and Model Interpretability</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -7027,8 +6287,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4497/">Social Network Motifs: A Comparison of Building Blocks across Multiple Social Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2447_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2447_slides.pdf">presentation</a><br />
             Variants: doc-4499</a></td>
         <td>internal conference</td>
         <td>
@@ -7044,9 +6302,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5014/">Network Cache Design under Stationary Requests: Exact Analysis and Poisson Approximation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4963.pdf">paper</a></a></td>
+        <td><a href="/doc-5014/">Network Cache Design under Stationary Requests: Exact Analysis and Poisson Approximation</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -7062,8 +6318,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5767/">Looking Glass of NFV: Inferring the Structure and State of NFV Network from External Observations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2502.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2502_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/2502_slides.pdf">presentation</a><br />
             Variants: doc-3576</a></td>
         <td>internal conference</td>
         <td>
@@ -7081,8 +6335,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5772/">ProFact: A Provenance-based Analytics Framework for Access Control Policies<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2524.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2524_poster.pdf">poster</a><br />
             Variants: doc-3887</a></td>
         <td>internal conference</td>
         <td>
@@ -7102,8 +6354,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5773/">A Policy System for Control of Data Fusion Processes and Derived Data<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2525.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2525_poster.pdf">poster</a><br />
             Variants: doc-4264</a></td>
         <td>internal conference</td>
         <td>
@@ -7119,8 +6369,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5774/">Self-Generation of Access Control Policies<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2535.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2535_poster.pdf">poster</a><br />
             Variants: doc-2677</a></td>
         <td>internal conference</td>
         <td>
@@ -7139,8 +6387,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5775/">Policy Support for Autonomous Swarms of Drones<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2536.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2536_poster.pdf">poster</a><br />
             Variants: doc-3162</a></td>
         <td>internal conference</td>
         <td>
@@ -7158,8 +6404,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5776/">Joint Data Compression and Caching: Approaching Optimality with Guarantees<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2498.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2498_poster.pdf">poster</a><br />
             Variants: doc-2650</a></td>
         <td>internal conference</td>
         <td>
@@ -7177,8 +6421,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5777/">Service Placement with Provable Guarantees in Heterogeneous Edge Computing Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2506.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2506_poster.pdf">poster</a><br />
             Variants: doc-3577</a></td>
         <td>internal conference</td>
         <td>
@@ -7195,8 +6437,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5778/">SDN Controller Placement at the Edge: Optimizing Delay and Overheads<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2585.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2585_poster.pdf">poster</a><br />
             Variants: doc-2477</a></td>
         <td>internal conference</td>
         <td>
@@ -7213,8 +6453,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5779/">Service Placement and Request Scheduling for Data-intensive Applications in Edge Clouds<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2526.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2526_poster.pdf">poster</a><br />
             Variants: doc-3578,doc-5834</a></td>
         <td>internal conference</td>
         <td>
@@ -7234,8 +6472,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5780/">On the Design of Resource Allocation Algorithms for Low-Latency Video Analytics<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2527.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2527_poster.pdf">poster</a><br />
             Variants: doc-2976</a></td>
         <td>internal conference</td>
         <td>
@@ -7253,8 +6489,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5781/">Online Mechanism Design using Reinforcement Learning for Cloud Resource Allocation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2528.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2528_poster.pdf">poster</a><br />
             Variants: doc-2726,doc-5863</a></td>
         <td>internal conference</td>
         <td>
@@ -7274,8 +6508,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5782/">Image Classification on the Edge for Fast Multi-Camera Object Tracking<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2462.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2462_poster.pdf">poster</a><br />
             Variants: doc-2996</a></td>
         <td>internal conference</td>
         <td>
@@ -7292,8 +6524,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5783/">Doc2Img: A New Approach to Vectorization of Documents<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2529.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2529_poster.pdf">poster</a><br />
             Variants: doc-2681</a></td>
         <td>internal conference</td>
         <td>
@@ -7310,8 +6540,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5784/">Unsupervised estimation of domain applicability of models<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2530.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2530_poster.pdf">poster</a><br />
             Variants: doc-2992</a></td>
         <td>internal conference</td>
         <td>
@@ -7329,8 +6557,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5785/">Supporting Scientific Enquiry with Uncertain Sources<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2414.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2414_poster.pdf">poster</a><br />
             Variants: doc-2691</a></td>
         <td>internal conference</td>
         <td>
@@ -7345,8 +6571,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5788/">Human-in-the-Loop Situational Understanding using Subjective Bayesian Networks: Experimental Results<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2415.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2415_poster.pdf">poster</a><br />
             Variants: doc-2209</a></td>
         <td>book chapter</td>
         <td>
@@ -7367,8 +6591,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5789/">Implication of the Independence Assumption for Trust Estimation over Dependent Propositions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2417.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2417_poster.pdf">poster</a><br />
             Variants: doc-2692</a></td>
         <td>external conference</td>
         <td>
@@ -7383,8 +6605,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5790/">Interpretable to Whom? A Role-based Model for Analyzing Interpretable Machine Learning Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2440.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2440_poster.pdf">poster</a><br />
             Variants: doc-2722</a></td>
         <td>external conference</td>
         <td>
@@ -7402,8 +6622,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5791/">GenAttack: Practical Black-box Attacks with Gradient-Free Optimization<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2455.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2455_poster.pdf">poster</a><br />
             Variants: doc-4070</a></td>
         <td>external conference</td>
         <td>
@@ -7419,9 +6637,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5792/">Policy discovery and modelling in social groups<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2443.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2443_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-5792/">Policy discovery and modelling in social groups</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -7438,8 +6654,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5799/">The role of motifs in understanding behavior in social and engineered networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2448.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2448_poster.pdf">poster</a><br />
             Variants: doc-2309</a></td>
         <td>internal conference</td>
         <td>
@@ -7458,8 +6672,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5800/">gl2vec: Learning Feature Representation Using Graphlets for Directed Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2450.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2450_poster.pdf">poster</a><br />
             Variants: doc-4826,doc-5841</a></td>
         <td>internal conference</td>
         <td>
@@ -7477,8 +6689,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5801/">Learning the Optimal Synchronization Rates in Distributed SDN Control Architectures<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2533.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2533_poster.pdf">poster</a><br />
             Variants: doc-3579</a></td>
         <td>internal conference</td>
         <td>
@@ -7497,8 +6707,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5802/">AGENP: An ASGrammar-based GENerative Policy Framework<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2408.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2408_poster.pdf">poster</a><br />
             Variants: doc-2802</a></td>
         <td>external conference</td>
         <td>
@@ -7516,9 +6724,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5803/">Capacity of Distributed SDC Resources<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2503.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2503_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-5803/">Capacity of Distributed SDC Resources</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -7534,9 +6740,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5804/">A Universally Good Coreset for Distributed Machine Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2505_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/2505_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-5804/">A Universally Good Coreset for Distributed Machine Learning</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -7554,8 +6758,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5808/">A queueing-theoretic model for resource allocation in one-dimensional distributed analytics network<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2566.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2566_poster.pdf">poster</a><br />
             Variants: doc-2770</a></td>
         <td>internal conference</td>
         <td>
@@ -7573,9 +6775,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5810/">Adaptive Routing of Requests to Distributed Analytics Models<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2507.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2507_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-5810/">Adaptive Routing of Requests to Distributed Analytics Models</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -7591,9 +6791,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5844/">Application of Generative Policy to Software Defined Slices<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2418_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-5844/">Application of Generative Policy to Software Defined Slices</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -7610,9 +6808,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5864/">High-level, Unified SDC Programming with Automatic, Consistent, Fast Updates<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2488.pdf">paper</a></a></td>
+        <td><a href="/doc-5864/">High-level, Unified SDC Programming with Automatic, Consistent, Fast Updates</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -7630,8 +6826,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5865/">Efficient Inference of Spatial and Temporal Conditions of Large Distributed Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2504_poster.pdf">poster</a><br />
             Variants: doc-4125</a></td>
         <td>internal conference</td>
         <td>
@@ -7647,9 +6841,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2742/">Uncertainty-aware Artificial Intelligence for More Effective Decision Making<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2344.pdf">paper</a></a></td>
+        <td><a href="/doc-2742/">Uncertainty-aware Artificial Intelligence for More Effective Decision Making</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -7665,9 +6857,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2750/">SFP: Toward Interdomain Routing for SDN Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2161.pdf">paper</a></a></td>
+        <td><a href="/doc-2750/">SFP: Toward Interdomain Routing for SDN Networks</a></td>
         <td>poster</td>
         <td>
             <ul>
@@ -7683,9 +6873,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2818/">Trident: Toward a Unified SDN Programming Framework with Automatic Updates<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2558.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2558-slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-2818/">Trident: Toward a Unified SDN Programming Framework with Automatic Updates</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -7700,8 +6888,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2822/">Fine-Grained, Multi-Domain Network Resource Abstraction as a Fundamental Primitive to Enable High-Performance, Collaborative Data Sciences<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2559.pdf">paper</a><br />
             Variants: doc-4064</a></td>
         <td>poster</td>
         <td>
@@ -7722,9 +6908,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2848/">Practical adversarial attacks against challenging models environments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/caad_2018_challenging_adversarial_attacks.pdf">paper</a></a></td>
+        <td><a href="/doc-2848/">Practical adversarial attacks against challenging models environments</a></td>
         <td>invited talk</td>
         <td>
             <ul>
@@ -7737,9 +6921,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3093/">SpiLinC: Spiking Liquid-Ensemble Computing for Unsupervised Speech and Image Recognition<br />
-            <br />
-            Download: <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00524/full">paper</a></a></td>
+        <td><a href="/doc-3093/">SpiLinC: Spiking Liquid-Ensemble Computing for Unsupervised Speech and Image Recognition</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -7754,8 +6936,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4499/">Social Network Motifs: A Comparison of Building Blocks across Multiple Social Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2391_paper.pdf">paper</a><br />
             Variants: doc-4497</a></td>
         <td>external conference</td>
         <td>
@@ -7771,9 +6951,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2472/">It's Hard to Share: Joint Service Placement and Request Scheduling in Edge Clouds with Sharable and Non-sharable Resources<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/PID5319731.pdf">paper</a></a></td>
+        <td><a href="/doc-2472/">It's Hard to Share: Joint Service Placement and Request Scheduling in Edge Clouds with Sharable and Non-sharable Resources</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -7790,8 +6968,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2681/">Doc2Img: A New Approach to Vectorization of Documents<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2300_paper.pdf">paper</a><br />
             Variants: doc-5783</a></td>
         <td>external conference</td>
         <td>
@@ -7808,8 +6984,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2685/">Learning and Reasoning in Complex Coalition Information Environments: a Critical Analysis<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2316_paper.pdf">paper</a><br />
             Variants: doc-4493</a></td>
         <td>external conference</td>
         <td>
@@ -7834,8 +7008,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2691/">Supporting Scientific Enquiry with Uncertain Sources<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2317_paper.pdf">paper</a><br />
             Variants: doc-5785</a></td>
         <td>external conference</td>
         <td>
@@ -7850,8 +7022,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2692/">Trust Estimation of Sources Over Correlated Propositions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2343_paper.pdf">paper</a><br />
             Variants: doc-5789</a></td>
         <td>external conference</td>
         <td>
@@ -7866,8 +7036,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2694/">Security Issues for Distributed Fusion in Coalition Environments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2347_paper.pdf">paper</a><br />
             Variants: doc-2863</a></td>
         <td>external conference</td>
         <td>
@@ -7883,9 +7051,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2696/">Distributed Machine Learning in Coalition Environments: Overview of Techniques<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2370_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2696/">Distributed Machine Learning in Coalition Environments: Overview of Techniques</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -7900,9 +7066,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2698/">Why the Failure? How Adversarial Examples Can Provide Insights for Interpretable Machine Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2374_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2698/">Why the Failure? How Adversarial Examples Can Provide Insights for Interpretable Machine Learning</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -7921,9 +7085,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2700/">How to prevent Skynet from forming (A Perspective from Policy-based Autonomic Device Management)<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2186_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2700/">How to prevent Skynet from forming (A Perspective from Policy-based Autonomic Device Management)</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -7939,9 +7101,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2718/">DDP: Distributed Network Updates in SDN<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2387_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2718/">DDP: Distributed Network Updates in SDN</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -7957,9 +7117,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2720/">How Better is Distributed SDN? An Analytical Approach<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1903_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2720/">How Better is Distributed SDN? An Analytical Approach</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -7977,8 +7135,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2722/">Interpretable to Whom? A Role-based Model for Analyzing Interpretable Machine Learning Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2375_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/WHI_2018_Tomsett_et_al.pdf">presentation</a><br />
             Variants: doc-5790</a></td>
         <td>external conference</td>
         <td>
@@ -7995,9 +7151,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2724/">Q-placement: Reinforcement-Learning-Based Service Placement in Software-Defined Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2376_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2724/">Q-placement: Reinforcement-Learning-Based Service Placement in Software-Defined Networks</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8014,8 +7168,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2726/">Online Mechanism Design using Reinforcement Learning for Cloud Resource Allocation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2382_paper.pdf">paper</a><br />
             Variants: doc-5781</a></td>
         <td>external conference</td>
         <td>
@@ -8047,9 +7199,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2736/">SDN-enabled Tactical Ad Hoc Networks: Extending Programmable Control to the Edge<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8419193/">paper</a></a></td>
+        <td><a href="/doc-2736/">SDN-enabled Tactical Ad Hoc Networks: Extending Programmable Control to the Edge</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -8063,9 +7213,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2738/">Implicit Terrorist Networks: A Two-Mode Social Network Analysis of Terrorism in India<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2034_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2738/">Implicit Terrorist Networks: A Two-Mode Social Network Analysis of Terrorism in India</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8080,9 +7228,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2758/">The Local Structure of Social Groups in Network Motifs<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2392.pdf">paper</a></a></td>
+        <td><a href="/doc-2758/">The Local Structure of Social Groups in Network Motifs</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8097,9 +7243,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2790/">Conversational Control Interface to Facilitate Situational Understanding in a City Surveillance Setting<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2575.pdf">paper</a></a></td>
+        <td><a href="/doc-2790/">Conversational Control Interface to Facilitate Situational Understanding in a City Surveillance Setting</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8114,9 +7258,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3071/">Swing: Swarm Computing for Mobile Sensing<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3064.pdf">paper</a></a></td>
+        <td><a href="/doc-3071/">Swing: Swarm Computing for Mobile Sensing</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8130,9 +7272,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3148/">JMS: Joint Bandwidth Allocation and Flow Assignment for Data Transfers with Multiple Sources<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2958.pdf">paper</a></a></td>
+        <td><a href="/doc-3148/">JMS: Joint Bandwidth Allocation and Flow Assignment for Data Transfers with Multiple Sources</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8148,8 +7288,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4264/">A Policy System for Control of Data Fusion Processes and Derived Data<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/p820-bertino.pdf">paper</a><br />
             Variants: doc-5773</a></td>
         <td>external conference</td>
         <td>
@@ -8165,8 +7303,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2677/">Self-Generation of Access Control Policies<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2187_paper.pdf">paper</a><br />
             Variants: doc-5774</a></td>
         <td>external conference</td>
         <td>
@@ -8186,9 +7322,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
     <tr>
         <td><a href="/doc-2679/">A Scalable Vector Symbolic Architecture Approach for Decentralized Workflows<br />
             <br />
-            <em>Best paper award</em><br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2397_paper.pdf">paper</a></a></td>
+            <em>Best paper award</em></a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8205,8 +7339,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2770/">A queueing theoretic model for resource allocation in one-dimensional distributed analytics network<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2384.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2495-poster.pdf">poster</a><br />
             Variants: doc-5808</a></td>
         <td>external conference</td>
         <td>
@@ -8224,9 +7356,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2772/">Proactive Retention-Aware Caching with Multi-path Routing for Wireless Edge Networks<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8374856/">paper</a></a></td>
+        <td><a href="/doc-2772/">Proactive Retention-Aware Caching with Multi-path Routing for Wireless Edge Networks</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -8242,9 +7372,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3103/">Frontier: Resilient Edge Processing for the Internet of Things<br />
-            <br />
-            Download: <a href="https://dl.acm.org/citation.cfm?id=3242937">paper</a></a></td>
+        <td><a href="/doc-3103/">Frontier: Resilient Edge Processing for the Internet of Things</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -8258,9 +7386,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-3111/">Enabling Edge Devices that Learn from Each Other: Cross Modal Training for Activity Recognition<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2318.pdf">paper</a></a></td>
+        <td><a href="/doc-3111/">Enabling Edge Devices that Learn from Each Other: Cross Modal Training for Activity Recognition</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8276,9 +7402,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3152/">RED/LED: An Asymptotically Optimal and Scalable Online Algorithm for Service Caching at the Edge<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/abstract/document/8374854">paper</a></a></td>
+        <td><a href="/doc-3152/">RED/LED: An Asymptotically Optimal and Scalable Online Algorithm for Service Caching at the Edge</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -8293,9 +7417,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2671/">Optimizing Data Analytics in Energy Constrained IoT Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2279_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2671/">Optimizing Data Analytics in Energy Constrained IoT Networks</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8309,9 +7431,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2675/">Integrating Learning and Reasoning Services for Explainable Information Fusion<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1886_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/1886_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-2675/">Integrating Learning and Reasoning Services for Explainable Information Fusion</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8326,9 +7446,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2787/">Optimizing Timer-based Policies for General Cache Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1711.03941.pdf">paper</a></a></td>
+        <td><a href="/doc-2787/">Optimizing Timer-based Policies for General Cache Networks</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -8344,9 +7462,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5635/">Network-based indicators of Bitcoin bubbles<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/1805.04460.pdf">paper</a></a></td>
+        <td><a href="/doc-5635/">Network-based indicators of Bitcoin bubbles</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -8367,9 +7483,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5641/">Dynamics of new strain emergence on a temporal network<br />
-            <br />
-            Download: <a href="https://arxiv.org/pdf/1805.04343.pdf">paper</a></a></td>
+        <td><a href="/doc-5641/">Dynamics of new strain emergence on a temporal network</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -8390,8 +7504,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2309/">The role of motifs in understanding behavior in social and engineered networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Motifs-SPIE_2018_FINAL_0.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/DAIS_ITA_SPIE_2018_P6_Motifs_v2.pdf">presentation</a><br />
             Variants: doc-5799</a></td>
         <td>external conference</td>
         <td>
@@ -8409,9 +7521,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2312/">A computational framework for modelling inter-group behaviour using psychological theory<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/mutability_0.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/DAIS_ITA_SPIE_2018_P6_CompFramework.pdf">presentation</a></a></td>
+        <td><a href="/doc-2312/">A computational framework for modelling inter-group behaviour using psychological theory</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8433,8 +7543,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2477/">SDN Controller Placement at the Edge: Optimizing Delay and Overheads<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/edge_controller_placement.pdf">paper</a><br />
             Variants: doc-5778</a></td>
         <td>external conference</td>
         <td>
@@ -8450,9 +7558,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2479/">Service Entity Placement for Social Virtual Reality Applications in Edge Computing<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/LinWang18INFOCOM.pdf">paper</a></a></td>
+        <td><a href="/doc-2479/">Service Entity Placement for Social Virtual Reality Applications in Edge Computing</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8468,9 +7574,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2616/">When Edge Meets Learning: Adaptive Control for Resource-Constrained Distributed Machine Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1366_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2616/">When Edge Meets Learning: Adaptive Control for Resource-Constrained Distributed Machine Learning</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8488,9 +7592,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2619/">Toward the First SDN Programming Capacity Theorem on Realizing High-Level Programs on Low-Level Datapaths<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1782_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2619/">Toward the First SDN Programming Capacity Theorem on Realizing High-Level Programs on Low-Level Datapaths</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8505,9 +7607,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2630/">DR-Cache: Distributed Resilient Caching with Latency Guarantees<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1987_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2630/">DR-Cache: Distributed Resilient Caching with Latency Guarantees</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8525,9 +7625,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2632/">Prophet: Fast Accurate Model-based Throughput Prediction for Reactive Flow in DC Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2160_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2632/">Prophet: Fast Accurate Model-based Throughput Prediction for Reactive Flow in DC Networks</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8542,9 +7640,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2634/">Distributed Machine Learning at Resource-Limited Edge Nodes<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2142_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2634/">Distributed Machine Learning at Resource-Limited Edge Nodes</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -8560,9 +7656,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2636/">Understanding information leakage of distributed inference with deep neural networks: Overview of information theoretic approach and initial results<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2175_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2636/">Understanding information leakage of distributed inference with deep neural networks: Overview of information theoretic approach and initial results</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8577,9 +7671,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2638/">The Generative Policy Approach for Dynamic Collaboration in Coalition Environments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2191_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2638/">The Generative Policy Approach for Dynamic Collaboration in Coalition Environments</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8594,9 +7686,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2640/">Machine learning approaches for small data in sensor fusion applications<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2277_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2640/">Machine learning approaches for small data in sensor fusion applications</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8611,9 +7701,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2642/">Reasoning and Learning Services for Coalition Situational Understanding<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2295_paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/2295_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-2642/">Reasoning and Learning Services for Coalition Situational Understanding</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8632,9 +7720,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2644/">When data lie: fairness and robustness in contested environments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2330_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2644/">When data lie: fairness and robustness in contested environments</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8648,9 +7734,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2646/">Distributed analytics for audio sensing applications<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2369_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2646/">Distributed analytics for audio sensing applications</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8667,9 +7751,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2648/">Machine learning for dynamic resource allocation at network edge<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2396_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2648/">Machine learning for dynamic resource allocation at network edge</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8684,8 +7766,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2650/">Joint Data Compression and Caching: Approaching Optimality with Guarantees<br />
-            <br />
-            Download: <a href="https://dl.acm.org/citation.cfm?id=3184407.3184410">paper</a><br />
             Variants: doc-5776</a></td>
         <td>journal</td>
         <td>
@@ -8702,9 +7782,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2652/">On Similarity Prediction and Pairwise Clustering<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2184_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-2652/">On Similarity Prediction and Pairwise Clustering</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8719,9 +7797,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2663/">Resisting Influence: How the Strength of Predispositions to Resist Control Can Change Strategies for Optimal Opinion Control in the Voter Model<br />
-            <br />
-            Download: <a href="https://www.frontiersin.org/articles/10.3389/frobt.2018.00034/full">paper</a></a></td>
+        <td><a href="/doc-2663/">Resisting Influence: How the Strength of Predispositions to Resist Control Can Change Strategies for Optimal Opinion Control in the Voter Model</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -8735,9 +7811,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-2667/">The Challenge of Access Control Policies Quality<br />
-            <br />
-            Download: <a href="https://dl.acm.org/doi/abs/10.1145/3209668">paper</a></a></td>
+        <td><a href="/doc-2667/">The Challenge of Access Control Policies Quality</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -8753,9 +7827,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2668/">Asking Why in AI: Explainability of Intelligent Systems—Perspectives and Challenges<br />
-            <br />
-            Download: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/isaf.1422">paper</a></a></td>
+        <td><a href="/doc-2668/">Asking Why in AI: Explainability of Intelligent Systems—Perspectives and Challenges</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -8767,9 +7839,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-3084/">Stochastic Models and Wide-Area Network Measurements for Blockchain Design and Analysis<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3073.pdf">paper</a></a></td>
+        <td><a href="/doc-3084/">Stochastic Models and Wide-Area Network Measurements for Blockchain Design and Analysis</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8785,9 +7855,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3571/">Social‑collaborative determinants of content quality in online knowledge production systems: comparing Wikipedia and Stack Overflow<br />
-            <br />
-            Download: <a href="https://link.springer.com/article/10.1007/s13278-018-0512-3">paper</a></a></td>
+        <td><a href="/doc-3571/">Social‑collaborative determinants of content quality in online knowledge production systems: comparing Wikipedia and Stack Overflow</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -8801,9 +7869,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4060/">Balancing distributed analytics energy consumption using physics-inspired models<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3899.pdf">paper</a></a></td>
+        <td><a href="/doc-4060/">Balancing distributed analytics energy consumption using physics-inspired models</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8823,9 +7889,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4255/">An algorithm for model fusion for distributed learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/106350O.pdf">paper</a></a></td>
+        <td><a href="/doc-4255/">An algorithm for model fusion for distributed learning</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8841,9 +7905,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4256/">Resource management in distributed SDN using reinforcement learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/106350M.pdf">paper</a></a></td>
+        <td><a href="/doc-4256/">Resource management in distributed SDN using reinforcement learning</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8859,9 +7921,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4263/">Generation and management of training data for AI-based algorithms targeted at coalition operations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/106350U.pdf">paper</a></a></td>
+        <td><a href="/doc-4263/">Generation and management of training data for AI-based algorithms targeted at coalition operations</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8876,9 +7936,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-4273/">On a Class of Stochastic Multilayer Networks<br />
-            <br />
-            Download: <a href="https://dl.acm.org/citation.cfm?id=3179421">paper</a></a></td>
+        <td><a href="/doc-4273/">On a Class of Stochastic Multilayer Networks</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -8893,9 +7951,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2205/">Experimentation With Fuzzy Interest Forwarding in Named Data Networking<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1802.03072.pdf">paper</a></a></td>
+        <td><a href="/doc-2205/">Experimentation With Fuzzy Interest Forwarding in Named Data Networking</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -8911,9 +7967,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1968/">Distributed AI and Security Issues in Federated Environments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/SCC-2018-v012.pdf">paper</a></a></td>
+        <td><a href="/doc-1968/">Distributed AI and Security Issues in Federated Environments</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8929,9 +7983,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
     <tr>
         <td><a href="/doc-2223/">Inferring Smartphone Users Handwritten Patterns by Using Motion Sensors<br />
             <br />
-            <em>Best paper award</em><br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Inferring_smartphone.pdf">paper</a></a></td>
+            <em>Best paper award</em></a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8946,9 +7998,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2245/">Utilitarian Placement of Composite Services<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8269326">paper</a></a></td>
+        <td><a href="/doc-2245/">Utilitarian Placement of Composite Services</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8963,9 +8013,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-1961/">DarNet: A Deep Learning Solution for Distracted Driving Detection<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/middleware-17.pdf">paper</a></a></td>
+        <td><a href="/doc-1961/">DarNet: A Deep Learning Solution for Distracted Driving Detection</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8980,9 +8028,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-1985/">Did you hear that? Adversarial Examples Against Automatic Speech Recognition<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1801.00554.pdf">paper</a></a></td>
+        <td><a href="/doc-1985/">Did you hear that? Adversarial Examples Against Automatic Speech Recognition</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -8996,9 +8042,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-1992/">Utility-centric Networking: Balancing Transit Costs with Quality of Experience<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/8239630">paper</a></a></td>
+        <td><a href="/doc-1992/">Utility-centric Networking: Balancing Transit Costs with Quality of Experience</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -9013,9 +8057,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2009/">Improving Data Sharing in Data Rich Environments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/PID5130891.pdf">paper</a></a></td>
+        <td><a href="/doc-2009/">Improving Data Sharing in Data Rich Environments</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9032,9 +8074,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2010/">Community-based Self Generation of Policies and Processes for Assets: Concepts and Research Directions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/0-main.pdf">paper</a></a></td>
+        <td><a href="/doc-2010/">Community-based Self Generation of Policies and Processes for Assets: Concepts and Research Directions</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9050,9 +8090,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2014/">Identifying Sensor Accesses from Service Descriptions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/PADG-paper-3.pdf">paper</a></a></td>
+        <td><a href="/doc-2014/">Identifying Sensor Accesses from Service Descriptions</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9067,9 +8105,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2018/">Combining Semantic Web and IoT to Reason with Health and Safety Policies<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S11202_1631.pdf">paper</a></a></td>
+        <td><a href="/doc-2018/">Combining Semantic Web and IoT to Reason with Health and Safety Policies</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9083,9 +8119,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-2020/">Edge Computing Architecture for applying AI to IoT<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S11204_EdgeIoTAI.pdf">paper</a></a></td>
+        <td><a href="/doc-2020/">Edge Computing Architecture for applying AI to IoT</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9100,9 +8134,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2022/">Policy Enabled Caching for Distributed AI<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/PID5131721.pdf">paper</a></a></td>
+        <td><a href="/doc-2022/">Policy Enabled Caching for Distributed AI</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9115,9 +8147,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2024/">Research Challenges in Dynamic Policy-Based Autonomous Security<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S11208_DPBA_Security.pdf">paper</a></a></td>
+        <td><a href="/doc-2024/">Research Challenges in Dynamic Policy-Based Autonomous Security</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9135,9 +8165,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-2027/">Measures of Network Centricity for Edge Deployment of IoT Applications<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S38212_4855.pdf">paper</a></a></td>
+        <td><a href="/doc-2027/">Measures of Network Centricity for Edge Deployment of IoT Applications</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9150,9 +8178,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-2036/">LightSpy: Optical Eavesdropping on Displays Using Light Sensors on Mobile Devices<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/PID5132095.pdf">paper</a></a></td>
+        <td><a href="/doc-2036/">LightSpy: Optical Eavesdropping on Displays Using Light Sensors on Mobile Devices</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9166,9 +8192,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-3058/">Unsupervised Transformation Learning via Convex Relaxations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/3057.pdf">paper</a></a></td>
+        <td><a href="/doc-3058/">Unsupervised Transformation Learning via Convex Relaxations</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9182,9 +8206,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-4262/">ECF: An MPTCP Path Scheduler to Manage Heterogeneous Paths<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/p147-Lim.pdf">paper</a></a></td>
+        <td><a href="/doc-4262/">ECF: An MPTCP Path Scheduler to Manage Heterogeneous Paths</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9199,9 +8221,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5018/">On the Improvement of Classifying EEG Recordings Using Neural Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4964.pdf">paper</a></a></td>
+        <td><a href="/doc-5018/">On the Improvement of Classifying EEG Recordings Using Neural Networks</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9221,8 +8241,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1806/">A Framework for Modelling the Effect of Emotion on Uncritical Reasoning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/paper_111.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/Uncrit_Presentation_KSCO_2.pdf">presentation</a><br />
             Variants: doc-1820,doc-1653</a></td>
         <td>external conference</td>
         <td>
@@ -9239,9 +8257,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1827/">Whom to Query? Spatially-Blind Participatory Crowdsensing under Budget Constraints<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/query-spatially-blind.pdf">paper</a></a></td>
+        <td><a href="/doc-1827/">Whom to Query? Spatially-Blind Participatory Crowdsensing under Budget Constraints</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9256,9 +8272,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-1862/">Conversational Services for Multi-Agency Situational Understanding<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/preece.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/Slides_0.pdf">presentation</a></a></td>
+        <td><a href="/doc-1862/">Conversational Services for Multi-Agency Situational Understanding</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9271,9 +8285,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-1869/">Computing Messages that Reveal Selected Inferences while Protecting Others<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/privutil-itw2017_1.pdf">paper</a></a></td>
+        <td><a href="/doc-1869/">Computing Messages that Reveal Selected Inferences while Protecting Others</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9289,9 +8301,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
     <tr>
         <td><a href="/doc-1948/">Fuzzy Interest Forwarding<br />
             <br />
-            <em>Best paper award</em><br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/AD1042926.pdf">paper</a></a></td>
+            <em>Best paper award</em></a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9308,8 +8318,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1975/">Unicorn: Unified Resource Orchestration for Multi-Domain, Geo-Distributed Data Analytics<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/INDIS_2017_paper_3.pdf">paper</a><br />
             Variants: doc-1395,doc-3592</a></td>
         <td>external conference</td>
         <td>
@@ -9343,9 +8351,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4265/">On max-min fair allocation for multi-source transmission<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/p2-li.pdf">paper</a></a></td>
+        <td><a href="/doc-4265/">On max-min fair allocation for multi-source transmission</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -9387,9 +8393,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1854/">Stability and fracture of social groups<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Allerton_0.pdf">paper</a></a></td>
+        <td><a href="/doc-1854/">Stability and fracture of social groups</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9407,9 +8411,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1880/">Improving Traffic Prediction Using Weather Data<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Weather_SparkSummitEU17.v2_0.pdf">presentation</a></a></td>
+        <td><a href="/doc-1880/">Improving Traffic Prediction Using Weather Data</a></td>
         <td>invited talk</td>
         <td>
             <ul>
@@ -9421,9 +8423,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-2206/">AI and ML in Complex Data Environments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/AI_ML_Panel_25Oct2017_Supriyo.pdf">presentation</a></a></td>
+        <td><a href="/doc-2206/">AI and ML in Complex Data Environments</a></td>
         <td>invited talk</td>
         <td>
             <ul>
@@ -9435,9 +8435,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-1571/">A Deep Convolutional Network for Traffic Congestion Classification<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/nato_ist_trafficCongestion_Paper4_Issue1.pdf">paper</a></a></td>
+        <td><a href="/doc-1571/">A Deep Convolutional Network for Traffic Congestion Classification</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9452,9 +8450,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1576/">Cognitively Mediated Research Discovery - A context-aware rich visualized knowledge graph co-created by humans and machines using a common language<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/HHMC_CogMed.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/HHMC_CogMed_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-1576/">Cognitively Mediated Research Discovery - A context-aware rich visualized knowledge graph co-created by humans and machines using a common language</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9470,9 +8466,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1639/">Improving Security in Coalition Tactical Environments using an SDN approach<br />
-            <br />
-            Download: <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ab054b">paper</a></a></td>
+        <td><a href="/doc-1639/">Improving Security in Coalition Tactical Environments using an SDN approach</a></td>
         <td>book chapter</td>
         <td>
             <ul>
@@ -9486,9 +8480,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1644/">Generative Policy Architecture for Access Control Use Case<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/D_007-summary.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/D_007-poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1644/">Generative Policy Architecture for Access Control Use Case</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -9504,9 +8496,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1649/">Visualising the evolution of inter-group prejudice<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/D_002-summary.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/D_002-poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1649/">Visualising the evolution of inter-group prejudice</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -9522,9 +8512,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1651/">Seeing ISIS: Visualizing Groups in the Coalition Context​<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/D_005-summary.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/D_005-poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1651/">Seeing ISIS: Visualizing Groups in the Coalition Context​</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -9541,8 +8529,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1653/">Demonstrating a Framework for Modelling the Effect of Emotion on Uncritical Reasoning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/D_004-summary.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/D_004-poster.pdf">poster</a><br />
             Variants: doc-1806</a></td>
         <td>demo</td>
         <td>
@@ -9557,9 +8543,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1655/">Decentralized Workflows Using Vector Symbolic Architectures<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/D_003-summary.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/D_003-poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1655/">Decentralized Workflows Using Vector Symbolic Architectures</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -9575,9 +8559,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1657/">A Prototype Systems Architecture for Coalition Situational Understanding<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/D_001-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/D_001-poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/D_001-slides.pdf">presentation</a>, <a href="https://dais-ita.org/sites/default/files/D_001-summary.pdf">extra</a></a></td>
+        <td><a href="/doc-1657/">A Prototype Systems Architecture for Coalition Situational Understanding</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -9600,8 +8582,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1659/">A Cognitive Policy Framework for next-Generation Distributed Federated Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/L_002-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/L_002-poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/L_002-slides.pdf">presentation</a><br />
             Variants: doc-1224</a></td>
         <td>internal conference</td>
         <td>
@@ -9620,8 +8600,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1661/">Provenance-based Analytics Services for Access Control Policies<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/L_003-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/L_003-poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/L_003-slides.pdf">presentation</a><br />
             Variants: doc-1234</a></td>
         <td>internal conference</td>
         <td>
@@ -9641,8 +8619,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1665/">Intra-Group Tension under Inter-group Conflict: A Generative Model using Group Social Norms and Identity<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/L_005-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/L_005-poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/L_005-slides.pdf">presentation</a><br />
             Variants: doc-1286</a></td>
         <td>internal conference</td>
         <td>
@@ -9660,9 +8636,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1667/">Semantic Workflow Encoding Using Vector Symbolic Architectures<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/L_006-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/L_006-poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/L_006-slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-1667/">Semantic Workflow Encoding Using Vector Symbolic Architectures</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -9679,8 +8653,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1673/">Human-in-the-Loop Situational Understanding via Subjective Bayesian Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/L_001-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/L_001-poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/L_001-slides.pdf">presentation</a><br />
             Variants: doc-1453</a></td>
         <td>internal conference</td>
         <td>
@@ -9700,8 +8672,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1675/">Deep Learning for Situational Understanding<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/L_004-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/L_004-poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/L_004-slides.pdf">presentation</a><br />
             Variants: doc-1276</a></td>
         <td>internal conference</td>
         <td>
@@ -9720,8 +8690,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1677/">Policy Analysis for Drone Systems: An Argumentation-based Approach<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_007-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_007-poster.pdf">poster</a><br />
             Variants: doc-1085</a></td>
         <td>internal conference</td>
         <td>
@@ -9738,8 +8706,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1679/">Framework for Behavioral Analytics in Generative Policy Management Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_009-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_009-poster.pdf">poster</a><br />
             Variants: doc-1024</a></td>
         <td>internal conference</td>
         <td>
@@ -9757,8 +8723,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1681/">Tractable Policy Management Framework for IoT<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_026-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_026-poster.pdf">poster</a><br />
             Variants: doc-1110</a></td>
         <td>internal conference</td>
         <td>
@@ -9775,8 +8739,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1683/">Next Generation Firewalls for Dynamic Coalitions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_004-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_004-poster.pdf">poster</a><br />
             Variants: doc-1403</a></td>
         <td>internal conference</td>
         <td>
@@ -9796,8 +8758,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1685/">Decision-Making in Policy Governed Human-Autonomous Systems Teams<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_008-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_008-poster.pdf">poster</a><br />
             Variants: doc-1415</a></td>
         <td>internal conference</td>
         <td>
@@ -9815,8 +8775,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1687/">Mission Support for Drones: a Policy Based Approach<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_002-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_002-poster.pdf">poster</a><br />
             Variants: doc-1218</a></td>
         <td>internal conference</td>
         <td>
@@ -9835,8 +8793,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1689/">Data Distribution and Scheduling for Distributed Analytics Tasks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_034-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_034-poster.pdf">poster</a><br />
             Variants: doc-1410</a></td>
         <td>internal conference</td>
         <td>
@@ -9854,8 +8810,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1691/">Opportunities and Challenges for Named Data Networking to Increase the Agility of Military Coalitions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_045-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_045-poster.pdf">poster</a><br />
             Variants: doc-1409</a></td>
         <td>internal conference</td>
         <td>
@@ -9874,8 +8828,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1694/">NAC: Name-Based Access Control in Named Data Networking<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_030-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_030-poster.pdf">poster</a><br />
             Variants: doc-1822</a></td>
         <td>internal conference</td>
         <td>
@@ -9892,8 +8844,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1696/">A Generative Model For Predicting Terrorist Incidents<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_005-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_005-poster.pdf">poster</a><br />
             Variants: doc-1009</a></td>
         <td>internal conference</td>
         <td>
@@ -9911,8 +8861,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1698/">Identifying the Patterns of Terrorism in India: A Two Mode Social Network Approach<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_010-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_010-poster.pdf">poster</a><br />
             Variants: doc-1340,doc-1252</a></td>
         <td>internal conference</td>
         <td>
@@ -9929,8 +8877,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1700/">Heuristic Algorithms for Influence Maximization with Partial Information<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_013-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_013-poster.pdf">poster</a><br />
             Variants: doc-1461</a></td>
         <td>internal conference</td>
         <td>
@@ -9950,8 +8896,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1702/">A Conceptual Framework of Group Evolution: Considerations for Decision Makers and Analysts<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_021-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_021-poster.pdf">poster</a><br />
             Variants: doc-1401</a></td>
         <td>internal conference</td>
         <td>
@@ -9968,8 +8912,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1704/">Parameterising the Dynamics of Inter-Group Conflict from Real World Data<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_022-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_022-poster.pdf">poster</a><br />
             Variants: doc-1419</a></td>
         <td>internal conference</td>
         <td>
@@ -9986,8 +8928,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1706/">Cognitive Computing for Coalition Situational Understanding<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_001-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_001-poster.pdf">poster</a><br />
             Variants: doc-1428</a></td>
         <td>internal conference</td>
         <td>
@@ -10005,8 +8945,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1708/">Distributed Opportunistic Sensing and Fusion for Traffic Congestion Detection<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_029-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_029-poster.pdf">poster</a><br />
             Variants: doc-1426</a></td>
         <td>internal conference</td>
         <td>
@@ -10029,8 +8967,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1710/">Interpretability of Deep Learning Models: A Survey of Results<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_012-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_012-poster.pdf">poster</a><br />
             Variants: doc-1399</a></td>
         <td>internal conference</td>
         <td>
@@ -10057,8 +8993,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1712/">SenseGen: A Deep Learning Architecture for Synthetic Sensor Data Generation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_037-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_037-poster.pdf">poster</a><br />
             Variants: doc-922</a></td>
         <td>internal conference</td>
         <td>
@@ -10074,8 +9008,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1714/">RSTensorFlow: GPU Enabled TensorFlow for Deep Learning on Commodity Android Devices<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_038-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_038-poster.pdf">poster</a><br />
             Variants: doc-1241</a></td>
         <td>internal conference</td>
         <td>
@@ -10091,9 +9023,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-1716/">A Practical Application of Black Box Interpretability<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_003-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_003-poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1716/">A Practical Application of Black Box Interpretability</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10113,8 +9043,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1718/">Towards an Architecture for Policy Based Management of Software Defined Coalitions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_011-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_011-poster.pdf">poster</a><br />
             Variants: doc-1417</a></td>
         <td>internal conference</td>
         <td>
@@ -10132,9 +9060,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1720/">Human-Agent Reasoning about Civil-Military Consideration Using Controlled Natural Language<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_016-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_016-poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1720/">Human-Agent Reasoning about Civil-Military Consideration Using Controlled Natural Language</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10147,9 +9073,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1726/">Recognition of Traffic Congestion State using a Deep Convolutional Network<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_006-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_006-poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1726/">Recognition of Traffic Congestion State using a Deep Convolutional Network</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10164,9 +9088,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1728/">Influence Maximisation on Networks Predicted by Generative Models<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_014-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_014-poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1728/">Influence Maximisation on Networks Predicted by Generative Models</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10182,9 +9104,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1730/">Robust Network Connectivity: a Percolation Study<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_046-paper_0.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_046-poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1730/">Robust Network Connectivity: a Percolation Study</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10201,9 +9121,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1733/">Resilient, Coding-Based Data Forwarding for Software Defined Mobile Tactical Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_019-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_019-poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1733/">Resilient, Coding-Based Data Forwarding for Software Defined Mobile Tactical Networks</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10218,9 +9136,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1735/">A Self-organizing SDN Architecture for Mobile Tactical Edge Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_028-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_028-Poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1735/">A Self-organizing SDN Architecture for Mobile Tactical Edge Networks</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10235,9 +9151,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1737/">On Quantifying Performance Enhancement of Distributed SDN Architecture<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_044-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_044-poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1737/">On Quantifying Performance Enhancement of Distributed SDN Architecture</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10251,9 +9165,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1739/">Toward Interconnection Abstractions to Realize Efficient and Agile SDC Networking<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_043-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_043-poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1739/">Toward Interconnection Abstractions to Realize Efficient and Agile SDC Networking</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10272,9 +9184,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1741/">Mathematical modeling framework for external group stability and fracture<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_027-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_027-poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1741/">Mathematical modeling framework for external group stability and fracture</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10292,9 +9202,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1743/">Mitigating Adversarial Examples in Neural Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/S_036-paper.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/S_036-poster.pdf">poster</a></a></td>
+        <td><a href="/doc-1743/">Mitigating Adversarial Examples in Neural Networks</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10341,9 +9249,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-1847/">Inference Privacy: A Paradigm for Protecting User Privacy Through Controlled Inferences<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/NIST.pdf">presentation</a></a></td>
+        <td><a href="/doc-1847/">Inference Privacy: A Paradigm for Protecting User Privacy Through Controlled Inferences</a></td>
         <td>invited talk</td>
         <td>
             <ul>
@@ -10356,8 +9262,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-3197/">Flexible SDN Control in Tactical Ad Hoc Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/L_013_P1T2_Poularakis.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/L_013-poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/FlexibleSdnControl_P1T2_Tassiulas.pdf">presentation</a><br />
             Variants: doc-3055</a></td>
         <td>internal conference</td>
         <td>
@@ -10374,9 +9278,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-4703/">Social Network Motifs: A Comparison of Social Groups<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1500.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/1500_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-4703/">Social Network Motifs: A Comparison of Social Groups</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10394,8 +9296,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4709/">Dynamic Patterns of Terrorist Networks: A Comparison of Common Structures in Terrorist Group Ties<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1501.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/1501_poster.pdf">poster</a><br />
             Variants: doc-2740</a></td>
         <td>external conference</td>
         <td>
@@ -10412,8 +9312,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-4711/">Energy Tradeoff among Communication, Computation and Caching with QoI-Guarantee in Wireless Sensor Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1513.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/1513_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/1513_slides.pdf">presentation</a><br />
             Variants: doc-3582</a></td>
         <td>internal conference</td>
         <td>
@@ -10430,9 +9328,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5846/">Distributed Machine Learning at Resource-Limited Tactical Edge: Performance Bound and Control Algorithm<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1527_poster.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/1527_slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-5846/">Distributed Machine Learning at Resource-Limited Tactical Edge: Performance Bound and Control Algorithm</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10450,9 +9346,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5847/">It's Hard to be Social: Joint Service Placement and Request Scheduling for Social Edge Applications<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1443_0.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/1443_poster_0.pdf">poster</a>, <a href="https://dais-ita.org/sites/default/files/1443_slides_0.pdf">presentation</a></a></td>
+        <td><a href="/doc-5847/">It's Hard to be Social: Joint Service Placement and Request Scheduling for Social Edge Applications</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10468,9 +9362,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5860/">Analytics Capacity: Theoretical Formulation and Scaling Laws<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1529_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-5860/">Analytics Capacity: Theoretical Formulation and Scaling Laws</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10486,9 +9378,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5861/">istributed Machine Learning at Resource-Limited Tactical Edge: Demo<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1528_poster.pdf">poster</a></a></td>
+        <td><a href="/doc-5861/">istributed Machine Learning at Resource-Limited Tactical Edge: Demo</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -10505,9 +9395,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5862/">Data Transfer for Distributed Analytics with Latency Constraints<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1530_0.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/1530_poster_0.pdf">poster</a></a></td>
+        <td><a href="/doc-5862/">Data Transfer for Distributed Analytics with Latency Constraints</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -10521,8 +9409,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-5863/">Online Mechanism Design for Resource Allocation using Reinforcement Learning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1542.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/1542_poster.pdf">poster</a><br />
             Variants: doc-5781</a></td>
         <td>internal conference</td>
         <td>
@@ -10540,9 +9426,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1352/">Do Sticky Elites Produce Online Knowledge of Higher Quality?<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Asonam.pdf">paper</a></a></td>
+        <td><a href="/doc-1352/">Do Sticky Elites Produce Online Knowledge of Higher Quality?</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -10556,9 +9440,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-1392/">Bringing SDN to the Mobile Edge<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/dais17-BringingSDN.pdf">paper</a></a></td>
+        <td><a href="/doc-1392/">Bringing SDN to the Mobile Edge</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -10574,9 +9456,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1393/">SFP: Toward a Scalable, Efficient, Stable Protocol for Federation of Software Defined Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/IEEE-SWC-DAIS-24.pdf">paper</a></a></td>
+        <td><a href="/doc-1393/">SFP: Toward a Scalable, Efficient, Stable Protocol for Federation of Software Defined Networks</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -10594,8 +9474,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1395/">Unicorn: Unified Resource Orchestration for Multi-Domain, Geo-Distributed Data Analytics<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/IEEE-SWC-DAIS-18.pdf">paper</a><br />
             Variants: doc-1975,doc-3592</a></td>
         <td>external conference</td>
         <td>
@@ -10614,9 +9492,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1397/">Generative Policy model for Autonomic Management<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/AutonomicManagement-v04.pdf">paper</a></a></td>
+        <td><a href="/doc-1397/">Generative Policy model for Autonomic Management</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -10635,8 +9511,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1399/">Interpretability of Deep Learning Models: A Survey of Results<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Interpretability_DL_Results.pdf">paper</a><br />
             Variants: doc-1710</a></td>
         <td>external conference</td>
         <td>
@@ -10663,8 +9537,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1401/">A Conceptual Framework of Group Evolution: Considerations for Decision Makers and Analysts<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/IEEE-SWC-DAIS-23.pdf">paper</a><br />
             Variants: doc-1702</a></td>
         <td>external conference</td>
         <td>
@@ -10681,8 +9553,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1403/">Next Generation Firewalls for Dynamic Coalitions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/PID4848197.pdf">paper</a><br />
             Variants: doc-1683</a></td>
         <td>external conference</td>
         <td>
@@ -10701,9 +9571,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1405/">Argumentation-based Policy Analysis for Drone Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Argumentation-based_PA_Drone_Systems.pdf">paper</a></a></td>
+        <td><a href="/doc-1405/">Argumentation-based Policy Analysis for Drone Systems</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -10718,9 +9586,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1407/">Verification Techniques for Policy based Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Verification_Techniques.pdf">paper</a></a></td>
+        <td><a href="/doc-1407/">Verification Techniques for Policy based Systems</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -10735,8 +9601,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1409/">Opportunities and Challenges for Named Data Networking to Increase the Agility of Military Coalitions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/ndn-for-coalitions.pdf">paper</a><br />
             Variants: doc-1691</a></td>
         <td>external conference</td>
         <td>
@@ -10755,8 +9619,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1410/">Data Distribution and Scheduling for Distributed Analytics Tasks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/SP_DAISWorkshop2017.pdf">paper</a><br />
             Variants: doc-1689</a></td>
         <td>external conference</td>
         <td>
@@ -10773,9 +9635,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1411/">Physics-inspired Models for Agile Code and Data in Federated Edges<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/DAIS17-SWC-Physics-inspired-models.pdf">paper</a></a></td>
+        <td><a href="/doc-1411/">Physics-inspired Models for Agile Code and Data in Federated Edges</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -10795,8 +9655,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1415/">Decision-Making in Policy Governed Human-Autonomous Systems Teams<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/DAIS_DM_teams.pdf">paper</a><br />
             Variants: doc-1685</a></td>
         <td>external conference</td>
         <td>
@@ -10814,8 +9672,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1417/">Towards an Architecture for Policy-Based Management of Software Defined Coalitions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/IEEE-SWC-DAIS-17_new2.pdf">paper</a><br />
             Variants: doc-1718</a></td>
         <td>external conference</td>
         <td>
@@ -10834,8 +9690,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1419/">Parameterising the Dynamics of Inter-Group Conflict from Real World Data<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/IEEE-SWC-DAIS-17.pdf">paper</a><br />
             Variants: doc-1704</a></td>
         <td>external conference</td>
         <td>
@@ -10851,9 +9705,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1420/">Influence Maximisation beyond Organisational Boundaries<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/IEEE-SWC-DAIS-19_0.pdf">paper</a></a></td>
+        <td><a href="/doc-1420/">Influence Maximisation beyond Organisational Boundaries</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -10868,9 +9720,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1422/">Mathematical models for social group behavior<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/IEEE-SWC-DAIS-13_vs03.pdf">paper</a></a></td>
+        <td><a href="/doc-1422/">Mathematical models for social group behavior</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -10888,9 +9738,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1424/">Decentralized Microservice Workflows for Coalition Environments<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/dais-2017-paper-final.pdf">paper</a></a></td>
+        <td><a href="/doc-1424/">Decentralized Microservice Workflows for Coalition Environments</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -10907,8 +9755,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1426/">Distributed Opportunistic Sensing and Fusion for Traffic Congestion Detection<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/IEEE-SWC-DAIS-12.pdf">paper</a><br />
             Variants: doc-1708</a></td>
         <td>external conference</td>
         <td>
@@ -10931,8 +9777,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1428/">Cognitive Computing for Coalition Situational Understanding<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/IEEE-SWC-DAIS-26.pdf">paper</a><br />
             Variants: doc-1706</a></td>
         <td>external conference</td>
         <td>
@@ -10950,8 +9794,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1453/">Human-in-the-Loop Situational Understanding via Subjective Bayesian Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Human_in_the_Loop_Situational_Understanding_via_Subjective_Bayesian_Networks.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/U.Presentation.GKR17-Situational_Understanding.pdf">presentation</a><br />
             Variants: doc-1673</a></td>
         <td>external conference</td>
         <td>
@@ -10971,8 +9813,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1461/">Heuristic Algorithms for Influence Maximization in Partially Observable Social Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/heuristic-algorithms-influence.pdf">paper</a><br />
             Variants: doc-1700</a></td>
         <td>external conference</td>
         <td>
@@ -10990,9 +9830,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1642/">Simple Human Experiments Regarding Locally Observed Collective Knowledge (SHERLOCK)<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/SHERLOCK_Almaden_August_2017.pdf">presentation</a></a></td>
+        <td><a href="/doc-1642/">Simple Human Experiments Regarding Locally Observed Collective Knowledge (SHERLOCK)</a></td>
         <td>invited talk</td>
         <td>
             <ul>
@@ -11004,9 +9842,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-1947/">Live Service Migration in Mobile Edge Clouds<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/abstract/document/8000803">paper</a></a></td>
+        <td><a href="/doc-1947/">Live Service Migration in Mobile Edge Clouds</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -11023,8 +9859,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-2209/">Subjective Bayesian Networks and Human-in-the-Loop Situational Understanding<br />
-            <br />
-            Download: <a href="https://link.springer.com/chapter/10.1007/978-3-319-78102-0_2">paper</a><br />
             Variants: doc-5788</a></td>
         <td>book chapter</td>
         <td>
@@ -11045,8 +9879,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1276/">Deep Learning for Situational Understanding<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Deep_Learning_for_Situational_Understanding_camera_ready.pdf">paper</a><br />
             Variants: doc-1675</a></td>
         <td>external conference</td>
         <td>
@@ -11065,8 +9897,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1286/">Intra-Group Tension under Inter-group Conflict: A Generative Model using Group Social Norms and Identity<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Whitaker_Roger_2236.pdf">paper</a><br />
             Variants: doc-1665</a></td>
         <td>external conference</td>
         <td>
@@ -11084,9 +9914,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1298/">On the Evolution of ndnSIM: an Open-Source Simulator for NDN Experimentation<br />
-            <br />
-            Download: <a href="https://dl.acm.org/doi/10.1145/3138808.3138812">paper</a></a></td>
+        <td><a href="/doc-1298/">On the Evolution of ndnSIM: an Open-Source Simulator for NDN Experimentation</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -11100,9 +9928,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-1315/">Hold'em Caching: Proactive Retention-Aware Caching with Multi-path Routing for Wireless Edge Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Shukla17HoldEmCaching_mobihoc17.pdf">paper</a></a></td>
+        <td><a href="/doc-1315/">Hold'em Caching: Proactive Retention-Aware Caching with Multi-path Routing for Wireless Edge Networks</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11119,8 +9945,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1340/">Identifying the Patterns of Terrorism in India: A Two Mode Social Network Approach<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/SBP-BRiMS_2017_paper_93_Rithvik_Final.pdf">paper</a><br />
             Variants: doc-1698,doc-1252</a></td>
         <td>external conference</td>
         <td>
@@ -11136,8 +9960,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1218/">Mission Support for Drones: A Policy Based Approach<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Mission Support for Drones.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/Mission Support for Drones 2017-06-05_1.pdf">presentation</a><br />
             Variants: doc-1687</a></td>
         <td>external conference</td>
         <td>
@@ -11156,8 +9978,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1224/">A Cognitive Policy Framework for Next-Generation Distributed Federated Systems - Concepts and Research Directions<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/PID4724341.pdf">paper</a><br />
             Variants: doc-1659</a></td>
         <td>external conference</td>
         <td>
@@ -11175,9 +9995,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1229/">NOVA: Towards On-Demand Equivalent Network View Abstraction for Network Optimization<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/IWQOS2017-NOVA.pdf">paper</a></a></td>
+        <td><a href="/doc-1229/">NOVA: Towards On-Demand Equivalent Network View Abstraction for Network Optimization</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11194,8 +10012,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1234/">Provenance-based Analytics Services for Access Control Policies<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/IEEE-Services_0.pdf">paper</a><br />
             Variants: doc-1661</a></td>
         <td>external conference</td>
         <td>
@@ -11215,8 +10031,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1241/">RSTensorFlow: GPU Enabled TensorFlow for Deep Learning on Commodity Android Devices<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/rstensorflow_camera_ready.pdf">paper</a><br />
             Variants: doc-1714</a></td>
         <td>external conference</td>
         <td>
@@ -11232,9 +10046,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-1247/">SHERLOCK: Experimental evaluation of a conversational agent for mobile information tasks<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/7936494">paper</a></a></td>
+        <td><a href="/doc-1247/">SHERLOCK: Experimental evaluation of a conversational agent for mobile information tasks</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -11250,9 +10062,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1266/">LRU Cache under Stationary Requests<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/MAMA-JNT17.pdf">paper</a></a></td>
+        <td><a href="/doc-1266/">LRU Cache under Stationary Requests</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11266,9 +10076,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-1270/">Hit Rate vs. Hit Probability Based Cache Utility Maximization<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Nitish-Jian-Don-mama17.pdf">paper</a></a></td>
+        <td><a href="/doc-1270/">Hit Rate vs. Hit Probability Based Cache Utility Maximization</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11282,9 +10090,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-1324/">SOM-TC: Self-Organizing Map for Hierarchical Trajectory Clustering<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/som-tc.pdf">paper</a></a></td>
+        <td><a href="/doc-1324/">SOM-TC: Self-Organizing Map for Hierarchical Trajectory Clustering</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11300,9 +10106,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
     <tr>
         <td><a href="/doc-1326/">Falling Behind: Dynamic Models of the Costs of High School Transitions for Social Networks and GPA<br />
             <br />
-            <em>Best poster award</em><br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Felmlee_etal_Transitions_6_12_17_DAIS-ITA.pdf">paper</a></a></td>
+            <em>Best poster award</em></a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11317,9 +10121,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-1363/">Dynamic Policies for Cooperative Networked Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1707.08002.pdf">paper</a></a></td>
+        <td><a href="/doc-1363/">Dynamic Policies for Cooperative Networked Systems</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11332,9 +10134,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4266/">Distributed Intelligence: Trends in the Management of Complex Systems<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/p1-calo.pdf">paper</a></a></td>
+        <td><a href="/doc-4266/">Distributed Intelligence: Trends in the Management of Complex Systems</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11348,9 +10148,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4504/">On Pairwise Clustering with Side Information<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/1190_paper.pdf">paper</a></a></td>
+        <td><a href="/doc-4504/">On Pairwise Clustering with Side Information</a></td>
         <td>tech report</td>
         <td>
             <ul>
@@ -11365,9 +10163,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-5032/">Online Learning-Assisted VNF Service Chain Scaling with Network Uncertainties<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/4965.pdf">paper</a></a></td>
+        <td><a href="/doc-5032/">Online Learning-Assisted VNF Service Chain Scaling with Network Uncertainties</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11383,8 +10179,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1085/">Policy Conflict Resolution in IoT via Planning<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/canadian-ai.pdf">paper</a><br />
             Variants: doc-1677</a></td>
         <td>external conference</td>
         <td>
@@ -11401,9 +10195,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-998/">Comparing Software Defined Architectures for Coalition Operations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/SDN-Arch-Comparison-v04.pdf">paper</a></a></td>
+        <td><a href="/doc-998/">Comparing Software Defined Architectures for Coalition Operations</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11419,8 +10211,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1009/">A Generative Model For Predicting Terrorist Incidents<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/GenerativeTerrorism-Paper-Final-Clean.pdf">paper</a><br />
             Variants: doc-1696</a></td>
         <td>external conference</td>
         <td>
@@ -11437,9 +10227,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1017/">A blockchain based architecture for asset management in coalition operations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Block-Chain-Coalitions-v03.pdf">paper</a></a></td>
+        <td><a href="/doc-1017/">A blockchain based architecture for asset management in coalition operations</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11454,9 +10242,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1019/">Dynamic Network based Learning Systems for Sensor Information Fusion<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Network-MachineLearning-v04.pdf">paper</a></a></td>
+        <td><a href="/doc-1019/">Dynamic Network based Learning Systems for Sensor Information Fusion</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11469,9 +10255,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1021/">From Evolution to Revolution: Understanding Mutability in Large and Disruptive Human Groups<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/mutability.pdf">paper</a></a></td>
+        <td><a href="/doc-1021/">From Evolution to Revolution: Understanding Mutability in Large and Disruptive Human Groups</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11487,9 +10271,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1023/">Coalitions of Things: Supporting ISR Tasks via Internet of Things Approaches<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/dais_spie2017_0.pdf">paper</a></a></td>
+        <td><a href="/doc-1023/">Coalitions of Things: Supporting ISR Tasks via Internet of Things Approaches</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11511,8 +10293,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1024/">Framework for behavioral analytics in anomaly identification<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Microsoft Word - SPIE-Behaviors-Generative-Policies.Final_.pdf">paper</a><br />
             Variants: doc-1679</a></td>
         <td>external conference</td>
         <td>
@@ -11529,9 +10309,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1026/">Using machine learning to emulate human hearing for predictive maintenance of equipment<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/10190-51.pdf">paper</a></a></td>
+        <td><a href="/doc-1026/">Using machine learning to emulate human hearing for predictive maintenance of equipment</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11544,9 +10322,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1031/">Audio Analysis as a Control Knob for Social Sensing<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/AudioAnalysis_v5.pdf">paper</a></a></td>
+        <td><a href="/doc-1031/">Audio Analysis as a Control Knob for Social Sensing</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11562,9 +10338,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1083/">Instinctive analytics for coalition operations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/10190-7.pdf">presentation</a></a></td>
+        <td><a href="/doc-1083/">Instinctive analytics for coalition operations</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11585,9 +10359,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1108/">Dynamic and adaptive policy models for coalition operations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/10190-5.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/10190-5-slides.pdf">presentation</a></a></td>
+        <td><a href="/doc-1108/">Dynamic and adaptive policy models for coalition operations</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11607,8 +10379,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1110/">Tractable Policy Management Framework for Cognitive IoT<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/10190-11.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/10190-11-slides.pdf">presentation</a><br />
             Variants: doc-1681</a></td>
         <td>external conference</td>
         <td>
@@ -11624,9 +10394,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-1243/">Smart coalition systems: a deep machine learning approach<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Smart Coalition_Final_v1.pdf">presentation</a></a></td>
+        <td><a href="/doc-1243/">Smart coalition systems: a deep machine learning approach</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11643,9 +10411,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-999/">Invocation Oriented Architecture for Agile Code and Agile Data<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/InvocationOrientedArchitecture-v03.pdf">paper</a></a></td>
+        <td><a href="/doc-999/">Invocation Oriented Architecture for Agile Code and Agile Data</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11661,8 +10427,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1252/">Identifying the Patterns of Terrorism in India: A Two Mode Social Network Approach<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Poster-India_6.13_Rithvik_SG.pdf">poster</a><br />
             Variants: doc-1698,doc-1340</a></td>
         <td>poster</td>
         <td>
@@ -11678,9 +10442,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-1294/">Automation Bias with a Conversational Interface: User confirmation of misparsed information<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/CogSIMA2017_170322.pdf">paper</a></a></td>
+        <td><a href="/doc-1294/">Automation Bias with a Conversational Interface: User confirmation of misparsed information</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11695,9 +10457,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-912/">Non-negative matrix factorization of signals with overlapping events for event detection applications<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Wang.pdf">paper</a></a></td>
+        <td><a href="/doc-912/">Non-negative matrix factorization of signals with overlapping events for event detection applications</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11711,8 +10471,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-922/">SenseGen: A Deep Learning Architecture for Synthetic Sensor Data Generation<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/sensegen.pdf">paper</a><br />
             Variants: doc-1712</a></td>
         <td>external conference</td>
         <td>
@@ -11727,9 +10485,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-1103/">A Knowledge Driven Policy Framework for Internet of Things<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/icaart-2017_0.pdf">paper</a></a></td>
+        <td><a href="/doc-1103/">A Knowledge Driven Policy Framework for Internet of Things</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11748,8 +10504,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td><a href="/doc-915/">Conversational Homes<br />
             <br />
             <em>Best paper award</em><br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Conversational_homes.pdf">paper</a>, <a href="https://dais-ita.org/sites/default/files/Conversational homes v1.0.pdf">presentation</a><br />
             Variants: doc-1963</a></td>
         <td>external conference</td>
         <td>
@@ -11767,9 +10521,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
     <tr>
         <td><a href="/doc-919/">Towards A Distributed Federated Brain Architecture using Cognitive IoT Devices<br />
             <br />
-            <em>Best paper award</em><br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Distributed Brain-v05.pdf">paper</a></a></td>
+            <em>Best paper award</em></a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11783,9 +10535,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-920/">Online Placement of Multi-Component Applications in Edge Computing Environments<br />
-            <br />
-            Download: <a href="https://ieeexplore.ieee.org/document/7847322">paper</a></a></td>
+        <td><a href="/doc-920/">Online Placement of Multi-Component Applications in Edge Computing Environments</a></td>
         <td>journal</td>
         <td>
             <ul>
@@ -11799,9 +10549,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-934/">Agile Knowledge Representation to support Open Source Intelligence<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/Agile knowledge representation for OS int v1.0.pdf">presentation</a></a></td>
+        <td><a href="/doc-934/">Agile Knowledge Representation to support Open Source Intelligence</a></td>
         <td>invited talk</td>
         <td>
             <ul>
@@ -11814,8 +10562,6 @@ All of the publications from the DAIS ITA program are listed in the table below.
     </tr>
     <tr>
         <td><a href="/doc-1963/">Conversational Homes: A Uniform Natural Language Approach for Collaboration Among Humans and Devices<br />
-            <br />
-            Download: <a href="http://orca.cf.ac.uk/108371/">paper</a><br />
             Variants: doc-915</a></td>
         <td>journal</td>
         <td>
@@ -11833,9 +10579,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-941/">Mistake Bounds for Binary Matrix Completion<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/cf-star-3.pdf">paper</a></a></td>
+        <td><a href="/doc-941/">Mistake Bounds for Binary Matrix Completion</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11849,9 +10593,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-1051/">ORSAP: Abstracting Routing State on Demand<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/2016-icnp-orsap.pdf">paper</a></a></td>
+        <td><a href="/doc-1051/">ORSAP: Abstracting Routing State on Demand</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11868,9 +10610,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-52/">Leveraging SDN for Cyber Situational Awareness in Coalition Tactical Networks<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/IST148-paper-final.pdf">paper</a></a></td>
+        <td><a href="/doc-52/">Leveraging SDN for Cyber Situational Awareness in Coalition Tactical Networks</a></td>
         <td>external conference</td>
         <td>
             <ul>
@@ -11884,9 +10624,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-926/">US UK Collaborative Research in Coalition Operations : Current Results and Future Explorations<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/NATO-TIDE-DineshVerma.pdf">presentation</a></a></td>
+        <td><a href="/doc-926/">US UK Collaborative Research in Coalition Operations : Current Results and Future Explorations</a></td>
         <td>invited talk</td>
         <td>
             <ul>
@@ -11899,9 +10637,7 @@ All of the publications from the DAIS ITA program are listed in the table below.
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1037/">Magellan: Generating Multi-Table Datapath from Datapath Oblivious Algorithmic SDN Policies<br />
-            <br />
-            Download: <a href="https://dais-ita.org/sites/default/files/magellan-new-v1.pdf">paper</a></a></td>
+        <td><a href="/doc-1037/">Magellan: Generating Multi-Table Datapath from Datapath Oblivious Algorithmic SDN Policies</a></td>
         <td>external conference</td>
         <td>
             <ul>
