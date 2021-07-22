@@ -150,16 +150,6 @@ the tables below.
         <td>0</td>
         <td><strong>220</strong></td>
     </tr>
-    <tr>
-        <td><strong>total</strong></td>
-        <td><strong>5</strong></td>
-        <td><strong>157</strong></td>
-        <td><strong>170</strong></td>
-        <td><strong>212</strong></td>
-        <td><strong>95</strong></td>
-        <td><strong>7</strong></td>
-        <td><strong>646</strong></td>
-    </tr>
     </tbody>
 </table>
 
@@ -206,6 +196,73 @@ the tables below.
         <td><strong>95</strong></td>
         <td><strong>7</strong></td>
         <td><strong>646</strong></td>
+    </tr>
+    </tbody>
+</table>
+
+## Collaborative behaviour
+
+<table>
+    <tbody>
+    <tr>
+        <td><strong>Collaboration</strong></td>
+        <td><strong>2016</strong></td>
+        <td><strong>2017</strong></td>
+        <td><strong>2018</strong></td>
+        <td><strong>2019</strong></td>
+        <td><strong>2020</strong></td>
+        <td><strong>2021</strong></td>
+        <td><strong>total</strong></td>
+    </tr>
+    <tr>
+        <td><strong>single institute</strong></td>
+        <td>1 (25%)</td>
+        <td>10 (11%)</td>
+        <td>9 (8%)</td>
+        <td>30 (22%)</td>
+        <td>22 (31%)</td>
+        <td>0 (0%)</td>
+        <td>72 (17%)</td>
+    </tr>
+    <tr>
+        <td><strong>collaborative</strong></td>
+        <td>3 (75%)</td>
+        <td>85 (89%)</td>
+        <td>105 (92%)</td>
+        <td>106 (78%)</td>
+        <td>48 (69%)</td>
+        <td>7 (100%)</td>
+        <td>354 (83%)</td>
+    </tr>
+    <tr>
+        <td><strong>international</strong></td>
+        <td>1 (25%)</td>
+        <td>62 (65%)</td>
+        <td>56 (49%)</td>
+        <td>73 (54%)</td>
+        <td>28 (40%)</td>
+        <td>3 (43%)</td>
+        <td>223 (52%)</td>
+    </tr>
+    <tr>
+        <td><strong>government</strong></td>
+        <td>1 (25%)</td>
+        <td>28 (29%)</td>
+        <td>38 (33%)</td>
+        <td>43 (32%)</td>
+        <td>16 (23%)</td>
+        <td>2 (29%)</td>
+        <td>128 (30%)</td>
+    </tr>
+    <tr>
+        <td><strong>active DAIS authors</strong></td>
+        <td>9</td>
+        <td>134</td>
+        <td>148</td>
+        <td>192</td>
+        <td>120</td>
+        <td>21</td>
+        <td>298</td>
     </tr>
     </tbody>
 </table>
