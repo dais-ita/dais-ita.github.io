@@ -33,7 +33,7 @@ and, in some cases, a demonstration or presentation video.
 * [Enabling rapidly formed human-agent coalition teams through extensible information exchange](/1c01/)
 * [Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
 * [Federated Inference using Self-Generated Policy](/1c03/)
-* [Zero Shot Learning for Unknown IoT Device Identification](/1c04/)
+* [New Device Detection and Description in an Internet or Device Network](/1c04/)
 * [Adaptive AI systems for human-machine federated predictions](/1c05/)
 * [Answer Set Grammar Learner](/1c07/)
 * [FastLAS](/1c08/)
