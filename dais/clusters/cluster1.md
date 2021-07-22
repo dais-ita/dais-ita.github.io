@@ -12,7 +12,7 @@ and, in some cases, a demonstration or presentation video.
 ## Representation and composition of complex analytics
 * [Dynamic Communications Re-planning Using VSA](/1a02/)
 * [Addressing for Intelligent Routing in Mobile Military Networks](/1a03/)
-* [Mapping between coalition vector spaces](/1a04/)
+* [Semantic Vector Mapping for Coalition Operations](/1a04/)
 * [Combining VSA aspects and AI services using edge deployment](/1a05/)
 * [Cognitive Workflows using reinforcement learning and compositional plan vectors](/1a06/)
 * [Federated Learning in a Resource Constrained Networked Environment](/1a08/)
