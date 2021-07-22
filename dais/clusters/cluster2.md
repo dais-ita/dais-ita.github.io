@@ -10,7 +10,6 @@ and, in some cases, a demonstration or presentation video.
 
 ## Control and Architecture of SDC
 * [Robust Network & Learning Architectures for SDC](/2a01/)
-<!-- * [Service placement and Topology Inference - Replaced by 2a03 & 2a04?](/2a02/)-->
 * [Topology Inference](/2a03/)
 * [Service Placement](/2a04/)
 * [Graph attention networks (GAT) for congestion and mobility prediction](/2a05/)
@@ -19,6 +18,7 @@ and, in some cases, a demonstration or presentation video.
 * [Resource Sharing in SDC](/1f05/)
 * [Control plane architecture](/2a08/)
 * [Enhancing Coalition Networking using SDC – an Overview](/2a09/)
+<!-- * [Service placement and Topology Inference - Replaced by 2a03 & 2a04?](/2a02/)-->
 
 ## Robust Learning for dynamic networks
 * [Joint Reinforcement & Transfer learning for Distributed Service Configuration in Fragmented SDC](/2b01/)
