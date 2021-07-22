@@ -6,6 +6,11 @@ title: "Publication Statistics"
 
 This page shows the statistics for all of the [publications from the DAIS ITA research program](/science-library/).
 
+Publications are split into external (journal, conference or patent) outputs, verses 'other' types as shown in
+the tables below.
+
+## External publications
+
 <table>
     <tbody>
     <tr>
@@ -47,6 +52,33 @@ This page shows the statistics for all of the [publications from the DAIS ITA re
         <td>46</td>
         <td>1</td>
         <td><strong>340</strong></td>
+    </tr>
+    <tr>
+        <td><strong>total external</strong></td>
+        <td>4</td>
+        <td>95</td>
+        <td>114</td>
+        <td>136</td>
+        <td>70</td>
+        <td>7</td>
+        <td><strong>426</strong></td>
+    </tr>
+    </tbody>
+</table>
+
+## Other publications
+
+<table>
+    <tbody>
+    <tr>
+        <td><strong>Paper type</strong></td>
+        <td><strong>2016</strong></td>
+        <td><strong>2017</strong></td>
+        <td><strong>2018</strong></td>
+        <td><strong>2019</strong></td>
+        <td><strong>2020</strong></td>
+        <td><strong>2021</strong></td>
+        <td><strong>total</strong></td>
     </tr>
     <tr>
         <td><strong>internal conference</strong></td>
@@ -109,6 +141,16 @@ This page shows the statistics for all of the [publications from the DAIS ITA re
         <td><strong>8</strong></td>
     </tr>
     <tr>
+        <td><strong>total internal</strong></td>
+        <td>1</td>
+        <td>62</td>
+        <td>56</td>
+        <td>76</td>
+        <td>25</td>
+        <td>0</td>
+        <td><strong>220</strong></td>
+    </tr>
+    <tr>
         <td><strong>total</strong></td>
         <td><strong>5</strong></td>
         <td><strong>157</strong></td>
@@ -120,3 +162,51 @@ This page shows the statistics for all of the [publications from the DAIS ITA re
     </tr>
     </tbody>
 </table>
+
+## Total publications
+
+<table>
+    <tbody>
+    <tr>
+        <td><strong>Paper type</strong></td>
+        <td><strong>2016</strong></td>
+        <td><strong>2017</strong></td>
+        <td><strong>2018</strong></td>
+        <td><strong>2019</strong></td>
+        <td><strong>2020</strong></td>
+        <td><strong>2021</strong></td>
+        <td><strong>total</strong></td>
+    </tr>
+    <tr>
+        <td><strong>total external</strong></td>
+        <td>4</td>
+        <td>95</td>
+        <td>114</td>
+        <td>136</td>
+        <td>70</td>
+        <td>7</td>
+        <td><strong>426</strong></td>
+    </tr>
+    <tr>
+        <td><strong>total internal</strong></td>
+        <td>1</td>
+        <td>62</td>
+        <td>56</td>
+        <td>76</td>
+        <td>25</td>
+        <td>0</td>
+        <td><strong>220</strong></td>
+    </tr>
+    <tr>
+        <td><strong>total</strong></td>
+        <td><strong>5</strong></td>
+        <td><strong>157</strong></td>
+        <td><strong>170</strong></td>
+        <td><strong>212</strong></td>
+        <td><strong>95</strong></td>
+        <td><strong>7</strong></td>
+        <td><strong>646</strong></td>
+    </tr>
+    </tbody>
+</table>
+
