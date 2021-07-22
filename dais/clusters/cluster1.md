@@ -35,7 +35,6 @@ and, in some cases, a demonstration or presentation video.
 * [Federated Inference using Self-Generated Policy](/1c03/)
 * [Zero Shot Learning for Unknown IoT Device Identification](/1c04/)
 * [Adaptive AI systems for human-machine federated predictions](/1c05/)
-* [Understanding Sensor Data via Question Answering with DeepSQA](/1c06/)
 * [Answer Set Grammar Learner](/1c07/)
 * [FastLAS](/1c08/)
 * [Online multi-task learning with long-term memory](/1c09/)
