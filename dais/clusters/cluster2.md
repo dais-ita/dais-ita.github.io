@@ -10,7 +10,7 @@ and, in some cases, a demonstration or presentation video.
 
 ## Control and Architecture of SDC
 * [Robust Network & Learning Architectures for SDC](/2a01/)
-* [Service placement and Topology Inference - Replaced by 2a03 & 2a04?](/2a02/)
+<!-- * [Service placement and Topology Inference - Replaced by 2a03 & 2a04?](/2a02/)-->
 * [Topology Inference](/2a03/)
 * [Service Placement](/2a04/)
 * [Graph attention networks (GAT) for congestion and mobility prediction](/2a05/)
