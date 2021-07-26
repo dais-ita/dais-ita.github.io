@@ -32,7 +32,7 @@ title: "Leveraging SDN for Cyber Situational Awareness in Coalition Tactical Net
     </tr>
         <tr>
             <td colspan="2">
-                <form method="get" action="https://dais-ita.org/sites/default/files/IST148-paper-final.pdf">
+                <form method="get" action="https://ibm.box.com/v/doc-52-paper">
                     <button type="submit">download paper</button>
                 </form>
             </td>
