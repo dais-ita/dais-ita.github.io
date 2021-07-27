@@ -28,7 +28,7 @@ and, in some cases, a demonstration or presentation video.
 ## Rapid characterization of coalition network infrastructure
 * [Adverserial Networks (GANs) Adversarial Domain Adaptation Learning for Ground Vehicle Acoustic Sound Classification](/2c01/)
 * [Privacy-preserving Learning Techniques based on (GANs)](/2c02/)
-* [Answer Set Grammar Learner](/2c03/)
+* [Answer Set Grammar Learner](/1c07/)
 * [FastLAS](/1c08/)
 * [Policy Generation for Edge Devices in Coalitions](/2c04/)
 * [A Security-constrained Reinforcement Learning Framework for Software Defined Networks](/2c05/)
