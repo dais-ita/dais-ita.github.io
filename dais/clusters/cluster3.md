@@ -9,7 +9,7 @@ achievement there are details about military relevance, scientific advances prov
 and, in some cases, a demonstration or presentation video.
 
 ## Rapid assessment of a dynamic information environment
-* [Learning Features of Network Structures using Graphlets](/3a03/)
+* [Understanding social networks from the local behaviours within the network](/3a03/)
 * [Uncovering Structural Motifs in Positive and Negative Networks](/3a05/)
 * [Predicting Spread of Curse Words on Social Network](/3a06/)
 * [Dynamic Patterns of Terrorist Networks](/3a10/)
@@ -21,6 +21,6 @@ and, in some cases, a demonstration or presentation video.
 * [Effect of organizational structure on cultural influence](/3b03/)
   
 ## The social dynamics of Propagation, Polarisation and Prediction
-* [Generative Modelling of Human Groups](/3c01/)
+* [Modelling the Emergent Behaviour of Human Social Groups](/3c01/)
 * [Human agent reasoning using Controlled Natural Language](/3a04/)
 * [Framework for Modeling the Effect of Emotion on Uncritical Reasoning](/3a05/)
