@@ -6,6 +6,9 @@ permalink: /ELP/
 ## Evidential Logic Programming (ELP)
 Evidential Logic Programming aims at providing uncertainty-aware learning and reasonig capabilities to logical programming languages, such as Prolog, so to encompass both epistemic and aleatory uncertainty.
 
+For further details, please see the following tutorials:
+* [ELP-tutorial](https://youtu.be/D1t1GFZsD8Y)
+
 ## Achievements
 ELP features in [Enabling rapidly formed human-agent coalition teams through extensible information exchange](/1c01/).
 
