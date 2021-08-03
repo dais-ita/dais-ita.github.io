@@ -7,7 +7,7 @@ permalink: /DeepProbCEP/
 DeepProbCEP is a neuro-symbolic architecture based on Event Calculus and Logic Programming that can perform Complex Event Processing (CEP), i.e. detecting patterns of interrelated events that form situations of interest, in particular when they tend to be uncommon, which means that only sparse, noisy data is available.
 
 ## Achievements
-ELR features in 
+DeepProbCEP features in 
 * [Enabling rapidly formed human-agent coalition teams through extensible information exchange](/1c01/);
 
 
