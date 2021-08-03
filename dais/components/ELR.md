@@ -7,6 +7,9 @@ permalink: /ELR/
 Evidential Learning and Reasoning aims at providing uncertainty-aware learning and 
 reasoning capabilities to AI systems, so to encompass both epistemic and aleatory uncertainty.
 
+For further details, please see the following tutorials:
+* [ELP-tutorial](https://youtu.be/D1t1GFZsD8Y)
+
 ## Achievements
 ELR features in 
 * [Enabling rapidly formed human-agent coalition teams through extensible information exchange](/1c01/);
