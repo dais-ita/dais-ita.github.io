@@ -16,7 +16,7 @@ and, in some cases, a demonstration or presentation video.
 * [AI based Analysis of Terrorism Events](/3a13/)
 
 ## Impact of social dynamics on problem-solving in Coalitions
-* [Controlling opinion spread in social networks in competitive setting](/3b01/)
+* [Winning Hearts and Minds: Maximising Influence in Social Networks](/3b01/)
 * [Efficient collective problem solving](/3b02/)
 * [Effect of organizational structure on cultural influence](/3b03/)
   
