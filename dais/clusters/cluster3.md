@@ -11,7 +11,7 @@ and, in some cases, a demonstration or presentation video.
 ## Rapid assessment of a dynamic information environment
 * [Understanding social networks from the local behaviours within the network](/3a03/)
 * [Uncovering Structural Motifs in Positive and Negative Networks](/3a05/)
-* [Predicting Spread of Curse Words on Social Network](/3a06/)
+* [Predicting Spread of Negative Attitudes and Behaviours in Social Networks](/3a06/)
 * [Dynamic Patterns of Terrorist Networks](/3a10/)
 * [AI based Analysis of Terrorism Events](/3a13/)
 
