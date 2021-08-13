@@ -13,7 +13,7 @@ and, in some cases, a demonstration or presentation video.
 * [Uncovering Structural Motifs in Positive and Negative Networks](/3a05/)
 * [Predicting Spread of Negative Attitudes and Behaviours in Social Networks](/3a06/)
 * [Dynamic Patterns of Terrorist Networks](/3a10/)
-* [AI based Analysis of Terrorism Events](/3a13/)
+* [Enhancing Situation Understanding through Negative-ties enhanced pipelines](/3a13/)
 
 ## Impact of social dynamics on problem-solving in Coalitions
 * [Winning Hearts and Minds: Maximising Influence in Social Networks](/3b01/)
