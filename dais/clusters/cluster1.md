@@ -30,7 +30,7 @@ and, in some cases, a demonstration or presentation video.
 * [Federated Learning in a Resource Constrained Networked Environment](/1b08/)
 
 ## Adaptable AI: AI systems which can rapidly adapt in dynamic situations
-* [Enabling rapidly formed human-agent coalition teams through extensible information exchange](/1c01/)
+* [Cogni-sketch: Enabling rapidly formed human-agent coalition teams through extensible information exchange](/1c01/)
 * [Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
 * [Federated Inference using Self-Generated Policy](/1c03/)
 * [New Device Detection and Description in an Internet or Device Network](/1c04/)
