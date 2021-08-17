@@ -6,8 +6,9 @@ title: "UK DAIS Showcase Event"
 
 # UK DAIS Showcase Event
 
-Objective:
-Primary:  to inform UK military stakeholders and relevant Dstl Programme staff of the DAIS ITA scientific achievements addressing coalition analytics, networks and information challenges so (a) understand future potential (e.g. impact on capability) & (b) support/sponsor transition activities. 
+**Objective:**
+
+To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS ITA scientific achievements addressing coalition analytics, networks and information challenges so (a) understand future potential (e.g. impact on capability) & (b) support/sponsor transition activities. 
 
 Timetable
 
@@ -60,6 +61,33 @@ Demonstration Stands - Demos will restart every 30 minutes
 *	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/))
 *	[Policy Generation for Edge Devices in Coalitions](/2c04/)
 *	[The FastLAS system for interpretable machine learning](/1c08/)
+
+**Adaptive service & data positioning**
+* [Service Placement](/2a04/)
+* [Topology Inference](/2a03/)
+
+**Integrated Distributed Analytics:**
+* [Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/)
+
+**Adaptive AI:**
+* [Adapting AI systems to Recognise New Patterns of Distributed Activity](/1c16/)
+* [Adaptive AI systems for Human-Machine Federated Decision Making](/1c05/)
+
+**Trusted AI:**
+* [Achieving Rapid Trust of Adaptable Artificial Intelligence systems](/1d04/)
+* [Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
+* [Uncertainty-Aware Artifical Intelligence and Machine Learning](/1d05/)
+
+**Distributed Coalition AI**
+* [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](/1b06/)
+* [Federated Learning in a Resource Constrained Networked Environment](/1a08/)
+* [Distributed Coreset Construction for Efficient Machine Learning in Coalitions](/1b03/)
+
+**Integrating ad hoc Coalition teams and understanding dynamic audiences**
+* [Modelling the Emergent Behaviour of Human Social Groups](/1c01/)
+* [Efficient collective problem solving](/3b02)
+* 3a.01: Enabling Interaction with advanced social network analysis - MEANT TO BE AN OVERVIEW WE DON"T HAVE CONTENT
+
 
 
 
