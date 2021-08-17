@@ -22,28 +22,28 @@ Timetable
       <td>Welcome</td>
     </tr>
     <tr>
-      <td>9.30</td>
+      <td>9.15</td>
       <td>Program Overview</td>
     </tr>
     <tr>
-      <td>10.00</td>
+      <td>9.45</td>
       <td>Summary of Demonstrations</td>
     </tr>
     <tr>
-      <td>10.30</td>
+      <td>10.15</td>
       <td>Break</td>
     </tr>
     <tr>
-      <td>11.00-12.30</td>
+      <td>10.30-12.00</td>
       <td>Demonstration Sessions</td>
     </tr>
     <tr>
-      <td>12.30</td>
+      <td>12.00</td>
       <td>Lunch</td>
     </tr>
     <tr>
-      <td>13.30-15.00</td>
-      <td>Demonstration Sessions</td>
+      <td>13.00-15.00</td>
+      <td>Technical Breakout Sessions</td>
     </tr>
   </tbody>
 </table>
