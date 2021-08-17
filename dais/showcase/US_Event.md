@@ -67,7 +67,7 @@ Demonstration will run for 20 minutes each, one after the other
 **Trusted AI: Human users are able to rapidly calibrate their trust in AI systems [or Trusted AI]:**
 * [Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
 
-* Afternoon technical breakout sessions ADD CONTENT AND STRUCTURE
+Afternoon technical breakout sessions ADD CONTENT AND STRUCTURE
  
 
 
