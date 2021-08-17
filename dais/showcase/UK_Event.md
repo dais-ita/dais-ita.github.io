@@ -37,6 +37,14 @@ Timetable
       <td>11.00-12.30</td>
       <td>Demonstration Sessions</td>
     </tr>
+    <tr>
+      <td>12.30</td>
+      <td>Lunch</td>
+    </tr>
+    <tr>
+      <td>13.30-15.00</td>
+      <td>Demonstration Sessions</td>
+    </tr>
   </tbody>
 </table>
 
