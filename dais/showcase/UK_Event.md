@@ -48,3 +48,12 @@ Timetable
   </tbody>
 </table>
 
+
+Demonstration Stands include
+
+* **Efficient and adaptive control plain**
+* [Control Plane Architecture of SDC](/2a08/)
+* [SDC Controller Synchronization](/2a07)
+* [Joint Reinforcement & Transfer learning for Distributed Service Configuration in Fragmented SDC](/2b01/)
+
+
