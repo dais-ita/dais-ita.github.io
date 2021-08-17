@@ -14,8 +14,8 @@ Timetable
 <table>
   <tbody>
     <tr>
-      <td>**Time**</td>
-      <td>**Session**</td>
+      <td>Time</td>
+      <td>Session</td>
     </tr>
     <tr>
       <td>9.30</td>
