@@ -6,10 +6,8 @@ title: "US DAIS Showcase Event"
 
 # US DAIS Showcase Event
 
-# UK DAIS Showcase Event
-
 Objective:
-Primary:  to inform UK military stakeholders and relevant Dstl Programme staff of the DAIS ITA scientific achievements addressing coalition analytics, networks and information challenges so (a) understand future potential (e.g. impact on capability) & (b) support/sponsor transition activities. 
+Primary:  to inform US military stakeholders and relevant Army Research Laboratory Programme staff of the DAIS ITA scientific achievements addressing coalition analytics, networks and information challenges so (a) understand future potential (e.g. impact on capability) & (b) support/sponsor transition activities. 
 
 Timetable
 
