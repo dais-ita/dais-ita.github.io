@@ -14,7 +14,7 @@ Timetable
 <table>
   <tbody>
     <tr>
-      <td>Time</td>
+      <td>**Time**</td>
       <td>Session</td>
     </tr>
     <tr>
@@ -48,7 +48,7 @@ Timetable
   </tbody>
 </table>
 
-Demonstration will run for 20 minutes each, one after the other 
+Demonstrations will run for 20 minutes each, one after the other 
 
 **Control and Architecture of Software Defined Coalitions (SDC) [or Efficient and adaptive control plain]**
 * [Control Plane Architecture of SDC](/2a08/)
@@ -67,7 +67,7 @@ Demonstration will run for 20 minutes each, one after the other
 **Trusted AI: Human users are able to rapidly calibrate their trust in AI systems [or Trusted AI]:**
 * [Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
 
-Afternoon technical breakout sessions ADD CONTENT AND STRUCTURE
+Afternoon technical breakout sessions **ADD CONTENT AND STRUCTURE**
  
 
 
