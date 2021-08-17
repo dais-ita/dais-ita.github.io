@@ -45,6 +45,7 @@ and, in some cases, a demonstration or presentation video.
 
 ## Trusted AI: Human users are able to rapidly calibrate their trust in AI systems
 * [Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
+* [Achieving Rapid Trust of Adaptable Artificial Intelligence systems](/1d04/)
 * [Uncertainty-Aware AI&ML](/1d05/)
 
 ## Resilient AI: AI systems which are resilient to adversary attacks / deception
