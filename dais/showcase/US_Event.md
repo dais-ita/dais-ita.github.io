@@ -15,7 +15,7 @@ Timetable
   <tbody>
     <tr>
       <td><b>Time</b></td>
-      <td>Session</td>
+      <td><b>Session</b></td>
     </tr>
     <tr>
       <td>9.00</td>
