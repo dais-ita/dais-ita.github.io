@@ -6,7 +6,7 @@ title: "UK DAIS Showcase Event"
 
 # UK DAIS Showcase Event
 
-**Objective:**
+## Objective:
 
 To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS ITA scientific achievements addressing coalition analytics, networks and information challenges so (a) understand future potential (e.g. impact on capability) & (b) support/sponsor transition activities. 
 
@@ -50,7 +50,11 @@ Timetable
 </table>
 
 
-Demonstration Stands - Demos will restart every 30 minutes 
+## Demonstration Stands 
+
+Demos will restart every 30 minutes. The demos will run in 2 sessions with all demos available in either session.
+?? Do we want to book attendees onto sessions to spread people out?? It won't be as obvious at a virtual event
+Reserve one slot for a VIP group?
 
 **Efficient and adaptive control plain**
 * [Control Plane Architecture of SDC](/2a08/)
