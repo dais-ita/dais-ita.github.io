@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /UK_Event/
+permalink: /US_Event/
 title: "US DAIS Showcase Event"
 ---
 
