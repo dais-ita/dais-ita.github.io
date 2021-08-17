@@ -18,19 +18,19 @@ Timetable
       <td>Session</td>
     </tr>
     <tr>
-      <td>9.30</td>
+      <td>9.00</td>
       <td>Welcome</td>
     </tr>
     <tr>
-      <td>10.00</td>
+      <td>9.30</td>
       <td>Program Overview</td>
     </tr>
     <tr>
-      <td>10.30</td>
+      <td>10.00</td>
       <td>Summary of Demonstrations</td>
     </tr>
     <tr>
-      <td>10.45</td>
+      <td>10.30</td>
       <td>Break</td>
     </tr>
     <tr>
