@@ -49,11 +49,17 @@ Timetable
 </table>
 
 
-Demonstration Stands include
+Demonstration Stands - Demos will restart every 30 minutes 
 
-* **Efficient and adaptive control plain**
+**Efficient and adaptive control plain**
 * [Control Plane Architecture of SDC](/2a08/)
-* [SDC Controller Synchronization](/2a07)
+* [SDC Controller Synchronization](/2a07/)
 * [Joint Reinforcement & Transfer learning for Distributed Service Configuration in Fragmented SDC](/2b01/)
+
+**Policy based adaptive management**
+*	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/))
+*	[Policy Generation for Edge Devices in Coalitions](/2c04/)
+*	[The FastLAS system for interpretable machine learning](/1c08/)
+
 
 
