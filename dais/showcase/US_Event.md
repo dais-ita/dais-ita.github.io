@@ -47,6 +47,27 @@ Timetable
     </tr>
   </tbody>
 </table>
+
+Demonstration will run for 20 minutes each, one after the other 
+
+**Control and Architecture of Software Defined Coalitions (SDC) [or Efficient and adaptive control plain]**
+* [Control Plane Architecture of SDC](/2a08/)
+
+**Rapid characterization of coalition network infrastructure [or Policy based adaptive management]** 
+*	[Adaptation Learning for Ground Vehicle Acoustic Sound Classification](/2c01/)
+
+**Representation and composition of complex analytics [or Integrated Distributed Analytics]:**
+* [Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/)
+* [Federated Learning in a Resource Constrained Networked Environment](/1a08/)
+
+**Adaptable AI: AI systems which can rapidly adapt in dynamic situations [or Adaptive AI]:**
+* [Adapting AI systems to Recognise New Patterns of Distributed Activity](/1c16/)
+* [Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
+
+**Trusted AI: Human users are able to rapidly calibrate their trust in AI systems [or Trusted AI]:**
+* [Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
+
+* Afternoon technical breakout sessions ADD CONTENT AND STRUCTURE
  
 
 
