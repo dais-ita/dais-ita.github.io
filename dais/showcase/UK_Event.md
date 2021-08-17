@@ -52,7 +52,12 @@ Timetable
 
 ## Demonstration Stands 
 
+Stands cover a military issue and highlight how the latest science addresses this issue
+
 Demos will restart every 30 minutes. The demos will run in 2 sessions with all demos available in either session.
+
+Each stand will present a number of related key achievements from the program
+
 ?? Do we want to book attendees onto sessions to spread people out?? It won't be as obvious at a virtual event
 Reserve one slot for a VIP group?
 
