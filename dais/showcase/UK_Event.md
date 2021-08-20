@@ -47,7 +47,7 @@ Timetable
       <td>Panel Sessions</td>
     </tr>
     <tr>
-      <td>13.30-15.00</td>
+      <td>14.30-15.15 and 15.15-16.00</td>
       <td>Demonstration Sessions</td>
     </tr>
   </tbody>
