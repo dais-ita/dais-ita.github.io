@@ -71,11 +71,12 @@ With a mix of presented content and time for Q&A
 
 - Booth B: Resilient Coalition Network.  2a09 (13 mins), Policy one..? - Kin Leung & Alessandra Russo
 
-- Booth C: Coalition Analytics (VSA & Fed Learning).  1a08 (10 mins?), VSA… - Graham B & 
+- Booth C: Coalition Analytics (VSA & Fed Learning).  1a08 (10 mins?), VSA… - Graham B & Dave Conway-Jones
 
-- Booth D: Cluster 3.  3c01 (10 mins), 3a03 (7 mins), 3b02 (13 mins) - Roger Whitaker &
+- Booth D: Cluster 3.  3c01 (10 mins), 3a03 (7 mins), 3b02 (13 mins) - Roger Whitaker & Dave Braines
 
-Other Key Attendees - 
+
+Other Key Attendees - Andreas, Dan C, Graham W, Declan, Mark Law, - Shiqiang (PM)  
 
 
 Each stand will present a number of related key achievements from the program
