@@ -9,14 +9,22 @@ Military operations typically involve working with partners to resolve rapidly e
 
 ## Adaptable AI
 AI which can rapidly adapt in dynamic situations and learn as the operation proceeds exploiting synergies between humans and machine intelligence (inc. novel Neuro-Symbolic Learning (NSL) AI systems which combine reasoning and deep learning);
-*	[Adapting AI systems to recognise new patterns of distributed activity.](/1c16/) Improved human-AI teaming, AI learning (inc. NSL) and DAIS technology integration: running in real-time at edge.
-*	[Neural-Symbolic Generative Policy Model for Coalition Operations.](/1c02/) Adapting to changes between data used for training an AI and reality.
+
+*	[Adapting AI systems to recognise new patterns of distributed activity.](/1c16/) 
+Improved human-AI teaming, AI learning (inc. NSL) and DAIS technology integration: running in real-time at edge.
+*	[Neural-Symbolic Generative Policy Model for Coalition Operations.](/1c02/)
+Adapting to changes between data used for training an AI and reality.
 *	[Adaptive AI systems for human-machine federated decision making.](/1c05/)
-*	[FastLAS: Rule Learning for Policy Generation and Situational Awareness.](/1c08/)  Logic-based AI that learns rules from examples.
-*	[Reinforcement Learning (RL) for Network Control.](/1c15/)  New techniques for real-time complex control problems.
-*	[Characterising New Devices on a Network with Zero-Shot Learning.](/1c04/) Characterising previously unseen devices by inspection of their traffic.
-*	[Cogni-Sketch: Enabling Rapidly Formed Human-Agent Coalition Teams through Extensible Information Exchange.](/1c01/) Software platform enabling human-agent interaction.
-*	[Enhancing Situation Understanding through Negative-ties enhanced AI pipelines.](/3a13/) Improving AI analysis with user-knowledge.
+*	[FastLAS: Rule Learning for Policy Generation and Situational Awareness.](/1c08/)  
+Logic-based AI that learns rules from examples.
+*	[Reinforcement Learning (RL) for Network Control.](/1c15/)  
+New techniques for real-time complex control problems.
+*	[Characterising New Devices on a Network with Zero-Shot Learning.](/1c04/) 
+Characterising previously unseen devices by inspection of their traffic.
+*	[Cogni-Sketch: Enabling Rapidly Formed Human-Agent Coalition Teams through Extensible Information Exchange.](/1c01/) 
+Software platform enabling human-agent interaction.
+*	[Enhancing Situation Understanding through Negative-ties enhanced AI pipelines.](/3a13/) 
+Improving AI analysis with user-knowledge.
 
 
 
@@ -53,7 +61,7 @@ Able to integrate analytic services in (near) real-time with partners in degrade
 *	[Centralised and Distributed approach to service allocation in tactical environment.](/1a05/) Feasibly integrating centralised control and distributed adaptability of coalition services in tactical environments.
 *	[Addressing for Intelligent Routing in Mobile Military Networks.](/1a03/) 
 
-##Edge AI.  
+## Edge AI.  
 AI able to operate on the constrained computing environment at the edge of tactical networks;
 *	[Edge AI Software Development Kit for Coalition Analytics.](/1c14/)  Enabling algorithm development, test and management. 
 *	[Model Pruning for Efficient Federated Learning in Coalition.](/1f03/) Modifying AI models so they can run on edge devices with minimal loss in performance. 
