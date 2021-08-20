@@ -35,12 +35,16 @@ Timetable
       <td>Break</td>
     </tr>
     <tr>
-      <td>11.00-12.30</td>
+      <td>11.00-11.45 and 11.45-12.30</td>
       <td>Demonstration Sessions</td>
     </tr>
     <tr>
       <td>12.30</td>
       <td>Lunch</td>
+    </tr>
+    <tr>
+      <td>13.30-14.30</td>
+      <td>Panel Sessions</td>
     </tr>
     <tr>
       <td>13.30-15.00</td>
