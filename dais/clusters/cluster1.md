@@ -39,7 +39,7 @@ and, in some cases, a demonstration or presentation video.
 * [The FastLAS system for interpretable machine learning](/1c08/)
 * [Online multi-task learning with long-term memory](/1c09/)
 * [Model Management and federated inferencing at the tactical edge](/1c13/)
-* [Unsupervised anomaly Detection in Tactical Edge Environments](/1c14/)
+* [Anomaly Detection with a Robotic Edge Device](/1c14/)
 * [Reinforcement Learning for Network Control](/1c15/)
 * [Adapting AI systems to recognise new patterns of distributed activity](/1c16/)
 
