@@ -44,7 +44,7 @@ Timetable
     </tr>
     <tr>
       <td>13.30-14.00</td>
-      <td>Panel Sessions</td>
+      <td>Panel Q&A Session</td>
     </tr>
     <tr>
       <td>14.00-14.45 and 14.45-15.30</td>
@@ -52,9 +52,6 @@ Timetable
     </tr>
   </tbody>
 </table>
-
-
-Need for a helpdesk room - drop in for other discussions - pairing up - Desire to speak to experts
 
 ## Demonstration Stands 
 
@@ -67,13 +64,13 @@ Demos will restart every 45 minutes. The demos will run in all 4 sessions
 With a mix of presented content and time for Q&A
 
 
-- Booth A: Adaptable & Trusted AI.  Possibly Alun Preece & Gavin Pearson.  Possibly 1c16 & 1d01
+- Booth A: [Adaptable & Trusted AI.](https://ibm.webex.com/meet/gwhite)  Possibly Alun Preece & Gavin Pearson.  Possibly 1c16 & 1d01
 
-- Booth B: Coalition Analytics.  Possibly Graham Bent & Dave C-J.  Possibly 1a08 (on Federated Learning) & ? on VSA.
+- Booth B: [Coalition Analytics.](https://ibm.webex.com/meet/conway)  Possibly Graham Bent & Dave C-J.  Possibly 1a08 (on Federated Learning) & ? on VSA.
 
-- Booth C: Resilient Coalition Network.  Possibly Kin Leung, Alessandra Russo & John Melrose.  Possibly 1a08 on SDC, & ? on Policy.
+- Booth C: [Resilient Coalition Network.](https://ibm.webex.com/meet/dancunnington)  Possibly Kin Leung, Alessandra Russo & John Melrose.  Possibly 1a08 on SDC, & ? on Policy.
 
-- Analytics of Social Dynamics(?).  Possibly Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)
+- Booth D: [Analytics of Social Dynamics(?).](https://ibm.webex.com/meet/dave_braines)  Possibly Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)
 
 
 Other Attendees - Andreas, Dan C, Graham W, Declan, Mark Law, - Shiqiang (PM)  
@@ -81,9 +78,10 @@ Other Attendees - Andreas, Dan C, Graham W, Declan, Mark Law, - Shiqiang (PM)
 ## Other Achievement content
 
 Please feel free to explore other Key Achievements in the Clusters
-If you wish to speak to the researchers from any Achievement - please visit the Helpdesk and we will put you in touch (where possible)
 
+If you wish to speak to the researchers from any Achievement - please visit the [Helpdesk](https://ibm.webex.com/meet/helen.bowyer) and we will put you in touch (where possible)
 
+[//]: <> (Rooms for Breakouts inc ANdreas, Declan, Pauline.)
 
 
 
