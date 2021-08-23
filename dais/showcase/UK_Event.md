@@ -66,7 +66,7 @@ With a mix of presented content and time for Q&A
 
 - Booth A: [Adaptable & Trusted AI.](https://ibm.webex.com/meet/gwhite)  Possibly Alun Preece & Gavin Pearson.  Possibly 1c16 & 1d01
 
-- Booth B: [Coalition Analytics.](https://ibm.webex.com/meet/conway)  Possibly Graham Bent & Dave C-J.  Possibly 1a08 (on Federated Learning) & 1a11 on VSA.
+- Booth B: [Coalition Analytics.](https://ibm.webex.com/meet/conway)  Possibly Graham Bent & Dave C-J & Shiqiang Wang.  Possibly 1a08 (on Federated Learning) & 1a11 on VSA.
 
 - Booth C: [Resilient Coalition Network.](https://ibm.webex.com/meet/dancunnington)  Possibly Kin Leung, Alessandra Russo & John Melrose.  Possibly 1a08 on SDC, & ? on Policy.
 
