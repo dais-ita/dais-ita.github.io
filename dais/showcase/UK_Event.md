@@ -69,14 +69,14 @@ With a mix of presented content and time for Q&A
 
 - Booth A: Adaptive & Trusted AI.   1c16 (15mins), 1d01 (12 mins) - Alun Preece & Gavin Pearson
 
-- Booth B: Resilient Coalition Network.  2a09 (13 mins), Policy one..? - Kin Leung & Alessandra Russo & John Melrose
+- Booth B: Coalition Analytics (VSA & Fed Learning).  1a08 (10 mins?), VSA… - Graham B & Dave Conway-Jones
 
-- Booth C: Coalition Analytics (VSA & Fed Learning).  1a08 (10 mins?), VSA… - Graham B & Dave Conway-Jones
+- Booth C: Resilient Coalition Network.  Possibly Kin Leung, Alessandra Russo & John Melrose.  Possibly 1a08 on SDC, & ? on Policy.
 
-- Booth D: Cluster 3.  3c01 (10 mins), 3a03 (7 mins), 3b02 (13 mins) - Roger Whitaker & Dave Braines
+- Analytics of Social Dynamics(?).  Possibly Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)
 
 
-Other Key Attendees - Andreas, Dan C, Graham W, Declan, Mark Law, - Shiqiang (PM)  
+Other Attendees - Andreas, Dan C, Graham W, Declan, Mark Law, - Shiqiang (PM)  
 
 ## Other Achievement content
 
