@@ -67,9 +67,9 @@ Demos will restart every 45 minutes. The demos will run in all 4 sessions
 With a mix of presented content and time for Q&A
 
 
-- Booth A: Adaptive & Trusted AI.   1c16 (15mins), 1d01 (12 mins) - Alun Preece & Gavin Pearson
+- Booth A: Adaptable & Trusted AI.  Possibly Alun Preece & Gavin Pearson.  Possibly 1c16 & 1d01
 
-- Booth B: Coalition Analytics (VSA & Fed Learning).  1a08 (10 mins?), VSA… - Graham B & Dave Conway-Jones
+- Booth B: Coalition Analytics.  Possibly Graham Bent & Dave C-J.  Possibly 1a08 (on Federated Learning) & ? on VSA.
 
 - Booth C: Resilient Coalition Network.  Possibly Kin Leung, Alessandra Russo & John Melrose.  Possibly 1a08 on SDC, & ? on Policy.
 
