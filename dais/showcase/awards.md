@@ -9,15 +9,16 @@ title: "UK DAIS  Awards"
 3. Network Research Collaboration [Kin Leung Imperial, Richard Yang, Leandros Yale]
 
 ## Interdisciplinary Collaboration (straddling the goals of collaboration & advanced science, and speaks to program breadth)
-1. Applying AI to criminal and terrorist networks (Diane Felmlee, IBM US, IBM UK)
-1. Network Motif Analysis (Roger Whitaker, Diane Felmlee, Don Towsley, IBM UK)
+- Joint 1st - Applying AI to criminal and terrorist networks (Diane Felmlee, IBM US, IBM UK)
+- Joint 1st - Network Motif Analysis (Roger Whitaker, Diane Felmlee, Don Towsley, IBM UK)
 3. Semantic Vectors (Doug Summers-Stay, IBM UK, Cardiff)
 
 ## Scientific discovery (aka scientific quality)
-1. Adaptive Federated Learning in Resource Constrained Edge Computing Systems
-1. Evidential Deep Learning to Quantify Classification Uncertainty
-1. A Scalable Vector Symbolic Architecture Approach for Decentralized Workflows (Best paper)
-1. The evolution of strongly-held group identities through agent-based cooperation (Nature’s open science journal, Scientific Reports, accepted for publication)
+All Joint 1st
+- Adaptive Federated Learning in Resource Constrained Edge Computing Systems
+- Evidential Deep Learning to Quantify Classification Uncertainty
+- A Scalable Vector Symbolic Architecture Approach for Decentralized Workflows (Best paper)
+- The evolution of strongly-held group identities through agent-based cooperation (Nature’s open science journal, Scientific Reports, accepted for publication)
 
 ## Blue sky exploration (aka scientific risk)
 1. Towards spike-based machine intelligence with neuromorphic computing
