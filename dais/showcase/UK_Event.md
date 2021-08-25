@@ -68,7 +68,7 @@ With a mix of presented content and time for Q&A
 
 - Booth B: [Coalition Analytics.](https://ibm.webex.com/meet/conway)  Possibly Graham Bent & Dave C-J & Shiqiang Wang.  Possibly 1a08 (on Federated Learning) & 1a11 on VSA.
 
-- Booth C: [Resilient Coalition Network.](https://ibm.webex.com/meet/dancunnington)  Possibly Kin Leung, Alessandra Russo & John Melrose.  Possibly 1a08 on SDC, & ? on Policy.
+- Booth C: [Resilient Coalition Network.](https://ibm.webex.com/meet/dancunnington)  Possibly Kin Leung, Alessandra Russo & John Melrose.  Possibly 2a09 on SDC, & ? on Policy.
 
 - Booth D: [Analytics of Social Dynamics(?).](https://ibm.webex.com/meet/dave_braines)  Possibly Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)
 
