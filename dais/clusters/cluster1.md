@@ -18,12 +18,12 @@ and, in some cases, a demonstration or presentation video.
 * [Federated Learning in a Resource Constrained Networked Environment](/1a08/)
 * [Game Theoretic Resource Allocation in a Coalition](/1a09/)
 * [Minimising Coalition Information Exchange](/1a10/)
-* [Overview of VSA (for UK Showcase Event)](/1a11/)
+* [Overview of VSA](/1a11/)
 
 ## Efficient learning in resource constrained networks
 * [One Shot Federation for Coalition Model Sharing](/1b01/)
 * [Compressed Model Updates for Efficient Federated Learning](/1b02/)
-* [Demo as extension of AFM 2020](/1b03/)
+* [Distributed Coreset Construction for Efficient Machine Learning in Coalitions](/1b03/)
 * [Corset based machine learning](/1b04/)
 * [Data Reduction for Distributed Machine Learning Using Coreset](/1b05/)
 * [Adaptive Federated Learning](/1b06/)
