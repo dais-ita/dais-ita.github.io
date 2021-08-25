@@ -1,7 +1,7 @@
 ---
 layout: splash
-permalink: /UK_Event/
-title: "UK DAIS  Awards"
+permalink: /awards/
+title: "UK DAIS Awards"
 ---
 ## Cross National Collaboration
 1. Adaptive Federated Learning in Resource Constrained Edge Computing Systems
