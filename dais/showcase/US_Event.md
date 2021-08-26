@@ -69,30 +69,31 @@ Demonstrations will run for 20 minutes each, one after the other
 1.	[Federated Learning in a Resource Constrained Networked Environment](/1a08/)
 2.	[Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title)
 3.	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
-4.	Adapting AI systems to recognize new patterns of distributed activity
-5.	Real-time explainable AI: Time series and multi-modal data
+4.	[Adapting AI systems to Recognise New Patterns of Distributed Activity](/1c16/)
+5.	[Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
 * Resilient Coalition Networking
-6.	Control plane architecture of software defined coalitions
+6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)
 7.	Adversarial domain adaptation learning for accelerating AI-based military solutions (need to confirm title)
-
-**Control and Architecture of Software Defined Coalitions (SDC) [or Efficient and adaptive control plain]**
-* [Control Plane Architecture of SDC](/2a08/)
-
-**Rapid characterization of coalition network infrastructure [or Policy based adaptive management]** 
 *	[Adaptation Learning for Ground Vehicle Acoustic Sound Classification](/2c01/)
 
-**Representation and composition of complex analytics [or Integrated Distributed Analytics]:**
-* [Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/)
-* [Federated Learning in a Resource Constrained Networked Environment](/1a08/)
+**Break: 12.00 – 13.00 U.S. Eastern Time **
 
-**Adaptable AI: AI systems which can rapidly adapt in dynamic situations [or Adaptive AI]:**
-* [Adapting AI systems to Recognise New Patterns of Distributed Activity](/1c16/)
-* [Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
+**Technical Session: Research Overview**
 
-**Trusted AI: Human users are able to rapidly calibrate their trust in AI systems [or Trusted AI]:**
-* [Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
+**13.00 – 16.00 U.S. Eastern Time**
+**Agenda
+Overview: Learning in Complex Coalition Environments
+Overview: Resilient Coalition Networking
+Overview: Integrating ad hoc Coalition teams and understanding dynamic audiences
 
-Afternoon technical breakout sessions **ADD CONTENT AND STRUCTURE**
+Research highlights, publications, demos, and presentations can be viewed asynchronously at the DAIS ITA Legacy site (link). 
+Q&A and other discussion during the event will not be recorded.
+
+•	Break-out sessions for discussions/Q&A
+* Learning in Complex Coalition Environments
+* Resilient Coalition Networking
+* Integrating ad hoc Coalition teams and understanding dynamic audiences
+
  
 
 
