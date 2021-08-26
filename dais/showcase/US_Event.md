@@ -16,25 +16,6 @@ The DAIS ITA brings together U.S. and UK government, industry and academic scien
 
 Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
 
-**Executive Session: Program Overview and Demo Highlights
-
-**09.00 – 12.00 U.S. Eastern Time
-
-**Program Overview 
-
-**Demos:
-
-* Learning in Complex Coalition Environments
-1.	Federated learning in a resource constrained networked environment 
-2.	Vector symbolic architectures overview (need to confirm title)
-3.	Neural-symbolic generative policy model for coalition operations 
-4.	Adapting AI systems to recognize new patterns of distributed activity
-5.	Real-time explainable AI: Time series and multi-modal data
-* Resilient Coalition Networking
-6.	Control plane architecture of software defined coalitions
-7.	Adversarial domain adaptation learning for accelerating AI-based military solutions (need to confirm title)
-
-
 Timetable
 
 <table>
@@ -75,6 +56,24 @@ Timetable
 </table>
 
 Demonstrations will run for 20 minutes each, one after the other 
+
+**Executive Session: Program Overview and Demo Highlights**
+
+**09.00 – 12.00 U.S. Eastern Time**
+
+**Program Overview**
+
+**Demos:**
+
+* Learning in Complex Coalition Environments
+1.	Federated learning in a resource constrained networked environment 
+2.	Vector symbolic architectures overview (need to confirm title)
+3.	Neural-symbolic generative policy model for coalition operations 
+4.	Adapting AI systems to recognize new patterns of distributed activity
+5.	Real-time explainable AI: Time series and multi-modal data
+* Resilient Coalition Networking
+6.	Control plane architecture of software defined coalitions
+7.	Adversarial domain adaptation learning for accelerating AI-based military solutions (need to confirm title)
 
 **Control and Architecture of Software Defined Coalitions (SDC) [or Efficient and adaptive control plain]**
 * [Control Plane Architecture of SDC](/2a08/)
