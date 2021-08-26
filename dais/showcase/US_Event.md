@@ -17,10 +17,13 @@ The DAIS ITA brings together U.S. and UK government, industry and academic scien
 Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
 
 **Executive Session: Program Overview and Demo Highlights
-09.00 – 12.00 U.S. Eastern Time
+
+**09.00 – 12.00 U.S. Eastern Time
 
 **Program Overview 
+
 **Demos:
+
 * Learning in Complex Coalition Environments
 1.	Federated learning in a resource constrained networked environment 
 2.	Vector symbolic architectures overview (need to confirm title)
