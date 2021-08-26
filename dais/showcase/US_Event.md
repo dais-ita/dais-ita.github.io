@@ -82,17 +82,17 @@ Demonstrations will run for 20 minutes each, one after the other
 
 **13.00 – 16.00 U.S. Eastern Time**
 **Agenda
-Overview: Learning in Complex Coalition Environments
-Overview: Resilient Coalition Networking
-Overview: Integrating ad hoc Coalition teams and understanding dynamic audiences
+•	Overview: Learning in Complex Coalition Environments
+•	Overview: Resilient Coalition Networking
+•	Overview: Integrating ad hoc Coalition teams and understanding dynamic audiences
 
-Research highlights, publications, demos, and presentations can be viewed asynchronously at the DAIS ITA Legacy site (link). 
+Research highlights, publications, demos, and presentations can be viewed asynchronously at the DAIS ITA Legacy site (//). 
 Q&A and other discussion during the event will not be recorded.
 
 •	Break-out sessions for discussions/Q&A
-* Learning in Complex Coalition Environments
-* Resilient Coalition Networking
-* Integrating ad hoc Coalition teams and understanding dynamic audiences
+* Learning in Complex Coalition Environments (/cluster1/)
+* Resilient Coalition Networking (/cluster2/)
+* Integrating ad hoc Coalition teams and understanding dynamic audiences (/cluster3/)
 
  
 
