@@ -88,14 +88,13 @@ Demonstrations will run for 20 minutes each, one after the other
 * Overview: Resilient Coalition Networking
 * Overview: Integrating ad hoc Coalition teams and understanding dynamic audiences
 
-Research highlights, publications, demos, and presentations can be viewed asynchronously at the DAIS ITA Legacy site (//). 
+Research highlights, publications, demos, and presentations can be viewed asynchronously at the [DAIS ITA Legacy Site](//)
 Q&A and other discussion during the event will not be recorded.
 
 •	Break-out sessions for discussions/Q&A
-* [Learning in Complex Coalition Environments] (/cluster1/)
-* [Resilient Coalition Networking] (/cluster2/)
-* [Integrating ad hoc Coalition teams and understanding dynamic audiences] (/cluster3/)
 *	[Learning in Complex Coalition Environments](/cluster1/)
+*	[Resilient Coalition Networking](/cluster2/)
+*	[Integrating ad hoc Coalition teams and understanding dynamic audiences](/cluster3/)
 
  
 
