@@ -4,7 +4,7 @@ permalink: /US_Event/
 title: "US DAIS Showcase Event"
 ---
 
-# US DAIS Research Showcase
+# US DAIS ITA Research Showcase
 **September 14, 2021**
 
 At this event, research and technology transitions from the U.S. – UK Distributed Analytics & Information Science International Technology Alliance (DAIS ITA) program will be presented to leaders, stakeholders and partners to demonstrate future military warfighting concepts and capabilities, and to facilitate potential transitions to future applied research, experimentation, and demonstration programs.
