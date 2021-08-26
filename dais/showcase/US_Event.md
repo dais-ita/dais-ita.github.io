@@ -46,7 +46,7 @@ Timetable
     </tr>
     <tr>
       <td>12.00</td>
-      <td>Lunch</td>
+      <td>Lunch Break</td>
     </tr>
     <tr>
       <td>13.00-15.00</td>
