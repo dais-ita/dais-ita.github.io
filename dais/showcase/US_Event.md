@@ -55,8 +55,6 @@ Timetable
   </tbody>
 </table>
 
-Demonstrations will run for 20 minutes each, one after the other 
-
 **Executive Session: Program Overview and Demo Highlights**
 
 **09.00 – 12.00 U.S. Eastern Time**
@@ -75,6 +73,8 @@ Demonstrations will run for 20 minutes each, one after the other
 6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)
 7.	Adversarial domain adaptation learning for accelerating AI-based military solutions (need to confirm title and link)
 *	[Adaptation Learning for Ground Vehicle Acoustic Sound Classification](/2c01/) [keep or remove???]
+
+Demonstrations will run for 20 minutes each, one after the other 
 
 **Break: 12.00 – 13.00 U.S. Eastern Time**
 
