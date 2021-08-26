@@ -66,9 +66,9 @@ Demonstrations will run for 20 minutes each, one after the other
 **Demos:**
 
 * Learning in Complex Coalition Environments
-1.	* [Federated Learning in a Resource Constrained Networked Environment](/1a08/)
-2.	* [Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title)
-3.	Neural-symbolic generative policy model for coalition operations 
+1.	[Federated Learning in a Resource Constrained Networked Environment](/1a08/)
+2.	[Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title)
+3.	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
 4.	Adapting AI systems to recognize new patterns of distributed activity
 5.	Real-time explainable AI: Time series and multi-modal data
 * Resilient Coalition Networking
