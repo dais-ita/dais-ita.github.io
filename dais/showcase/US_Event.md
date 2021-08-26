@@ -76,15 +76,17 @@ Demonstrations will run for 20 minutes each, one after the other
 7.	Adversarial domain adaptation learning for accelerating AI-based military solutions (need to confirm title)
 *	[Adaptation Learning for Ground Vehicle Acoustic Sound Classification](/2c01/)
 
-**Break: 12.00 – 13.00 U.S. Eastern Time **
+**Break: 12.00 – 13.00 U.S. Eastern Time**
 
 **Technical Session: Research Overview**
 
 **13.00 – 16.00 U.S. Eastern Time**
-**Agenda
-•	Overview: Learning in Complex Coalition Environments
-•	Overview: Resilient Coalition Networking
-•	Overview: Integrating ad hoc Coalition teams and understanding dynamic audiences
+
+**Agenda**
+
+* Overview: Learning in Complex Coalition Environments
+* Overview: Resilient Coalition Networking
+* Overview: Integrating ad hoc Coalition teams and understanding dynamic audiences
 
 Research highlights, publications, demos, and presentations can be viewed asynchronously at the DAIS ITA Legacy site (//). 
 Q&A and other discussion during the event will not be recorded.
