@@ -89,6 +89,7 @@ Demonstrations will run for 20 minutes each, one after the other
 * Overview: Integrating ad hoc Coalition teams and understanding dynamic audiences
 
 Research highlights, publications, demos, and presentations can be viewed asynchronously at the **FIX LINK** [DAIS ITA Legacy Site](/https://dais-legacy.org/)
+
 Q&A and other discussion during the event will not be recorded.
 
 •	Break-out sessions for discussions/Q&A
