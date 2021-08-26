@@ -95,6 +95,7 @@ Q&A and other discussion during the event will not be recorded.
 * [Learning in Complex Coalition Environments] (/cluster1/)
 * [Resilient Coalition Networking] (/cluster2/)
 * [Integrating ad hoc Coalition teams and understanding dynamic audiences] (/cluster3/)
+*	[Learning in Complex Coalition Environments](/cluster1/)
 
  
 
