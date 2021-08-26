@@ -73,8 +73,8 @@ Demonstrations will run for 20 minutes each, one after the other
 5.	[Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
 * Resilient Coalition Networking
 6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)
-7.	Adversarial domain adaptation learning for accelerating AI-based military solutions (need to confirm title)
-*	[Adaptation Learning for Ground Vehicle Acoustic Sound Classification](/2c01/)
+7.	Adversarial domain adaptation learning for accelerating AI-based military solutions (need to confirm title and link)
+*	[Adaptation Learning for Ground Vehicle Acoustic Sound Classification](/2c01/) [keep or remove???]
 
 **Break: 12.00 – 13.00 U.S. Eastern Time**
 
