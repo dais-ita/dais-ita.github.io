@@ -57,7 +57,6 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)
 7.	[Adversarial Domain Adaptation Learning for Accelerating AI-based Military Solutions](/2c01/) (need to confirm title)
       
-      **Technical Session: Research Overview**
 <table>
   <tbody>
     <tr>
@@ -68,7 +67,17 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
       <td>12.00</td>
       <td>Lunch Break</td>
     </tr>
-    <tr>     
+  </tbody>
+</table>
+
+**Technical Session: Research Overview**
+<table>
+  <tbody>
+    <tr>
+      <td><b>Time</b></td>
+      <td><b>Session</b></td>
+    </tr>
+    <tr>
       <td>13.00</td>
       <td>Overview of Achievement Cluster Groupings</td>
     </tr>
