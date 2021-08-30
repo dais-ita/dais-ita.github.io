@@ -128,8 +128,8 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
   </tbody>
 </table>
 
-Research highlights, publications, demos, and presentations can be viewed asynchronously at the [DAIS ITA Legacy Site] href="https://dais-legacy.org/"
-          1.	Learning in Complex Coalition Environments</a><br>
+Research highlights, publications, demos, and presentations can be viewed asynchronously at the [DAIS ITA Legacy Site](href="https://dais-legacy.org/")
+       
 
 **FIX LINK** [DAIS ITA Legacy Site](/index.md/)
 
