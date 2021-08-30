@@ -67,11 +67,12 @@ presented by
 presented by 
 9.	[Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)<br>
 presented by <br>
+
 **Resilient Coalition Networking**
 6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)<br>
 presented by
 8.	[Adversarial Domain Adaptation Learning for Accelerating AI-based Military Solutions](/2c01/) (need to confirm title) <br>
-presented by
+presented by <br>
 
 **Break: 12.00 – 13.00 U.S. Eastern Time**<br>
 
