@@ -96,16 +96,17 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
   </tbody>
 </table>
 
-* Overview: Learning in Complex Coalition Environments
-* Overview: Resilient Coalition Networking
-* Overview: Integrating ad hoc Coalition teams and understanding dynamic audiences
+•	Break-out sessions for Discussions/Q&A<br>
+*	[Learning in Complex Coalition Environments](/cluster1/)<br>
+*	[Resilient Coalition Networking](/cluster2/)<br>
+*	[Integrating ad hoc Coalition teams and understanding dynamic audiences](/cluster3/)  </td>
+
+  </td>
+    </tr>
+  </tbody>
+</table>
 
 Research highlights, publications, demos, and presentations can be viewed asynchronously at the **FIX LINK** [DAIS ITA Legacy Site](/index.md/)
 
 Q&A and other discussion during the event will not be recorded.
-
-•	Break-out sessions for discussions/Q&A
-*	[Learning in Complex Coalition Environments](/cluster1/)
-*	[Resilient Coalition Networking](/cluster2/)
-*	[Integrating ad hoc Coalition teams and understanding dynamic audiences](/cluster3/)
 
