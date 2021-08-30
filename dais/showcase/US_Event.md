@@ -79,10 +79,10 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     </tr>
     <tr>
       <td>13.00</td>
-      <td>Overview of Achievement Cluster Groupings
-      * Overview: Learning in Complex Coalition Environments
-      * Overview: Resilient Coalition Networking
-      * Overview: Integrating ad hoc Coalition teams and understanding dynamic audiences
+      <td>Overview of Achievement Cluster Groupings</td>
+      <td>* Overview: Learning in Complex Coalition Environments</td>
+      <td>* Overview: Resilient Coalition Networking</td>
+      <td>* Overview: Integrating ad hoc Coalition teams and understanding dynamic audiences</td>
       </td>
     </tr>
     <tr>
