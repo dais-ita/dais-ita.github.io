@@ -77,7 +77,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     <tr>
       <td>12.00</td>
       <td>Lunch Break</td>
-       <td>All</td>
+      <td>All</td>
     </tr>
   </tbody>
 </table>
@@ -98,8 +98,8 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
       3. Integrating ad hoc Coalition teams and understanding dynamic audiences</td>
        
       <td>Presenter 1<br>
-      <td>Presenter 2<br>
-      <td>Presenter 3</td>
+      Presenter 2<br>
+      Presenter 3</td>
     </tr>
     <tr>
       <td>14.00-16.00</td>
@@ -111,8 +111,8 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
         <a href="https://dais-legacy.org/cluster3/">
           3.	Integrating ad hoc Coalition teams and understanding dynamic audiences</a></td> 
   
-        <td>Lance Kaplan (ARL)<br>
-        <td>Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US</td>
+        Lance Kaplan (ARL)<br>
+        Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US</td>
     </tr>
   </tbody>
 </table>
