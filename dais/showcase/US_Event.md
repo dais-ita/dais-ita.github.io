@@ -80,20 +80,20 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     <tr>
       <td>13.00</td>
       <td>Overview of Achievement Cluster Groupings<br>
-      * Learning in Complex Coalition Environments<br>
-      * Resilient Coalition Networking<br>
-      * Integrating ad hoc Coalition teams and understanding dynamic audiences</td>
+      1. Learning in Complex Coalition Environments<br>
+      2. Resilient Coalition Networking<br>
+      3. Integrating ad hoc Coalition teams and understanding dynamic audiences</td>
       </td>
     </tr>
     <tr>
       <td>14.00-16.00</td>
       <td>Breakout Sessions for Discussions / Q&A<br>
         <a href="https://dais-legacy.org/cluster1/">
-          *	Learning in Complex Coalition Environments</a><br>
+          1.	Learning in Complex Coalition Environments</a><br>
         <a href="https://dais-legacy.org/cluster2/">
-          * Resilient Coalition Networking</a><br>
+          2. Resilient Coalition Networking</a><br>
         <a href="https://dais-legacy.org/cluster3/">
-          *	Integrating ad hoc Coalition teams and understanding dynamic audiences</a></td>  
+          3.	Integrating ad hoc Coalition teams and understanding dynamic audiences</a></td>  
   </td>
     </tr>
   </tbody>
