@@ -116,7 +116,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     </tr>
     <tr>
       <td>14.00-16.00</td>
-  <td><big>Breakout Sessions for Discussions / Q&A</big><br>
+  <td><u>Breakout Sessions for Discussions / Q&A</u><br>
         <a href="https://dais-legacy.org/cluster1/">
           1.	Learning in Complex Coalition Environments</a><br>
         <a href="https://dais-legacy.org/cluster2/">
@@ -128,7 +128,10 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
   </tbody>
 </table>
 
-Research highlights, publications, demos, and presentations can be viewed asynchronously at the **FIX LINK** [DAIS ITA Legacy Site](/index.md/)
+Research highlights, publications, demos, and presentations can be viewed asynchronously at the [DAIS ITA Legacy Site] href="https://dais-legacy.org/"
+          1.	Learning in Complex Coalition Environments</a><br>
+
+**FIX LINK** [DAIS ITA Legacy Site](/index.md/)
 
 Q&A and other discussion during the event will not be recorded.
 
