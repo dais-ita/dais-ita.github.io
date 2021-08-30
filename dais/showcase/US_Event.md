@@ -90,28 +90,23 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
       <td>Breakout Sessions for Discussions / Q&A<br>
         <a href="https://dais-legacy.org/cluster1/">
           *	Learning in Complex Coalition Environments</a><br>
-        *	[Resilient Coalition Networking](/cluster2/)<br>
-        *	[Integrating ad hoc Coalition teams and understanding dynamic audiences](/cluster3/)</td>  
+        <a href="https://dais-legacy.org/cluster2/">
+          * Resilient Coalition Networking</a><br>
+        <a href="https://dais-legacy.org/cluster3/">
+          *	Integrating ad hoc Coalition teams and understanding dynamic audiences</a></td>  
   </td>
     </tr>
   </tbody>
 </table>
+
+Research highlights, publications, demos, and presentations can be viewed asynchronously at the **FIX LINK** [DAIS ITA Legacy Site](/index.md/)
+
+Q&A and other discussion during the event will not be recorded.
+
+DUPLICATE
 
 •	Break-out sessions for Discussions/Q&A<br>
 *	[Learning in Complex Coalition Environments](/cluster1/)<br>
 *	[Resilient Coalition Networking](/cluster2/)<br>
 *	[Integrating ad hoc Coalition teams and understanding dynamic audiences](/cluster3/)  </td>
-
-  </td>
-    </tr>
-  </tbody>
-</table>
-
-    <a href="http://example.com">
-      Hello World
-    </a>
-
-Research highlights, publications, demos, and presentations can be viewed asynchronously at the **FIX LINK** [DAIS ITA Legacy Site](/index.md/)
-
-Q&A and other discussion during the event will not be recorded.
 
