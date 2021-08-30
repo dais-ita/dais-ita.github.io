@@ -57,13 +57,15 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
   </tbody>
 </table>
 
-* Learning in Complex Coalition Environments
-1.	[Federated Learning in a Resource Constrained Networked Environment](/1a08/)
-2.	[Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title)
-3.	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
-4.	[Adapting AI systems to Recognise New Patterns of Distributed Activity](/1c16/)
-5.	[Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
-* Resilient Coalition Networking
+**Learning in Complex Coalition Environments**
+1.	[Federated Learning in a Resource Constrained Networked Environment](/1a08/)<br>
+presented by 
+
+3.	[Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title)
+4.	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
+5.	[Adapting AI systems to Recognise New Patterns of Distributed Activity](/1c16/)
+6.	[Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
+**Resilient Coalition Networking**
 6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)
 7.	[Adversarial Domain Adaptation Learning for Accelerating AI-based Military Solutions](/2c01/) (need to confirm title)
       
