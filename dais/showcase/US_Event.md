@@ -96,14 +96,13 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
       1. Learning in Complex Coalition Environments<br>
       2. Resilient Coalition Networking<br>
       3. Integrating ad hoc Coalition teams and understanding dynamic audiences</td>
-       
       <td>Presenter 1<br>
       Presenter 2<br>
       Presenter 3</td>
     </tr>
     <tr>
       <td>14.00-16.00</td>
-      <td><u>Breakout Sessions for Discussions / Q&A</u><br>
+      <td>Breakout Sessions for Discussions / Q&A<br>
         <a href="https://dais-legacy.org/cluster1/">
           1.	Learning in Complex Coalition Environments</a><br>
         <a href="https://dais-legacy.org/cluster2/">
@@ -111,7 +110,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
         <a href="https://dais-legacy.org/cluster3/">
           3.	Integrating ad hoc Coalition teams and understanding dynamic audiences</a></td> 
   
-        Lance Kaplan (ARL)<br>
+       <td>Lance Kaplan (ARL)<br>
         Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US</td>
     </tr>
   </tbody>
