@@ -128,7 +128,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
   </tbody>
 </table>
 
-Research highlights, publications, demos, and presentations can be viewed asynchronously at the [DAIS ITA Legacy Site](href="https://dais-legacy.org/")
+Research highlights, publications, demos, and presentations can be viewed asynchronously at the [DAIS ITA Legacy Site](https://dais-legacy.org/)
        
 
 **FIX LINK** [DAIS ITA Legacy Site](/index.md/)
