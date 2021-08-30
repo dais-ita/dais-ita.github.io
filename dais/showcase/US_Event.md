@@ -5,8 +5,6 @@ title: "US DAIS Showcase Event"
 ---
 
 # US DAIS ITA Research Showcase
-**To be Hosted Virtually September 14, 2021**
-
 At this event, research and technology transitions from the U.S. – UK Distributed Analytics & Information Science International Technology Alliance (DAIS ITA) program will be presented to leaders, stakeholders and partners to demonstrate future military warfighting concepts and capabilities, and to facilitate potential transitions to future applied research, experimentation, and demonstration programs.
 
 The DAIS ITA brings together U.S. and UK government, industry and academic scientists and engineers to perform foundational, cross-cutting research for a fundamental understanding of: 
@@ -15,9 +13,9 @@ The DAIS ITA brings together U.S. and UK government, industry and academic scien
 * Distributed reasoning & machine learning in dynamic & contested environments for assured multi-domain operations
 
 Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
-
-**Join the Virtual Meeting (add join info here)**
-**Executive Session**
+**To be Hosted Virtually September 14, 2021**<br>
+**Join the Virtual Meeting (add join info here)**<br>
+**Executive Session**<br>
 
 <table>
   <tbody>
