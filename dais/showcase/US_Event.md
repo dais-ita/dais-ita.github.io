@@ -68,7 +68,7 @@ presented by
 7.	[Adapting AI systems to Recognise New Patterns of Distributed Activity](/1c16/)<br>
 presented by 
 9.	[Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)<br>
-presented by
+presented by <br>
 **Resilient Coalition Networking**
 6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)<br>
 presented by
