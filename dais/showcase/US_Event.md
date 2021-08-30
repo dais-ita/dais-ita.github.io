@@ -71,11 +71,11 @@ presented by
 
 presented by
 
-4.	[Adapting AI systems to Recognise New Patterns of Distributed Activity](/1c16/)
+4.	[Adapting Artificial Intellegence Systems to Recognize New Patterns of Distributed Activity](/1c16/)
 
 presented by 
 
-5.	[Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
+5.	[Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data](/1d01/)
 
 presented by
 
@@ -85,7 +85,7 @@ presented by
 
 presented by 
 
-7.	[Adversarial Domain Adaptation Learning for Accelerating AI-based Military Solutions](/2c01/) (need to confirm title)
+7.	[Adversarial Domain Adaptation Learning for Accelerating Atificial Intellegence Based Military Solutions](/2c01/) (need to confirm title)
 
 presented by
 
