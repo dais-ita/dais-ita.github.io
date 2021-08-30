@@ -50,11 +50,11 @@ Timetable
     </tr>
     <tr>
       <td>13.00</td>
-      <td>Technical Overview of Achievement Cluster Groupings (in plenary)</td>
+      <td>Technical Overview of Achievement Cluster Groupings</td>
     </tr>
     <tr>
       <td>14.00-16.00</td>
-      <td>Technical Breakout Sessions by Achievement Cluster (in parallel)</td>
+      <td>Technical Breakout Sessions by Achievement Cluster</td>
     </tr>
   </tbody>
 </table>
