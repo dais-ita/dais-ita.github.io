@@ -23,18 +23,23 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     <tr>
       <td><b>Time</b></td>
       <td><b>Session</b></td>
+      <td><b>Presented by</b></td>
     </tr>
     <tr>
       <td>9.00</td>
       <td>Welcome</td>
+      <td>Ananthram Swami, ARL</td>
     </tr>
     <tr>
       <td>9.15</td>
       <td>Program Overview</td>
+      <td>Dinesh Verma, IBM US and Peter Waggett, IBM UK</td>
     </tr>
     <tr>
       <td>9.45</td>
       <td>Summary of Demonstrations</td>
+       <td>Lance Kaplan and Kevin Chan, ARL<br>
+         Gavin Pearson and John Melrose, Dstl</td>         
     </tr>
     <tr>
       <td>10.15</td>
