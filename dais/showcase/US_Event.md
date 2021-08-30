@@ -79,7 +79,11 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     </tr>
     <tr>
       <td>13.00</td>
-      <td>Overview of Achievement Cluster Groupings</td>
+      <td>Overview of Achievement Cluster Groupings
+      * Overview: Learning in Complex Coalition Environments
+      * Overview: Resilient Coalition Networking
+      * Overview: Integrating ad hoc Coalition teams and understanding dynamic audiences
+      </td>
     </tr>
     <tr>
       <td>14.00-16.00</td>
@@ -100,37 +104,4 @@ Q&A and other discussion during the event will not be recorded.
 *	[Learning in Complex Coalition Environments](/cluster1/)
 *	[Resilient Coalition Networking](/cluster2/)
 *	[Integrating ad hoc Coalition teams and understanding dynamic audiences](/cluster3/)
-
-DUPLICATE
-**Executive Session: Program Overview and Demo Highlights**
-
-**09.00 – 12.00 U.S. Eastern Time**
-
-**Program Overview**
-
-**Demos:**
-
-* Learning in Complex Coalition Environments
-1.	[Federated Learning in a Resource Constrained Networked Environment](/1a08/)
-2.	[Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title)
-3.	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
-4.	[Adapting AI systems to Recognise New Patterns of Distributed Activity](/1c16/)
-5.	[Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
-* Resilient Coalition Networking
-6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)
-7.	[Adversarial Domain Adaptation Learning for Accelerating AI-based Military Solutions](/2c01/) (need to confirm title)
-
-Demonstrations will run for 20 minutes each, one after the other 
-
-**Break: 12.00 – 13.00 U.S. Eastern Time**
-
-**Technical Session: Research Overview**
-
-**13.00 – 16.00 U.S. Eastern Time**
-
-**Agenda**
-
- 
-
-
 
