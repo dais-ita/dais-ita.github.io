@@ -129,13 +129,10 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 </table>
 
 Research highlights, publications, demos, and presentations can be viewed asynchronously at the [DAIS ITA Legacy Site](https://dais-legacy.org/)
-       
-
-**FIX LINK** [DAIS ITA Legacy Site](/index.md/)
 
 Q&A and other discussion during the event will not be recorded.
 
-DUPLICATE
+DUPLICATE (remove following feedback from Michael)
 
 •	Break-out sessions for Discussions/Q&A<br>
 *	[Learning in Complex Coalition Environments](/cluster1/)<br>
