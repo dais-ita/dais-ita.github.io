@@ -30,11 +30,11 @@ Timetable
     </tr>
     <tr>
       <td>9.15</td>
-      <td>Program Overview</td>
+      <td>Executive Program Overview</td>
     </tr>
     <tr>
       <td>9.45</td>
-      <td>Summary of Demonstrations</td>
+      <td>Executive Summary of Demonstrations</td>
     </tr>
     <tr>
       <td>10.15</td>
@@ -42,15 +42,19 @@ Timetable
     </tr>
     <tr>
       <td>10.30-12.00</td>
-      <td>Demonstration Sessions</td>
+      <td>Executive Demonstration Sessions</td>
     </tr>
     <tr>
       <td>12.00</td>
       <td>Lunch Break</td>
     </tr>
     <tr>
-      <td>13.00-15.00</td>
-      <td>Technical Breakout Sessions</td>
+      <td>13.00</td>
+      <td>Technical Plenary with Overview of Achievement Cluster Groupings<</td>
+    </tr>
+    <tr>
+      <td>14.00-16.00</td>
+      <td>Technical Breakout Sessions by Achievement Cluster</td>
     </tr>
   </tbody>
 </table>
