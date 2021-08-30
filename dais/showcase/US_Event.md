@@ -100,6 +100,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
       <td>Presenter 1<br>
       <td>Presenter 2<br>
       <td>Presenter 3</td>
+    </tr>
     <tr>
       <td>14.00-16.00</td>
       <td><u>Breakout Sessions for Discussions / Q&A</u><br>
