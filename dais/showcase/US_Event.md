@@ -16,7 +16,7 @@ The DAIS ITA brings together U.S. and UK government, industry and academic scien
 
 Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
 
-<strong>Executive Session</strong>
+**Executive Session**<br>
 **Join the Virtual Meeting (add join info here)**
 <table>
   <tbody>
@@ -28,12 +28,14 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     <tr>
       <td>9.00</td>
       <td>Welcome</td>
-      <td>Ananthram Swami, ARL</td>
+      <td>Ananthram Swami, ARL<br>
+      Peter Waggett, IBM UK</td>
     </tr>
     <tr>
       <td>9.15</td>
       <td>Program Overview</td>
-      <td>Dinesh Verma, IBM US and Peter Waggett, IBM UK</td>
+      <td>Dinesh Verma, IBM US<br>
+          Peter Waggett, IBM UK</td>
     </tr>
     <tr>
       <td>9.45</td>
@@ -44,11 +46,33 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     <tr>
       <td>10.15</td>
       <td>Break</td>
+      <td><b>All</b></td>
     </tr>
     <tr>
       <td>10.30-12.00</td>
       <td>Demonstration Sessions</td>
+      <td>See below</td>
        </tr>
+    
+      <tr>
+      <td></td>
+      <td>Learning in Complex Coalition Environments</td>
+      <td></td>
+       </tr>
+    
+      <tr>
+      <td>10.30-12.00</td>
+      <td>Resilient Coalition Networkings</td>
+      <td>See below</td>
+       </tr>
+    
+    
+    
+    
+    
+    
+    
+    
   </tbody>
 </table>
 
