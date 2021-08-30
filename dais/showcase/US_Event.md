@@ -87,7 +87,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     </tr>
     <tr>
       <td>14.00-16.00</td>
-      <td>Breakout Sessions for Discussions / Q&A<br>
+  <td><big>Breakout Sessions for Discussions / Q&A</big><br>
         <a href="https://dais-legacy.org/cluster1/">
           1.	Learning in Complex Coalition Environments</a><br>
         <a href="https://dais-legacy.org/cluster2/">
