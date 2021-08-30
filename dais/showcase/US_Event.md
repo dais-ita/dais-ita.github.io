@@ -17,7 +17,7 @@ The DAIS ITA brings together U.S. and UK government, industry and academic scien
 Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
 
 **Join the Virtual Meeting (add join info here)**
-**Executive Session**<br>
+**Executive Session**
 
 <table>
   <tbody>
@@ -61,28 +61,21 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 1.	[Federated Learning in a Resource Constrained Networked Environment](/1a08/)<br>
 presented by 
 
-3.	[Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title)
-4.	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
-5.	[Adapting AI systems to Recognise New Patterns of Distributed Activity](/1c16/)
-6.	[Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
+3.	[Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title)<br>
+presented by 
+5.	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)<br>
+presented by
+7.	[Adapting AI systems to Recognise New Patterns of Distributed Activity](/1c16/)<br>
+presented by 
+9.	[Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)<br>
+presented by
 **Resilient Coalition Networking**
-6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)
-7.	[Adversarial Domain Adaptation Learning for Accelerating AI-based Military Solutions](/2c01/) (need to confirm title)
-      
-<table>
-  <tbody>
-    <tr>
-      <td><b>Time</b></td>
-      <td><b>Session</b></td>
-      <td><b>Presented by / Subject Matter Expert</b></td>
-    </tr>
-    <tr>
-      <td>12.00</td>
-      <td>Lunch Break</td>
-      <td>All</td>
-    </tr>
-  </tbody>
-</table>
+6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)<br>
+presented by
+8.	[Adversarial Domain Adaptation Learning for Accelerating AI-based Military Solutions](/2c01/) (need to confirm title) <br>
+presented by
+
+**Break: 12.00 – 13.00 U.S. Eastern Time**<br>
 
 **Technical Session: Research Overview**
 <table>
