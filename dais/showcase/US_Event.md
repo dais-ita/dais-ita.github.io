@@ -16,7 +16,7 @@ The DAIS ITA brings together U.S. and UK government, industry and academic scien
 
 Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
 
-**Executive Session**
+<strong>Executive Session</strong>
 **Join the Virtual Meeting (add join info here)**
 <table>
   <tbody>
