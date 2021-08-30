@@ -13,9 +13,12 @@ The DAIS ITA brings together U.S. and UK government, industry and academic scien
 * Distributed reasoning & machine learning in dynamic & contested environments for assured multi-domain operations
 
 Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
-**To be Hosted Virtually September 14, 2021**<br>
-**Join the Virtual Meeting (add join info here)**<br>
-**Executive Session**<br>
+
+**To be Hosted Virtually September 14, 2021**
+
+**Join the Virtual Meeting (add join info here)**
+
+**Executive Session**
 
 <table>
   <tbody>
