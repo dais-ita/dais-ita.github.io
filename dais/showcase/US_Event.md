@@ -5,7 +5,7 @@ title: "US DAIS Showcase Event"
 ---
 
 # US DAIS ITA Research Showcase
-**September 14, 2021**
+**To be Hosted Virtually September 14, 2021**
 
 At this event, research and technology transitions from the U.S. – UK Distributed Analytics & Information Science International Technology Alliance (DAIS ITA) program will be presented to leaders, stakeholders and partners to demonstrate future military warfighting concepts and capabilities, and to facilitate potential transitions to future applied research, experimentation, and demonstration programs.
 
@@ -16,8 +16,9 @@ The DAIS ITA brings together U.S. and UK government, industry and academic scien
 
 Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
 
-**Executive Session**<br>
 **Join the Virtual Meeting (add join info here)**
+**Executive Session**<br>
+
 <table>
   <tbody>
     <tr>
@@ -46,33 +47,13 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     <tr>
       <td>10.15</td>
       <td>Break</td>
-      <td><b>All</b></td>
+      <td>All</td>
     </tr>
     <tr>
       <td>10.30-12.00</td>
       <td>Demonstration Sessions</td>
       <td>See below</td>
-       </tr>
-    
-      <tr>
-      <td></td>
-      <td>Learning in Complex Coalition Environments</td>
-      <td></td>
-       </tr>
-    
-      <tr>
-      <td>10.30-12.00</td>
-      <td>Resilient Coalition Networkings</td>
-      <td>See below</td>
-       </tr>
-    
-    
-    
-    
-    
-    
-    
-    
+       </tr> 
   </tbody>
 </table>
 
@@ -95,6 +76,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     <tr>
       <td>12.00</td>
       <td>Lunch Break</td>
+       <td>All</td>
     </tr>
   </tbody>
 </table>
@@ -105,6 +87,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     <tr>
       <td><b>Time</b></td>
       <td><b>Session</b></td>
+        <td><b>Subject Matter Expert</b></td>
     </tr>
     <tr>
       <td>13.00</td>
@@ -112,7 +95,9 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
       1. Learning in Complex Coalition Environments<br>
       2. Resilient Coalition Networking<br>
       3. Integrating ad hoc Coalition teams and understanding dynamic audiences</td>
-      </td>
+      <td>Presenter 1<br>
+      <td>Presenter 2<br>
+      <td>Presenter 3</td>
     </tr>
     <tr>
       <td>14.00-16.00</td>
@@ -123,7 +108,8 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
           2. Resilient Coalition Networking</a><br>
         <a href="https://dais-legacy.org/cluster3/">
           3.	Integrating ad hoc Coalition teams and understanding dynamic audiences</a></td>  
-  </td>
+        <td>Lance Kaplan (ARL)<br>
+      <td>Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US</td>
     </tr>
   </tbody>
 </table>
