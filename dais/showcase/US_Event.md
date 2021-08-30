@@ -132,7 +132,7 @@ Research highlights, publications, demos, and presentations can be viewed asynch
 
 Q&A and other discussion during the event will not be recorded.
 
-DUPLICATE (remove following feedback from Michael)
+**DUPLICATE (remove following feedback from Michael)**
 
 •	Break-out sessions for Discussions/Q&A<br>
 *	[Learning in Complex Coalition Environments](/cluster1/)<br>
