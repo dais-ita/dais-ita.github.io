@@ -16,7 +16,7 @@ The DAIS ITA brings together U.S. and UK government, industry and academic scien
 
 Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
 
-Timetable
+**Executive Session: Program Overview and Demo Highlights**
 
 <table>
   <tbody>
@@ -30,11 +30,11 @@ Timetable
     </tr>
     <tr>
       <td>9.15</td>
-      <td>Executive Program Overview</td>
+      <td>Program Overview</td>
     </tr>
     <tr>
       <td>9.45</td>
-      <td>Executive Summary of Demonstrations</td>
+      <td>Summary of Demonstrations</td>
     </tr>
     <tr>
       <td>10.15</td>
@@ -42,23 +42,57 @@ Timetable
     </tr>
     <tr>
       <td>10.30-12.00</td>
-      <td>Executive Demonstration Sessions</td>
+      <td>Demonstration Sessions</td>
+       </tr>
+  </tbody>
+</table>
+
+* Learning in Complex Coalition Environments
+1.	[Federated Learning in a Resource Constrained Networked Environment](/1a08/)
+2.	[Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title)
+3.	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
+4.	[Adapting AI systems to Recognise New Patterns of Distributed Activity](/1c16/)
+5.	[Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
+* Resilient Coalition Networking
+6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)
+7.	[Adversarial Domain Adaptation Learning for Accelerating AI-based Military Solutions](/2c01/) (need to confirm title)
+      
+      **Technical Session: Research Overview**
+<table>
+  <tbody>
+    <tr>
+      <td><b>Time</b></td>
+      <td><b>Session</b></td>
     </tr>
     <tr>
       <td>12.00</td>
       <td>Lunch Break</td>
     </tr>
-    <tr>
+    <tr>     
       <td>13.00</td>
-      <td>Technical Overview of Achievement Cluster Groupings</td>
+      <td>Overview of Achievement Cluster Groupings</td>
     </tr>
     <tr>
       <td>14.00-16.00</td>
-      <td>Technical Breakout Sessions by Achievement Cluster</td>
+      <td>Breakout Sessions by Achievement Cluster</td>
     </tr>
   </tbody>
 </table>
 
+* Overview: Learning in Complex Coalition Environments
+* Overview: Resilient Coalition Networking
+* Overview: Integrating ad hoc Coalition teams and understanding dynamic audiences
+
+Research highlights, publications, demos, and presentations can be viewed asynchronously at the **FIX LINK** [DAIS ITA Legacy Site](/index.md/)
+
+Q&A and other discussion during the event will not be recorded.
+
+•	Break-out sessions for discussions/Q&A
+*	[Learning in Complex Coalition Environments](/cluster1/)
+*	[Resilient Coalition Networking](/cluster2/)
+*	[Integrating ad hoc Coalition teams and understanding dynamic audiences](/cluster3/)
+
+DUPLICATE
 **Executive Session: Program Overview and Demo Highlights**
 
 **09.00 – 12.00 U.S. Eastern Time**
@@ -86,19 +120,6 @@ Demonstrations will run for 20 minutes each, one after the other
 **13.00 – 16.00 U.S. Eastern Time**
 
 **Agenda**
-
-* Overview: Learning in Complex Coalition Environments
-* Overview: Resilient Coalition Networking
-* Overview: Integrating ad hoc Coalition teams and understanding dynamic audiences
-
-Research highlights, publications, demos, and presentations can be viewed asynchronously at the **FIX LINK** [DAIS ITA Legacy Site](/index.md/)
-
-Q&A and other discussion during the event will not be recorded.
-
-•	Break-out sessions for discussions/Q&A
-*	[Learning in Complex Coalition Environments](/cluster1/)
-*	[Resilient Coalition Networking](/cluster2/)
-*	[Integrating ad hoc Coalition teams and understanding dynamic audiences](/cluster3/)
 
  
 
