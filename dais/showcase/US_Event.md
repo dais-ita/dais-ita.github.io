@@ -59,22 +59,36 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 </table>
 
 **Learning in Complex Coalition Environments**
-1.	[Federated Learning in a Resource Constrained Networked Environment](/1a08/)<br>
-presented by 
-2.	[Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title)<br>
-presented by 
-3.	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)<br>
-presented by
-4.	[Adapting AI systems to Recognise New Patterns of Distributed Activity](/1c16/)<br>
-presented by 
-5.	[Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)<br>
-presented by <br>
+1.	[Federated Learning in a Resource Constrained Networked Environment](/1a08/)
 
-**Resilient Coalition Networking**<br>
-  6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)<br>
-presented by <br>
-  7.	[Adversarial Domain Adaptation Learning for Accelerating AI-based Military Solutions](/2c01/) (need to confirm title) <br>
-presented by <br>
+presented by
+
+2.	[Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title
+
+presented by 
+
+3.	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
+
+presented by
+
+4.	[Adapting AI systems to Recognise New Patterns of Distributed Activity](/1c16/)
+
+presented by 
+
+5.	[Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
+
+presented by
+
+**Resilient Coalition Networking**
+
+6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)
+
+presented by 
+
+7.	[Adversarial Domain Adaptation Learning for Accelerating AI-based Military Solutions](/2c01/) (need to confirm title)
+
+presented by
+
 
 **Break: 12.00 – 13.00 U.S. Eastern Time**<br>
 
