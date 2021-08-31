@@ -18,9 +18,9 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 
 **Join the Virtual Meeting (add join info here)**
 
-<header><strong><center>Executive Session</header></strong></center>
+<header><center>Executive Session</header></center>
 
-# Executive Session 
+# Executive Session </#>
 
 <table>
   <tbody>
@@ -49,11 +49,9 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 
 **Learning in Complex Coalition Environments**
 1.	[Federated Learning in a Resource Constrained Networked Environment](/1a08/)
-
     presented by Shiqiang Wang, IBM US
 
-2.	[Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title
-
+2.	[Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title)
     presented by Graham Bent, IBM UK
 
 3.	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
