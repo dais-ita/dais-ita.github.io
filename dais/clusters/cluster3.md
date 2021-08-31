@@ -22,5 +22,5 @@ and, in some cases, a demonstration or presentation video.
   
 ## The social dynamics of Propagation, Polarisation and Prediction
 * [Modelling the Emergent Behaviour of Human Social Groups](/3c01/)
-* [Human agent reasoning using Controlled Natural Language](/3a04/)
+* [Human agent reasoning using Controlled Natural Language](/3c04/)
 * [Framework for Modeling the Effect of Emotion on Uncritical Reasoning](/3a05/)
