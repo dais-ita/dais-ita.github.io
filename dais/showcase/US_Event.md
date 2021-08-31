@@ -115,7 +115,8 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
       <td>14.00-16.00</td>
       <td>Breakout Sessions for Discussions / Q&A<br>
         <a href="https://dais-legacy.org/cluster1/">
-          1.	Learning in Complex Coalition Environments</a><br><br>
+          1.	Learning in Complex Coalition Environments</a><br>
+              Join Virtual Breakout Meeting Here (add info)<br>
         <a href="https://dais-legacy.org/cluster2/">
           2. Resilient Coalition Networking</a><br><br>
         <a href="https://dais-legacy.org/cluster3/">
