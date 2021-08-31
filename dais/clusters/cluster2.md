@@ -21,16 +21,16 @@ and, in some cases, a demonstration or presentation video.
 <!-- * [Service placement and Topology Inference - Replaced by 2a03 & 2a04?](/2a02/)-->
 
 ## Robust Learning for dynamic networks
-* [Joint Reinforcement & Transfer learning for Distributed Service Configuration in Fragmented SDC](/2b01/)
-* [A coordination mechanism for MARL in fragmented networking](/2b02/)
-* [State-action separable and embedding for RL](/2b03/)
+* [Joint Reinforcement and Transfer Learning for Distributed Service Configuration in Fragmented Software Defined Coalitions](/2b01/)
+* [A Coordination Mechanism for MARL in Fragmented Networking](/2b02/)
+* [State-Action Separable and Ebedding for Reinforcement Learning](/2b03/)
 
 ## Rapid characterization of coalition network infrastructure
-* [Adverserial Networks (GANs) Adversarial Domain Adaptation Learning for Ground Vehicle Acoustic Sound Classification](/2c01/)
-* [Privacy-preserving Learning Techniques based on (GANs)](/2c02/)
-* [Answer Set Grammar Learner](/1c07/)
-* [FastLAS](/1c08/)
+* [Adversarial Domain Adaptation Learning for Accelerating Artificial Intellegence Based Military Solutions](/2c01/)
+* [Privacy-Preserving Learning Techniques Based on Generative Adversarial Networks](/2c02/)
+* [Answer Set Grammar](/1c07/)
+* [The FastLAS System for Interpretable Machine Learning](/1c08/)
 * [Policy Generation for Edge Devices in Coalitions](/2c04/)
-* [A Security-constrained Reinforcement Learning Framework for Software Defined Networks](/2c05/)
-* [Neural-Symbolic Generative Policy Model for Coalition Operations. Generative Policy Models for Coalition Operations](/1c02/)
-* [Adaptive AI systems for human-machine federated predictions](/1c05/)
+* [A Security-Constrained Reinforcement Learning Framework for Software Defined Networks](/2c05/)
+* [Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in Distributed Coalition Operations](/1c02/)
+* [Adaptive Artificial Intellegence Systems for Human-Machine Federated Decision Making](/1c05/)
