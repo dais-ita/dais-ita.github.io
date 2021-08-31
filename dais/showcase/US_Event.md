@@ -113,16 +113,16 @@ presented by Elisa Bertino, Purdue University
     </tr>
     <tr>
       <td>14.00-16.00</td>
-      <td>Breakout Sessions for Discussions / Q&A<br><br>
+      <td>Breakout Sessions for Discussions / Q&A<br>
         <a href="https://dais-legacy.org/cluster1/">
           1.	Learning in Complex Coalition Environments</a><br><br>
         <a href="https://dais-legacy.org/cluster2/">
           2. Resilient Coalition Networking</a><br><br>
         <a href="https://dais-legacy.org/cluster3/">
           3.	Integrating ad hoc Coalition teams and understanding dynamic audiences</a></td> 
-      <td><br>
+      <td><br><br>
       1. Lance Kaplan, ARL; Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US<br><br>
-      2. Kevin Chan, ARL; Don Towsley, UMASS, Elisa Bertino, Purdue, Leandros Tassiulas, Yale<br><br>
+      2. Kevin Chan, ARL; Don Towsley, UMASS; Elisa Bertino, Purdue University; Leandros Tassiulas, Yale University<br><br>
       3. Ananthram Swami and Gosia Turalska, ARL; Yarrow Dunham, Yale </td>
     </tr>
   </tbody>
