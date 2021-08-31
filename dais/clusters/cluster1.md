@@ -27,7 +27,7 @@ and, in some cases, a demonstration or presentation video.
 * [Corset Based Machine Learning](/1b04/)
 * [Data Reduction for Distributed Machine Learning Using Coreset](/1b05/)
 * [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](/1b06/)
-* [Federated Learning in a Resource Constrained Networked Environment - not working!](/1b08/)
+* [Federated Learning in a Resource Constrained Networked Environment](/1a08/)
 
 ## Adaptable AI: AI systems which can rapidly adapt in dynamic situations
 * [Cogni-Sketch: Enabling Rapidly Formed Human-Agent Coalition Teams Through Extensible Information Exchange](/1c01/)
