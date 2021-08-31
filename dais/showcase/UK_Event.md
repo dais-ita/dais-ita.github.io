@@ -5,6 +5,7 @@ title: "UK DAIS Showcase Event"
 ---
 
 # UK DAIS Showcase Event
+# 9th & 10th September 2021
 
 ## Objective:
 
