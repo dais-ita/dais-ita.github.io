@@ -9,14 +9,14 @@ achievement there are details about military relevance, scientific advances prov
 and, in some cases, a demonstration or presentation video.
 
 ## Control and Architecture of SDC
-* [Robust Network & Learning Architectures for SDC](/2a01/)
+* [Robust Network and Learning Architectures for Software Defined Coalitions](/2a01/)
 * [Topology Inference](/2a03/)
 * [Service Placement](/2a04/)
-* [Graph attention networks (GAT) for congestion and mobility prediction](/2a05/)
-* [Binarized neural network](/2a06/)
-* [SDC controller synchronization](/2a07/)
-* [Resource Sharing in SDC](/1f05/)
-* [Control plane architecture](/2a08/)
+* [Graph Attention Networks for Congestion and Mobility Prediction](/2a05/)
+* [Binarized Neural Network](/2a06/)
+* [Software Defined Coalitions Controller Synchronization](/2a07/)
+* [Resource Sharing in Software Defined Coalitions to Support Coalition Missions](/1f05/)
+* [Control Plane Architecture of Software Defined Coalitions](/2a08/)
 * [Enhancing Coalition Networking using SDC – an Overview](/2a09/)
 <!-- * [Service placement and Topology Inference - Replaced by 2a03 & 2a04?](/2a02/)-->
 
