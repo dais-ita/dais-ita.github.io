@@ -120,11 +120,10 @@ presented by Elisa Bertino, Purdue University
           2. Resilient Coalition Networking</a><br><br><br>
         <a href="https://dais-legacy.org/cluster3/">
           3.	Integrating ad hoc Coalition teams and understanding dynamic audiences</a></td> 
-      <td><br>
-      1. Lance Kaplan, ARL <br>
-      Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US<br><br>
-      2. Presenter 2 <br><br>
-      3. Presenter 3</td>
+      <td>
+      1. Lance Kaplan, ARL; Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US<br><br>
+      2. Kevin Chan, ARL; Don Towsley, UMASS, Elisa Bertino, Purdue, Leandros Tassiulas, Yale<br><br>
+      3. Ananthram Swami and Gosia Turalska, ARL; Yarrow Dunham, Yale </td>
     </tr>
   </tbody>
 </table>
