@@ -18,7 +18,8 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 
 **Join the Virtual Meeting (add join info here)**
 
-<center> **Executive Session** </center>
+<p style="font-size:30px">Executive Session.</p>
+**Executive Session**
 
 <table>
   <tbody>
@@ -41,7 +42,6 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     <tr>
       <td>12.00</td>
       <td>Adjourn</td>
-      <td>All</td>
          </tr> 
   </tbody>
 </table>
