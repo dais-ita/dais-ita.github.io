@@ -115,5 +115,3 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 </table>
 
 Research highlights, publications, demos, and presentations can be viewed asynchronously at the [DAIS ITA Legacy Site](https://dais-legacy.org/)
-
-Q&A and other discussion during the event will not be recorded.
