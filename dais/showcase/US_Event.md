@@ -18,7 +18,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 
 **Join the Virtual Meeting (add join info here)**
 
-<p style="font-size:30px">Executive Session.</p>
+<p style="font-size:40px">Executive Session.</p>
 **Executive Session**
 
 <table>
