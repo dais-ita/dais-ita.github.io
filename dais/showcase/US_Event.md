@@ -116,14 +116,14 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
       <td>Breakout Sessions for Discussions / Q&A<br>
         <a href="https://dais-legacy.org/cluster1/">
           1.	Learning in Complex Coalition Environments</a><br>
-              Join Virtual Breakout Meeting Here (add info)<br><br>
+              Add Virtual Breakout Join Info Here <br><br>
         <a href="https://dais-legacy.org/cluster2/">
           2. Resilient Coalition Networking</a><br>
-              Join Virtual Breakout Meeting Here (add info)<br><br>
+             Add Virtual Breakout Join Info Here<br><br>
         <a href="https://dais-legacy.org/cluster3/">
           3.	Integrating ad hoc Coalition teams and understanding dynamic audiences</a><br>
-              Join Virtual Breakout Meeting Here (add info)<br><br></td> 
-      <td><br><br>
+              Add Virtual Breakout Join Info Here<br><br></td> 
+      <td><br><br><br>
       1. Lance Kaplan, ARL; Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US<br><br>
       2. Kevin Chan, ARL; Don Towsley, UMASS; Elisa Bertino, Purdue University; Leandros Tassiulas, Yale University<br><br>
       3. Ananthram Swami and Gosia Turalska, ARL; Yarrow Dunham, Yale University <br></td>
