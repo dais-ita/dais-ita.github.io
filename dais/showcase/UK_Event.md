@@ -54,27 +54,24 @@ Timetable
   </tbody>
 </table>
 
-## Demonstration Stands 
 
+## Demonstration Sessions
 
-
-Stands cover a military issue and highlight how the latest science addresses this issue
+These sessions cover a military issue and highlight how the latest science addresses this issue
 
 Demos will restart every 45 minutes. The demos will run in all 4 sessions 
 
-With a mix of presented content and time for Q&A
+There will be some presented content and time for Q&A
 
 
-- Booth A: [Adaptable & Trusted AI.](https://ibm.webex.com/meet/gwhite)  Possibly Alun Preece & Gavin Pearson.  Possibly 1c16 & 1d01
+- Session A: [Adaptable & Trusted AI.](https://ibm.webex.com/meet/gwhite)  Possibly Alun Preece & Gavin Pearson.  Possibly 1c16 & 1d01
 
-- Booth B: [Coalition Analytics.](https://ibm.webex.com/meet/conway)  Possibly Graham Bent & Dave C-J & Shiqiang Wang.  Possibly 1a08 (on Federated Learning) & 1a11 on VSA.
+- Session B: [Coalition Analytics.](https://ibm.webex.com/meet/conway)  Possibly Graham Bent & Dave C-J & Shiqiang Wang.  Possibly 1a08 (on Federated Learning) & 1a11 on VSA.
 
-- Booth C: [Resilient Coalition Network.](https://ibm.webex.com/meet/dancunnington)  Possibly Kin Leung, Alessandra Russo & John Melrose.  Possibly 2a09 on SDC, & ? on Policy.
+- Session C: [Resilient Coalition Network.](https://ibm.webex.com/meet/dancunnington)  Possibly Kin Leung, Alessandra Russo & John Melrose.  Possibly 2a09 on SDC, & ? on Policy.
 
-- Booth D: [Analytics of Social Dynamics(?).](https://ibm.webex.com/meet/dave_braines)  Possibly Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)
+- Session D: [Analytics of Social Dynamics(?).](https://ibm.webex.com/meet/dave_braines)  Possibly Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)
 
-
-Other Attendees - Andreas, Dan C, Graham W, Declan, Mark Law, - Shiqiang (PM)  
 
 ## Other Achievement content
 
@@ -82,6 +79,7 @@ Please feel free to explore other Key Achievements in the Clusters
 
 If you wish to speak to the researchers from any Achievement - please visit the [Helpdesk](https://ibm.webex.com/meet/helen.bowyer) and we will put you in touch (where possible)
 
+[//]: <> Other Attendees - Andreas, Dan C, Graham W, Declan, Mark Law, - Shiqiang (PM) 
 [//]: <> (Rooms for Breakouts inc ANdreas, Declan, Pauline.)
 
 
