@@ -60,4 +60,4 @@ and, in some cases, a demonstration or presentation video.
 * [Model Pruning for Efficient Federated Learning in Coalitions](/1f03/)
 * [Online Resource Allocation Using Distributed Bidding Approaches](/1f04/)
 * [Resource Sharing in Software Defined Coalitions to Support Coalition Missions](/1f05/)
-* [Game Theoretic Resource Allocation in a Coalition](/1f09/)
+* [Game Theoretic Resource Allocation in a Coalition](/1a09/)
