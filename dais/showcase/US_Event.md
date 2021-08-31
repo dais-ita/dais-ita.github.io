@@ -23,38 +23,26 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 <table>
   <tbody>
     <tr>
-      <td><b>Time</b></td>
+      <td><b>Time (U.S. Eastern)</b></td>
       <td><b>Session</b></td>
-      <td><b>Presented by / Subject Matter Expert</b></td>
     </tr>
     <tr>
       <td>9.00</td>
       <td>Welcome</td>
-      <td>Ananthram Swami, ARL<br>
-      Peter Waggett, IBM UK</td>
     </tr>
     <tr>
-      <td>9.15</td>
+      <td>9.10</td>
       <td>Program Overview</td>
-      <td>Dinesh Verma, IBM US<br>
-          Peter Waggett, IBM UK</td>
     </tr>
     <tr>
       <td>9.45</td>
-      <td>Summary of Demonstrations</td>
-       <td>Lance Kaplan and Kevin Chan, ARL<br>
-         Gavin Pearson and John Melrose, Dstl</td>         
+      <td>Demonstration Session (see below)</td>     
     </tr>
     <tr>
-      <td>10.15</td>
-      <td>Break</td>
+      <td>12.00</td>
+      <td>Adjourn</td>
       <td>All</td>
-    </tr>
-    <tr>
-      <td>10.30-12.00</td>
-      <td>Demonstration Sessions</td>
-      <td>See below</td>
-       </tr> 
+         </tr> 
   </tbody>
 </table>
 
@@ -92,11 +80,13 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 
 **Break: 12.00 – 13.00 U.S. Eastern Time**<br>
 
+Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
+
 **Technical Session: Research Overview**
 <table>
   <tbody>
     <tr>
-      <td><b>Time</b></td>
+      <td><b>Time (U.S. Eastern)</b></td>
       <td><b>Session</b></td>
       <td><b>Presented by / Subject Matter Expert</b></td>
     </tr>
@@ -134,11 +124,3 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 Research highlights, publications, demos, and presentations can be viewed asynchronously at the [DAIS ITA Legacy Site](https://dais-legacy.org/)
 
 Q&A and other discussion during the event will not be recorded.
-
-**DUPLICATE (remove following feedback from Michael)**
-
-•	Break-out sessions for Discussions/Q&A<br>
-*	[Learning in Complex Coalition Environments](/cluster1/)<br>
-*	[Resilient Coalition Networking](/cluster2/)<br>
-*	[Integrating ad hoc Coalition teams and understanding dynamic audiences](/cluster3/)  </td>
-
