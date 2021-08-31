@@ -113,7 +113,7 @@ presented by Elisa Bertino, Purdue University
     </tr>
     <tr>
       <td>14.00-16.00</td>
-      <td>Breakout Sessions for Discussions / Q&A
+      <td>Breakout Sessions for Discussions / Q&A<br>
         <a href="https://dais-legacy.org/cluster1/">
           1.	Learning in Complex Coalition Environments</a><br><br>
         <a href="https://dais-legacy.org/cluster2/">
