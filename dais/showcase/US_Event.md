@@ -18,7 +18,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 
 **Join the Virtual Meeting (add join info here)**
 
-<center>Executive Session</center>
+## Executive Session
 
 <table>
   <tbody>
@@ -75,7 +75,7 @@ Resilient Coalition Networking
 
 Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
 
-<center>Technical Session: Research Overview </center>
+## Technical Session: Research Overview
 <table>
   <tbody>
     <tr>
