@@ -5,7 +5,7 @@ title: "US DAIS Showcase Event"
 ---
 
 # US DAIS ITA Research Showcase
-**This event will be hosted virtually September 14, 2021**
+**This event will be hosted virtually Tuesday September 14, 2021**
 
 At this event, research and technology transitions from the U.S. – UK Distributed Analytics & Information Science International Technology Alliance (DAIS ITA) program will be presented to leaders, stakeholders and partners to demonstrate future military warfighting concepts and capabilities, and to facilitate potential transitions to future applied research, experimentation, and demonstration programs.
 
