@@ -123,7 +123,7 @@ presented by Elisa Bertino, Purdue University
       <td><br><br>
       1. Lance Kaplan, ARL; Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US<br><br>
       2. Kevin Chan, ARL; Don Towsley, UMASS; Elisa Bertino, Purdue University; Leandros Tassiulas, Yale University<br><br>
-      3. Ananthram Swami and Gosia Turalska, ARL; Yarrow Dunham, Yale </td>
+      3. Ananthram Swami and Gosia Turalska, ARL; Yarrow Dunham, Yale University </td>
     </tr>
   </tbody>
 </table>
