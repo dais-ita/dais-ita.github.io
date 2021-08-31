@@ -121,7 +121,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
         <a href="https://dais-legacy.org/cluster3/">
           3.	Integrating ad hoc Coalition teams and understanding dynamic audiences</a></td> 
       <td><br><br>
-      1. Lance Kaplan, ARL; Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US<br>
+      1. Lance Kaplan, ARL; Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US<br><br>
       2. Kevin Chan, ARL; Don Towsley, UMASS; Elisa Bertino, Purdue University; Leandros Tassiulas, Yale University<br>
       3. Ananthram Swami and Gosia Turalska, ARL; Yarrow Dunham, Yale University </td>
     </tr>
