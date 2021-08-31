@@ -69,25 +69,25 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 
 3.	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
 
-presented by Alessandra Russo, Imperial College London and Dan Cunnington, IBM UK
+    presented by Alessandra Russo, Imperial College London and Dan Cunnington, IBM UK
 
 4.	[Adapting Artificial Intellegence Systems to Recognize New Patterns of Distributed Activity](/1c16/)
 
-presented by Alun Preece, Cardiff Univeristy and Dave Braines, IBM UK
+    presented by Alun Preece, Cardiff Univeristy and Dave Braines, IBM UK
 
 5.	[Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data](/1d01/)
 
-presented by Alun Preece, Cardiff Univeristy and Dave Braines, IBM UK
+    presented by Alun Preece, Cardiff Univeristy and Dave Braines, IBM UK
 
 **Resilient Coalition Networking**
 
 6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)
 
-presented by Leandros Tassiulas, Yale University and Don Towsley, University of Massachusetts Amherst
+    presented by Leandros Tassiulas, Yale University and Don Towsley, University of Massachusetts Amherst
 
 7.	[Adversarial Domain Adaptation Learning for Accelerating Atificial Intellegence Based Military Solutions](/2c01/) (need to confirm title)
 
-presented by Elisa Bertino, Purdue University
+    presented by Elisa Bertino, Purdue University
 
 
 **Break: 12.00 – 13.00 U.S. Eastern Time**<br>
