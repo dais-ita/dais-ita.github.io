@@ -117,7 +117,7 @@ presented by Elisa Bertino, Purdue University
         <a href="https://dais-legacy.org/cluster1/">
           1.	Learning in Complex Coalition Environments</a><br><br><br>
         <a href="https://dais-legacy.org/cluster2/">
-          2. Resilient Coalition Networking</a><br><br><br>
+          2. Resilient Coalition Networking</a><br><br>
         <a href="https://dais-legacy.org/cluster3/">
           3.	Integrating ad hoc Coalition teams and understanding dynamic audiences</a></td> 
       <td>
