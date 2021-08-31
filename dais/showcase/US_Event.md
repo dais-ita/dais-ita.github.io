@@ -102,7 +102,8 @@ presented by Elisa Bertino, Purdue University
     </tr>
     <tr>
       <td>13.00</td>
-      <td>Overview of Achievement Cluster Groupings<br>
+      <td>Overview of Achievement Cluster Groupings
+        
       1. Learning in Complex Coalition Environments<br>
       2. Resilient Coalition Networking<br>
       3. Integrating ad hoc Coalition teams and understanding dynamic audiences</td>
