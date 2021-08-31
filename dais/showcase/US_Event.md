@@ -102,7 +102,7 @@ presented by Elisa Bertino, Purdue University
     </tr>
     <tr>
       <td>13.00</td>
-      <td>Overview of Achievement Cluster Groupings        
+      <td>Overview of Achievement Cluster Groupings<br>        
       1. Learning in Complex Coalition Environments<br>
       2. Resilient Coalition Networking<br>
       3. Integrating ad hoc Coalition teams and understanding dynamic audiences</td>
@@ -113,7 +113,7 @@ presented by Elisa Bertino, Purdue University
     </tr>
     <tr>
       <td>14.00-16.00</td>
-      <td>Breakout Sessions for Discussions / Q&A<br>
+      <td>Breakout Sessions for Discussions / Q&A
         <a href="https://dais-legacy.org/cluster1/">
           1.	Learning in Complex Coalition Environments</a><br><br>
         <a href="https://dais-legacy.org/cluster2/">
