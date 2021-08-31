@@ -44,20 +44,20 @@ and, in some cases, a demonstration or presentation video.
 * [Adapting Artificial Intellegence Systems to Recognise New Patterns of Distributed Activity](/1c16/)
 
 ## Trusted AI: Human users are able to rapidly calibrate their trust in AI systems
-* [Real-Time Explainable Artificial Intelligence: Time-series and multi-modal data](/1d01/)
+* [Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data](/1d01/)
 * [Achieving Rapid Trust of Adaptable Artificial Intelligence systems](/1d04/)
-* [Uncertainty-Aware AI&ML](/1d05/)
+* [Uncertainty-Aware Artifical Intelligence and Machine Learning](/1d05/)
 
 ## Resilient AI: AI systems which are resilient to adversary attacks / deception
 * [Gradient Free Attacks on Multiple Modalities](/1e01/)
-* [Efficient attacks using side-channels](/1e03/)
+* [Efficient Attacks Using Side-channels](/1e03/)
 * [Inconsistency in Explanation Metrics](/1e04/) 
-* [Model poisoning attacks in Federated Learning and Defense Strategies](/1e05/)
+* [Model Poisoning Attacks and Defences in Federated Learning](/1e05/)
 
 ## Edge AI: Economising power consumption at the edge
-* [Energy Efficient VSA Using ‘In Memory’ Hyperdimensonal Computing](/1f01/)
-* [Energy Efficient VSA Using Spiking Neural Networks](/1f02/)
+* [Energy Efficient Vector Symbolic Architecture Using ‘In Memory’ Hyperdimensonal Computing](/1f01/)
+* [Energy Efficient Vector Symbolic Architecture Using Spiking Neural Networks](/1f02/)
 * [Model Pruning for Efficient Federated Learning in Coalitions](/1f03/)
 * [Online Resource Allocation Using Distributed Bidding Approaches](/1f04/)
-* [Resource Sharing in SDC](/1f05/)
+* [Resource Sharing in Software Defined Coalitions to Support Coalition Missions](/1f05/)
 * [Game Theoretic Resource Allocation in a Coalition](/1f09/)
