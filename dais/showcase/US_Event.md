@@ -45,7 +45,8 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
   </tbody>
 </table>
 
-**Learning in Complex Coalition Environments**
+Learning in Complex Coalition Environments
+
 1.	[Federated Learning in a Resource Constrained Networked Environment](/1a08/)
     presented by Shiqiang Wang, IBM US
 
@@ -53,25 +54,20 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     presented by Graham Bent, IBM UK
 
 3.	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
-
     presented by Alessandra Russo, Imperial College London and Dan Cunnington, IBM UK
 
 4.	[Adapting Artificial Intellegence Systems to Recognize New Patterns of Distributed Activity](/1c16/)
-
     presented by Alun Preece, Cardiff Univeristy and Dave Braines, IBM UK
 
 5.	[Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data](/1d01/)
-
     presented by Alun Preece, Cardiff Univeristy and Dave Braines, IBM UK
 
-**Resilient Coalition Networking**
+Resilient Coalition Networking
 
 6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)
-
     presented by Leandros Tassiulas, Yale University and Don Towsley, University of Massachusetts Amherst
 
 7.	[Adversarial Domain Adaptation Learning for Accelerating Atificial Intellegence Based Military Solutions](/2c01/) (need to confirm title)
-
     presented by Elisa Bertino, Purdue University
 
 
@@ -79,7 +75,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 
 Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
 
-# Technical Session: Research Overview
+<center>Technical Session: Research Overview </center>
 <table>
   <tbody>
     <tr>
