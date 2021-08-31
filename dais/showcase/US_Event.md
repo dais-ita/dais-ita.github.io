@@ -126,7 +126,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
       <td><br>
       1. Lance Kaplan, ARL; Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US<br><br>
       2. Kevin Chan, ARL; Don Towsley, UMASS; Elisa Bertino, Purdue University; Leandros Tassiulas, Yale University<br><br>
-      3. Ananthram Swami and Gosia Turalska, ARL; Yarrow Dunham, Yale University <br></td>
+      3. Ananthram Swami and Gosia Turalska, ARL; Yarrow Dunham, Yale University <br><br></td>
     </tr>
   </tbody>
 </table>
