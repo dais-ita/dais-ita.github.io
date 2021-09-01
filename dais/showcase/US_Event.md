@@ -71,7 +71,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     presented by Elisa Bertino, Purdue University
 </sub>
 
-## Break: 12.00 – 13.00 U.S. Eastern Time**<br>
+## Break: 12.00 – 13.00 U.S. Eastern Time<br>
 
 <sub>Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
 
@@ -99,7 +99,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
       <td>Breakout Sessions for Discussions / Q&A<br><br>
         <a href="https://dais-legacy.org/cluster1/">
           1.	Learning in Complex Coalition Environments</a><br>
-              Add Virtual Breakout Join Info Here <br><br>
+              [Click here] (https://dod.teams.microsoft.us/l/meetup-join/19%3adod%3ameeting_d40f7547bf2749af80505d408a76a525%40thread.v2/0?context=%7b%22Tid%22%3a%22fae6d70f-954b-4811-92b6-0530d6f84c43%22%2c%22Oid%22%3a%22994aee16-b3ce-4049-b02f-c5b73a412cab%22%7d) to Join the Virtual Breakout <br><br>
         <a href="https://dais-legacy.org/cluster2/">
           2. Resilient Coalition Networking</a><br>
              Add Virtual Breakout Join Info Here<br><br>
@@ -117,3 +117,5 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 Research highlights, publications, demos, and presentations can be viewed asynchronously at the [DAIS ITA Legacy Site](https://dais-legacy.org/)
   
 Virtual Test meeting click [here](https://dod.teams.microsoft.us/l/meetup-join/19%3adod%3ameeting_a6df3d1c1ffb474b8d51215bc9c6cbc2%40thread.v2/0?context=%7b%22Tid%22%3a%22fae6d70f-954b-4811-92b6-0530d6f84c43%22%2c%22Oid%22%3a%22994aee16-b3ce-4049-b02f-c5b73a412cab%22%7d) on Thursday 2 Sept. between 08.30-09.30 US time (13.30-14.30 UK time)
+
+Virtual Test meeting click [here](https://dod.teams.microsoft.us/l/meetup-join/19%3adod%3ameeting_d40f7547bf2749af80505d408a76a525%40thread.v2/0?context=%7b%22Tid%22%3a%22fae6d70f-954b-4811-92b6-0530d6f84c43%22%2c%22Oid%22%3a%22994aee16-b3ce-4049-b02f-c5b73a412cab%22%7d) on Firday 3 Sept. between 09.30-10.30 US time (13.30-14.30 UK time)
