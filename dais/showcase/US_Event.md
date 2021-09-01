@@ -45,7 +45,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
   </tbody>
 </table>
 
-<sub>Learning in Complex Coalition Environments </sub>
+<sub><u>Learning in Complex Coalition Environments </u></sub>
 
 <sub>1.	[Federated Learning in a Resource Constrained Networked Environment](/1a08/)
     presented by Shiqiang Wang, IBM US
@@ -62,7 +62,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 <sub>5.	[Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data](/1d01/)
     presented by Alun Preece, Cardiff Univeristy and Dave Braines, IBM UK
 
-<sub>Resilient Coalition Networking
+  <sub><u>Resilient Coalition Networking</u>
 
 <sub>6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)
     presented by Leandros Tassiulas, Yale University and Don Towsley, University of Massachusetts Amherst
