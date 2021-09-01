@@ -101,13 +101,13 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
           1.	Learning in Complex Coalition Environments</a><br>
           To Join the Virtual Breakout Click 
         <a href="https://dod.teams.microsoft.us/l/meetup-join/19%3adod%3ameeting_a6df3d1c1ffb474b8d51215bc9c6cbc2%40thread.v2/0?context=%7b%22Tid%22%3a%22fae6d70f-954b-4811-92b6-0530d6f84c43%22%2c%22Oid%22%3a%22994aee16-b3ce-4049-b02f-c5b73a412cab%22%7d">
-              Here</a><br>
+              Here</a>(update link)<br>
         <a href="https://dais-legacy.org/cluster2/">
           2. Resilient Coalition Networking</a><br>
-             Add Virtual Breakout Join Info Here<br><br>
+              To Join the Virtual Breakout Click Here (add link)<br><br>
         <a href="https://dais-legacy.org/cluster3/">
           3.	Integrating ad hoc Coalition teams and understanding dynamic audiences</a><br>
-              Add Virtual Breakout Join Info Here<br><br></td> 
+              To Join the Virtual Breakout Click Here (add link) <br><br></td> 
       <td><br>
       1. Lance Kaplan, ARL; Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US<br><br>
       2. Kevin Chan, ARL; Don Towsley, UMASS; Elisa Bertino, Purdue University; Leandros Tassiulas, Yale University<br><br>
