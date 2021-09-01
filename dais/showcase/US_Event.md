@@ -71,7 +71,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     presented by Elisa Bertino, Purdue University
 </sub>
 
-**Break: 12.00 – 13.00 U.S. Eastern Time**<br>
+## Break: 12.00 – 13.00 U.S. Eastern Time**<br>
 
 <sub>Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
 
