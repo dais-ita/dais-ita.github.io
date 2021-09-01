@@ -45,9 +45,9 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
   </tbody>
 </table>
 
-Learning in Complex Coalition Environments
+<sub>Learning in Complex Coalition Environments </sub>
 
-1.	[Federated Learning in a Resource Constrained Networked Environment](/1a08/)
+<sub>1.	[Federated Learning in a Resource Constrained Networked Environment](/1a08/)
     presented by Shiqiang Wang, IBM US
 
 2.	[Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title)
@@ -69,7 +69,7 @@ Resilient Coalition Networking
 
 7.	[Adversarial Domain Adaptation Learning for Accelerating Atificial Intellegence Based Military Solutions](/2c01/) (need to confirm title)
     presented by Elisa Bertino, Purdue University
-
+</sub>
 
 **Break: 12.00 – 13.00 U.S. Eastern Time**<br>
 
