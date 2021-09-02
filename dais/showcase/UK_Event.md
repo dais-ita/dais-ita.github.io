@@ -69,7 +69,7 @@ There will be some presented content and time for Q&A
 - Session C: [Resilient Coalition Network.](https://ibm.webex.com/meet/dancunnington)  
 <!--Possibly Kin Leung, Alessandra Russo & John Melrose.  Possibly 2a09 on SDC, & ? on Policy.-->
 
-- Session D: [Analytics of Social Dynamics(?).](https://ibm.webex.com/meet/dave_braines)  
+- Session D: [Analytics of Social Dynamics.](https://ibm.webex.com/meet/dave_braines)  
 <!--Possibly Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)-->
 
 
