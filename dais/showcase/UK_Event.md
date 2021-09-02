@@ -60,13 +60,17 @@ Demos will restart every 45 minutes. The demos will run in all 4 sessions
 There will be some presented content and time for Q&A
 
 
-- Session A: [Adaptable & Trusted AI.](https://ibm.webex.com/meet/gwhite)  Possibly Alun Preece & Gavin Pearson.  Possibly 1c16 & 1d01
+- Session A: [Adaptable & Trusted AI.](https://ibm.webex.com/meet/gwhite)  
+<!--Possibly Alun Preece & Gavin Pearson.  Possibly 1c16 & 1d01 -->
 
-- Session B: [Coalition Analytics.](https://ibm.webex.com/meet/conway)  Possibly Graham Bent & Dave C-J & Shiqiang Wang.  Possibly 1a08 (on Federated Learning) & 1a11 on VSA.
+- Session B: [Coalition Analytics.](https://ibm.webex.com/meet/conway)  
+<!--Possibly Graham Bent & Dave C-J & Shiqiang Wang.  Possibly 1a08 (on Federated Learning) & 1a11 on VSA.-->
 
-- Session C: [Resilient Coalition Network.](https://ibm.webex.com/meet/dancunnington)  Possibly Kin Leung, Alessandra Russo & John Melrose.  Possibly 2a09 on SDC, & ? on Policy.
+- Session C: [Resilient Coalition Network.](https://ibm.webex.com/meet/dancunnington)  
+<!--Possibly Kin Leung, Alessandra Russo & John Melrose.  Possibly 2a09 on SDC, & ? on Policy.-->
 
-- Session D: [Analytics of Social Dynamics(?).](https://ibm.webex.com/meet/dave_braines)  Possibly Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)
+- Session D: [Analytics of Social Dynamics(?).](https://ibm.webex.com/meet/dave_braines)  
+<!--Possibly Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)-->
 
 
 ## Other Achievement content
