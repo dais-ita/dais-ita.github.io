@@ -7,7 +7,7 @@ title: "UK DAIS ITA Showcase Event"
 # UK DAIS ITA Showcase Event
 # 9th & 10th September 2021
 
-An Overview of the DAIS ITA Programme can be found [here](//)
+An Overview of the DAIS ITA Programme can be found [here](https://dais-legacy.org/)
 
 ## Objective:
 
