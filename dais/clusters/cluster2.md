@@ -8,7 +8,7 @@ This cluster is broken down into a number of themes, each of which has one or mo
 achievement there are details about military relevance, scientific advances provided as a textual summary
 and, in some cases, a demonstration or presentation video.
 
-## Control and Architecture of SDC
+## Control and Architecture of Software Defined Coalitions
 * [Robust Network and Learning Architectures for Software Defined Coalitions](/2a01/)
 * [Topology Inference](/2a03/)
 * [Service Placement](/2a04/)
@@ -20,12 +20,12 @@ and, in some cases, a demonstration or presentation video.
 * [Enhancing Coalition Networking using SDC – an Overview](/2a09/)
 <!-- * [Service placement and Topology Inference - Replaced by 2a03 & 2a04?](/2a02/)-->
 
-## Robust Learning for dynamic networks
+## Robust Learning for Dynamic Networks
 * [Joint Reinforcement and Transfer Learning for Distributed Service Configuration in Fragmented Software Defined Coalitions](/2b01/)
 * [A Coordination Mechanism for MARL in Fragmented Networking](/2b02/)
 * [State-Action Separable and Ebedding for Reinforcement Learning](/2b03/)
 
-## Rapid characterization of coalition network infrastructure
+## Rapid Characterization of Coalition Network Infrastructure
 * [Adversarial Domain Adaptation Learning for Accelerating Artificial Intellegence Based Military Solutions](/2c01/)
 * [Privacy-Preserving Learning Techniques Based on Generative Adversarial Networks](/2c02/)
 * [Answer Set Grammar](/1c07/)
