@@ -7,6 +7,8 @@ title: "UK DAIS ITA Showcase Event"
 # UK DAIS ITA Showcase Event
 # 9th & 10th September 2021
 
+An Overview of the DAIS ITA Programme can be found [here](//)
+
 ## Objective:
 
 To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS ITA scientific achievements addressing coalition analytics, networks and information challenges to 
