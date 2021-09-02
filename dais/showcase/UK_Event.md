@@ -9,7 +9,7 @@ title: "UK DAIS ITA Showcase Event"
 
 An Overview of the DAIS ITA Programme can be found [here](https://dais-legacy.org/)
 
-## Objective:
+## Showcase Objective
 
 To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS ITA scientific achievements addressing coalition analytics, networks and information challenges to 
 - Understand future potential (e.g. impact on capability)
