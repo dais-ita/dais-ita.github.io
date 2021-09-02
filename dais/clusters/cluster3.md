@@ -3,7 +3,7 @@ layout: splash
 permalink: /cluster3/
 ---
 
-# Cluster 3: Integrating Ad-hoc Coalition Teams and Understanding Dynamic Audiences
+# Cluster 3: Integrating Ad hoc Coalition Teams and Understanding Dynamic Audiences
 This cluster is broken down into a number of themes, each of which has one or more achievements.  For each
 achievement there are details about military relevance, scientific advances provided as a textual summary
 and, in some cases, a demonstration or presentation video.
