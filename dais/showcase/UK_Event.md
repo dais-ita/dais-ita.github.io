@@ -20,16 +20,12 @@ To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS
       <td>Session</td>
     </tr>
     <tr>
-      <td>9.30</td>
-      <td>Welcome</td>
-    </tr>
-    <tr>
       <td>10.00</td>
-      <td>Program Overview</td>
+      <td>Welcome & Program Overview</td>
     </tr>
     <tr>
       <td>10.30</td>
-      <td>Summary of Demonstrations</td>
+      <td>Summary of Demonstrations & Daily Logistics</td>
     </tr>
     <tr>
       <td>10.45</td>
