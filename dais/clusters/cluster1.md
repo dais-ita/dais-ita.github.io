@@ -9,7 +9,7 @@ This cluster is broken down into a number of themes, each of which has one or mo
 achievement there are details about military relevance, scientific advances provided as a textual summary
 and, in some cases, a demonstration or presentation video.
 
-## Representation and composition of complex analytics
+## Representation and Composition of Complex Analytics
 * [Dynamic Communications Replanning Using a Vector Symbolic Architecture](/1a02/)
 * [Addressing for Intelligent Routing in Mobile Military Networks](/1a03/)
 * [Semantic Vector Mapping for Coalition Operations](/1a04/)
@@ -20,7 +20,7 @@ and, in some cases, a demonstration or presentation video.
 * [Minimising Coalition Information Exchange](/1a10/)
 * [Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/)
 
-## Efficient learning in resource constrained networks
+## Efficient Learning in Resource Constrained Networks
 * [One Shot Federation for Coalition Model Sharing](/1b01/)
 * [Compressed Model Updates for Efficient Federated Learning](/1b02/)
 * [Distributed Coreset Construction for Efficient Machine Learning in Coalitions](/1b03/)
@@ -29,7 +29,7 @@ and, in some cases, a demonstration or presentation video.
 * [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](/1b06/)
 * [Federated Learning in a Resource Constrained Networked Environment](/1a08/)
 
-## Adaptable AI: AI systems which can rapidly adapt in dynamic situations
+## Adaptable Artificial Intellegence: AI Systems which can Rapidly Adapt in Dynamic Situations
 * [Cogni-Sketch: Enabling Rapidly Formed Human-Agent Coalition Teams Through Extensible Information Exchange](/1c01/)
 * [Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in Distributed Coalition Operations](/1c02/)
 * [Federated Inference using Self-Generated Policy](/1c03/)
@@ -43,18 +43,18 @@ and, in some cases, a demonstration or presentation video.
 * [Reinforcement Learning for Military Network Control](/1c15/)
 * [Adapting Artificial Intellegence Systems to Recognise New Patterns of Distributed Activity](/1c16/)
 
-## Trusted AI: Human users are able to rapidly calibrate their trust in AI systems
+## Trusted Artificial Intellegence: Human Users are Able to Rapidly Calibrate their Trust in AI Systems
 * [Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data](/1d01/)
 * [Achieving Rapid Trust of Adaptable Artificial Intelligence systems](/1d04/)
 * [Uncertainty-Aware Artifical Intelligence and Machine Learning](/1d05/)
 
-## Resilient AI: AI systems which are resilient to adversary attacks / deception
+## Resilient Artificial Intellegence: AI Systems which are Resilient to Adversary Attacks / Deception
 * [Gradient Free Attacks on Multiple Modalities](/1e01/)
 * [Efficient Attacks Using Side-channels](/1e03/)
 * [Inconsistency in Explanation Metrics](/1e04/) 
 * [Model Poisoning Attacks and Defences in Federated Learning](/1e05/)
 
-## Edge AI: Economising power consumption at the edge
+## Edge Artificial Intellegnce: Economising Power Consumption at the Edge
 * [Energy Efficient Vector Symbolic Architecture Using ‘In Memory’ Hyperdimensonal Computing](/1f01/)
 * [Energy Efficient Vector Symbolic Architecture Using Spiking Neural Networks](/1f02/)
 * [Model Pruning for Efficient Federated Learning in Coalitions](/1f03/)
