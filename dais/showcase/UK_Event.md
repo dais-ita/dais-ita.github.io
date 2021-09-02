@@ -100,6 +100,9 @@ There will be some presented content and time for Q&A
 ## Other Achievement content
 
 The Showcase only shows a small percentage of the DAIS ITA content. Please feel free to explore other Key Achievements in the Clusters
+- [AI in Contested Multi-Doman Coalition Operations](/AI_Cluster)
+- [Integrating ad hoc Coalition teams and understanding dynamic audiences](/Integrating_Cluster/)
+- [Resilient Coalition Networks](/Resilient_Cluster)
 
 If you wish to speak to the researchers from any Achievement - please visit the [Helpdesk](https://ibm.webex.com/meet/helen.bowyer) and we will put you in touch (where possible)
 
