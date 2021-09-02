@@ -10,8 +10,8 @@ title: "UK DAIS Showcase Event"
 ## Objective:
 
 To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS ITA scientific achievements addressing coalition analytics, networks and information challenges to 
-- (a) understand future potential (e.g. impact on capability)
-- (b) support/sponsor transition activities. 
+- Understand future potential (e.g. impact on capability)
+- Support/sponsor transition activities. 
 
 ## Agenda
 
@@ -34,7 +34,13 @@ To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS
       <td>Break</td>
     </tr>
     <tr>
-      <td>11.00-11.45 and 11.45-12.30</td>
+      <td>11.00-11.45</td>
+      <td>Demonstration Sessions
+[Session A](https://ibm.webex.com/meet/gwhite) [Session B](https://ibm.webex.com/meet/conway)  [Session C](https://ibm.webex.com/meet/dancunnington)  [Session D](https://ibm.webex.com/meet/dave_braines)  
+<!--Possibly Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)--></td>
+    </tr>
+    <tr>
+      <td>11.45-12.30</td>
       <td>Demonstration Sessions</td>
     </tr>
     <tr>
@@ -46,7 +52,11 @@ To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS
       <td>[Panel Q&A Session](https://ibm.webex.com/meet/helen.bowyer)</td>
     </tr>
     <tr>
-      <td>14.00-14.45 and 14.45-15.30</td>
+      <td>14.00-14.45</td>
+      <td>Demonstration Sessions</td>
+    </tr>
+    <tr>
+      <td>14.45-15.30</td>
       <td>Demonstration Sessions</td>
     </tr>
   </tbody>
