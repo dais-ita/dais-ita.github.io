@@ -1,11 +1,9 @@
 # main links
 main:
-  - title: "Cluster 1"
-    url: /cluster1/
-  - title: "Cluster 2"
-    url: /cluster2/
-  - title: "Cluster 3"
-    url: /cluster3/
+  - title: "UK Event"
+    url: /UK_Event/
+  - title: "US Event"
+    url: /US_Event/
   - title: "Science Library"
     url: /science-library/
   # - title: "About"
