@@ -99,7 +99,7 @@ There will be some presented content and time for Q&A
 
 ## Other Achievement content
 
-Please feel free to explore other Key Achievements in the Clusters
+The Showcase only shows a small percentage of the DAIS ITA content. Please feel free to explore other Key Achievements in the Clusters
 
 If you wish to speak to the researchers from any Achievement - please visit the [Helpdesk](https://ibm.webex.com/meet/helen.bowyer) and we will put you in touch (where possible)
 
