@@ -9261,7 +9261,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-5861/">istributed Machine Learning at Resource-Limited Tactical Edge: Demo</a></td>
+        <td><a href="/doc-5861/">Distributed Machine Learning at Resource-Limited Tactical Edge: Demo</a></td>
         <td>demo</td>
         <td>
             <ul>
