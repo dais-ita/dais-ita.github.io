@@ -23,7 +23,7 @@ To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS
     </tr>
     <tr>
       <td>10.00</td>
-      <td>Welcome & Program Overview</td>
+      <td>[Welcome & Program Overview](https://ibm.webex.com/meet/helen.bowyer)</td>
     </tr>
     <tr>
       <td>10.30</td>
@@ -43,7 +43,7 @@ To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS
     </tr>
     <tr>
       <td>13.30-14.00</td>
-      <td>Panel Q&A Session</td>
+      <td>[Panel Q&A Session](https://ibm.webex.com/meet/helen.bowyer)</td>
     </tr>
     <tr>
       <td>14.00-14.45 and 14.45-15.30</td>
