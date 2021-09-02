@@ -1,10 +1,10 @@
 ---
 layout: splash
 permalink: /UK_Event/
-title: "UK DAIS Showcase Event"
+title: "UK DAIS ITA Showcase Event"
 ---
 
-# UK DAIS Showcase Event
+# UK DAIS ITA Showcase Event
 # 9th & 10th September 2021
 
 ## Objective:
@@ -39,13 +39,13 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     </tr>
     <tr>
       <td>11.00</td>
-      <td>Demonstration Sessions
+      <td>Demonstrations
 [Session A](https://ibm.webex.com/meet/gwhite) [Session B](https://ibm.webex.com/meet/conway)  [Session C](https://ibm.webex.com/meet/dancunnington)  [Session D](https://ibm.webex.com/meet/dave_braines)  
 <!--Possibly Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)--></td>
     </tr>
     <tr>
       <td>11.45</td>
-      <td>Demonstration Sessions</td>
+      <td>Demonstrations</td>
     </tr>
     <tr>
       <td>12.30</td>
@@ -59,11 +59,11 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     </tr>
     <tr>
       <td>14.00</td>
-      <td>Demonstration Sessions</td>
+      <td>Demonstrations</td>
     </tr>
     <tr>
       <td>14.45</td>
-      <td>Demonstration Sessions</td>
+      <td>Demonstrations</td>
     </tr>
     <tr>
       <td>15.30</td>
