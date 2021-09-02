@@ -103,7 +103,7 @@ The Showcase only shows a small percentage of the DAIS ITA content. Please feel 
 - [Resilient Coalition Networks](/Resiliant_Cluster)
 - [Integrating ad hoc Coalition teams and understanding dynamic audiences](/Integrating_Cluster/)
 
-If you wish to speak to the researchers from any Achievement - please visit the [Helpdesk](https://ibm.webex.com/meet/helen.bowyer) and we will put you in touch (where possible)
+If you wish to speak to the researchers from any Achievement - please visit the [Helpdesk](https://ibm.webex.com/meet/paulinea) and we will put you in touch (where possible)
 
 <!-- Other Attendees - Andreas, Dan C, Graham W, Declan, Mark Law, - Shiqiang (PM) -->
 <!-- (Rooms for Breakouts inc ANdreas, Declan, Pauline.) -->
