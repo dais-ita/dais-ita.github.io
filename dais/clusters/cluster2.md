@@ -22,7 +22,6 @@ and, in some cases, a demonstration or presentation video.
 
 ## Robust Learning for Dynamic Networks
 * [Joint Reinforcement and Transfer Learning for Distributed Service Configuration in Fragmented Software Defined Coalitions](/2b01/)
-* [A Coordination Mechanism for MARL in Fragmented Networking](/2b02/)
 * [State-Action Separable and Ebedding for Reinforcement Learning](/2b03/)
 
 ## Rapid Characterization of Coalition Network Infrastructure
