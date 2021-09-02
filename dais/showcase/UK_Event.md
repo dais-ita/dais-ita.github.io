@@ -36,13 +36,13 @@ To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS
       <td>Break</td>
     </tr>
     <tr>
-      <td>11.00-11.45</td>
+      <td>11.00</td>
       <td>Demonstration Sessions
 [Session A](https://ibm.webex.com/meet/gwhite) [Session B](https://ibm.webex.com/meet/conway)  [Session C](https://ibm.webex.com/meet/dancunnington)  [Session D](https://ibm.webex.com/meet/dave_braines)  
 <!--Possibly Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)--></td>
     </tr>
     <tr>
-      <td>11.45-12.30</td>
+      <td>11.45</td>
       <td>Demonstration Sessions</td>
     </tr>
     <tr>
@@ -50,18 +50,22 @@ To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS
       <td>Lunch</td>
     </tr>
     <tr>
-      <td>13.30-14.00</td>
+      <td>13.30</td>
       <td>
         [Panel Q&A Session](https://ibm.webex.com/meet/helen.bowyer)
       </td>
     </tr>
     <tr>
-      <td>14.00-14.45</td>
+      <td>14.00</td>
       <td>Demonstration Sessions</td>
     </tr>
     <tr>
-      <td>14.45-15.30</td>
+      <td>14.45</td>
       <td>Demonstration Sessions</td>
+    </tr>
+    <tr>
+      <td>15.30</td>
+      <td>End of Showcase</td>
     </tr>
   </tbody>
 </table>
