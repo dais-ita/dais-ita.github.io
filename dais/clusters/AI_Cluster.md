@@ -40,7 +40,7 @@ Enable human users to rapidly achieve an appropriate degree of trust in AI syste
 AI which is resilient to adversary attacks which seek to deceive the AI systems;
 *	[Model Poisoning Attacks and Defences in Federated Learning](/1e05/) (aka Distributed Coalition AI). Defending against partner attacks.
 *	[Adversary Exploitation of Explainable AI and Defence Approach.](/1e03/)  Defending against adversary use of AI explanations to develop attacks.
-*	[Gradient Free Attacks on Multiple Modalities (images/text/audio).](/1e01/)  Reducing the amount of data required, about a model, to launch a successful deception attack.
+*	[Gradient Free Attacks on Multiple Modalities.](/1e01/)  Reducing the amount of data required, about a model, to launch a successful deception attack.
 
 ## Distributed Coalition AI.  
 AI systems able to share data and models with partners whilst operating under a range of privacy constraints and in degraded communications environments;
