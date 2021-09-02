@@ -28,7 +28,7 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     <tr>
       <td>10.00</td>
       <td>
-      [Welcome & Program Overview](https://ibm.webex.com/meet/helen.bowyer)
+      Welcome & Program Overview<!--(https://ibm.webex.com/meet/helen.bowyer)-->
       </td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     <tr>
       <td>11.00</td>
       <td>Demonstrations
-[Session A](https://ibm.webex.com/meet/gwhite) [Session B](https://ibm.webex.com/meet/conway)  [Session C](https://ibm.webex.com/meet/dancunnington)  [Session D](https://ibm.webex.com/meet/dave_braines)  
+[Session A]<!--(https://ibm.webex.com/meet/gwhite)--> [Session B]<!--(https://ibm.webex.com/meet/conway)-->  [Session C]<!--(https://ibm.webex.com/meet/dancunnington)-->  [Session D]<!--(https://ibm.webex.com/meet/dave_braines)-->  
 <!--Possibly Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)--></td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     <tr>
       <td>13.30</td>
       <td>
-        [Panel Q&A Session](https://ibm.webex.com/meet/helen.bowyer)
+        [Panel Q&A Session]<!--(https://ibm.webex.com/meet/helen.bowyer)-->
       </td>
     </tr>
     <tr>
