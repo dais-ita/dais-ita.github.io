@@ -9,7 +9,7 @@ achievement there are details about military relevance, scientific advances prov
 and, in some cases, a demonstration or presentation video.
 
 ## Control and Architecture of Software Defined Coalitions
-* [Enhancing Coalition Networking using SDC – an Overview](/2a09/)
+* [Enhancing Coalition Networking using SDC – An Overview](/2a09/)
 * [Robust Network and Learning Architectures for Software Defined Coalitions](/2a01/)
 * [Topology Inference](/2a03/)
 * [Service Placement](/2a04/)
