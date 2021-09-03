@@ -12,7 +12,7 @@ This cluster of Key Outcomes has therefore been subdivided as follows:
 ##	Control and Architecture of SDC 
 A novel network control architecture which enables management of multiple coalition enclaves, flexible resource sharing and rapid adaptation in the case of fragmentation:
 
-*	[Software Defined Coalitions (SDC) – An overview](/2a09/)  Extending Software Defined Networking to create a new concept achieving robustness and agility in multi-domain coalition networks.
+*	[Software Defined Coalitions (SDC) – An Overview](/2a09/)  Extending Software Defined Networking to create a new concept achieving robustness and agility in multi-domain coalition networks.
 *	[SDC Control Plane Architecture](/2a08/)  To facilitate controller discovery, network reconfiguration and recovery from fragmentation.
 *	[SDC Controller Synchronisation and Placement](/2a07/)  Development of mechanisms and policies to optimise the rapid creation of slices of shared resource for specific coalition tasks.
 *	[Robust Network and Learning Architectures](/2a01/)  Network robustness through a hybrid SDC/MANET architecture which uses ML to predict fragmentations.
