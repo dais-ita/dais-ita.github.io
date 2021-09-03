@@ -10,6 +10,7 @@ achievement there are details about military relevance, scientific advances prov
 and, in some cases, a demonstration or presentation video.
 
 ## Representation and Composition of Complex Analytics
+* [Vector Symbolic Architectures and Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/)
 * [Dynamic Communications Replanning Using a Vector Symbolic Architecture](/1a02/)
 * [Addressing for Intelligent Routing in Mobile Military Networks](/1a03/)
 * [Semantic Vector Mapping for Coalition Operations](/1a04/)
@@ -18,7 +19,6 @@ and, in some cases, a demonstration or presentation video.
 * [Federated Learning in a Resource Constrained Networked Environment](/1a08/)
 * [Game Theoretic Resource Allocation in a Coalition](/1a09/)
 * [Minimising Coalition Information Exchange](/1a10/)
-* [Vector Symbolic Architectures and Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/)
 
 ## Efficient Learning in Resource Constrained Networks
 * [One Shot Federation for Coalition Model Sharing](/1b01/)
