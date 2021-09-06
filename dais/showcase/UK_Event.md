@@ -28,21 +28,20 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     <tr>
       <td>10.00</td>
       <td><a href="https://ibm.webex.com/meet/helen.bowyer">Welcome & Program Overview</a>
-      ibm.webex.com/meet/helen.bowyer
       </td>
     </tr>
     <tr>
-      <td>10.30</td>
+      <td>10.15</td>
       <td>Summary of Demonstrations & Daily Logistics</td>
     </tr>
     <tr>
       <td>10.45</td>
-      <td>Break</td>
-    </tr>
-    <tr>
-      <td>11.00</td>
       <td>Demonstrations <!--<a href="https://ibm.webex.com/meet/gwhite">Session A</a>--><!--<a href="https://ibm.webex.com/meet/conway">Session B</a>--><!--<a href="https://ibm.webex.com/meet/dancunnington">Session C</a>--><!--<a href="https://ibm.webex.com/meet/dave_braines">Session D</a>-->
     </td>
+    </tr>
+    <tr>
+      <td>11.30</td>
+      <td>Break</td>
     </tr>
     <tr>
       <td>11.45</td>
@@ -53,18 +52,22 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
       <td>Lunch</td>
     </tr>
     <tr>
-      <td>13.30</td>
-      <td>
-        [Panel Q&A Session]<!--(https://ibm.webex.com/meet/helen.bowyer)-->
-      </td>
+      <td>13.15</td>
+      <td>Demonstrations</td>
     </tr>
     <tr>
       <td>14.00</td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td>14.15</td>
       <td>Demonstrations</td>
     </tr>
     <tr>
-      <td>14.45</td>
-      <td>Demonstrations</td>
+      <td>15.00</td>
+      <td>
+        [Panel Q&A Session]<!--(https://ibm.webex.com/meet/helen.bowyer)-->
+      </td>
     </tr>
     <tr>
       <td>15.30</td>
