@@ -5,6 +5,8 @@ permalink: /AI_Cluster/
 
 # AI in Contested Multi-Doman Coalition Operations
 
+[Watch Overview Video](https://ibm.box.com/v/Overview-Cluster1-video)
+
 Military operations typically involve working with partners to resolve rapidly evolving situations where adversaries are adapting their tactics, techniques and procedures, and the behaviour of the civilian population is changing. Thus, there is a need for:
 
 ## Adaptable AI
