@@ -81,7 +81,7 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
 
 These sessions cover a military issue and highlight how the latest science addresses this issue
 
-Demos will restart every 45 minutes. The demos will run in all 4 sessions 
+Demonstration session will last 45 minutes. The demos will run in all 4 sessions 
 
 There will be some presented content and time for Q&A
 
