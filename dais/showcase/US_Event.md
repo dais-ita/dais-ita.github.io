@@ -38,10 +38,6 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
       <td>9.45</td>
       <td>Demonstration Session (see below)</td>     
     </tr>
-    <tr>
-      <td>12.00</td>
-      <td>Adjourn</td>
-         </tr> 
   </tbody>
 </table>
 
