@@ -121,13 +121,11 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
       <td><br>
       1. Lance Kaplan, ARL; Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US; Alessandra Russo, Imperial; Alun Preece, Cardiff; Dave Braines, IBM UK<br><br>
       2. Kevin Chan, ARL; Don Towsley, UMASS; Elisa Bertino, Purdue University; Leandros Tassiulas, Yale University; Kin Leung, Imperial<br><br>
-      3. Ananthram Swami and Gosia Turalska, ARL; <br><br></td>
+      3. Ananthram Swami and Gosia Turalska, ARL<br><br></td>
     </tr>
   </tbody>
 </table>
 
 Research highlights, publications, demos, and presentations can be viewed asynchronously at the [DAIS ITA Legacy Site](https://dais-legacy.org/)
   
-- [AI in Contested Multi-Doman Coalition Operations](/AI_Cluster)
-- [Resilient Coalition Networks](/Resiliant_Cluster)
-- [Integrating Ad hoc Coalition Teams and Understanding Dynamic Audiences](/Integrating_Cluster/)
+
