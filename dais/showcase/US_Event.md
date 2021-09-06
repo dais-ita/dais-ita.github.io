@@ -47,27 +47,27 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 
 <sub><u>Learning in Complex Coalition Environments </u></sub>
 
-<sub>1.	Federated Learning in a Resource Constrained Networked Environment - [Video]() - [Background information](/1a08/)
+<sub>1.	Federated Learning in a Resource Constrained Networked Environment - [Video](https://ibm.box.com/v/Showcase-1a08-video) - [Background information](/1a08/)
     presented by Shiqiang Wang, IBM US
 
-<sub>2.	[Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview](/1a11/) (need to confirm title)
+<sub>2.	Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview - [Video](https://ibm.box.com/v/Showcase-1a11-video) - [Background information](/1a11/) 
     presented by Graham Bent, IBM UK
 
-<sub>3.	[Neural-Symbolic Generative Policy Model for Coalition Operations](/1c02/)
+<sub>3.	Neural-Symbolic Generative Policy Model for Coalition Operations- [Video](https://ibm.box.com/v/Showcase-1c02-video) - [Background information](/1c02/)
     presented by Alessandra Russo, Imperial College London and Dan Cunnington, IBM UK
 
-<sub>4.	[Adapting Artificial Intellegence Systems to Recognize New Patterns of Distributed Activity](/1c16/)
+<sub>4.	Adapting Artificial Intellegence Systems to Recognize New Patterns of Distributed Activity- [Video](https://ibm.box.com/v/Showcase-1c16-video) - [Background information](/1c16/)
     presented by Alun Preece, Cardiff Univeristy and Dave Braines, IBM UK
 
-<sub>5.	[Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data](/1d01/)
+<sub>5.	Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data- [Video](https://ibm.box.com/v/Showcase-1d01-video) - [Background information](/1d01/)
     presented by Alun Preece, Cardiff Univeristy and Dave Braines, IBM UK
 
   <sub><u>Resilient Coalition Networking</u>
 
-<sub>6.	[Control Plane Architecture of Software Defined Coalitions](/2a08/)
+<sub>6.	Control Plane Architecture of Software Defined Coalitions- [Video](https://ibm.box.com/v/Showcase-2a08-video) - [Background information](/2a08/)
     presented by Leandros Tassiulas, Yale University and Don Towsley, University of Massachusetts Amherst
 
-<sub>7.	[Adversarial Domain Adaptation Learning for Accelerating Atificial Intellegence Based Military Solutions](/2c01/) (need to confirm title)
+<sub>7.	Adversarial Domain Adaptation Learning for Accelerating Atificial Intellegence Based Military Solutions- [Video](https://ibm.box.com/v/Showcase-2c01-video) - [Background information](/2c01/)
     presented by Elisa Bertino, Purdue University
 </sub>
 
