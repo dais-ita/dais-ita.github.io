@@ -36,7 +36,7 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     </tr>
     <tr>
       <td>10.45</td>
-      <td>Demonstrations <!--<a href="https://ibm.webex.com/meet/gwhite">Session A</a>--><!--<a href="https://ibm.webex.com/meet/conway">Session B</a>--><!--<a href="https://ibm.webex.com/meet/dancunnington">Session C</a>--><!--<a href="https://ibm.webex.com/meet/dave_braines">Session D</a>-->
+      <td>Demonstrations <!--<a href="https://ibm.webex.com/meet/gwhite">Session A</a>--><!--<a href="https://ibm.webex.com/meet/conway">Session B</a>--><!--<a href="https://ibm.webex.com/meet/dancunnington">Session C</a>--><a href="https://ibm.webex.com/meet/dave_braines">Session D</a>
     </td>
     </tr>
     <tr>
@@ -87,16 +87,16 @@ There will be some presented content and time for Q&A
 
 
 - Session A: [Adaptable & Trusted AI.]<!--(https://ibm.webex.com/meet/gwhite)  -->
-<!--Possibly Alun Preece & Gavin Pearson.  Possibly 1c16 & 1d01 -->
+<!--Alun Preece & Gavin Pearson.  Possibly 1c16 & 1d01 -->
 
 - Session B: [Coalition Analytics.]<!--(https://ibm.webex.com/meet/conway)  -->
-<!--Possibly Graham Bent & Dave C-J & Shiqiang Wang.  Possibly 1a08 (on Federated Learning) & 1a11 on VSA.-->
+<!--Graham Bent & Dave C-J & Shiqiang Wang.  1a08 & 1a11 on.-->
 
 - Session C: [Resilient Coalition Network.]<!--(https://ibm.webex.com/meet/dancunnington)  -->
-<!--Possibly Kin Leung, Alessandra Russo & John Melrose.  Possibly 2a09 on SDC, & ? on Policy.-->
+<!--Kin Leung, Alessandra Russo & John Melrose.  Possibly 2a09 on SDC, & ? on Policy.-->
 
-- Session D: [Analytics of Social Dynamics.]<!--(https://ibm.webex.com/meet/dave_braines)  -->
-<!--Possibly Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)-->
+- Session D: [Analytics of Social Dynamics.](https://ibm.webex.com/meet/dave_braines)
+<!--Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)-->
 
 
 ## Other Achievement content
