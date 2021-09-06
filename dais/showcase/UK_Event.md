@@ -27,7 +27,7 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     </tr>
     <tr>
       <td>10.00</td>
-      <td><!--<a href="https://ibm.webex.com/meet/helen.bowyer">Welcome & Program Overview</a>-->
+      <td><a href="https://ibm.webex.com/meet/helen.bowyer">Welcome & Program Overview</a>
       Welcome & Program Overview
       </td>
     </tr>
