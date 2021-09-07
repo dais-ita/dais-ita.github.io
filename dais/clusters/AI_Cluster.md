@@ -50,8 +50,8 @@ AI systems able to share data and models with partners whilst operating under a 
 *	[Compressed Model Updates for Efficient Federated Learning.](/1b02/) Minimising size of messages for shared learning and model synchronisation. 
 *	[One Shot Federation for Coalition Model Sharing.](/1b01/)  Incremental and intermittent shared learning using a representation of the data distribution (not the data itself). 
 *	[Coreset-based Machine Learning.](/1b04/)  Multi-dimension data summarisation (reducing comms usage) which also enables machine learning. 
-*	[Coresets for Distributed Machine Learning.](/1b05/)  Significantly reducing comms usage by summarisation of data records. 
-*	[Efficient Coalition Learning using Coresets.](/1b03/)   TRL3 demonstration of feasibility. 
+*	[Data Reduction for Distributed Machine Learning Using Coreset.](/1b05/)  Significantly reducing comms usage by summarisation of data records. 
+*	[Distributed Coreset Construction for Efficient Machine Learning in Coalitions.](/1b03/)   TRL3 demonstration of feasibility. 
 
 ## Integrated Distributed Analytics.  
 Able to integrate analytic services in (near) real-time with partners in degraded communication environments;
