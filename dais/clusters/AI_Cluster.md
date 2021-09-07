@@ -3,7 +3,7 @@ layout: splash
 permalink: /AI_Cluster/
 ---
 
-# AI in Contested Multi-Doman Coalition Operations
+# Artifical Intellegence (AI) in Contested Multi-Doman Coalition Operations
 
 [Watch Overview Video](https://ibm.box.com/v/Overview-Cluster1-video)
 
@@ -53,7 +53,7 @@ AI systems able to share data and models with partners whilst operating under a 
 *	[One Shot Federation for Coalition Model Sharing.](/1b01/)  Incremental and intermittent shared learning using a representation of the data distribution (not the data itself). 
 *	[Coreset Based Machine Learning.](/1b04/)  Multi-dimension data summarisation (reducing comms usage) which also enables machine learning. 
 *	[Data Reduction for Distributed Machine Learning Using Coreset.](/1b05/)  Significantly reducing comms usage by summarisation of data records. 
-*	[Distributed Coreset Construction for Efficient Machine Learning in Coalitions.](/1b03/)   TRL3 demonstration of feasibility. 
+*	[Distributed Coreset Construction for Efficient Machine Learning in Coalitions.](/1b03/)   Technology readiness level (TRL) 3 demonstration of feasibility. 
 
 ## Integrated Distributed Analytics.  
 Able to integrate analytic services in (near) real-time with partners in degraded communication environments;
