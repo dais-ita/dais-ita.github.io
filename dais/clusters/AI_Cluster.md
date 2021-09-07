@@ -57,13 +57,12 @@ AI systems able to share data and models with partners whilst operating under a 
 
 ## Integrated Distributed Analytics.  
 Able to integrate analytic services in (near) real-time with partners in degraded communication environments;
-*	[Vector Symbolic Architectures and Hyperdimensional Computing for Coalition Operations - An Overview.](/1a01/)  Dynamic decentralised discovery of assets (e.g. information services & data) and chaining them together (i.e. workflow construction and orchestration) to perform a task.
+*	[Vector Symbolic Architectures and Hyperdimensional Computing for Coalition Operations - An Overview.](/1a11/)  Dynamic decentralised discovery of assets (e.g. information services & data) and chaining them together (i.e. workflow construction and orchestration) to perform a task.
 *	[Integrating Distributed Coalition Sensor & Processing Assets to perform Distributed Analytics using a Vector Symbolic Architecture.](/1a01/)  TRL3 demonstration of feasibility of applying to NATO FMN services.
 *	[Dynamic Communications Replanning using a Vector Symbolic Architecture.](/1a02/) TRL3-4 demonstration of feasibility . 
 *	[Coalition Information Exchange using Semantic Vector Space Mapping.](/1a04/)  Achieving service interoperability without having to use an agreed set of terms to define the service. 
 *	[A Compositional Reinforcement Learning Framework for Workflow Generation.](/1a06/)
 *	[Centralised and Distributed Approach to Service Allocation in Tactical Environment.](/1a05/) Feasibly integrating centralised control and distributed adaptability of coalition services in tactical environments.
-*	[Addressing for Intelligent Routing in Mobile Military Networks.](/1a03/) 
 
 ## Edge AI.  
 AI able to operate on the constrained computing environment at the edge of tactical networks;
