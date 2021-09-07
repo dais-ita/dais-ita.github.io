@@ -36,7 +36,7 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     </tr>
     <tr>
       <td>10.45</td>
-      <td>Demonstrations <!--<a href="https://ibm.webex.com/meet/gwhite">Session A</a>--><!--<a href="https://ibm.webex.com/meet/conway">Session B</a>--><!--<a href="https://ibm.webex.com/meet/dancunnington">Session C</a>--><a href="https://ibm.webex.com/meet/dave_braines">Session D</a>
+      <td> Parallel Demonstrations <a href="">Session A</a> - <a href="">Session B</a> - <a href="">Session C</a> - <a href="https://ibm.webex.com/meet/dave_braines">Session D</a>
     </td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     </tr>
     <tr>
       <td>11.45</td>
-      <td>Demonstrations</td>
+      <td>Parallel Demonstrations <a href="">Session A</a> - <a href="">Session B</a> - <a href="">Session C</a> - <a href="https://ibm.webex.com/meet/dave_braines">Session D</a></td>
     </tr>
     <tr>
       <td>12.30</td>
@@ -53,7 +53,7 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     </tr>
     <tr>
       <td>13.15</td>
-      <td>Demonstrations</td>
+      <td>Parallel Demonstrations <a href="">Session A</a> - <a href="">Session B</a> - <a href="">Session C</a> - <a href="https://ibm.webex.com/meet/dave_braines">Session D</a></td>
     </tr>
     <tr>
       <td>14.00</td>
@@ -61,7 +61,7 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     </tr>
     <tr>
       <td>14.15</td>
-      <td>Demonstrations</td>
+      <td>Parallel Demonstrations <a href="">Session A</a> - <a href="">Session B</a> - <a href="">Session C</a> - <a href="https://ibm.webex.com/meet/dave_braines">Session D</a></td>
     </tr>
     <tr>
       <td>15.00</td>
@@ -81,18 +81,18 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
 
 These sessions cover a military issue and highlight how the latest science addresses this issue
 
-Demonstration session will last 45 minutes. The demos will run in all 4 sessions 
+The following Demonstration sessions will run in parallel and each will last 45 minutes, at the four times listed above.
 
 There will be some presented content and time for Q&A
 
 
-- Session A: [Adaptable & Trusted AI.]<!--(https://ibm.webex.com/meet/gwhite)  -->
+- Session A: [Adaptable & Trusted AI.]()
 <!--Alun Preece & Gavin Pearson.  Possibly 1c16 & 1d01 -->
 
-- Session B: [Coalition Analytics.]<!--(https://ibm.webex.com/meet/conway)  -->
+- Session B: [Coalition Analytics.]()
 <!--Graham Bent & Dave C-J & Shiqiang Wang.  1a08 & 1a11 on.-->
 
-- Session C: [Resilient Coalition Network.]<!--(https://ibm.webex.com/meet/dancunnington)  -->
+- Session C: [Resilient Coalition Network.]()
 <!--Kin Leung, Alessandra Russo & John Melrose.  Possibly 2a09 on SDC, & ? on Policy.-->
 
 - Session D: [Analytics of Social Dynamics.](https://ibm.webex.com/meet/dave_braines)
@@ -110,6 +110,8 @@ If you wish to speak to the researchers from any Achievement - please visit the 
 
 <!-- Other Attendees - Andreas, Dan C, Graham W, Declan, Mark Law, - Shiqiang (PM) -->
 <!-- (Rooms for Breakouts inc ANdreas, Declan, Pauline.) -->
-
-
+<!--https://ibm.webex.com/meet/gwhite-->
+<!--https://ibm.webex.com/meet/conway-->
+<!--https://ibm.webex.com/meet/dancunnington-->
+<!--https://ibm.webex.com/meet/dave_braines-->
 
