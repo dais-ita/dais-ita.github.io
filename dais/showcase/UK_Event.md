@@ -17,7 +17,7 @@ To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS
 
 ## Agenda
 
-This meeting will be hosted via Webex - Links will be available in the agenda on the day of the meeting.
+This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
 
 <table>
   <tbody>
@@ -36,7 +36,7 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     </tr>
     <tr>
       <td>10.45</td>
-      <td> Parallel Demonstrations <a href="">Session A</a> - <a href="">Session B</a> - <a href="">Session C</a> - <a href="https://ibm.webex.com/meet/dave_braines">Session D</a>
+      <td><b>Adaptable & Trusted AI</b><br>Alun Preece(Cardiff) and Gavin Pearson(DSTL)
     </td>
     </tr>
     <tr>
@@ -45,7 +45,8 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     </tr>
     <tr>
       <td>11.45</td>
-      <td>Parallel Demonstrations <a href="">Session A</a> - <a href="">Session B</a> - <a href="">Session C</a> - <a href="https://ibm.webex.com/meet/dave_braines">Session D</a></td>
+      <td><b>Coalition Analytics</b><br>Graham Bent(IBM UK) and Dave Conway-Jones(IBM UK)
+      </td>
     </tr>
     <tr>
       <td>12.30</td>
@@ -53,7 +54,7 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     </tr>
     <tr>
       <td>13.15</td>
-      <td>Parallel Demonstrations <a href="">Session A</a> - <a href="">Session B</a> - <a href="">Session C</a> - <a href="https://ibm.webex.com/meet/dave_braines">Session D</a></td>
+      <td><b>Resilient Coalition Network</b><br>Alessandra Russo(Imperial), Kin Leung(Imperial) and John Melrose(DSTL)</td>
     </tr>
     <tr>
       <td>14.00</td>
@@ -61,12 +62,12 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
     </tr>
     <tr>
       <td>14.15</td>
-      <td>Parallel Demonstrations <a href="">Session A</a> - <a href="">Session B</a> - <a href="">Session C</a> - <a href="https://ibm.webex.com/meet/dave_braines">Session D</a></td>
+      <td><b>Analytics of Social Dynamics</b><br>Roger Whitaker(Cardiff) and Dave Braines(IBM UK)</td>
     </tr>
     <tr>
       <td>15.00</td>
       <td>
-        [Panel Q&A Session]<!--(https://ibm.webex.com/meet/helen.bowyer)-->
+        Panel Q&A Session
       </td>
     </tr>
     <tr>
@@ -81,21 +82,15 @@ This meeting will be hosted via Webex - Links will be available in the agenda on
 
 These sessions cover a military issue and highlight how the latest science addresses this issue
 
-The following Demonstration sessions will run in parallel and each will last 45 minutes, at the four times listed above.
-
 There will be some presented content and time for Q&A
 
-
-- Session A: [Adaptable & Trusted AI.]()
+- Session A: Adaptable & Trusted AI.
 <!--Alun Preece & Gavin Pearson.  Possibly 1c16 & 1d01 -->
-
-- Session B: [Coalition Analytics.]()
+- Session B: Coalition Analytics.
 <!--Graham Bent & Dave C-J & Shiqiang Wang.  1a08 & 1a11 on.-->
-
-- Session C: [Resilient Coalition Network.]()
+- Session C: Resilient Coalition Network.
 <!--Kin Leung, Alessandra Russo & John Melrose.  Possibly 2a09 on SDC, & ? on Policy.-->
-
-- Session D: [Analytics of Social Dynamics.](https://ibm.webex.com/meet/dave_braines)
+- Session D: Analytics of Social Dynamics.
 <!--Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)-->
 
 
