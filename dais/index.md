@@ -21,7 +21,7 @@ DAIS ITA was a 5 year (2016-2021) collaborative partnership between the US and U
 
 ![Overview Image](/dais/images/Overview1.png)
 
-It conducted basic research: its outputs include world-leading scientific publications (426 publications since Sept 2016), open source code, low technology readiness level (TRL) demonstrators and trained researchers (PhDs).  It has achieved significant gearing by publishing with 142 researcher from 86 non-DAIS organisations. 
+It conducted basic research: its outputs include world-leading scientific publications (426 publications since Sept 2016), open source code, low technology readiness level (TRL) demonstrators and trained researchers (PhDs).  It has achieved significant gearing by publishing with 142 researchers from 86 non-DAIS organisations. 
 
 Several of these scientific outputs are already transitioning into higher Technology Readiness Level (TRL) civil and military funded development programmes and many more have the potential for transition.
 
