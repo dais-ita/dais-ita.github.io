@@ -12,22 +12,24 @@ Military operations typically involve working with partners to resolve rapidly e
 ## Adaptable AI
 AI which can rapidly adapt in dynamic situations and learn as the operation proceeds exploiting synergies between humans and machine intelligence (inc. novel Neuro-Symbolic Learning (NSL) AI systems which combine reasoning and deep learning);
 
-*	[Adapting AI Systems to Recognise New Patterns of Distributed Activity.](/1c16/) 
+*	[Adapting Artificial Intellegence Systems to Recognise New Patterns of Distributed Activity.](/1c16/) 
 Improved human-AI teaming, AI learning (inc. NSL) and DAIS technology integration: running in real-time at edge.
-*	[Neural-Symbolic Generative Policy Model for Coalition Operations.](/1c02/)
+*	[Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in Distributed Coalition Operations.](/1c02/)
 Adapting to changes between data used for training an AI and reality.
-*	[Adaptive AI Systems for Human-Machine Federated Decision Making.](/1c05/)
-*	[FastLAS: Rule Learning for Policy Generation and Situational Awareness.](/1c08/)  
+*	[Adaptive Artificial Intellegence Systems for Human-Machine Federated Decision Making.](/1c05/)
+*	[The FastLAS System for Interpretable Machine Learning.](/1c08/)  
 Logic-based AI that learns rules from examples.
-*	[Reinforcement Learning (RL) for Network Control.](/1c15/)  
+*	[Reinforcement Learning for Military Network Control.](/1c15/)  
 New techniques for real-time complex control problems.
-*	[Characterising New Devices on a Network with Zero-Shot Learning.](/1c04/) 
+*	[Characterizing New Devices on a Network with Zero-Shot Learning.](/1c04/) 
 Characterising previously unseen devices by inspection of their traffic.
 *	[Cogni-Sketch: Enabling Rapidly Formed Human-Agent Coalition Teams through Extensible Information Exchange.](/1c01/) 
 Software platform enabling human-agent interaction.
 *	[Enhancing Situation Understanding through Negative-ties Enhanced AI Pipelines.](/3a13/) 
 Improving AI analysis with user-knowledge.
-
+* [Adversarial Domain Adaptation Learning for Accelerating Artificial Intellegence Based Military Solutions.](/2c01/)
+* [State-Action Separable and Ebedding for Reinforcement Learning.](/2b03/)
+* [Online Multi-Task Learning with Long-Term Memory](/1c09/)
 
 
 ## Trusted AI
