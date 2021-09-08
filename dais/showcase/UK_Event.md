@@ -58,11 +58,11 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>14.00</td>
-      <td>Break</td>
+      <td><b>Analytics of Social Dynamics</b><br>Roger Whitaker(Cardiff) and Dave Braines(IBM UK)</td>
     </tr>
     <tr>
-      <td>14.15</td>
-      <td><b>Analytics of Social Dynamics</b><br>Roger Whitaker(Cardiff) and Dave Braines(IBM UK)</td>
+      <td>14.45</td>
+      <td>Break</td>
     </tr>
     <tr>
       <td>15.00</td>
