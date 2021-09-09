@@ -109,13 +109,13 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
         1.	AI in Contested Multi-Doman Coalition Operations<br>
           To Join the Virtual Breakout Click 
         <a href="https://dod.teams.microsoft.us/l/meetup-join/19%3adod%3ameeting_a6df3d1c1ffb474b8d51215bc9c6cbc2%40thread.v2/0?context=%7b%22Tid%22%3a%22fae6d70f-954b-4811-92b6-0530d6f84c43%22%2c%22Oid%22%3a%22994aee16-b3ce-4049-b02f-c5b73a412cab%22%7d">
-              Here</a>(update)<br><br><br>
+              Here</a>(update)<br><br>
          2. Resilient Coalition Networking</a><br>
               To Join the Virtual Breakout Click Here (add link)<br><br>
          3.	Integrating ad hoc Coalition teams and understanding dynamic audiences</a><br>
               To Join the Virtual Breakout Click Here (add link) <br><br></td> 
       <td><br><br>
-      1. Lance Kaplan, ARL; Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US; Alessandra Russo, Imperial; Alun Preece, Cardiff; Dave Braines, IBM UK<br><br><br>
+      1. Lance Kaplan, ARL; Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US; Alessandra Russo, Imperial; Alun Preece, Cardiff; Dave Braines, IBM UK<br><br>
       2. Kevin Chan, ARL; Don Towsley, UMASS; Elisa Bertino, Purdue University; Leandros Tassiulas, Yale University; Kin Leung, Imperial<br><br>
       3. Ananthram Swami and Gosia Turalska, ARL<br><br></td>
     </tr>
