@@ -86,7 +86,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
         <a href="">
           Video</a> - 
         <a href="https://dais-legacy.org/AI_Cluster/">
-          Cluster Home Page</a><br>
+          Cluster Home Page</a><br><br>
       2. Resilient Coalition Networking<br>
          <a href="">
           Video</a> - 
@@ -114,7 +114,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
               To Join the Virtual Breakout Click Here (add link)<br><br>
          3.	Integrating ad hoc Coalition teams and understanding dynamic audiences</a><br>
               To Join the Virtual Breakout Click Here (add link) <br><br></td> 
-      <td><br><br>
+      <td><br>
       1. Lance Kaplan, ARL; Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US; Alessandra Russo, Imperial; Alun Preece, Cardiff; Dave Braines, IBM UK<br><br><br>
       2. Kevin Chan, ARL; Don Towsley, UMASS; Elisa Bertino, Purdue University; Leandros Tassiulas, Yale University; Kin Leung, Imperial<br><br>
       3. Ananthram Swami and Gosia Turalska, ARL<br><br></td>
