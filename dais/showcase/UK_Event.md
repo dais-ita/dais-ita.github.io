@@ -17,7 +17,7 @@ To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS
 
 ## Agenda
 
-This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
+This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer). If you are asked for a meeting number please use 929 067 346.
 
 <table>
   <tbody>
