@@ -43,27 +43,27 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
 
 <sub><u>AI in Contested Multi-Doman Coalition Operations </u></sub>
 
-<sub>1.	Federated Learning in a Resource Constrained Networked Environment - [Video](https://ibm.box.com/v/Showcase-1a08-video) - [Background information](/1a08/)
+<sub>1.	Federated Learning in a Resource Constrained Networked Environment - [Video](https://ibm.box.com/v/Showcase-1a08-video) - [Background information](/1a08/)<br>
     presented by Shiqiang Wang, IBM US & Kevin Chan, ARL
 
-<sub>2.	Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview - [Video](https://ibm.box.com/v/Showcase-1a11-video) - [Background information](/1a11/) 
+<sub>2.	Vector Symbolic Architectures & Hyperdimensional Computing for Coalition Operations - An Overview - [Video](https://ibm.box.com/v/Showcase-1a11-US-video) - [Background information](/1a11/)<br> 
     presented by Graham Bent, IBM UK & Lance Kaplan, ARL
 
-<sub>3.	Neural-Symbolic Generative Policy Model for Coalition Operations- [Video](https://ibm.box.com/v/Showcase-1c02-video) - [Background information](/1c02/)
+<sub>3.	Neural-Symbolic Generative Policy Model for Coalition Operations- [Video](https://ibm.box.com/v/Showcase-1c02-video) - [Background information](/1c02/)<br>
     presented by Alessandra Russo, Imperial College London, Dan Cunnington, IBM UK & Kevin Chan, ARL
 
-<sub>4.	Adapting Artificial Intellegence Systems to Recognize New Patterns of Distributed Activity- [Video](https://ibm.box.com/v/Showcase-1c16-video) - [Background information](/1c16/)
+<sub>4.	Adapting Artificial Intellegence Systems to Recognize New Patterns of Distributed Activity- [Video](https://ibm.box.com/v/Showcase-1c16-video) - [Background information](/1c16/)<br>
     presented by Alun Preece, Cardiff Univeristy, Dave Braines, IBM UK & Lance Kaplan, ARL
 
-<sub>5.	Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data- [Video](https://ibm.box.com/v/Showcase-1d01-video) - [Background information](/1d01/)
+<sub>5.	Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data- [Video](https://ibm.box.com/v/Showcase-1d01-video) - [Background information](/1d01/)<br>
     presented by Alun Preece, Cardiff Univeristy, Dave Braines, IBM UK Lance Kaplan, ARL
 
   <sub><u>Resilient Coalition Networking</u>
 
-<sub>6.	Control Plane Architecture of Software Defined Coalitions- [Video](https://ibm.box.com/v/Showcase-2a08-video) - [Background information](/2a08/)
+<sub>6.	Control Plane Architecture of Software Defined Coalitions- [Video](https://ibm.box.com/v/Showcase-2a08-video) - [Background information](/2a08/)<br>
     presented by Leandros Tassiulas, Yale University, Don Towsley, University of Massachusetts Amherst & Kevin Chan, ARL
 
-<sub>7.	Adversarial Domain Adaptation Learning for Accelerating Atificial Intellegence Based Military Solutions- [Video](https://ibm.box.com/v/Showcase-2c01-video) - [Background information](/2c01/)
+<sub>7.	Adversarial Domain Adaptation Learning for Accelerating Atificial Intellegence Based Military Solutions- [Video](https://ibm.box.com/v/Showcase-2c01-video) - [Background information](/2c01/)<br>
     presented by Elisa Bertino, Purdue University  & Kevin Chan, ARL
 </sub>
 
