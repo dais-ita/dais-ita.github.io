@@ -99,9 +99,9 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
           Cluster Home Page</a><br>
         </td>
       <td><br>
-      Presenter 1<br>
-      Presenter 2<br>
-      Presenter 3</td>
+      1. Lance Kaplan, ARL; Dinesh Verma, Mudhakar Srivastava, and Shiqiang Wang, IBM US; Alessandra Russo, Imperial; Alun Preece, Cardiff; Dave Braines, IBM UK<br><br><br>
+      2. Kevin Chan, ARL; Don Towsley, UMASS; Elisa Bertino, Purdue University; Leandros Tassiulas, Yale University; Kin Leung, Imperial<br><br>
+      3. Ananthram Swami and Gosia Turalska, ARL<br><br></td>
     </tr>
     <tr>
       <td>14.00-16.00</td>
