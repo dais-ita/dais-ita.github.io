@@ -12,7 +12,7 @@ Military operations typically involve working with partners to resolve rapidly e
 ## Adaptable AI
 AI which can rapidly adapt in dynamic situations and learn as the operation proceeds exploiting synergies between humans and machine intelligence (inc. novel Neuro-Symbolic Learning (NSL) AI systems which combine reasoning and deep learning);
 
-*	[Adapting Artificial Intellegence Systems to Recognise New Patterns of Distributed Activity.](/1c16/) 
+*	[Adapting Artificial Intelligence Systems to Recognise New Patterns of Distributed Activity.](/1c16/) 
 Improved human-AI teaming, AI learning (inc. NSL) and DAIS technology integration: running in real-time at edge.
 *	[Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in Distributed Coalition Operations.](/1c02/)
 Adapting to changes between data used for training an AI and reality.
