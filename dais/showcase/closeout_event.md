@@ -32,7 +32,6 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
       <td><b>DAIS ITA Legacy Site Tour</b></td>
     </tr>
     <tr>
-    <tr>
       <td>14.15/9.15</td>
       <td><b>Short Paper Presntation and Q&A</b></td>
     </tr>
@@ -61,5 +60,11 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>15.30</td>
-      <td>End of Showcase
+  <td>End of Showcase</td>
+      </tr>
+        </tbody>
+          </table>
+
+
+
 
