@@ -58,14 +58,14 @@ Meeting guests and Non-Army 365 users may find it necessary to join the meeting 
 <sub>4.	Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in Distributed Coalition Operations- [Video](https://ibm.box.com/v/Showcase-1c02-video) - [Background information](/1c02/)<br>
     presented by Alessandra Russo, Imperial College London, Dan Cunnington, IBM UK & Lance Kaplan, ARL   
    
-<sub>5.	Adversarial Domain Adaptation Learning for Accelerating Atificial Intellegence Based Military Solutions- [Video](https://ibm.box.com/v/Showcase-2c01-video) - [Background information](/2c01/)<br>
+<sub>5.	Adversarial Domain Adaptation Learning for Accelerating Artificial Intelligence Based Military Solutions- [Video](https://ibm.box.com/v/Showcase-2c01-video) - [Background information](/2c01/)<br>
     presented by Elisa Bertino, Purdue University  & Lance Kaplan, ARL
 
 <sub>6.	Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data- [Video](https://ibm.box.com/v/Showcase-1d01-video) - [Background information](/1d01/)<br>
-    presented by Alun Preece, Cardiff Univeristy, Dave Braines, IBM UK Lance Kaplan, ARL
+    presented by Alun Preece, Cardiff University, Dave Braines, IBM UK Lance Kaplan, ARL
 
-<sub>7.	Adapting Artificial Intellegence Systems to Recognize New Patterns of Distributed Activity- [Video](https://ibm.box.com/v/Showcase-1c16-video) - [Background information](/1c16/)<br>
-    presented by Alun Preece, Cardiff Univeristy, Dave Braines, IBM UK & Lance Kaplan, ARL</sub>
+<sub>7.	Adapting Artificial Intelligence Systems to Recognize New Patterns of Distributed Activity- [Video](https://ibm.box.com/v/Showcase-1c16-video) - [Background information](/1c16/)<br>
+    presented by Alun Preece, Cardiff University, Dave Braines, IBM UK & Lance Kaplan, ARL</sub>
 
 ## Break: 12.00 – 13.00 U.S. Eastern Time<br>
 
