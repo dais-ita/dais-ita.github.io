@@ -19,7 +19,8 @@ Adapting to changes between data used for training an AI and reality.
 *	[Adaptive Artificial Intellegence Systems for Human-Machine Federated Decision Making.](/1c05/) Adapting neural layers using human provided or learned hard logic at the symbolic layer.
 *	[The FastLAS System for Interpretable Machine Learning.](/1c08/)  
 Logic-based AI that learns rules from examples.
-*	[Reinforcement Learning for Military Network Control.](/1c15/) Efficient learning of complex decision spaces for real-time control of the network.  
+*	[Reinforcement Learning for Military Network Control.](/1c15/) Efficient learning of complex decision spaces for real-time control of the network.
+*	[keep or remove???] New techniques for real-time complex control problems.  
 *	[Characterizing New Devices on a Network with Zero-Shot Learning.](/1c04/) 
 Characterising previously unseen devices by inspection of their traffic.
 *	[Cogni-Sketch: Enabling Rapidly Formed Human-Agent Coalition Teams through Extensible Information Exchange.](/1c01/) 
