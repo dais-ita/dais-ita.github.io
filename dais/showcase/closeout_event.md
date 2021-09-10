@@ -37,12 +37,12 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </td>
     <tr>
       <td>14.25/9.25</td>
-      <td><b>Presentation "State-space Decomposition in Reinforcement Learning"</b><br>Ester Wong (Imperial College)
+      <td>Presentation "State-space Decomposition in Reinforcement Learning"<br>Ester Wong (Imperial College)
       </td>
     </tr>
     <tr>
       <td>14.35/9.35</td>
-      <td><b>Presentation of Awards</b><br>Dinesh Verma (IBM US), Peter Waggett (IBM UK)</td>
+      <td>Presentation of Awards<br>Dinesh Verma (IBM US), Peter Waggett (IBM UK)</td>
     </tr>
     <tr>
       <td>14.50/9.50</td>
