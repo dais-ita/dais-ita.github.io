@@ -49,8 +49,10 @@ AI systems able to share data and models with partners whilst operating under a 
 *	[Adaptive Federated Learning in Resource Constrained Edge Computing Systems.](/1b06/) Sharing learning, not data, and synchronising models with a minimal number of messages.  ??1a08
 *	[Compressed Model Updates for Efficient Federated Learning.](/1b02/) Minimising size of messages for shared learning and model synchronisation. 
 *	[One Shot Federation for Coalition Model Sharing.](/1b01/)  Incremental and intermittent shared learning using a representation of the data distribution (not the data itself). 
+*	[Coresets via Multipronged Data Reduction.](/1b05/)  Significantly reducing comms usage by summarisation of data records.
 *	[Coresets Learning via Distributed Clustering and Local Gradients.](/1b04/)  Multi-dimension data summarisation (reducing comms usage) which also enables machine learning. 
 *	[Coresets via Multipronged Data Reduction.](/1b05/)  Significantly reducing comms usage by summarisation of data records. 
+(keep or remove the below achievement from this section?)
 *	[Distributed Coreset Construction for Efficient Machine Learning in Coalitions.](/1b03/)   Technology readiness level (TRL) 3 demonstration of feasibility. 
 
 ## Integrated Distributed Analytics.  
