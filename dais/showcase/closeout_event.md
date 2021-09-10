@@ -19,52 +19,39 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
 <table>
   <tbody>
     <tr>
-      <td>Time</td>
+      <td>Time (UK/US)</td>
       <td>Session</td>
     </tr>
     <tr>
-      <td>10.00</td>
-      <td><a href="https://ibm.webex.com/meet/helen.bowyer">Welcome & Program Overview</a>
+      <td>14.00/9.00</td>
+      <td><a href="https://ibm.webex.com/meet/helen.bowyer">Welcome and Agenda</a>
       </td>
     </tr>
     <tr>
-      <td>10.15</td>
-      <td>Summary of Demonstrations & Daily Logistics</td>
+      <td>14.15/9.15</td>
+      <td>Short Paper Presntation and Q&A</td>
     </tr>
     <tr>
-      <td>10.45</td>
-      <td><b>Adaptable & Trusted AI</b><br>Alun Preece(Cardiff) and Gavin Pearson(DSTL)
+      <td>14.15/9.15</td>
+      <td><b>Presentation of "Robust Soltions to Constrained Optimization Problems by LSTM Networks"</b><br>Zheyu (Joe) Chen (Imperial College)
     </td>
-    </tr>
     <tr>
-      <td>11.30</td>
-      <td>Break</td>
-    </tr>
-    <tr>
-      <td>11.45</td>
-      <td><b>Coalition Analytics</b><br>Graham Bent(IBM UK) and Dave Conway-Jones(IBM UK)
+      <td>14.25/9.25</td>
+      <td><b>Presentation "State-space Decomposition in Reinforcement Learning"</b><br>Ester Wong (Imperial College)
       </td>
     </tr>
     <tr>
-      <td>12.30</td>
-      <td>Lunch</td>
+      <td>14.35/9.35</td>
+      <td><b>Presentation of Awards</b><br>Dinesh Verma (IBM US), Peter Waggett (IBM UK)</td>
     </tr>
     <tr>
-      <td>13.15</td>
-      <td><b>Resilient Coalition Network</b><br>Alessandra Russo(Imperial), Kin Leung(Imperial) and John Melrose(DSTL)</td>
+      <td>14.50/9.50</td>
+      <td><b>Closing Remarks</b><br>Ananthram Swami(ARL), Helen Carlton (Dstl)</td>
     </tr>
     <tr>
-      <td>14.00</td>
-      <td><b>Analytics of Social Dynamics</b><br>Roger Whitaker(Cardiff) and Dave Braines(IBM UK)</td>
-    </tr>
-    <tr>
-      <td>14.45</td>
-      <td>Break</td>
-    </tr>
-    <tr>
-      <td>15.00</td>
+      <td>15.00/10.00</td>
       <td>
-        Panel Q&A Session
+      <b>Farewell Open Floor</b><br>All members</td>
       </td>
     </tr>
     <tr>
