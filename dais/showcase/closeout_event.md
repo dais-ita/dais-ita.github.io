@@ -46,16 +46,18 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>14.35/9.35</td>
-      <td><b>Presentation of Awards</b><br>Dinesh Verma (IBM US), Peter Waggett (IBM UK)</b></td>
+      <td><b>Presentation of Awards</b><br>Dinesh Verma (IBM US), Peter Waggett (IBM UK)
+      </td>
     </tr>
     <tr>
       <td>14.50/9.50</td>
-      <td><b>Closing Remarks</b><br>Ananthram Swami(ARL), Helen Carlton (Dstl)</td>
+      <td><b>Closing Remarks</b><br>Ananthram Swami(ARL), Helen Carlton (Dstl)
+      </td>
     </tr>
     <tr>
       <td>15.00/10.00</td>
       <td>
-      <b>Farewell Open Floor</b><br>All members</td>
+      <b>Farewell Open Floor</b><br>All members
       </td>
     </tr>
     <tr>
