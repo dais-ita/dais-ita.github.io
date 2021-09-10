@@ -7,7 +7,7 @@ title: "DAIS ITA Consortium Closeout Event"
 # DAIS ITA Consortium Closeout Event
 # 17th September 2021
 
-## Closeout Event Objective
+## Objective
 There are two aims of this final event
 * To bring the consortium together one last time and conclude what for some has been 15 years of collaboration.
 * To provide an opportunity to present any work that has not already been externally presented elsewhere and is not included in the science library. 
