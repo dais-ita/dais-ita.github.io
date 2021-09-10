@@ -3,7 +3,7 @@ layout: splash
 permalink: /AI_Cluster_v2/
 ---
 
-# Artifical Intellegence (AI) in Contested Multi-Doman Coalition Operations (Version 2)
+# Artifical Intelligence (AI) in Contested Multi-Doman Coalition Operations (Version 2)
 
 [Watch Overview Video](https://ibm.box.com/v/Overview-Cluster1-video)
 
@@ -14,7 +14,7 @@ AI which can rapidly adapt in dynamic situations and learn as the operation proc
 * [Adversarial Domain Adaptation Learning for Accelerating Artificial Intelligence Based Military Solutions.](/2c01/) Adjusting machine learning classifiers for new environments using limited training samples through generative adversarial networks (GANs)
 * [The FastLAS System for Interpretable Machine Learning.](/1c08/)  
 Logic-based AI that learns rules from examples.
-* [Adaptive Artificial Intellegence Systems for Human-Machine Federated Decision Making.](/1c05/) Adapting neural layers using human provided or learned hard logic at the symbolic layer.
+* [Adaptive Artificial Intelligence Systems for Human-Machine Federated Decision Making.](/1c05/) Adapting neural layers using human provided or learned hard logic at the symbolic layer.
 *	[Cogni-Sketch: Enabling Rapidly Formed Human-Agent Coalition Teams through Extensible Information Exchange.](/1c01/) 
 Software platform enabling human-agent interaction.
 *	[Adapting Artificial Intelligence Systems to Recognise New Patterns of Distributed Activity.](/1c16/) 
@@ -59,7 +59,7 @@ Able to integrate analytic services in (near) real-time with partners in degrade
 *	[Vector Symbolic Architectures and Hyperdimensional Computing for Coalition Operations - An Overview.](/1a11/)  Dynamic decentralised discovery of assets (e.g. information services & data) and chaining them together (i.e. workflow construction and orchestration) to perform a task.
 <!--*	[Integrating Distributed Coalition Sensor & Processing Assets to perform Distributed Analytics using a Vector Symbolic Architecture.](/1a01/)  TRL3 demonstration of feasibility of applying to NATO FMN services.-->
 *	[Dynamic Communications Replanning using a Vector Symbolic Architecture.](/1a02/) Demonstration of maintaining network connectivity via the vector symbolic architecture technology.
-*	[Combining Vector Symbolic Architecture Aspects and Artificial Intellegence Services Using Edge Deployment.](/1a05/) Feasibly integrating centralised control and distributed adaptability of coalition services in tactical environments.
+*	[Combining Vector Symbolic Architecture Aspects and Artificial Intelligence Services Using Edge Deployment.](/1a05/) Feasibly integrating centralised control and distributed adaptability of coalition services in tactical environments.
 *	[Semantic Vector Mapping for Coalition Operations.](/1a04/)  Achieving service interoperability without having to use an agreed set of terms to define the service. 
 *	[A Compositional Reinforcement Learning Framework for Workflow Generation.](/1a06/) Learning how to construct coalition workflows with sparse rewards through levering the inherent hierarchical structure present in the application domain.
 
