@@ -29,7 +29,7 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>14.15/9.15</td>
-      <td>,b>Short Paper Presntation and Q&A</b></td>
+      <td><b>Short Paper Presntation and Q&A</b></td>
     </tr>
     <tr>
       <td>14.15/9.15</td>
