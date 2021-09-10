@@ -56,18 +56,16 @@ Meeting guests and Non-Army 365 users may find it necessary to join the meeting 
     presented by Shiqiang Wang, IBM US & Kevin Chan, ARL
 
 <sub>4.	Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in Distributed Coalition Operations- [Video](https://ibm.box.com/v/Showcase-1c02-video) - [Background information](/1c02/)<br>
-    presented by Alessandra Russo, Imperial College London, Dan Cunnington, IBM UK & Kevin Chan, ARL   
+    presented by Alessandra Russo, Imperial College London, Dan Cunnington, IBM UK & Lance Kaplan, ARL   
    
 <sub>5.	Adversarial Domain Adaptation Learning for Accelerating Atificial Intellegence Based Military Solutions- [Video](https://ibm.box.com/v/Showcase-2c01-video) - [Background information](/2c01/)<br>
-    presented by Elisa Bertino, Purdue University  & Kevin Chan, ARL
+    presented by Elisa Bertino, Purdue University  & Lance Kaplan, ARL
 
 <sub>6.	Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data- [Video](https://ibm.box.com/v/Showcase-1d01-video) - [Background information](/1d01/)<br>
     presented by Alun Preece, Cardiff Univeristy, Dave Braines, IBM UK Lance Kaplan, ARL
 
 <sub>7.	Adapting Artificial Intellegence Systems to Recognize New Patterns of Distributed Activity- [Video](https://ibm.box.com/v/Showcase-1c16-video) - [Background information](/1c16/)<br>
-    presented by Alun Preece, Cardiff Univeristy, Dave Braines, IBM UK & Lance Kaplan, ARL
-
-</sub>
+    presented by Alun Preece, Cardiff Univeristy, Dave Braines, IBM UK & Lance Kaplan, ARL</sub>
 
 ## Break: 12.00 – 13.00 U.S. Eastern Time<br>
 
@@ -113,15 +111,14 @@ Meeting guests and Non-Army 365 users may find it necessary to join the meeting 
       <td><u>Breakout Sessions for Discussions / Q&A</u><br><br>
         1.	AI in Contested Multi-Doman Coalition Operations<br>
           To Join the Virtual Breakout Click 
-        <a href="https://dod.teams.microsoft.us/l/meetup-join/19%3adod%3ameeting_c329a1a018a046379a57f3635b035b5e%40thread.v2/0?context=%7b%22Tid%22%3a%22fae6d70f-954b-4811-92b6-0530d6f84c43%22%2c%22Oid%22%3a%22a6694193-6939-40c0-ad1d-9576c75ac310%22%7d">
-              Here</a><br>
+        <a href="https://dod.teams.microsoft.us/l/meetup-join/19%3adod%3ameeting_c329a1a018a046379a57f3635b035b5e%40thread.v2/0?context=%7b%22Tid%22%3a%22fae6d70f-954b-4811-92b6-0530d6f84c43%22%2c%22Oid%22%3a%22a6694193-6939-40c0-ad1d-9576c75ac310%22%7d">Here</a><br>
         +1 571-616-7941<br>
         Conference ID: 731 290 751#<br><br>
-         2. Resilient Coalition Networking</a><br>
+         2. Resilient Coalition Networking<br>
               To Join the Virtual Breakout Click <a href="https://dod.teams.microsoft.us/l/meetup-join/19%3adod%3ameeting_1ba6e09eb30c44dbb0f8e92d31529999%40thread.v2/0?context=%7b%22Tid%22%3a%22fae6d70f-954b-4811-92b6-0530d6f84c43%22%2c%22Oid%22%3a%22a6694193-6939-40c0-ad1d-9576c75ac310%22%7d">Here</a><br>
     +1 571-616-7941<br>
      Conference ID: 224 680 092#<br><br>
-         3.	Integrating ad hoc Coalition teams and understanding dynamic audiences</a><br>
+         3.	Integrating ad hoc Coalition teams and understanding dynamic audiences<br>
               To Join the Virtual Breakout Click <a href="https://dod.teams.microsoft.us/l/meetup-join/19%3adod%3ameeting_0fed6cfc8ae7410c9a276784fcc93562%40thread.v2/0?context=%7b%22Tid%22%3a%22fae6d70f-954b-4811-92b6-0530d6f84c43%22%2c%22Oid%22%3a%22a6694193-6939-40c0-ad1d-9576c75ac310%22%7d">Here</a><br>
   +1 571-616-7941<br>
   Conference ID: 196 824 139#<br></td> 
