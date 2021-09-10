@@ -11,7 +11,7 @@ Military operations typically involve working with partners to resolve rapidly e
 
 ## Adaptable AI
 AI which can rapidly adapt in dynamic situations and learn as the operation proceeds exploiting synergies between humans and machine intelligence (inc. novel Neuro-Symbolic Learning (NSL) AI systems which combine reasoning and deep learning);
-* [Adversarial Domain Adaptation Learning for Accelerating Artificial Intellegence Based Military Solutions.](/2c01/) Adjusting machine learning classifiers for new environments using limited training samples through generative adversarial networks (GANs)
+* [Adversarial Domain Adaptation Learning for Accelerating Artificial Intelligence Based Military Solutions.](/2c01/) Adjusting machine learning classifiers for new environments using limited training samples through generative adversarial networks (GANs)
 * [The FastLAS System for Interpretable Machine Learning.](/1c08/)  
 Logic-based AI that learns rules from examples.
 * [Adaptive Artificial Intellegence Systems for Human-Machine Federated Decision Making.](/1c05/) Adapting neural layers using human provided or learned hard logic at the symbolic layer.
