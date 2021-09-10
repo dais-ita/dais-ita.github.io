@@ -60,7 +60,7 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>15.30</td>
-  <td>End of Showcase</td>
+  <td>End of Closing Event</td>
      
 
 
