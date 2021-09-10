@@ -27,7 +27,7 @@ Characterising previously unseen devices by inspection of their traffic.
 Software platform enabling human-agent interaction.
 *	[Enhancing Situation Understanding through Negative-Ties Enhanced Pipelines.](/3a13/) 
 Improving AI analysis with user-knowledge.
-* [Adversarial Domain Adaptation Learning for Accelerating Artificial Intellegence Based Military Solutions.](/2c01/)
+* [Adversarial Domain Adaptation Learning for Accelerating Artificial Intelligence Based Military Solutions.](/2c01/)
 * [State-Action Separable and Ebedding for Reinforcement Learning.](/2b03/)
 * [Online Multi-Task Learning with Long-Term Memory](/1c09/)
 
