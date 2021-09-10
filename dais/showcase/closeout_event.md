@@ -29,11 +29,11 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>14.15/9.15</td>
-      <td>Short Paper Presntation and Q&A</td>
+      <td>,b>Short Paper Presntation and Q&A</b></td>
     </tr>
     <tr>
       <td>14.15/9.15</td>
-      <td><b>Presentation of "Robust Soltions to Constrained Optimization Problems by LSTM Networks"</b><br>Zheyu (Joe) Chen (Imperial College)
+      <td>Presentation of "Robust Soltions to Constrained Optimization Problems by LSTM Networks"<br>Zheyu (Joe) Chen (Imperial College)
     </td>
     <tr>
       <td>14.25/9.25</td>
@@ -42,7 +42,7 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>14.35/9.35</td>
-      <td>Presentation of Awards<br>Dinesh Verma (IBM US), Peter Waggett (IBM UK)</td>
+  <td><b>Presentation of Awards<br>Dinesh Verma (IBM US), Peter Waggett (IBM UK)</b></td>
     </tr>
     <tr>
       <td>14.50/9.50</td>
