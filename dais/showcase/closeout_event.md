@@ -60,5 +60,3 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
   </tbody>
 </table>
-
-An Overview of the DAIS ITA Programme and summary of Achievements can be found [here](https://dais-legacy.org/)
