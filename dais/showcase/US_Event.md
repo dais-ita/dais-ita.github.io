@@ -81,7 +81,7 @@ Presentations and demonstrations will be pre-recorded and can be viewed asynchro
     </tr>
     <tr>
       <td>13.00</td>
-      <td>/<u>Overview of Achievement Cluster Groupings</u><br>        
+      <td><u>Overview of Achievement Cluster Groupings</u><br>        
       1. AI in Contested Multi-Doman Coalition Operations<br>
         <a href="">
           Video</a> - 
