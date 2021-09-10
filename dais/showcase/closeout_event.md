@@ -61,11 +61,4 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
   </tbody>
 </table>
 
-
-## Demonstration Sessions
-
-These sessions cover a military issue and highlight how the latest science addresses this issue
-
-There will be some presented content and time for Q&A
-
-An Overview of the DAIS ITA Programme can be found [here](https://dais-legacy.org/)
+An Overview of the DAIS ITA Programme and summary of Achievements can be found [here](https://dais-legacy.org/)
