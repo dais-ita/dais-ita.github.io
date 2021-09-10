@@ -65,10 +65,10 @@ Able to integrate analytic services in (near) real-time with partners in degrade
 
 ## Edge AI.  
 AI able to operate on the constrained computing environment at the edge of tactical networks;
-*	[Artificial Intelligence at the Edge of the Network.](/1c13/)  Enabling algorithm development, test and management. 
+*	[Edge AI Software Development Kit for Coalition Analytics.](/1c13/)  Enabling algorithm development, test and management. 
 *	[Model Pruning for Efficient Federated Learning in Coalitions.](/1f03/) Modifying AI models so they can run on edge devices with minimal loss in performance. 
 *	[Energy Efficient Vector Symbolic Architectures (VSA) using ‘In Memory’ Hyperdimensonal Computing.](/1f01/)  Significant energy saving using novel ‘in memory’ computing hardware. 
 *	[Energy Efficient Vector Symbolic Architecture Using Spiking Neural Networks.](/1f02/) Potential of sparse VSA to enable significant energy saving using novel SNN computing hardware. 
-*	[Binarized Neural Network.](/2a06/)  Using binary representations of model weights to allow Machine Learning models on mobile hand-held devices.  The concept is extended for the training of the models using federated learning. 
+*	[Leveraging Binarised Neural Networks for SDC Control.](/2a06/)  Using binary representations of model weights to allow Machine Learning models on mobile hand-held devices.  The concept is extended for the training of the models using federated learning. 
 
 
