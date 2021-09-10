@@ -33,16 +33,16 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>14.15/9.15</td>
-      <td>Presentation of "Robust Soltions to Constrained Optimization Problems by LSTM Networks"<br>Zheyu (Joe) Chen (Imperial College)
+      <td>"Robust Soltions to Constrained Optimization Problems by LSTM Networks"<br>Zheyu (Joe) Chen (Imperial College)
     </td>
     <tr>
       <td>14.25/9.25</td>
-      <td>Presentation "State-space Decomposition in Reinforcement Learning"<br>Ester Wong (Imperial College)
+      <td>"State-space Decomposition in Reinforcement Learning"<br>Ester Wong (Imperial College)
       </td>
     </tr>
     <tr>
       <td>14.35/9.35</td>
-  <td><b>Presentation of Awards<br>Dinesh Verma (IBM US), Peter Waggett (IBM UK)</b></td>
+      <td><b>Presentation of Awards</b><br>Dinesh Verma (IBM US), Peter Waggett (IBM UK)</b></td>
     </tr>
     <tr>
       <td>14.50/9.50</td>
