@@ -3,7 +3,7 @@ layout: splash
 permalink: /AI_Cluster/
 ---
 
-# Artifical Intellegence (AI) in Contested Multi-Doman Coalition Operations
+# Artifical Intelligence (AI) in Contested Multi-Doman Coalition Operations
 
 [Watch Overview Video](https://ibm.box.com/v/Overview-Cluster1-video)
 
@@ -16,7 +16,7 @@ AI which can rapidly adapt in dynamic situations and learn as the operation proc
 Improved human-AI teaming, AI learning (inc. NSL) and DAIS technology integration: running in real-time at edge.
 *	[Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in Distributed Coalition Operations.](/1c02/)
 Adapting to changes between data used for training an AI and reality.
-*	[Adaptive Artificial Intellegence Systems for Human-Machine Federated Decision Making.](/1c05/)
+*	[Adaptive Artificial Intelligence Systems for Human-Machine Federated Decision Making.](/1c05/)
 *	[The FastLAS System for Interpretable Machine Learning.](/1c08/)  
 Logic-based AI that learns rules from examples.
 *	[Reinforcement Learning for Military Network Control.](/1c15/)  
@@ -62,7 +62,7 @@ Able to integrate analytic services in (near) real-time with partners in degrade
 *	[Dynamic Communications Replanning using a Vector Symbolic Architecture.](/1a02/) TRL3-4 demonstration of feasibility . 
 *	[Semantic Vector Mapping for Coalition Operations.](/1a04/)  Achieving service interoperability without having to use an agreed set of terms to define the service. 
 *	[A Compositional Reinforcement Learning Framework for Workflow Generation.](/1a06/)
-*	[Combining Vector Symbolic Architecture Aspects and Artificial Intellegence Services Using Edge Deployment.](/1a05/) Feasibly integrating centralised control and distributed adaptability of coalition services in tactical environments.
+*	[Combining Vector Symbolic Architecture Aspects and Artificial Intelligence Services Using Edge Deployment.](/1a05/) Feasibly integrating centralised control and distributed adaptability of coalition services in tactical environments.
 
 ## Edge AI.  
 AI able to operate on the constrained computing environment at the edge of tactical networks;
