@@ -17,7 +17,7 @@ Logic-based AI that learns rules from examples.
 * [Adaptive Artificial Intellegence Systems for Human-Machine Federated Decision Making.](/1c05/) Adapting neural layers using human provided or learned hard logic at the symbolic layer.
 *	[Cogni-Sketch: Enabling Rapidly Formed Human-Agent Coalition Teams through Extensible Information Exchange.](/1c01/) 
 Software platform enabling human-agent interaction.
-*	[Adapting Artificial Intellegence Systems to Recognise New Patterns of Distributed Activity.](/1c16/) 
+*	[Adapting Artificial Intelligence Systems to Recognise New Patterns of Distributed Activity.](/1c16/) 
 Improved human-AI teaming, AI learning (inc. NSL) and DAIS technology integration: running in real-time at edge.
 *	[Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in Distributed Coalition Operations.](/1c02/)
 Adapting to changes between data used for training an AI and reality.
