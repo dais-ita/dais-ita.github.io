@@ -36,7 +36,7 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>10.45</td>
-      <td><b>Adaptable & Trusted AI</b><br>Alun Preece(Cardiff) and Gavin Pearson(DSTL)
+      <td><b>Adaptable & Trusted AI</b><br>Alun Preece(Cardiff) and Gavin Pearson(Dstl)
     </td>
     </tr>
     <tr>
@@ -54,7 +54,7 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>13.15</td>
-      <td><b>Resilient Coalition Network</b><br>Alessandra Russo(Imperial), Kin Leung(Imperial) and John Melrose(DSTL)</td>
+      <td><b>Resilient Coalition Network</b><br>Alessandra Russo(Imperial), Kin Leung(Imperial) and John Melrose(Dstl)</td>
     </tr>
     <tr>
       <td>14.00</td>

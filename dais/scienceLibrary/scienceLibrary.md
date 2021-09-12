@@ -23,6 +23,572 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td><strong>collaboration</strong></td>
     </tr>
     <tr>
+        <td><a href="/doc-7109/">Jointly-Learned State-Action Embedding for Efficient Reinforcement Learning</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Paul Pritz (Imperial)</li>
+                <li>Liang Ma</li>
+                <li>Kin Leung (Imperial)</li>
+            </ul>
+        </td>
+        <td>Nov-2021</td>
+        <td>30th ACM International Conference on Information and Knowledge Management [<a href="https://arxiv.org/abs/2010.04444">link</a>]</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7127/">Federated AI for Real-World Business Scenarios</a></td>
+        <td>book</td>
+        <td>
+            <ul>
+                <li>Dinesh Verma (IBM US)</li>
+            </ul>
+        </td>
+        <td>Oct-2021</td>
+        <td>Taylor and Francis group, 2021 [<a href="https://www.routledge.com/Federated-AI-for-Real-World-Business-Scenarios/Verma/p/book/9780367861575">link</a>]</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7129/">Implicit adversarial data augmentation and robustness with Noise-based Learning</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Priyadarshini Pandaa (Yale)</li>
+                <li>Kaushik Roy (Purdue)</li>
+            </ul>
+        </td>
+        <td>Sep-2021</td>
+        <td>Neural Networks, Volume 141, September 2021, Pages 120-132 [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608021001350">link</a>]</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7001/">Augmenting saliency maps with uncertainty</a></td>
+        <td>tech report</td>
+        <td>
+            <ul>
+                <li>Laura D'Arcy (Cardiff)</li>
+                <li>Declan Millar (IBM UK)</li>
+                <li>Padraig Corcoran (Cardiff)</li>
+                <li>Ian Taylor (Cardiff)</li>
+                <li>Alun Preece (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Sep-2021</td>
+        <td>Technical report</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7002/">NSL: Hybrid Interpretable Learning From Noisy Raw Data</a></td>
+        <td>tech report</td>
+        <td>
+            <ul>
+                <li>Daniel Cunnington (IBM UK)</li>
+                <li>Alessandra Russo (Imperial)</li>
+                <li>Mark Law (Imperial)</li>
+                <li>Jorge Lobo</li>
+              <li>Lance Kaplan (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2021</td>
+        <td>Technical report</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7006/">Learning Technique to Solve Non-Markovian Decision Process for Networked Resource Allocation</a></td>
+        <td>tech report</td>
+        <td>
+            <ul>
+                <li>Zheyu Chen</li>
+                <li>Kin K. Leung (Imperial)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Leandros Tassiulas (Yale)</li>
+                <li>Kevin Chan (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2021</td>
+        <td>Technical report</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7007/">Modeling spread of curse words on a social network</a></td>
+        <td>tech report</td>
+        <td>
+            <ul>
+                <li>Mudhakar Srivatsa (IBM US)</li>
+                <li>Diane Felmlee (PSU)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Supriyo Chakraborthy (IBM US)</li>
+                <li>Cheryl Giammanco (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2021</td>
+        <td>Technical report</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7008/">Reciprocity, transitivity, and skew: Comparing local structure in 40 positive and negative social networks</a></td>
+        <td>tech report</td>
+        <td>
+            <ul>
+                <li>Cassie McMillan (Penn State)</li>
+                <li>Diane Felmlee (Penn State)</li>
+                <li>James Ashford (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Sep-2021</td>
+        <td>Technical report</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7010/">A Comparison of Local Structure in Positive and Negative Social Networks</a></td>
+        <td>tech report</td>
+        <td>
+            <ul>
+                <li>Cassie McMillan (Penn State)</li>
+                <li>Diane Felmlee (Penn State)</li>
+                <li>James Ashford (Cardiff)</li>
+                <li>Emma Jayes (Dstl)</li>
+            </ul>
+        </td>
+        <td>Sep-2021</td>
+        <td>Technical report</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7011/">Identifying Social Network Patterns with Exponential Random Graph Models</a></td>
+        <td>tech report</td>
+        <td>
+            <ul>
+                 <li>Diane Felmlee (Penn State)</li>
+                 <li>Cassie McMillan (Penn State)</li>
+                 <li>Roger Whitaker (Cardiff)</li>
+                 <li>Mudhakar Srivasta (IBM US)</li>
+                 <li>Cheryl Giammanco (ARL)</li>
+                 <li>Emma Jayes (Dstl)</li>
+            </ul>
+        </td>
+        <td>Sep-2021</td>
+        <td>Technical report</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7009/">Dyads, triads, and tetrads: a multivariate simulation approach to uncovering network motifs in social graphs</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Diane Felmlee (PSU)</li>
+                <li>Cassie McMillan (PSU)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Aug-2021</td>
+        <td>Applied Network Science volume 6, Article number: 63 (2021) [<a href="https://appliednetsci.springeropen.com/articles/10.1007/s41109-021-00403-5">link</a>]</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7111/">More Is Not Always Better: An Analytical Study of Controller Synchronizations in Distributed SDN</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Ziyao Zhang (Imperial)</li>
+                <li>Liang Ma (IBM US)</li>
+                <li>Kin Leung (Imperial)</li>
+                <li>Franck Le (IBM US)</li>
+            </ul>
+        </td>
+        <td>Aug-2021</td>
+        <td>IEEE/ACM Transactions on Networking ( Volume: 29, Issue: 4, Aug. 2021) [<a href="https://ieeexplore.ieee.org/document/9387597">link</a>]</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7125/">UNIFUZZ: A Holistic and Pragmatic Metrics-Driven Platform for Evaluating Fuzzers</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Yuwei Li</li>
+                <li>Shouling Ji</li>
+                <li>Yuan Chen</li>
+                <li>Sizhuang Liang</li>
+                <li>Wei-Han Lee (IBM US)</li>
+                <li>Yueyao Chen</li>
+                <li>Chenyang Lyu</li>
+                <li>Chunming Wu</li>
+                <li>Raheem Beyah</li>
+                <li>Peng Cheng</li>
+                <li>Kangjie Lu</li>
+                <li>Ting Wang (PSU)</li>
+            </ul>
+        </td>
+        <td>Aug-2021</td>
+        <td>Proceedings of the 30th USENIX Security Symposium (USENIX Security 2021) [<a href="https://www.usenix.org/system/files/sec21summer_li-yuwei.pdf">link</a>]</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7110/">Machine Learning/Artificial Intelligence for Sensor Data Fusion–Opportunities and Challenges</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Erik Blasch</li>
+                <li>Tien Pham (ARL)</li>
+                <li>Chee-Yee Chong</li>
+                <li>Wolfgang Koch</li>
+                <li>Henry Leung</li>
+                <li>Dave Braines (IBM UK)</li>
+                <li>Tarek Abdelzaher</li>
+            </ul>
+        </td>
+        <td>Jul-2021</td>
+        <td>IEEE Aerospace and Electronic Systems Magazine ( Volume: 36, Issue: 7, July 1 2021) [<a href="https://ieeexplore.ieee.org/document/9475913">link</a>]</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7122/">The Coevolution of Social Networks and Cognitive Dissonance</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Gualtiero Colombo (Cardiff)</li>
+                <li>Liam Turner (Cardiff)</li>
+                <li>Yarrow Dunham (Yale)</li>
+                <li>Darren Doyle (Dstl)</li>
+                <li>Eilish Roy (Dstl)</li>
+                <li>Cheryl Giammanco (ARL)</li>
+            </ul>
+        </td>
+        <td>Jul-2021</td>
+        <td>IEEE Transactions on Computational Social Systems ( Early Access ) [<a href="https://ieeexplore.ieee.org/document/9469003">link</a>]</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7100/">A Security-Constrained Reinforcement Learning Framework for Software Defined Networks</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Anand Mudgerikar (Purdue)</li>
+                <li>Elisa Bertino (Purdue)</li>
+                <li>Jorge Lobo</li>
+                <li>Dinesh Verma (IBM US)</li>
+            </ul>
+        </td>
+        <td>Jun-2021</td>
+        <td>ICC 2021 - IEEE International Conference on Communications [<a href="https://ieeexplore.ieee.org/document/9500763">link</a>]</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7106/">Explainable AI at the Edge: Perspectives & Requirements</a></td>
+        <td>invited talk</td>
+        <td>
+            <ul>
+                <li>Alun Preece (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Jun-2021</td>
+        <td>13th International Workshop on Science Gateways [<a href="https://iwsgateways.github.io/iwsg2021/programme.html">link</a>]</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7112/">Multi-Scale User Migration on Reddit</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Cai Davies (Cardiff)</li>
+                <li>James Ashford (Cardiff)</li>
+                <li>Luis Espinosa-Anke (Cardiff)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Liam Turner (Cardiff)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Mudhakar Srivatsa (IBM US)</li>
+                <li>Diane Felmlee (PSU)</li>
+            </ul>
+        </td>
+        <td>Jun-2021</td>
+        <td>Workshop Proceedings of the 15th International AAAI Conference on Web and Social Media [<a href="http://workshop-proceedings.icwsm.org/abstract?id=2021_13">link</a>]</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7120/">Shadowing and shielding: Effective heuristics for continuous influence maximisation in the voting dynamics</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Guillermo Romero Moreno (Southampton)</li>
+                <li>Sukankana Chakraborty (Southampton)</li>
+                <li>Markus Brede (Southampton)</li>
+            </ul>
+        </td>
+        <td>Jun-2021</td>
+        <td>PLoS ONE 16(6): e0252515 [<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252515">link</a>]</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7123/">The evolution of strongly-held group identities through agent-based cooperation</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Gualtiero Colombo (Cardiff)</li>
+                <li>Yarrow Dunham (Yale)</li>
+            </ul>
+        </td>
+        <td>Jun-2021</td>
+        <td>Scientific Reports volume 11, Article number: 12071 (2021) [<a href="https://www.nature.com/articles/s41598-021-91333-w">link</a>]</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7103/">DeepSQA: Understanding Sensor Data via Question Answering</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Tianwei Xing (UCLA)</li>
+                <li>Luis Garcia (UCLA)</li>
+                <li>Federico Cerutti</li>
+                <li>Lance Kaplan (ARL)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Mani Srivastava (UCLA)</li>
+            </ul>
+        </td>
+        <td>May-2021</td>
+        <td>IoTDI '21: Proceedings of the International Conference on Internet-of-Things Design and Implementation [<a href="https://dl.acm.org/doi/10.1145/3450268.3453529">link</a>]</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7119/">Self-Aware Effective Identification and Response to Viral Cyber Threats</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Pietro Baroni</li>
+                <li>Federico Cerutti (Cardiff)</li>
+                <li>Daniela Fogli</li>
+                <li>Massimiliano Giacomin</li>
+                <li>Francesco Gringoli</li>
+                <li>Giovanni Guida</li>
+                <li>Paul Sullivan (ARL)</li>
+            </ul>
+        </td>
+        <td>May-2021</td>
+        <td>13th International Conference on Cyber Conflict (CyCon) [<a href="https://ieeexplore.ieee.org/document/9468294">link</a>]</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7130/">NeuralFP: Out-of-distribution Detection using Fingerprints of Neural Networks</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Wei-Han Lee (IBM US)</li>
+                <li>Steve Millman (IBM US)</li>
+                <li>Nirmit Desai (IBM US)</li>
+                <li>Mudhakar Srivatsa (IBM US)</li>
+                <li>Changchang Liu (IBM US)</li>
+            </ul>
+        </td>
+        <td>May-2021</td>
+        <td>2020 25th International Conference on Pattern Recognition (ICPR) [<a href="https://ieeexplore.ieee.org/document/9412489">link</a>]</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7101/">Augmenting saliency maps with uncertainty</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Supriyo Chakraborty (IBM US)</li>
+                <li>Prudhvi Gurram</li>
+                <li>Franck Le (IBM US)</li>
+                <li>Lance Kaplan (ARL)</li>
+                <li>Richard Tomsett (IBM UK)</li>
+            </ul>
+        </td>
+        <td>Apr-2021</td>
+        <td>Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications III, SPIE DCS, 2021 [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11746/117461M/Augmenting-saliency-maps-with-uncertainty/10.1117/12.2588026.full">link</a>]</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7102/">Coalition situational understanding via explainable neuro-symbolic reasoning and learning</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Dave Braines (IBM UK)</li>
+                <li>Federico Cerutti</li>
+                <li>Jack Furby (Cardiff)</li>
+                <li>Liam Hiley (Cardiff)</li>
+                <li>Lance Kaplan (ARL)</li>
+                <li>Mark Law (Imperial)</li>
+                <li>Alessandra Russo (Imperial)</li>
+                <li>Mani Srivastava (UCLA)</li>
+                <li>Marc Roig Vilamala (Cardiff)</li>
+                <li>Tianwei Xing (UCLA)</li>
+            </ul>
+        </td>
+        <td>Apr-2021</td>
+        <td>Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications III, SPIE DCS, 2021 [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11746/117461X/Coalition-situational-understanding-via-explainable-neuro-symbolic-reasoning-and-learning/10.1117/12.2587850.short">link</a>]</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7105/">Embedding dynamic knowledge graphs based on observational ontologies in semantic vector spaces</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Declan Millar (IBM UK)</li>
+                <li>Dave Braines (IBM UK)</li>
+                <li>Laura D'Arcy (Cardiff)</li>
+                <li>Iain Barclay (Cardiff)</li>
+                <li>Doug Summers-Stay (ARL)</li>
+                <li>Paul Cripps (Dstl)</li>
+            </ul>
+        </td>
+        <td>Apr-2021</td>
+        <td>Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications III, SPIE DCS, 2021 [<a href="https://spie.org/Publications/Proceedings/Paper/10.1117/12.2585888?SSO=1">link</a>]</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7108/">From social networks to negative ties: refining analysis for conflict and adversarial interaction</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Diane Felmlee (PSU)</li>
+                <li>Dave Braines (IBM UK)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Cassie McMillan</li>
+                <li>Chris Julien (PSU)</li>
+                <li>Cheryl Giammanco (ARL)</li>
+            </ul>
+        </td>
+        <td>Apr-2021</td>
+        <td>Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications III, SPIE DCS, 2021 [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11746/117461Y/From-social-networks-to-negative-ties--refining-analysis-for/10.1117/12.2587501.short">link</a>]</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7114/">One-dimensional service networks and batch service queues</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Philippe Nain</li>
+                <li>Nitish Panigrahy (UMass)</li>
+                <li>Prithwish Basu (BBN)</li>
+                <li>Don Towsley (UMass)</li>
+            </ul>
+        </td>
+        <td>Apr-2021</td>
+        <td>Queueing Systems volume 98, pages181–207 (2021) [<a href="https://link.springer.com/article/10.1007/s11134-021-09703-0">link</a>]</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7116/">Optimizing the efficiency of collective decision making in groups</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Malgorzata Turalska (ARL)</li>
+                <li>Geeth De Mel (IBM UK)</li>
+                <li>Rosie Lickorish (IBM UK)</li>
+                <li>Liam Turner (Cardiff)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Apr-2021</td>
+        <td>Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications III, SPIE DCS, 2021 [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11746/117460L/Optimizing-the-efficiency-of-collective-decision-making-in-groups/10.1117/12.2587886.short">link</a>]</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7117/">Reinforcement and transfer learning for distributed analytics in fragmented software defined coalitions</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Ziyao Zhang (Imperial)</li>
+                <li>Anand Mudgerikar (Purdue)</li>
+                <li>Ankush Singla (Purdue)</li>
+                <li>Kin Leung (Imperial)</li>
+                <li>Elisa Bertino (Purdue)</li>
+                <li>Dinesh Verma (IBM US)</li>
+                <li>Kevin Chan (ARL)</li>
+                <li>John Melrose (Dstl)</li>
+                <li>Jeremy Tucker (Dstl)</li>
+            </ul>
+        </td>
+        <td>Apr-2021</td>
+        <td>Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications III, SPIE DCS, 2021 [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11746/117461W/Reinforcement-and-transfer-learning-for-distributed-analytics-in-fragmented-software/10.1117/12.2587874.short">link</a>]</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7118/">Robust uncertainty representation in human-AI collaboration</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Daniel Cassenti (ARL)</li>
+                <li>Lance Kaplan (ARL)</li>
+            </ul>
+        </td>
+        <td>Apr-2021</td>
+        <td>Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications III, SPIE DCS, 2021 [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11746/1174613/Robust-uncertainty-representation-in-human-AI-collaboration/10.1117/12.2584818.short">link</a>]</td>
+        <td>single institute with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7131/">Technical Barriers to the Adoption of Post-hoc Explanation Methods for Black Box AI models</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Eunjin Lee (IBM UK)</li>
+                <li>Harrison Taylor (Cardiff)</li>
+                <li>Liam Hiley (Cardiff)</li>
+                <li>Richard Tomsett (IBM UK)</li>
+            </ul>
+        </td>
+        <td>Apr-2021</td>
+        <td>AISB 2021 Symposium, Overcoming Opacity in Machine Learning [<a href="http://www.explanations.ai/symposium/AISB21_Opacity_Proceedings.pdf#page=14">link</a>]</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7000/">Learning-aided SDC control in mobile ad hoc networks</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Qiaofeng Qin (Yale)</li>
+                <li>Konstantinos Poularakis (Yale)</li>
+                <li>Andreas Martens (IBM UK)</li>
+                <li>Kevin Chan (ARL)</li>
+                <li>Leandros Tassiulas (Yale)</li>
+            </ul>
+        </td>
+        <td>Apr-2021</td>
+        <td>Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications III, SPIE DCS, 2021 [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11746/117461T/Learning-aided-SDC-control-in-mobile-ad-hoc-networks/10.1117/12.2588606.short">link</a>]</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7014/">Energy efficient 'in memory' computing to enable decentralised service workflow composition in support of multi-domain operations</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Graham Bent (IBM UK)</li>
+                <li>Christopher Simpkin (Cardiff)</li>
+                <li>Ian Taylor (Cardiff)</li>
+                <li>Abbas Rahimi</li>
+                <li>Geethan Karunaratne</li>
+                <li>Abu Sebastian</li>
+                <li>Declan Millar (IBM UK)</li>
+                <li>Andreas Martens (IBM UK)</li>
+                <li>Kaushik Roy (Purdue)</li>
+            </ul>
+        </td>
+        <td>Apr-2021</td>
+        <td>Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications III, SPIE DCS, 2021 [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11746/117461Q/Energy-efficient-in-memory-computing-to-enable-decentralised-service-workflow/10.1117/12.2586988.short?SSO=1">link</a>]</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7017/">3D simulation and scenario for AI research in multi-domain and coalition operations</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Graham White (IBM UK)</li>
+                <li>Dave Conway-Jones (IBM UK)</li>
+                <li>Kevin Chan (ARL)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>James Harryman (Dstl)</li>
+                <li>Matthew Cox (Dstl)</li>
+            </ul>
+        </td>
+        <td>Apr-2021</td>
+        <td>Artificial Intelligence and Machine Learning for Multi-Domain Operations Applications III, SPIE DCS, 2021 [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11746/1174620/3D-simulation-and-scenario-for-AI-research-in-multi-domain/10.1117/12.2585117.short?SSO=1">link</a>]</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
         <td><a href="/doc-5994/">A New Upper Bound on Cache Hit Probability for Non-anticipative Caching Policies</a></td>
         <td>journal</td>
         <td>
@@ -35,6 +601,32 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         </td>
         <td>Mar-2021</td>
         <td>ACM Sigmetrics [<a href="https://dl.acm.org/doi/abs/10.1145/3453953.3453985">link</a>]</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7107/">xxx</a></td>
+        <td>invited talk</td>
+        <td>
+            <ul>
+                <li>Alun Preece (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Mar-2021</td>
+        <td>Wales Institute of Social and Economic Research and Data, and Department for Work and Pensions Areas of Research Interest (ARI) Workshop [<a href="https://wiserd.ac.uk/sites/default/files/documents/WISERD%20DWP%20ARI%20Workshop%20Summary.docx">link</a>]</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7124/">To Collaborate or Not in Distributed Statistical Estimation with Resource Constraints?</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Yu-Zhen Janice Chen (UMass)</li>
+                <li>Daniel S. Menasché</li>
+                <li>Don Towsley (UMass)</li>
+            </ul>
+        </td>
+        <td>Mar-2021</td>
+        <td>55th Annual Conference on Information Sciences and Systems (CISS) [<a href="https://ieeexplore.ieee.org/document/9400264">link</a>]</td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -71,6 +663,35 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international</td>
     </tr>
     <tr>
+        <td><a href="/doc-7115/">Online Learning of Facility Locations</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Stephen Pasteris (UCL)</li>
+                <li>Ting He (PSU)</li>
+                <li>Fabio Vitale</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Mark Herbster (UCL)</li>
+            </ul>
+        </td>
+        <td>Feb-2021</td>
+        <td>32nd International Conference on Algorithmic Learning Theory [<a href="(http://proceedings.mlr.press/v132/pasteris21a/pasteris21a.pdf)">link</a>]</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7128/">Hybrid Analog-Spiking Long Short-Term Memory for Energy Efficient Computing on Edge Devices</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Kaushik Roy (Purdue)</li>
+                <li>Wachirawit Ponghiran (Purdue)</li>
+            </ul>
+        </td>
+        <td>Feb-2021</td>
+        <td>2021 Design, Automation & Test in Europe Conference & Exhibition (DATE) [<a href="https://ieeexplore.ieee.org/document/9473953">link</a>]</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
         <td><a href="/doc-6003/">Service Placement for Collaborative Edge Applications</a></td>
         <td>journal</td>
         <td>
@@ -102,6 +723,19 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>Jan-2021</td>
         <td>Journal of Statistical Mechanics: Theory and Experiment 2021, no. 1 (2021): 013212. [<a href="https://iopscience.iop.org/article/10.1088/1742-5468/abd312">link</a>]</td>
         <td>collaborative with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7126/">Big data and data mining for wearable-based mobility analysis</a></td>
+        <td>book chapter</td>
+        <td>
+            <ul>
+                <li>Raghu Ganti (IBM US)</li>
+                <li>Mudhakar Srivatsa (IBM US)</li>
+            </ul>
+        </td>
+        <td>Jan-2021</td>
+        <td>Digital Health (pp. 119-136). Academic Press. [<a href="https://www.sciencedirect.com/science/article/pii/B9780128189146000016">link</a>]</td>
+        <td>single institute</td>
     </tr>
     <tr>
         <td><a href="/doc-5945/">Overcoming Noisy and Irrelevant Data in Federated Learning</a></td>
@@ -151,6 +785,40 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>Dec-2020</td>
         <td>Neural Information Processing Systems Online Conference 2020 [<a href="https://proceedings.neurips.cc/paper/2020/file/cdfa4c42f465a5a66871587c69fcfa34-Paper.pdf">link</a>]</td>
         <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7012/">Model Pruning Enables Efficient Federated Learning on Edge Devices</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                 <li>Yuang Jiang (Yale)</li>
+                 <li>Shiqiang Wang (IBM US)</li>
+                 <li>Victor Valls (Yale)</li>
+                 <li>Bong Jun Ko (IBM US)</li>
+                 <li>Wei-Han Lee (IBM US)</li>
+                 <li>Kin K. Leung (Imperial)</li>
+                 <li>Leandros Tassiulas (Yale)</li>
+            </ul>
+        </td>
+        <td>Dec-2020</td>
+        <td>Workshop on Scalability, Privacy, and Security in Federated Learning (SpicyFL) in Conjunction with NeurIPS 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7121/">State Action Separable Reinforcement Learning</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Ziyao Zhang (Imperial)</li>
+                <li>Liang Ma (IBM US)</li>
+                <li>Kin Leung (Imperial)</li>
+                <li>Konstantinos Poularakis (Yale)</li>
+                <li>Mudhakar Srivatsa (IBM US)</li>
+            </ul>
+        </td>
+        <td>Dec-2020</td>
+        <td>2020 IEEE International Conference on Big Data (Big Data) [<a href="https://www.computer.org/csdl/proceedings-article/big-data/2020/09377951/1s650UEUYEw">link</a>]</td>
+        <td>international</td>
     </tr>
     <tr>
         <td><a href="/doc-5924/">Online Algorithms for Multi-shop Ski Rental with Machine Learned Advice</a></td>
@@ -235,6 +903,24 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>Nov-2020</td>
         <td>AAAI 2020 Fall Symposium Series [<a href="https://arxiv.org/abs/2010.14388">link</a>]</td>
         <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7113/">Neuroplex: learning to detect complex events in sensor networks through knowledge injection</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Tianwei Xing (UCLA)</li>
+                <li>Luis Garcia (UCLA)</li>
+                <li>Marc Roig Vilamala (Cardiff)</li>
+                <li>Federico Cerutti</li>
+                <li>Lance Kaplan (ARL)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Mani Srivastava (UCLA)</li>
+            </ul>
+        </td>
+        <td>Nov-2020</td>
+        <td>SenSys '20: Proceedings of the 18th Conference on Embedded Networked Sensor Systems, Nov-2020, Pages 489–502 [<a href="https://dl.acm.org/doi/10.1145/3384419.3431158">link</a>]</td>
+        <td>international with government</td>
     </tr>
     <tr>
         <td><a href="/doc-5919/">Towards human-agent knowledge fusion (HAKF) in support of distributed coalition teams</a></td>
@@ -415,6 +1101,19 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>collaborative</td>
     </tr>
     <tr>
+        <td><a href="/doc-7104/">Beyond Dyads and Triads: A Comparison of Tetrads in Twenty Social Networks</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Cassie McMillan</li>
+                <li>Diane Felmlee (PSU)</li>
+            </ul>
+        </td>
+        <td>Oct-2020</td>
+        <td>Social Psychology Quarterly, Volume: 83 issue: 4, page(s): 383-404 [<a href="https://journals.sagepub.com/doi/pdf/10.1177/0190272520944151">link</a>]</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
         <td><a href="/doc-5912/">Breadth verses depth: the impact of tree structure on cultural influence</a><br /><br /><br />
             Variants: doc-6089</td>
         <td>external conference</td>
@@ -488,6 +1187,89 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>collaborative</td>
     </tr>
     <tr>
+        <td><a href="/doc-7003/">Scalable Non-observational Predicate Learning in ASP</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Mark Law (Imperial)</li>
+                <li>Alessandra Russo (Imperial)</li>
+                <li>Krysia Broda (Imperial)</li>
+                <li>Elisa Bertino (Purdue)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence (IJCAI-21) [<a href="https://www.ijcai.org/proceedings/2021/0267.pdf">link</a>]</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7004/">Efficient Reinforcement Learning with Implicit Action Space</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Ziyao Zhang (Imperial)</li>
+                <li>Liang Ma (IBM US)</li>
+                <li>Kin K. Leung (Imperial)</li>
+                <li>Konstantinos Poularakis (Yale)</li>
+                <li>Mudhakar Srivatsa (Yale)</li>
+                <li>Franck Le (Yale)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7005/">State Decomposition, Distributed and Hierarchical Reinforcement Learning for SDC</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Ziyao Zhang (Imperial)</li>
+                <li>Paul Pritz (Imperial)</li>
+                <li>Kin K. Leung (Imperial)</li>
+                <li>Liang Ma (IBM US)</li>
+                <li>Elisa Bertino (Purdue)</li>
+                <li>Konstantinos Poularakis (Yale)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7013/">Event-driven Backpropagation for Spiking Neural Networks: Enabling Spike-based Learning in State-of-the-art Deep Architectures</a></td>
+        <td>tech report</td>
+        <td>
+            <ul>
+                <li>Chankyu Lee (Purdue)</li>
+                <li>Syed Shakib Sarwar (Purdue)</li>
+                <li>Kaushik Roy (Purdue)</li>
+            </ul>
+        </td>
+        <td>Sep-2021</td>
+        <td>Technical report</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-7015/">SAVR: Selective Audio Visual Relevance for Explainable Coalition Situational Understanding</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Liam Hiley (Cardiff)</li>
+                <li>Harrison Taylor (Cardiff)</li>
+                <li>Jack Furby (Cardiff)</li>
+                <li>Katie Barratt-Powell (Cardiff)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Dave Braines (IBM UK)</li>
+                <li>Richard Tomsett (IBM UK)</li>
+                <li>Supriyo Chakraborty (IBM US)</li>
+                <li>Prudhvi Gurram (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
         <td><a href="/doc-5610/">DeepProbCEP: A Hybrid Neuro-Symbolic Approach for Complex Event Processing in Noisy and Adversarial Settings</a></td>
         <td>external conference</td>
         <td>
@@ -533,6 +1315,462 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
                 <li>Alun Preece (Cardiff)</li>
                 <li>James Harryman (Dstl)</li>
                 <li>Matthew Cox (Dstl)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6091/">A Policy-Constrained Reinforcement Learning Framework</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Anand Mudgerikar (Purdue)</li>
+                <li>Elisa Bertino (Purdue)</li>
+                <li>Dinesh Verma (IBM US)</li>
+                <li>Jorge Lobo</li>
+                <li>Alessandra Russo (Imperial)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6093/">Towards human-agent knowledge fusion (HAKF) in support of distributed coalition teams</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Dave Braines (IBM UK)</li>
+                <li>Federico Cerrutti (Cardiff)</li>
+                <li>Jack Furby (Cardiff)</li>
+                <li>Liam Hiley (Cardiff)</li>
+                <li>Harrison Taylor (Cardiff)</li>
+                <li>Marc Vilamala (Cardiff)</li>
+                <li>Mani Srivastava (UCLA)</li>
+                <li>Lance Kaplan (ARL)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Gavin Pearson (Dstl)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6094/">Service Discovery for Multi Domain Operations based on adoption of Linked Data and Open Web Standards</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Iain Barclay (Cardiff)</li>
+                <li>Chris Simpkin (Cardiff)</li>
+                <li>Graham Bent (Cardiff)</li>
+                <li>Tom la Porta (PSU)</li>
+                <li>Declan Millar (IBM UK)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6095/">Communication-efficient k-Means for Edge-based Machine Learning</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Hanlin Lu (PSU)</li>
+                <li>Ting He (PSU)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Changting Lin</li>
+                <li>Mehrdad Mahdavi (PSU)</li>
+                <li>Vijaykrishnan Narayanan (PSU)</li>
+                <li>Kevin Chan (ARL)</li>
+                <li>Stephen Pasteris (UCL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6096/">Sharing Models or Coresets: A Study based on Membership Inference Attack</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Hanlin Lu (PSU)</li>
+                <li>Changchang Liu (IBM US)</li>
+                <li>Ting He (PSU)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Kevin Chan (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>collaborative with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6097/">Modeling spread of curse words on a social network</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Mudhakar Srivatsa (IBM US)</li>
+                <li>Diane Felmlee (PSU)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Supriyo Chakraborty (IBM US)</li>
+                <li>Ceryl Giammanco (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6098/">Policy-Based Learning Ensembles for Multi Domain Operations</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Ankush Singla (Purdue)</li>
+                <li>Dinesh Verma (IBM US)</li>
+                <li>Elisa Bertino (Purdue)</li>
+                <li>Daniel Cunnington (IBM UK)</li>
+                <li>Yaniv Aspis (Imperial)</li>
+                <li>Mark Law (Imperial)</li>
+                <li>Alessandra Russo (Imperial)</li>
+                <li>Jorge Lobo</li>
+                <li>Seraphin Calo (IBM US)</li>
+                <li>Kevin Chan (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6099/">Multi-task Learning for SDC Control in Multi-domain Coalition Networks</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Qiaofeng Qin (Yale)</li>
+                <li>Konstantinos Poularakis (Yale)</li>
+                <li>Kin Leung (Imperial)</li>
+                <li>Sastry Kompella</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6100/">Source Code Embedding in Semantic Vector Spaces Towards Decentralized Microservice Workflows</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Declan Millar (IBM UK)</li>
+                <li>Graham Bent (IBM UK)</li>
+                <li>Chris Simpkin (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6101/">Preparing Deep Learning Models with Minimal Training Data Using Adversarial Domain Adaptation</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Ankush Singla (Purdue)</li>
+                <li>Elisa Bertino (Purdue)</li>
+                <li>Dinesh Verma (IBM US)</li>
+                <li>Seraphin Calo (IBM US)</li>
+                <li>Kevin Chan (ARL)</li>
+                <li>Alessandra Russo (Imperial)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6102/">On the Performance Tradeoffs of Federated Learning in Resource Constrained Environments</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Victor Valls (Yale)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Kevin Chan (ARL)</li>
+                <li>Kin Leung (Imperial)</li>
+                <li>Leandros Tassiulas (Yale)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6103/">Preparing Deep Learning Models with Minimal Training Data Using Adversarial Domain Adaptation</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Ankush Singla (Purdue)</li>
+                <li>Seraphin Calo (IBM US)</li>
+                <li>Elisa Bertino (Purdue)</li>
+                <li>Dinesh Verma (IBM US)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6104/">Improving Data Analytics for Coalitions using Policy-Based Ensembles</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Ankush Singla (Purdue)</li>
+                <li>Seraphin Calo (IBM US)</li>
+                <li>Elisa Bertino (Purdue)</li>
+                <li>Dinesh Verma (IBM US)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6106/">Semantic Vector Space Mapping for Edge of Network Coalition Operations</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Graham Bent (IBM UK)</li>
+                <li>Declan Millar (IBM UK)</li>
+                <li>Douglas Summers-Stay (ARL)</li>
+                <li>Shalisa Witherspoon (IBM US)</li>
+                <li>Jae-Wook Ahn (IBM US)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6107/">Learning-aided SDC Control with Programmable Switches</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Qiaofeng Qin (Yale)</li>
+                <li>Konstantinos Poularakis (Yale)</li>
+                <li>Leandros Tassiulas (Yale)</li>
+                <li>Kin K. Leung (Imperial)</li>
+                <li>Franck Le (IBM US)</li>
+                <li>Paul Yu (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6108/">Understanding Explanation by ExamplesUnderstanding Explanation by Examples</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Jeya Vikranth Jeyakumar (UCLA)</li>
+                <li>Pengrui Quan (UCLA)</li>
+                <li>Joseph Noor (UCLA)</li>
+                <li>Supriyo Chakraborty (IBM US)</li>
+                <li>Prudhvi Gurram (ARL)</li>
+                <li>Mani Srivastava (UCLA)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>collaborative with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6109/">Federated Semantic Search for Resources Across Coalition Environments</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Shalisa Witherspoon (IBM US)</li>
+                <li>Dean Steuer (IBM US)</li>
+                <li>Graham Bent (IBM UK)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Geeth de Mel (IBM UK)</li>
+                <li>Dave Braines (IBM UK)</li>
+                <li>Nirmit Desai (IBM US)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6111/">Evidential Deep Learning with Recurrent Neural Networks</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Pablo Ortega San Miguel (Imperial)</li>
+                <li>Richard Tomsett (IBM UK)</li>
+                <li>Murat Sensoy</li>
+                <li>Lance Kaplan (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6112/">Tasking Distributed Coalition Sensor and Processing Assets to Perform Distributed Analytics Using a Vector Symbolic Architecture</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Chris Simpkin (Cardiff)</li>
+                <li>Ian Taylor (Cardiff)</li>
+                <li>Harrison Taylor (Cardiff)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Graham Bent (IBM UK)</li>
+                <li>Declan Millar (IBM UK)</li>
+                <li>Dave Conway-Jones (IBM UK)</li>
+                <li>Andreas Martens (IBM UK)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6113/">Hierarchical Bandit Problems</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Lin Yang (UMass)</li>
+                <li>Yu-Zhen Chen (UMass)</li>
+                <li>M Hajiesmili (UMass)</li>
+                <li>Don Towsley (UMass)</li>
+                <li>Mark Herbster (UCL)</li>
+                <li>Stehen Pasteris (UCL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6116/">Analysing Reddit interactions through reply networks</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>James Ashford (Cardiff)</li>
+                <li>Liam Turner (Cardiff)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Diane Felmlee (PSU)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6117/">Federated Semantic Search for Resources Across Coalition Environments</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Dean Steuer (IBM US)</li>
+                <li>Shalisa Witherspoon (IBM US)</li>
+                <li>Graham Bent (IBM UK)</li>
+                <li>Geeth de Mel (IBM UK)</li>
+                <li>Dave Braines (IBM UK)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Nirmit Desai (IBM US)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6118/">Uncertainty-Aware Deep Classifiers using Generative Models</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Murat Sensoy</li>
+                <li>Lance Kaplan (ARL)</li>
+                <li>Federico Cerutti (Cardiff)</li>
+                <li>Maryam Saleki</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6119/">Distributed Coreset Construction for Efficient Machine Learning in Coalitions</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Hanlin Lu (PSU)</li>
+                <li>Stephen Pasteris (UCL)</li>
+                <li>Richard Tomsett (IBM UK)</li>
+                <li>Ting He (PSU)</li>
+                <li>Mark Herbster (UCL)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Kevin Chan (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6120/">neuralRank: Searching and Ranking Deep Neural Network Model Repositories</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Wei-Han Lee</li>
+                <li>Sebastian Stein (Southampton)</li>
+                <li>Jae-Wook Ahn (IBM US)</li>
+                <li>Linsong Chu (IBM US)</li>
+                <li>Nirmit Desai (IBM US)</li>
+                <li>Raghu Ganti (IBM US)</li>
+                <li>Mudhakar Srivatsa (IBM US)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6122/">Efficient Federated Learning in Coalitions</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Yuang Jiang (Yale)</li>
+                <li>Victor Valls (Yale)</li>
+                <li>Richard Tomsett (IBM UK)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Kin Leung (Imperial)</li>
+                <li>Kevin Chan (ARL)</li>
+                <li>Leandros Tassiulas (Yale)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-6123/">Learning-aided Hybrid SDC Control in Mobile Ad Hoc Networks</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Qiaofeng Qin (Yale)</li>
+                <li>Konstantinos Poularakis (Yale)</li>
+                <li>Leandros Tassiulas (Yale)</li>
+                <li>Dave Conway-Jones (IBM UK)</li>
+                <li>Andreas Martens (IBM UK)</li>
+                <li>Paul Yu (ARL)</li>
             </ul>
         </td>
         <td>Sep-2020</td>
@@ -7203,6 +8441,22 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international with government</td>
     </tr>
     <tr>
+        <td><a href="/doc-7132/">The Role of Caching in Future Communication Systems and Networks</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Georgios Paschos</li>
+                <li>George Iosifidis</li>
+                <li>Meixia Tao</li>
+                <li>Don Towsley (UMass)</li>
+                <li>Giuseppe Caire</li>
+            </ul>
+        </td>
+        <td>Jun-2018</td>
+        <td>IEEE Journal on Selected Areas in Communications ( Volume: 36, Issue: 6, June 2018) [<a href="https://ieeexplore.ieee.org/document/8471001">link</a>]</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
         <td><a href="/doc-2679/">A Scalable Vector Symbolic Architecture Approach for Decentralized Workflows</a><br />
             <br />
             <em>Best paper award</em></td>
@@ -10534,6 +11788,5 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>Annual Conference of the Special Interest Group on Data Communication 2016</td>
         <td>collaborative</td>
     </tr>
-
     </tbody>
 </table>

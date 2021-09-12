@@ -32,7 +32,7 @@ All Joint 1st
 
 ## Commercial prosperity
 1. Federated Learning in IBM Cloud Pak 3.5
-2. FastLAS - Mark Law from Imperial has setup his own ILASP business, contracting to DSTL to advance ILASP and FastLAS for military operations
+2. FastLAS - Mark Law from Imperial has setup his own ILASP business, contracting to Dstl to advance ILASP and FastLAS for military operations
 3. Robust CoreSet Construction in IBM Research Early Access on Edge AI SDK
 
 ## Social Good / Community Impact

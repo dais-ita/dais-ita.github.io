@@ -29,9 +29,9 @@ the tables below.
         <td>7</td>
         <td>17</td>
         <td>31</td>
-        <td>19</td>
-        <td>6</td>
-        <td><strong>80</strong></td>
+        <td>20</td>
+        <td>15</td>
+        <td><strong>90</strong></td>
     </tr>
     <tr>
         <td><strong>patent</strong></td>
@@ -49,9 +49,9 @@ the tables below.
         <td>88</td>
         <td>97</td>
         <td>104</td>
-        <td>46</td>
-        <td>1</td>
-        <td><strong>340</strong></td>
+        <td>47</td>
+        <td>25</td>
+        <td><strong>365</strong></td>
     </tr>
     <tr>
         <td><strong>total external</strong></td>
@@ -59,9 +59,9 @@ the tables below.
         <td>95</td>
         <td>114</td>
         <td>136</td>
-        <td>70</td>
-        <td>7</td>
-        <td><strong>426</strong></td>
+        <td>72</td>
+        <td>40</td>
+        <td><strong>461</strong></td>
     </tr>
     </tbody>
 </table>
@@ -86,9 +86,9 @@ the tables below.
         <td>46</td>
         <td>33</td>
         <td>47</td>
-        <td>13</td>
-        <td>0</td>
-        <td><strong>139</strong></td>
+        <td>40</td>
+        <td>3</td>
+        <td><strong>169</strong></td>
     </tr>
     <tr>
         <td><strong>invited talk</strong></td>
@@ -97,8 +97,8 @@ the tables below.
         <td>1</td>
         <td>5</td>
         <td>0</td>
-        <td>0</td>
-        <td><strong>12</strong></td>
+        <td>2</td>
+        <td><strong>14</strong></td>
     </tr>
     <tr>
         <td><strong>book chapter</strong></td>
@@ -107,8 +107,18 @@ the tables below.
         <td>1</td>
         <td>2</td>
         <td>0</td>
+        <td>1</td>
+        <td><strong>6</strong></td>
+    </tr>
+    <tr>
+        <td><strong>book</strong></td>
         <td>0</td>
-        <td><strong>5</strong></td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td><strong>1</strong></td>
     </tr>
     <tr>
         <td><strong>demo</strong></td>
@@ -127,8 +137,8 @@ the tables below.
         <td>7</td>
         <td>3</td>
         <td>9</td>
-        <td>0</td>
-        <td><strong>20</strong></td>
+        <td>8</td>
+        <td><strong>28</strong></td>
     </tr>
     <tr>
         <td><strong>poster</strong></td>
@@ -146,9 +156,9 @@ the tables below.
         <td>62</td>
         <td>56</td>
         <td>76</td>
-        <td>25</td>
-        <td>0</td>
-        <td><strong>220</strong></td>
+        <td>52</td>
+        <td>15</td>
+        <td><strong>262</strong></td>
     </tr>
     </tbody>
 </table>
@@ -173,9 +183,9 @@ the tables below.
         <td>95</td>
         <td>114</td>
         <td>136</td>
-        <td>70</td>
-        <td>7</td>
-        <td><strong>426</strong></td>
+        <td>72</td>
+        <td>40</td>
+        <td><strong>461</strong></td>
     </tr>
     <tr>
         <td><strong>total internal</strong></td>
@@ -183,9 +193,9 @@ the tables below.
         <td>62</td>
         <td>56</td>
         <td>76</td>
-        <td>25</td>
-        <td>0</td>
-        <td><strong>220</strong></td>
+        <td>52</td>
+        <td>15</td>
+        <td><strong>262</strong></td>
     </tr>
     <tr>
         <td><strong>total</strong></td>
@@ -193,9 +203,9 @@ the tables below.
         <td><strong>157</strong></td>
         <td><strong>170</strong></td>
         <td><strong>212</strong></td>
-        <td><strong>95</strong></td>
-        <td><strong>7</strong></td>
-        <td><strong>646</strong></td>
+        <td><strong>124</strong></td>
+        <td><strong>55</strong></td>
+        <td><strong>723</strong></td>
     </tr>
     </tbody>
 </table>
@@ -216,43 +226,43 @@ the tables below.
     </tr>
     <tr>
         <td><strong>single institute</strong></td>
-        <td>1 (25%)</td>
-        <td>10 (11%)</td>
-        <td>9 (8%)</td>
-        <td>30 (22%)</td>
-        <td>22 (31%)</td>
-        <td>0 (0%)</td>
-        <td>72 (17%)</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>104 (14%)</td>
     </tr>
     <tr>
         <td><strong>collaborative</strong></td>
-        <td>3 (75%)</td>
-        <td>85 (89%)</td>
-        <td>105 (92%)</td>
-        <td>106 (78%)</td>
-        <td>48 (69%)</td>
-        <td>7 (100%)</td>
-        <td>354 (83%)</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>619 (86%)</td>
     </tr>
     <tr>
         <td><strong>international</strong></td>
-        <td>1 (25%)</td>
-        <td>62 (65%)</td>
-        <td>56 (49%)</td>
-        <td>73 (54%)</td>
-        <td>28 (40%)</td>
-        <td>3 (43%)</td>
-        <td>223 (52%)</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>434 (60%)</td>
     </tr>
     <tr>
         <td><strong>government</strong></td>
-        <td>1 (25%)</td>
-        <td>28 (29%)</td>
-        <td>38 (33%)</td>
-        <td>43 (32%)</td>
-        <td>16 (23%)</td>
-        <td>2 (29%)</td>
-        <td>128 (30%)</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>273 (38%)</td>
     </tr>
     <tr>
         <td><strong>active DAIS authors</strong></td>
