@@ -4,4 +4,4 @@ permalink: /CEP/
 ---
 
 ## Complex Event Processing (CEP)
-<span style="color:red">tbc</span>
+<span style="color:red">tbc when ready</span>
