@@ -132,6 +132,6 @@ Meeting guests and Non-Army 365 users may find it necessary to join the meeting 
   </tbody>
 </table>
 
-All DAIS ITA Research highlights, publications, demos, and presentations can be viewed asynchronously at the [DAIS ITA Legacy Site](https://dais-legacy.org/)
+All DAIS ITA Research highlights, publications, demos, and presentations can be viewed asynchronously at the [DAIS ITA Legacy Site](https://dais-legacy.org/).
   
 
