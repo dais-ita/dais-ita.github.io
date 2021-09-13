@@ -14,7 +14,6 @@ title: "UK DAIS Awards"
 - Semantic Vectors (ARL, IBM UK, Cardiff)
 
 ## Scientific discovery (aka scientific quality)
-All Joint 1st
 - Adaptive Federated Learning in Resource Constrained Edge Computing Systems
 - Evidential Deep Learning to Quantify Classification Uncertainty
 - A Scalable Vector Symbolic Architecture Approach for Decentralized Workflows (Best paper)
