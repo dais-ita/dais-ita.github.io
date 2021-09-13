@@ -3,7 +3,7 @@ layout: splash
 permalink: /AI_Cluster/
 ---
 
-# Artifical Intelligence (AI) in Contested Multi-Doman Coalition Operations (Version 2)
+# Artifical Intelligence (AI) in Contested Multi-Doman Coalition Operations
 
 [Watch Overview Video](https://ibm.box.com/v/Overview-Cluster1-video)
 
