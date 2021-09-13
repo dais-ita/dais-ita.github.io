@@ -16,8 +16,8 @@ title: "UK DAIS Awards"
 ## Scientific discovery (aka scientific quality)
 - Adaptive Federated Learning in Resource Constrained Edge Computing Systems
 - Evidential Deep Learning to Quantify Classification Uncertainty
-- A Scalable Vector Symbolic Architecture Approach for Decentralized Workflows (Best paper)
-- The evolution of strongly-held group identities through agent-based cooperation (Nature’s open science journal, Scientific Reports, accepted for publication)
+- A Scalable Vector Symbolic Architecture Approach for Decentralized Workflows 
+- The evolution of strongly-held group identities through agent-based cooperation 
 
 ## Blue sky exploration (aka scientific risk)
 - Towards spike-based machine intelligence with neuromorphic computing
