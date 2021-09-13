@@ -17,7 +17,7 @@ The DAIS ITA has delivered world leading inter disciplinary scientific outputs, 
  
 - Integrating ad hoc Coalition Teams and Understanding Dynamic Audiences including (1) techniques to enable assessment of a dynamic information environment, and (2) computational social science for coalition cognitive co-ordination and the evolutionary basis of inter-group conflict.
 
-DAIS ITA was a 5 year (2016-2021) collaborative partnership between the US and UK bringing together researchers from US Army Research Laboratories (ARL) and UK Dstl to work alongside a consortium (led by IBM) of universities and industrial research laboratories in both the US and UK: involving ~70 faculty/research staff and funding a cohort of ~36 PhD students
+DAIS ITA was a 5 year (2016-2021) collaborative partnership between the US and UK bringing together researchers from U.S. Army DEVCOM Army Research Laboratories (ARL) and UK Defense Science and Technology Laboratory (Dstl) to work alongside a consortium (led by IBM) of universities and industrial research laboratories in both the US and UK: involving ~70 faculty/research staff and funding a cohort of ~36 PhD students
 
 ![Overview Image](/dais/images/Overview1.png)
 
