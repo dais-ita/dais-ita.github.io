@@ -24,7 +24,7 @@ A novel network control architecture which enables management of multiple coalit
 *	[Graph Attention Networks for Congestion and Mobility Prediction.](/2a05/)  Techniques to avoid retraining Machine Learning models when network topologies change.
 *	[Leveraging Binarised Neural Networks for SDC Control.](/2a06/)  Using binary representations of model weights to allow ML models on mobile hand-held devices to make lightweight inferences even when disconnected from the domain controller.  The concept is extended for the training of the models using federated learning.
 *	[Resource Sharing in Software Defined Coalitions to Support Coalition Missions.](/1f05/)  A comparison of game-theoretic approaches for optimising resource sharing between coalition partners having different objectives.
-*	[Game Theoretic Resource Allocation in a Coaliltion.](/1a09/)  A short demonstration of the resource allocation technique developed in the previous KO.
+*	[Game Theoretic Resource Allocation in a Coalition.](/1a09/)  A short demonstration of the resource allocation technique developed to realize SDC resource sharing.
 *	[Online Resource Allocation Using Distributed Bidding Approaches.](/1f04/)  A comparison of a variety of auction-style approaches for allocating edge tasks to a central server.
 
 ##	Policy based adaptive network management  
