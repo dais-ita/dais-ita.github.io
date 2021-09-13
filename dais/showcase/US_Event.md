@@ -100,7 +100,7 @@ Meeting guests and Non-Army 365 users may find it necessary to join the meeting 
           Video</a> - 
         <a href="https://dais-legacy.org/Resiliant_Cluster/">
           Cluster Home Page</a><br><br>
-      3. Integrating ad hoc Coalition teams and understanding dynamic audiences<br>
+      3. Integrating ad hoc Coalition teams and Understanding Dynamic Audiences<br>
          <a href="https://ibm.box.com/s/hfdz9bsn6egtvotwzbj2ygcxz2muvtsj">
           Video</a> - 
         <a href="https://dais-legacy.org/Integrating_Cluster/">
