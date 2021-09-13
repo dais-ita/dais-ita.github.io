@@ -105,7 +105,7 @@ Meeting guests and Non-Army 365 users may find it necessary to join the meeting 
         </td>
       <td><br>
       1. Lance Kaplan, ARL<br><br>
-      2. Kevin Chan, ARL<br><br>
+      2. Kevin Chan, ARL and John Melrose, Dstl<br><br>
       3. Gavin Pearson, DSTL<br><br></td>
     </tr>
     <tr>
