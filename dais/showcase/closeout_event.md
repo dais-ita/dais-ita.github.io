@@ -24,7 +24,7 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>14.00/9.00</td>
-      <td><a href="https://ibm.webex.com/meet/helen.bowyer">Welcome and Agenda</a>
+      <td><a href="https://ibm.webex.com/meet/helen.bowyer">Welcome and Agenda</a><br>Ananthram Swami(ARL), Helen Carlton (Dstl)
       </td>
     </tr>
     <tr>
@@ -46,7 +46,8 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>14.35/9.35</td>
-      <td><b>Presentation of Awards</b><br>Dinesh Verma (IBM US), Peter Waggett (IBM UK)
+      <td><b>Presentation of Awards</b><br>Kevin Chan and Lance Kaplan (ARL)<br>
+        Gavin Pearson and John Melrose (Dstl)
       </td>
     </tr>
     <tr>
