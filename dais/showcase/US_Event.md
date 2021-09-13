@@ -88,12 +88,12 @@ Meeting guests and Non-Army 365 users may find it necessary to join the meeting 
       <td>13.00</td>
       <td><u>Overview of Achievement Cluster Groupings</u><br><br>        
       1. AI in Contested Multi-Doman Coalition Operations<br>
-        <a href="">
+        <a href="https://ibm.ent.box.com/file/856470223796?v=Overview-Cluster1-video">
           Video</a> - 
         <a href="https://dais-legacy.org/AI_Cluster/">
           Cluster Home Page</a><br><br>
       2. Resilient Coalition Networking<br>
-         <a href="">
+         <a href="https://ibm.ent.box.com/file/856460463282?v=Overview-Cluster2-US-video">
           Video</a> - 
         <a href="https://dais-legacy.org/Resiliant_Cluster/">
           Cluster Home Page</a><br><br>
