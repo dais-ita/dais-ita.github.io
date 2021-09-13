@@ -5,9 +5,7 @@ permalink: /Resiliant_Cluster/
 
 # Resilient Coalition Networks 
 
-[Watch UK Overview Video](https://ibm.box.com/v/Overview-Cluster2-UK-Video)
-
-[Watch US Overview Video](https://ibm.box.com/v/Overview-Cluster2-US-video)
+[Watch the Overview Video](https://ibm.box.com/v/Overview-Cluster2-US-video)
 
 To support distributed analytics tasks, coalitions require a robust tactical network infrastructure.  With connectivity likely to be Degraded, Intermittent and Latent (DIL), networks need to be agile to changing coalition situations, easy and rapid to configure and resilient to failures.  The network also needs to enable effective and flexible sharing of partners’ information and resources such as local services and data-stores, edge devices such as hand-held radios and sensors.  Policies defining the behaviour of the network need to be able to adapt autonomously as the tactical situation unfolds (partners, missions and adversary action).  Finally, the placement of data and services across the network needs to be optimised both for efficiency and contingency in case of network failure or fragmentation.
 
