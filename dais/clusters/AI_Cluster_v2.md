@@ -34,19 +34,17 @@ Enable human users to rapidly achieve an appropriate degree of trust in AI syste
 
 ## Resilient AI
 AI which is resilient to adversary attacks which seek to deceive the AI systems;
-*	[Model Poisoning Attacks and Defences in Federated Learning](/1e05/) (aka Distributed Coalition AI). Defending against partner attacks.
-*	[Efficient Attacks Using Side-channels.](/1e03/)  Defending against adversary use of AI explanations to develop attacks.
-*	[Gradient Free Attacks on Multiple Modalities.](/1e01/)  Reducing the amount of data required, about a model, to launch a successful deception attack.
+*	[Model Poisoning Attacks and Defences in Federated Learning.](/1e05/) (aka Distributed Coalition AI). Defending against partner attacks.
+*	[Efficient Attacks Using Side-channels.](/1e03/) Defending against adversary use of AI explanations to develop attacks.
+*	[Gradient Free Attacks on Multiple Modalities.](/1e01/) Reducing the amount of data required, about a model, to launch a successful deception attack.
 
-## Distributed Coalition AI.  
+## Distributed Coalition AI
 AI systems able to share data and models with partners whilst operating under a range of privacy constraints and in degraded communications environments;
 *	[Adaptive Federated Learning in Resource Constrained Edge Computing Systems.](/1b06/) Sharing learning, not data, and synchronising models with a minimal number of messages.  (should this link to ??1a08 instead of 1b06??
 *	[Compressed Model Updates for Efficient Federated Learning.](/1b02/) Minimising size of messages for shared learning and model synchronisation. 
 *	[One Shot Federation for Coalition Model Sharing.](/1b01/)  Incremental and intermittent shared learning using a representation of the data distribution (not the data itself). 
 *	[Coresets via Multipronged Data Reduction.](/1b05/)  Significantly reducing comms usage by summarisation of data records.
 *	[Coresets Learning via Distributed Clustering and Local Gradients.](/1b04/)  Multi-dimension data summarisation (reducing comms usage) which also enables machine learning. 
-<br>(keep or remove the below achievement from this section?)
-*	[Distributed Coreset Construction for Efficient Machine Learning in Coalitions.](/1b03/)   Technology readiness level (TRL) 3 demonstration of feasibility. 
 
 ## Integrated Distributed Analytics.  
 Able to integrate analytic services in (near) real-time with partners in degraded communication environments;
