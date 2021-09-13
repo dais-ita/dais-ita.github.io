@@ -40,7 +40,7 @@ AI which is resilient to adversary attacks which seek to deceive the AI systems;
 
 ## Distributed Coalition AI
 AI systems able to share data and models with partners whilst operating under a range of privacy constraints and in degraded communications environments;
-*	[Adaptive Federated Learning in Resource Constrained Edge Computing Systems.](/1b06/) Sharing learning, not data, and synchronising models with a minimal number of messages.  (should this link to ??1a08 instead of 1b06??
+*	[Adaptive Federated Learning in Resource Constrained Edge Computing Systems.](/1b06/) Sharing learning, not data, and synchronising models with a minimal number of messages.
 *	[Compressed Model Updates for Efficient Federated Learning.](/1b02/) Minimising size of messages for shared learning and model synchronisation. 
 *	[One Shot Federation for Coalition Model Sharing.](/1b01/)  Incremental and intermittent shared learning using a representation of the data distribution (not the data itself). 
 *	[Coresets via Multipronged Data Reduction.](/1b05/)  Significantly reducing comms usage by summarisation of data records.
