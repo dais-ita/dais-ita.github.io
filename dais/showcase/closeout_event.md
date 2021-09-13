@@ -29,7 +29,8 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>14.05/9.05</td>
-      <td><b>DAIS ITA Legacy Site Tour</b></td>
+      <td><b>DAIS ITA Legacy Site and Github Repository Tour</b><br>Dave Braines (IBM UK)
+      </td>
     </tr>
     <tr>
       <td>14.15/9.15</td>
