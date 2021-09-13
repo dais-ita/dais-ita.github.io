@@ -14,18 +14,13 @@ AI which can rapidly adapt in dynamic situations and learn as the operation proc
 * [Adversarial Domain Adaptation Learning for Accelerating Artificial Intelligence Based Military Solutions.](/2c01/) Adjusting machine learning classifiers for new environments using limited training samples through generative adversarial networks (GANs)
 * [The FastLAS System for Interpretable Machine Learning.](/1c08/) Logic-based AI that learns rules from examples.
 * [Adaptive Artificial Intelligence Systems for Human-Machine Federated Decision Making.](/1c05/) Adapting neural layers using human provided or learned hard logic at the symbolic layer.
-*	[Cogni-Sketch: Enabling Rapidly Formed Human-Agent Coalition Teams through Extensible Information Exchange.](/1c01/) 
-Software platform enabling human-agent interaction.
+*	[Cogni-Sketch: Enabling Rapidly Formed Human-Agent Coalition Teams through Extensible Information Exchange.](/1c01/) Software platform enabling human-agent interaction.
 *	[Adapting Artificial Intelligence Systems to Recognise New Patterns of Distributed Activity.](/1c16/) 
 Improved human-AI teaming, AI learning (inc. NSL) and DAIS technology integration: running in real-time at edge.
-*	[Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in Distributed Coalition Operations.](/1c02/)
-Adapting to changes between data used for training an AI and reality.
-
+*	[Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in Distributed Coalition Operations.](/1c02/) Adapting to changes between data used for training an AI and reality.
 *	[Reinforcement Learning for Military Network Control.](/1c15/) Efficient learning of complex decision spaces for real-time control of the network.
 *	[State-Action Separable and Embedding for Reinforcement Learning.](/2b03/) Taming complexity to learn optimal network control policies.
-(keep or remove text "New techniques for real-time complex control problems."?)
-*	[Characterizing New Devices on a Network with Zero-Shot Learning.](/1c04/) 
-Characterising previously unseen devices by inspection of their traffic.
+*	[Characterizing New Devices on a Network with Zero-Shot Learning.](/1c04/) Characterising previously unseen devices by inspection of their traffic.
 * [Online Multi-Task Learning with Long-Term Memory](/1c09/) Learning to recognize and adjust network analytics for different operating environments.
 *	[Enhancing Situation Understanding through Negative-Ties Enhanced Pipelines.](/3a13/) Improving AI analysis with user-knowledge.
 
