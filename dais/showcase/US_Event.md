@@ -36,7 +36,9 @@ Meeting guests and Non-Army 365 users may find it necessary to join the meeting 
     </tr>
     <tr>
       <td>9.10</td>
-      <td>Program Overview Video<a href="https://ibm.box.com/s/9rzf3t5g0vr8xl04yqnsz0xvpfa2u621"></a>
+      <td>Program Overview 
+         <a href="https://ibm.box.com/s/9rzf3t5g0vr8xl04yqnsz0xvpfa2u621">
+          Video</a>
       </td>
     </tr>
     <tr>
