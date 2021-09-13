@@ -22,7 +22,7 @@ Improved human-AI teaming, AI learning (inc. NSL) and DAIS technology integratio
 Adapting to changes between data used for training an AI and reality.
 
 *	[Reinforcement Learning for Military Network Control.](/1c15/) Efficient learning of complex decision spaces for real-time control of the network.
-*	[State-Action Separable and Ebedding for Reinforcement Learning.](/2b03/) Taming complexity to learn optimal network control policies.
+*	[State-Action Separable and Embedding for Reinforcement Learning.](/2b03/) Taming complexity to learn optimal network control policies.
 (keep or remove text "New techniques for real-time complex control problems."?)
 *	[Characterizing New Devices on a Network with Zero-Shot Learning.](/1c04/) 
 Characterising previously unseen devices by inspection of their traffic.
