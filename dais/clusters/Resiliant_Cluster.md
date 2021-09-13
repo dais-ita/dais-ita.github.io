@@ -30,13 +30,13 @@ A novel network control architecture which enables management of multiple coalit
 ##	Policy based adaptive network management  
 A policy based management system which can learn partner policies and adapt the behaviour of the infrastructure accordingly.
 
-*	[Policy Generation for Edge Devices in Coalitions](/2c04/)  Allowing autonomous edge devices to learn how to behave after being introduced to a context with which they are not familiar.  The edge devices do this based on the behaviour of other devices in their local area.
+*	[Policy Generation for Edge Devices in Coalitions](/2c04/)  Allowing autonomous edge devices to learn how to operate in new and uncertain environmental contexts. The edge devices learn from other devices using local observations.
 *	[Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in Distributed Coalition Operations](/1c02/)  Allowing systems to perform edge of network policy learning for a range of tactical applications such as the management of networks, logistics and sensors.
 *	[Answer Set Grammar](/1c07/) Allowing systems to autonomously adapt their operating policies to maximise their effectiveness and minimise risk.
 
 ##	Rapid characterization of coalition network infrastructure  
 Adaptive placement of services and data so that they are available at the right place and time;
 
-*	[Topology Inference](/2a03/)  Supporting service placement through inference of the state of a target network across coalition boundaries without requiring direct control plane access.
-*	[Service Placement](/2a04/)  Techniques to support agile placement of analytics services to edge devices as opposed to being hosted centrally.
+*	[Data Plane-based Technique for Network Topology Inference](/2a03/)  Supporting service placement through inference of the state of a target network across coalition boundaries without requiring direct control plane access.
+*	[Dynamic Placement of Distributed Analytics Services](/2a04/)  Techniques to support agile placement of analytics services to edge devices as opposed to being hosted centrally.
 *	[A Security-Constrained Reinforcement Learning Framework for Software Defined Networks](/2c05/)  Development of a RL framework which uses IDS data to optimise network metrics of interest such as throughput while at the same time developing policies to prevent malicious data propagating into the network.
