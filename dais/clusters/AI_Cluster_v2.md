@@ -21,8 +21,8 @@ Improved human-AI teaming, AI learning (inc. NSL) and DAIS technology integratio
 *	[Reinforcement Learning for Military Network Control.](/1c15/) Efficient learning of complex decision spaces for real-time control of the network.
 *	[State-Action Separable and Embedding for Reinforcement Learning.](/2b03/) Taming complexity to enable learning of optimal network control policies.
 *	[Characterizing New Devices on a Network with Zero-Shot Learning.](/1c04/) Characterising previously unseen devices by inspection of their traffic.
-* [Online Multi-Task Learning with Long-Term Memory](/1c09/) Learning to recognize and adjust network analytics for different operating environments.
-*	[Enhancing Situation Understanding through Negative-Ties Enhanced Pipelines.](/3a13/) Improving AI analysis with user-knowledge.
+* [Online Multi-Task Learning with Long-Term Memory.](/1c09/) Learning to recognize and adjust network analytics for different operating environments.
+*	[Enhancing Situation Understanding through Negative-Ties Enhanced Pipelines.](/3a13/) Improving AI analysis with user knowledge.
 
 ## Trusted AI
 Enable human users to rapidly achieve an appropriate degree of trust in AI systems when making high-stakes decisions;
