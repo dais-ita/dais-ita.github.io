@@ -18,6 +18,6 @@ Coalition operations occur in a complex and highly dynamic socio-technical infor
 
 #	Rapidly assess dynamically evolving behaviour of audiences in response to unfolding events, competing narratives and disinformation
 *	[Understanding Social Networks from the Local Behaviours within the Network.](/3a03/)  Enabling analysis when only have visibility of part of network and without processing language. 
-*	[Identifying Patterns and Signatures of Negative Behaviours in Networks. Detecting the Inception of Negative Behaviours and their Network Effects.](/3a05/) Detecting the inception of negative behaviours and their network effects. 
+*	[Identifying Patterns and Signatures of Negative Behaviours in Networks.](/3a05/) Detecting the inception of negative behaviours and their network effects. 
 *	[Predicting Spread of Negative Attitudes and Behaviors in Social Networks.](/3a06/)  Graph-based methods offer improved prediction over traditional statistical approaches. 
 * [Enhancing Situation Understanding through Negative-Ties Enhanced Pipelines.](/3a13/)  Improving AI analysis with user-knowledge. 
