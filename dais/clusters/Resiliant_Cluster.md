@@ -32,7 +32,7 @@ A policy based management system which can learn partner policies and adapt the 
 
 *	[Policy Generation for Edge Devices in Coalitions.](/2c04/)  Allowing autonomous edge devices to learn how to operate in new and uncertain environmental contexts. The edge devices learn from other devices using local observations.
 *	[Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in Distributed Coalition Operations.](/1c02/)  Allowing systems to perform edge of network policy learning for a range of tactical applications such as the management of networks, logistics and sensors.
-*	[Answer Set Grammar.](/1c07/) Allowing systems to autonomously adapt their operating policies to maximise their effectiveness and minimise risk.
+*	[Answer Set Grammar for Efficient Generation of Policies in Coalition Environments.](/1c07/) Allowing systems to autonomously adapt their operating policies to maximise their effectiveness and minimise risk.
 
 ##	Rapid characterization of coalition network infrastructure  
 Adaptive placement of services and data so that they are available at the right place and time;
