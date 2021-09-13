@@ -18,6 +18,8 @@ A novel network control architecture which enables management of multiple coalit
 *	[Control Plane Architecture of Software Defined Coalitions.](/2a08/)  To facilitate controller discovery, network reconfiguration and recovery from fragmentation.
 *	[Software Defined Coalitions Controller Synchronization.](/2a07/)  Development of mechanisms and policies to optimise the rapid creation of slices of shared resource for specific coalition tasks.
 *	[Robust Network and Learning Architectures for Software Defined Coalitions.](/2a01/)  Network robustness through a hybrid SDC/MANET architecture which uses ML to predict fragmentations.
+*	[Reinforcement Learning for Military Network Control.](/1c15/) Efficient learning of complex decision spaces for real-time control of the network.
+*	[State-Action Separable and Embedding for Reinforcement Learning.](/2b03/) Taming complexity to enable learning of optimal network control policies.
 *	[Joint Reinforcement and Transfer Learning for Distributed Service Configuration in Fragmented Software Defined Coalitions.](/2b01/)  Enhancing SDC robustness by using ML techniques to speed up the network’s recovery following reconnection of fragmented domains.
 *	[Graph Attention Networks for Congestion and Mobility Prediction.](/2a05/)  Techniques to avoid retraining Machine Learning models when network topologies change.
 *	[Leveraging Binarised Neural Networks for SDC Control.](/2a06/)  Using binary representations of model weights to allow ML models on mobile hand-held devices to make lightweight inferences even when disconnected from the domain controller.  The concept is extended for the training of the models using federated learning.
