@@ -14,15 +14,15 @@ title: "UK DAIS Awards"
 - Semantic Vectors (ARL, IBM UK, Cardiff)
 
 ## Scientific discovery (aka scientific quality)
-- Adaptive Federated Learning in Resource Constrained Edge Computing Systems
-- Evidential Deep Learning to Quantify Classification Uncertainty
-- A Scalable Vector Symbolic Architecture Approach for Decentralized Workflows 
-- The evolution of strongly-held group identities through agent-based cooperation 
+- Adaptive Federated Learning in Resource Constrained Edge Computing Systems (IBM US, Imperial, PSU, ARL)
+- Evidential Deep Learning to Quantify Classification Uncertainty (ARL)
+- A Scalable Vector Symbolic Architecture Approach for Decentralized Workflows (Cardiff, IBM UK, IBM US)
+- The evolution of strongly-held group identities through agent-based cooperation (Cardiff, Yale)
 
 ## Blue sky exploration (aka scientific risk)
-- Towards spike-based machine intelligence with neuromorphic computing
-- Coalition Situational Understanding Facilitated By Vector Symbolic Architecture
-- DeepProbCEP: A Hybrid Neuro-Symbolic Approach for Complex Event Processing in Noisy and Adversarial Settings
+- Towards spike-based machine intelligence with neuromorphic computing (Purdue)
+- Coalition Situational Understanding Facilitated By Vector Symbolic Architecture (Cardiff, IBM UK. UCLA, BAE)
+- DeepProbCEP: A Hybrid Neuro-Symbolic Approach for Complex Event Processing in Noisy and Adversarial Settings (Cardiff, UCLA)
 
 ## Military impact
 - Embedding Dynamic Knowledge Graphs based on Observational Ontologies in Semantic Vector Spaces (UK transition)
