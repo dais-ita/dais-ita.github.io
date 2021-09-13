@@ -110,7 +110,10 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-7007/">Modeling spread of curse words on a social network</a></td>
+        <td>
+            <a href="/doc-7007/">Modeling spread of curse words on a social network</a><br /><br /><br />
+            Variants: doc-6097
+        </td>
         <td>tech report</td>
         <td>
             <ul>
@@ -260,7 +263,10 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-7100/">A Security-Constrained Reinforcement Learning Framework for Software Defined Networks</a></td>
+        <td>
+            <a href="/doc-7100/">A Security-Constrained Reinforcement Learning Framework for Software Defined Networks</a><br /><br /><br />
+            Variants: doc-6090
+        </td>
         <td>external conference</td>
         <td>
             <ul>
@@ -472,7 +478,8 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-7116/">Optimizing the efficiency of collective decision making in groups</a></td>
+        <td><a href="/doc-7116/">Optimizing the efficiency of collective decision making in groups</a><br /><br /><br />
+            Variants: doc-6075</td>
         <td>external conference</td>
         <td>
             <ul>
@@ -604,7 +611,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-7107/">xxx</a></td>
+        <td><a href="/doc-7107/">Explainable to whom? Why audience matters when building AI systems that can explain themselves</a></td>
         <td>invited talk</td>
         <td>
             <ul>
@@ -663,7 +670,10 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-7115/">Online Learning of Facility Locations</a></td>
+        <td>
+            <a href="/doc-7115/">Online Learning of Facility Locations</a><br /><br /><br />
+            Variants: doc-5664
+        </td>
         <td>external conference</td>
         <td>
             <ul>
@@ -905,25 +915,8 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-7113/">Neuroplex: learning to detect complex events in sensor networks through knowledge injection</a></td>
-        <td>external conference</td>
-        <td>
-            <ul>
-                <li>Tianwei Xing (UCLA)</li>
-                <li>Luis Garcia (UCLA)</li>
-                <li>Marc Roig Vilamala (Cardiff)</li>
-                <li>Federico Cerutti</li>
-                <li>Lance Kaplan (ARL)</li>
-                <li>Alun Preece (Cardiff)</li>
-                <li>Mani Srivastava (UCLA)</li>
-            </ul>
-        </td>
-        <td>Nov-2020</td>
-        <td>SenSys '20: Proceedings of the 18th Conference on Embedded Networked Sensor Systems, Nov-2020, Pages 489–502 [<a href="https://dl.acm.org/doi/10.1145/3384419.3431158">link</a>]</td>
-        <td>international with government</td>
-    </tr>
-    <tr>
-        <td><a href="/doc-5919/">Towards human-agent knowledge fusion (HAKF) in support of distributed coalition teams</a></td>
+        <td><a href="/doc-5919/">Towards human-agent knowledge fusion (HAKF) in support of distributed coalition teams</a><br /><br /><br />
+            Variants: doc-6093</td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1053,7 +1046,10 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-6053/">Communication-efficient k-Means for Edge-based Machine Learning</a></td>
+        <td>
+            <a href="/doc-6053/">Communication-efficient k-Means for Edge-based Machine Learning</a><br /><br /><br />
+            Variants: doc-6095
+        </td>
         <td>external conference</td>
         <td>
             <ul>
@@ -1099,19 +1095,6 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>Oct-2020</td>
         <td>Future Generation Computer Systems (FGCS), Vol 111 [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167739X19317467">link</a>]</td>
         <td>collaborative</td>
-    </tr>
-    <tr>
-        <td><a href="/doc-7104/">Beyond Dyads and Triads: A Comparison of Tetrads in Twenty Social Networks</a></td>
-        <td>journal</td>
-        <td>
-            <ul>
-                <li>Cassie McMillan</li>
-                <li>Diane Felmlee (PSU)</li>
-            </ul>
-        </td>
-        <td>Oct-2020</td>
-        <td>Social Psychology Quarterly, Volume: 83 issue: 4, page(s): 383-404 [<a href="https://journals.sagepub.com/doi/pdf/10.1177/0190272520944151">link</a>]</td>
-        <td>single institute</td>
     </tr>
     <tr>
         <td><a href="/doc-5912/">Breadth verses depth: the impact of tree structure on cultural influence</a><br /><br /><br />
@@ -1338,7 +1321,8 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-6093/">Towards human-agent knowledge fusion (HAKF) in support of distributed coalition teams</a></td>
+        <td><a href="/doc-6093/">Towards human-agent knowledge fusion (HAKF) in support of distributed coalition teams</a><br /><br /><br />
+            Variants: doc-5919</td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -1375,7 +1359,10 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-6095/">Communication-efficient k-Means for Edge-based Machine Learning</a></td>
+        <td>
+            <a href="/doc-6095/">Communication-efficient k-Means for Edge-based Machine Learning</a><br /><br /><br />
+            Variants: doc-6053
+        </td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -1394,7 +1381,8 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-6096/">Sharing Models or Coresets: A Study based on Membership Inference Attack</a></td>
+        <td><a href="/doc-6096/">Sharing Models or Coresets: A Study based on Membership Inference Attack</a><br /><br /><br />
+            Variants: doc-6051</td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -1410,7 +1398,10 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>collaborative with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-6097/">Modeling spread of curse words on a social network</a></td>
+        <td>
+            <a href="/doc-6097/">Modeling spread of curse words on a social network</a><br /><br /><br />
+            Variants: doc-7007
+        </td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -1476,7 +1467,8 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-6101/">Preparing Deep Learning Models with Minimal Training Data Using Adversarial Domain Adaptation</a></td>
+        <td><a href="/doc-6101/">Preparing Deep Learning Models with Minimal Training Data Using Adversarial Domain Adaptation</a><br /><br /><br />
+            Variants: doc-6103</td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -1509,7 +1501,8 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-6103/">Preparing Deep Learning Models with Minimal Training Data Using Adversarial Domain Adaptation</a></td>
+        <td><a href="/doc-6103/">Demo: Preparing Deep Learning Models with Minimal Training Data Using Adversarial Domain Adaptation</a><br /><br /><br />
+            Variants: doc-6101</td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -1674,7 +1667,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-6117/">Federated Semantic Search for Resources Across Coalition Environments</a></td>
+        <td><a href="/doc-6117/">Demo: Federated Semantic Search for Resources Across Coalition Environments</a></td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -1692,7 +1685,8 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-6118/">Uncertainty-Aware Deep Classifiers using Generative Models</a></td>
+        <td><a href="/doc-6118/">Uncertainty-Aware Deep Classifiers using Generative Models</a><br /><br /><br />
+            Variants: doc-4733</td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -1897,7 +1891,8 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-6075/">Optimizing the efficiency of collective decision making in groups</a></td>
+        <td><a href="/doc-6075/">Optimizing the efficiency of collective decision making in groups</a><br /><br /><br />
+            Variants: doc-7116</td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -2042,7 +2037,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     <tr>
         <td><a href="/doc-6089/">Breadth verses depth: the impact of tree structure on cultural influence</a><br /><br /><br />
             Variants: doc-5912</td>
-        <td>external conference</td>
+        <td>internal conference</td>
         <td>
             <ul>
                 <li>Rhodri Morris (Cardiff)</li>
@@ -2056,7 +2051,10 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-6090/">A Security-Constrained Reinforcement Learning Framework for Software Defined Networks</a></td>
+        <td>
+            <a href="/doc-6090/">A Security-Constrained Reinforcement Learning Framework for Software Defined Networks</a><br /><br /><br />
+            Variants: doc-7100
+        </td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -2334,7 +2332,8 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-6051/">Sharing Models or Coresets: A Study based on Membership Inference Attack</a></td>
+        <td><a href="/doc-6051/">Sharing Models or Coresets: A Study based on Membership Inference Attack</a><br /><br /><br />
+            Variants: doc-6096</td>
         <td>external conference</td>
         <td>
             <ul>
@@ -2506,7 +2505,10 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-5664/">Online Learning of Facility Locations</a></td>
+        <td>
+            <a href="/doc-5664/">Online Learning of Facility Locations</a><br /><br /><br />
+            Variants: doc-7115
+        </td>
         <td>tech report</td>
         <td>
             <ul>
@@ -2785,7 +2787,8 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-4733/">Uncertainty-Aware Deep Classifiers using Generative Models</a></td>
+        <td><a href="/doc-4733/">Uncertainty-Aware Deep Classifiers using Generative Models</a><br /><br /><br />
+            Variants: doc-6118</td>
         <td>external conference</td>
         <td>
             <ul>
@@ -2893,7 +2896,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     <tr>
         <td><a href="/doc-4737/">Towards a Coalition Focused Neural-Symbolic Generative Policy Model</a><br /><br /><br />
             Variants: doc-5842</td>
-        <td>poster</td>
+        <td>external conference</td>
         <td>
             <ul>
                 <li>Daniel Cunnington (IBM UK)</li>
@@ -3285,7 +3288,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     </tr>
     <tr>
         <td><a href="/doc-4367/">Learning the Optimal Synchronization Rates in Distributed SDN Control Architectures</a><br /><br /><br />
-            Variants: doc-3579</td>
+            Variants: doc-3579,doc-5801</td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -3842,7 +3845,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     </tr>
     <tr>
         <td><a href="/doc-4446/">ProFact: A Provenance-based Analytics Framework for Access Control Policies</a><br /><br /><br />
-            Variants: doc-3887</td>
+            Variants: doc-3887,doc-5772</td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -7114,7 +7117,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     </tr>
     <tr>
         <td><a href="/doc-2914/">Enabling Collaboration Across the DAIS ITA Research Program</a></td>
-        <td>tech report</td>
+        <td>internal conference</td>
         <td>
             <ul>
                 <li>Graham White (IBM UK)</li>
@@ -7456,7 +7459,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     </tr>
     <tr>
         <td><a href="/doc-5772/">ProFact: A Provenance-based Analytics Framework for Access Control Policies</a><br /><br /><br />
-            Variants: doc-3887</td>
+            Variants: doc-3887,doc-4446</td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -7610,7 +7613,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     </tr>
     <tr>
         <td><a href="/doc-5781/">Online Mechanism Design using Reinforcement Learning for Cloud Resource Allocation</a><br /><br /><br />
-            Variants: doc-2726,doc-5863</td>
+            Variants: doc-2726</td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -7693,7 +7696,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     <tr>
         <td><a href="/doc-5788/">Human-in-the-Loop Situational Understanding using Subjective Bayesian Networks: Experimental Results</a><br /><br /><br />
             Variants: doc-2209</td>
-        <td>book chapter</td>
+        <td>internal conference</td>
         <td>
             <ul>
                 <li>Dave Braines (IBM UK)</li>
@@ -7713,7 +7716,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     <tr>
         <td><a href="/doc-5789/">Implication of the Independence Assumption for Trust Estimation over Dependent Propositions</a><br /><br /><br />
             Variants: doc-2692</td>
-        <td>external conference</td>
+        <td>internal conference</td>
         <td>
             <ul>
                 <li>Lance Kaplan (ARL)</li>
@@ -7727,7 +7730,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     <tr>
         <td><a href="/doc-5790/">Interpretable to Whom? A Role-based Model for Analyzing Interpretable Machine Learning Systems</a><br /><br /><br />
             Variants: doc-2722</td>
-        <td>external conference</td>
+        <td>internal conference</td>
         <td>
             <ul>
                 <li>Richard Tomsett (IBM UK)</li>
@@ -7744,7 +7747,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     <tr>
         <td><a href="/doc-5791/">GenAttack: Practical Black-box Attacks with Gradient-Free Optimization</a><br /><br /><br />
             Variants: doc-4070</td>
-        <td>external conference</td>
+        <td>internal conference</td>
         <td>
             <ul>
                 <li>Moustafa Alzantot (UCLA)</li>
@@ -7810,7 +7813,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     </tr>
     <tr>
         <td><a href="/doc-5801/">Learning the Optimal Synchronization Rates in Distributed SDN Control Architectures</a><br /><br /><br />
-            Variants: doc-3579</td>
+            Variants: doc-3579,doc-4367</td>
         <td>internal conference</td>
         <td>
             <ul>
@@ -7829,7 +7832,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     <tr>
         <td><a href="/doc-5802/">AGENP: An ASGrammar-based GENerative Policy Framework</a><br /><br /><br />
             Variants: doc-2802</td>
-        <td>external conference</td>
+        <td>internal conference</td>
         <td>
             <ul>
                 <li>Seraphin Calo (IBM US)</li>
@@ -9378,7 +9381,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     </tr>
     <tr>
         <td><a href="/doc-1806/">A Framework for Modelling the Effect of Emotion on Uncritical Reasoning</a><br /><br /><br />
-            Variants: doc-1820,doc-1653</td>
+            Variants: doc-1820</td>
         <td>external conference</td>
         <td>
             <ul>
@@ -9474,7 +9477,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     <tr>
         <td><a href="/doc-2740/">Dynamic Patterns of Terrorist Networks: A Comparison of Common Structures in Terrorist Network Ties</a><br /><br /><br />
             Variants: doc-4709</td>
-        <td>external conference</td>
+        <td>internal conference</td>
         <td>
             <ul>
                 <li>Cassie McMillan (PSU)</li>
@@ -9665,8 +9668,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international with government</td>
     </tr>
     <tr>
-        <td><a href="/doc-1653/">Demonstrating a Framework for Modelling the Effect of Emotion on Uncritical Reasoning</a><br /><br /><br />
-            Variants: doc-1806</td>
+        <td><a href="/doc-1653/">Demonstrating a Framework for Modelling the Effect of Emotion on Uncritical Reasoning</a></td>
         <td>demo</td>
         <td>
             <ul>
@@ -10545,8 +10547,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international</td>
     </tr>
     <tr>
-        <td><a href="/doc-5863/">Online Mechanism Design for Resource Allocation using Reinforcement Learning</a><br /><br /><br />
-            Variants: doc-5781</td>
+        <td><a href="/doc-5863/">Online Mechanism Design for Resource Allocation using Reinforcement Learning</a></td>
         <td>internal conference</td>
         <td>
             <ul>
