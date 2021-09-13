@@ -126,7 +126,7 @@ Meeting guests and Non-Army 365 users may find it necessary to join the meeting 
   Conference ID: 196 824 139#<br></td> 
       <td><br>
       1. <br>Lance Kaplan, ARL;<br> Dinesh Verma, Mudhakar Srivastava,<br> and Shiqiang Wang, IBM US;<br> Alessandra Russo, Imperial;<br> Alun Preece, Cardiff;<br> Dave Braines, IBM UK<br><br><br>
-      2. <br>Kevin Chan, ARL; <br>Don Towsley, UMASS; <br>Elisa Bertino, Purdue University; <br>Leandros Tassiulas, Yale University; <br>Kin Leung, Imperial<br><br>
+      2. <br>Kevin Chan, ARL;<br>John Melrose, Dstl;<br>Don Towsley, UMASS; <br>Elisa Bertino, Purdue University; <br>Leandros Tassiulas, Yale University; <br>Kin Leung, Imperial<br><br>
       3. <br>Ananthram Swami and Gosia Turalska, ARL<br>Gavin Pearson, DSTL<br><br></td>
     </tr>
   </tbody>
