@@ -46,16 +46,16 @@ AI systems able to share data and models with partners whilst operating under a 
 *	[Coresets via Multipronged Data Reduction.](/1b05/)  Significantly reducing comms usage by summarisation of data records.
 *	[Coresets Learning via Distributed Clustering and Local Gradients.](/1b04/)  Multi-dimension data summarisation (reducing comms usage) which also enables machine learning. 
 
-## Integrated Distributed Analytics.  
+## Integrated Distributed Analytics
 Able to integrate analytic services in (near) real-time with partners in degraded communication environments;
 *	[Vector Symbolic Architectures and Hyperdimensional Computing for Coalition Operations - An Overview.](/1a11/)  Dynamic decentralised discovery of assets (e.g. information services & data) and chaining them together (i.e. workflow construction and orchestration) to perform a task.
 <!--*	[Integrating Distributed Coalition Sensor & Processing Assets to perform Distributed Analytics using a Vector Symbolic Architecture.](/1a01/)  TRL3 demonstration of feasibility of applying to NATO FMN services.-->
 *	[Dynamic Communications Replanning using a Vector Symbolic Architecture.](/1a02/) Demonstration of maintaining network connectivity via the vector symbolic architecture technology.
 *	[Combining Vector Symbolic Architecture Aspects and Artificial Intelligence Services Using Edge Deployment.](/1a05/) Feasibly integrating centralised control and distributed adaptability of coalition services in tactical environments.
 *	[Semantic Vector Mapping for Coalition Operations.](/1a04/)  Achieving service interoperability without having to use an agreed set of terms to define the service. 
-*	[A Compositional Reinforcement Learning Framework for Workflow Generation.](/1a06/) Learning how to construct coalition workflows with sparse rewards through levering the inherent hierarchical structure present in the application domain.
+*	[A Compositional Reinforcement Learning Framework for Workflow Generation.](/1a06/) Learning how to construct coalition workflows with sparse rewards by leveraging the inherent hierarchical structure present in the application domain.
 
-## Edge AI.  
+## Edge AI
 AI able to operate on the constrained computing environment at the edge of tactical networks;
 *	[Edge AI Software Development Kit for Coalition Analytics.](/1c13/)  Enabling algorithm development, test and management. 
 *	[Model Pruning for Efficient Federated Learning in Coalitions.](/1f03/) Modifying AI models so they can run on edge devices with minimal loss in performance. 
