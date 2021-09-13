@@ -6,7 +6,7 @@ title: "UK DAIS Awards"
 ## Cross National Collaboration
 - Adaptive Federated Learning in Resource Constrained Edge Computing Systems
 - Interpretability of Deep Learning Models: A Survey of Results
-- Network Research Collaboration [Imperial, Yale]
+- Network Research Collaboration (Imperial, Yale)
 
 ## Interdisciplinary Collaboration (straddling the goals of collaboration & advanced science, and speaks to program breadth)
 - Applying AI to criminal and terrorist networks (Penn State, IBM US, IBM UK)
