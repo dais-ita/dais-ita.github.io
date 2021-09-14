@@ -40,6 +40,6 @@ title: "UK DAIS Awards"
 - USMA Cadets (Hosted visits from 2016-2019 for 2-4visiting cadets at Hursley per year)
 
 ## Student-led Achievement (training next-generation researchers)
-- Harrison Taylor/Alun Preece - Example Paper - VADR: Discriminative Multimodal Explanations for Situational Understanding
-- Tiffany Tuor/Kin Leung - Example Paper - Distributed Machine Learning in Coalition Environments: Overview of Techniques
-- James Ashford/Roger Whitaker - Example Paper - Understanding the Signature of Controversial Wikipedia Articles through Motifs in Editor Revision Networks (www conf)
+- Harrison Taylor/Alun Preece <br> - Example Paper - VADR: Discriminative Multimodal Explanations for Situational Understanding
+- Tiffany Tuor/Kin Leung <br> - Example Paper - Distributed Machine Learning in Coalition Environments: Overview of Techniques
+- James Ashford/Roger Whitaker <br> - Example Paper - Understanding the Signature of Controversial Wikipedia Articles through Motifs in Editor Revision Networks (www conf)
