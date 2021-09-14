@@ -37,7 +37,7 @@ title: "UK DAIS Awards"
 ## Social Good / Community Impact
 - PhD Student Cohort (50+ students across lifetime of program)
 - Summer Intern Placement Program (25+ students spent summer in rotation at IBM)
-- USMA Cadets (Hosted visits from 2016-2019 for 2-4visiting cadets at Hursley per year)
+- USMA Cadets (Hosted visits from 2016-2019 for 2-4 visiting cadets at Hursley per year)
 
 ## Student-led Achievement (training next-generation researchers)
 - Harrison Taylor/Alun Preece <br> - Example Paper - VADR: Discriminative Multimodal Explanations for Situational Understanding
