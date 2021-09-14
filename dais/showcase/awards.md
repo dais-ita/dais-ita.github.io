@@ -26,7 +26,7 @@ title: "UK DAIS Awards"
 
 ## Military impact
 - Embedding Dynamic Knowledge Graphs based on Observational Ontologies in Semantic Vector Spaces (UK transition)
-- Machine learning algorithms promise better situational awareness (ARL news article - coreset)
+- Machine learning algorithms promise better situational awareness (read the <a href="https://www.army.mil/article/236647/machine_learning_algorithms_promise_better_situational_awareness" ARL news article</a>
 - Research enhances Soldier decision making (ARL news article - ski shop)
 
 ## Commercial prosperity
