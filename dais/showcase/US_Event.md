@@ -17,7 +17,6 @@ capabilities for future coalition operations:
 
 Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
 
-**[Join the Virtual Meeting](https://dod.teams.microsoft.us/l/meetup-join/19%3adod%3ameeting_0fed6cfc8ae7410c9a276784fcc93562%40thread.v2/0?context=%7b%22Tid%22%3a%22fae6d70f-954b-4811-92b6-0530d6f84c43%22%2c%22Oid%22%3a%22a6694193-6939-40c0-ad1d-9576c75ac310%22%7d)**
 
 Meeting guests and Non-Army 365 users may find it necessary to join the meeting via a browser (Edge or Chrome recommended). Please mute your microphone when joining the meeting. An audio only dial-in option is available:
 +1 571-616-7941   Conference ID: 196 824 139#
@@ -115,18 +114,11 @@ Meeting guests and Non-Army 365 users may find it necessary to join the meeting 
       <td>14.00-16.00</td>
       <td><u>Breakout Sessions for Discussions / Q&A</u><br><br>
         1.	AI in Contested Multi-Doman Coalition Operations<br>
-          To Join the Virtual Breakout Click 
-        <a href="https://dod.teams.microsoft.us/l/meetup-join/19%3adod%3ameeting_c329a1a018a046379a57f3635b035b5e%40thread.v2/0?context=%7b%22Tid%22%3a%22fae6d70f-954b-4811-92b6-0530d6f84c43%22%2c%22Oid%22%3a%22a6694193-6939-40c0-ad1d-9576c75ac310%22%7d">Here</a><br>
-        +1 571-616-7941<br>
-        Conference ID: 731 290 751#<br><br>
+          <br>
          2. Resilient Coalition Networking<br>
-              To Join the Virtual Breakout Click <a href="https://dod.teams.microsoft.us/l/meetup-join/19%3adod%3ameeting_1ba6e09eb30c44dbb0f8e92d31529999%40thread.v2/0?context=%7b%22Tid%22%3a%22fae6d70f-954b-4811-92b6-0530d6f84c43%22%2c%22Oid%22%3a%22a6694193-6939-40c0-ad1d-9576c75ac310%22%7d">Here</a><br>
-    +1 571-616-7941<br>
-     Conference ID: 224 680 092#<br><br>
+             <br>
          3.	Integrating Ad hoc Coalition Teams and Understanding Dynamic Audiences<br>
-              To Join the Virtual Breakout Click <a href="https://dod.teams.microsoft.us/l/meetup-join/19%3adod%3ameeting_0fed6cfc8ae7410c9a276784fcc93562%40thread.v2/0?context=%7b%22Tid%22%3a%22fae6d70f-954b-4811-92b6-0530d6f84c43%22%2c%22Oid%22%3a%22a6694193-6939-40c0-ad1d-9576c75ac310%22%7d">Here</a><br>
-  +1 571-616-7941<br>
-  Conference ID: 196 824 139#<br></td> 
+              <br></td> 
       <td><br>
       1. <br>Lance Kaplan, ARL;<br> Dinesh Verma, Mudhakar Srivastava,<br> and Shiqiang Wang, IBM US;<br> Alessandra Russo, Imperial;<br> Alun Preece, Cardiff;<br> Dave Braines, IBM UK<br><br><br>
       2. <br>Kevin Chan, ARL;<br>John Melrose, Dstl;<br>Don Towsley, UMASS; <br>Elisa Bertino, Purdue University; <br>Leandros Tassiulas, Yale University; <br>Kin Leung, Imperial<br><br>
