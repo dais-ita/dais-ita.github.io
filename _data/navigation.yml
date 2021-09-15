@@ -1,9 +1,9 @@
 # main links
 main:
- # - title: "UK Event"
- #   url: /UK_Event/
- # - title: "US Event"
- #   url: /US_Event/
+  - title: "UK Showcase"
+    url: /UK_Event/
+  - title: "US Showcase"
+    url: /US_Event/
   - title: "Closeout Event"
     url: /Closeout_Event/
   - title: "Science Library"
