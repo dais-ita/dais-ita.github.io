@@ -2,8 +2,10 @@
 main:
  # - title: "UK Event"
  #   url: /UK_Event/
-  - title: "US Event"
-    url: /US_Event/
+ # - title: "US Event"
+ #   url: /US_Event/
+  - title: "Closeout Event"
+    url: /Closeout_Event/
   - title: "Science Library"
     url: /science-library/
   # - title: "About"

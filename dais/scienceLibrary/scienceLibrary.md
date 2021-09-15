@@ -62,7 +62,8 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>collaborative</td>
     </tr>
     <tr>
-        <td><a href="/doc-7001/">Augmenting saliency maps with uncertainty</a></td>
+        <td><a href="/doc-7001/">Augmenting saliency maps with uncertainty</a><br /><br /><br />
+            Variants: doc-7101</td>
         <td>tech report</td>
         <td>
             <ul>
@@ -391,7 +392,8 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>single institute</td>
     </tr>
     <tr>
-        <td><a href="/doc-7101/">Augmenting saliency maps with uncertainty</a></td>
+        <td><a href="/doc-7101/">Augmenting saliency maps with uncertainty</a><br /><br /><br />
+            Variants: doc-7001</td>
         <td>external conference</td>
         <td>
             <ul>
