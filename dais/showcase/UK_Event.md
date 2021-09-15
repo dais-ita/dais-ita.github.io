@@ -17,7 +17,7 @@ To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS
 
 ## Agenda
 
-This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer). If you are asked for a meeting number please use 929 067 346.
+This meeting will be hosted via Webex. If you are asked for a meeting number please use 929 067 346.
 
 <table>
   <tbody>
@@ -27,7 +27,7 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>10.00</td>
-      <td><a href="https://ibm.webex.com/meet/helen.bowyer">Welcome & Program Overview</a>
+      <td>>Welcome & Program Overview
       </td>
     </tr>
     <tr>
@@ -101,12 +101,6 @@ The Showcase only shows a small percentage of the DAIS ITA content. Please feel 
 - [Resilient Coalition Networks](/Resiliant_Cluster)
 - [Integrating Ad hoc Coalition Teams and Understanding Dynamic Audiences](/Integrating_Cluster/)
 
-If you wish to speak to the researchers from any Achievement - please visit the [Helpdesk](https://ibm.webex.com/meet/paulinea) and we will put you in touch (where possible)
+If you wish to speak to the researchers from any Achievement - please visit the Helpdesk and we will put you in touch (where possible)
 
-<!-- Other Attendees - Andreas, Dan C, Graham W, Declan, Mark Law, - Shiqiang (PM) -->
-<!-- (Rooms for Breakouts inc ANdreas, Declan, Pauline.) -->
-<!--https://ibm.webex.com/meet/gwhite-->
-<!--https://ibm.webex.com/meet/conway-->
-<!--https://ibm.webex.com/meet/dancunnington-->
-<!--https://ibm.webex.com/meet/dave_braines-->
 
