@@ -17,10 +17,6 @@ capabilities for future coalition operations:
 
 Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.
 
-
-Meeting guests and Non-Army 365 users may find it necessary to join the meeting via a browser (Edge or Chrome recommended). Please mute your microphone when joining the meeting. An audio only dial-in option is available:
-+1 571-616-7941   Conference ID: 196 824 139#
-
 ## Executive Session
 
 <table>
@@ -73,8 +69,7 @@ Meeting guests and Non-Army 365 users may find it necessary to join the meeting 
 
 <sub>Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.<br>
 
-**[Join the Virtual Meeting](https://dod.teams.microsoft.us/l/meetup-join/19%3adod%3ameeting_0fed6cfc8ae7410c9a276784fcc93562%40thread.v2/0?context=%7b%22Tid%22%3a%22fae6d70f-954b-4811-92b6-0530d6f84c43%22%2c%22Oid%22%3a%22a6694193-6939-40c0-ad1d-9576c75ac310%22%7d)**
-  
+ 
 ## Technical Session: Research Overview
 <table>
    <col style="width: 10%;">
