@@ -10,7 +10,7 @@ title: "DAIS ITA Consortium Closeout Event"
 ## Objective
 There are two aims of this final event
 * To bring the consortium together one last time and conclude what for some has been 15 years of collaboration.
-* To provide an opportunity to present any work that has not already been externally presented elsewhere and is not included in the science library. 
+* To provide an opportunity to present any work that has not already been externally presented elsewhere and is not included in the science library. This was an open call and all submissions have the opportunity to present their work.
 
 ## Agenda
 
