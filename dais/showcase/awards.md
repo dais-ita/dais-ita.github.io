@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /awards/
-title: "UK DAIS Awards"
+title: "US/UK DAIS Awards"
 ---
 The following were selected by DAIS ITA leaders spanning the five year program from key achievements nominated by TALs across eight different categories core to the DAIS values and mission.
 
