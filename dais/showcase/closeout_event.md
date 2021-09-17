@@ -14,8 +14,6 @@ There are two aims of this final event
 
 ## Agenda
 
-This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer). If you are asked for a meeting number please use 929 067 346.
-
 <table>
   <tbody>
     <tr>
@@ -24,12 +22,12 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>14.00/9.00</td>
-      <td><a href="https://ibm.webex.com/meet/helen.bowyer">Welcome and Agenda</a><br>Ananthram Swami(ARL), Helen Carlton (Dstl)
+      <td>Welcome and Agenda<br>Ananthram Swami(ARL), Helen Carlton (Dstl)
       </td>
     </tr>
     <tr>
       <td>14.05/9.05</td>
-      <td><b>DAIS ITA Legacy Site and Github Repository Tour</b><br>Dave Braines (IBM UK)
+      <td><b><a href="https://ibm.box.com/v/legacysitetour">DAIS ITA Legacy Site and Github Repository Tour</a></b><br>Dave Braines (IBM UK)
       </td>
     </tr>
     <tr>
