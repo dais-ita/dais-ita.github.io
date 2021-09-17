@@ -47,7 +47,7 @@ This meeting will be hosted via [Webex](https://ibm.webex.com/meet/helen.bowyer)
     </tr>
     <tr>
       <td>14.35/9.35</td>
-      <td><b>Presentation of Awards</b><br>Kevin Chan and Lance Kaplan (ARL)<br>
+      <td><b><a href="https://dais-legacy.org/awards/">Presentation of Awards</a></b><br>Kevin Chan and Lance Kaplan (ARL)<br>
         Gavin Pearson and John Melrose (Dstl)
       </td>
     </tr>
