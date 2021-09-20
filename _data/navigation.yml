@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "UK Showcase"
-    url: /UK_Event/
-  - title: "US Showcase"
-    url: /US_Event/
-  - title: "Closeout Event"
-    url: /Closeout_Event/
+  - title: "AI Cluster"
+    url: /AI_Cluster/
+  - title: "Resilient Coalition Networks"
+    url: /Resiliant_Cluster/
+  - title: "Integrating Coalition Teams"
+    url: /Integrating_Cluster/
   - title: "Science Library"
     url: /science-library/
   # - title: "About"
