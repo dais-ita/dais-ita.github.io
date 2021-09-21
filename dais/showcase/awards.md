@@ -6,8 +6,8 @@ title: "DAIS ITA Awards"
 The following were selected by DAIS ITA leaders spanning the five year program from key achievements nominated by TALs across eight different categories core to the DAIS values and mission.
 
 ## Cross National Collaboration
-- Adaptive Federated Learning in Resource Constrained Edge Computing Systems
-- Interpretability of Deep Learning Models: A Survey of Results
+- Adaptive Federated Learning in Resource Constrained Edge Computing Systems (IBM US, Imperial, PSU, ARL)
+- Interpretability of Deep Learning Models: A Survey of Results (IBM US, IBM UK, Cardiff, UCLA, UCL, ARL, IBM UK, Ozyegin University, BAE)
 - Network Research Collaboration (Imperial, Yale)
 
 ## Interdisciplinary Collaboration (straddling the goals of collaboration & advanced science, and speaks to program breadth)
