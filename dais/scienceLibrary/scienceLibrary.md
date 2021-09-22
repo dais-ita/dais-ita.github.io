@@ -9094,7 +9094,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     </tr>
     <tr>
         <td><a href="/doc-2205/">Experimentation With Fuzzy Interest Forwarding in Named Data Networking</a></td>
-        <td>tech report</td>
+        <td>external conference</td>
         <td>
             <ul>
                 <li>Spyridon Mastorakis (UCLA)</li>

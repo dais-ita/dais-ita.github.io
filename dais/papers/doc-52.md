@@ -30,12 +30,5 @@ title: "Leveraging SDN for Cyber Situational Awareness in Coalition Tactical Net
         <td>Venue</td>
         <td>NATO STO-MP-IST 148 - Cyber Defence Situation Awareness [<a href="https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-IST-148/MP-IST-148-02.pdf">link</a>]</td>
     </tr>
-        <tr>
-            <td colspan="2">
-                <form method="get" action="https://ibm.box.com/v/doc-52-paper">
-                    <button type="submit">download paper</button>
-                </form>
-            </td>
-        </tr>
     </tbody>
 </table>
