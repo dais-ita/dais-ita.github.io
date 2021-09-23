@@ -36,8 +36,7 @@ discussion during the event were not recorded.
     <tr>
       <td>9.10</td>
       <td>Program Overview 
-         <a href="https://ibm.box.com/v/DAIS-US-Overview">
-          Video</a>
+         <a href="https://ibm.box.com/v/DAIS-US-Overview">Video</a>
       </td>
     </tr>
     <tr>
@@ -47,26 +46,26 @@ discussion during the event were not recorded.
   </tbody>
 </table>
 
-* Control Plane Architecture of Software Defined Coalitions -
+1. Control Plane Architecture of Software Defined Coalitions -
   [Video](https://ibm.box.com/v/Showcase-2a08-video) - [Background information](/2a08/)
   presented by Leandros Tassiulas, Yale University, Don Towsley, University of Massachusetts Amherst & Kevin Chan, ARL
-* Vector Symbolic Architectures - Distributed & Dynamic Workflow Execution -
+1. Vector Symbolic Architectures - Distributed & Dynamic Workflow Execution -
   [Video](https://ibm.box.com/v/Showcase-1a11-US-video) - [Background information](/1a11/)
   presented by Graham Bent, IBM UK & Kevin Chan, ARL
-* Federated Learning in a Resource Constrained Networked Environment -
+1. Federated Learning in a Resource Constrained Networked Environment -
   [Video](https://ibm.box.com/v/Showcase-1a08-video) - [Background information](/1a08/)
   presented by Shiqiang Wang, IBM US & Kevin Chan, ARL
-* Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in
+1. Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in
   Distributed Coalition Operations -
   [Video](https://ibm.box.com/v/Showcase-1c02-video) - [Background information](/1c02/)
   presented by Alessandra Russo, Imperial College London, Dan Cunnington, IBM UK & Lance Kaplan, ARL
-* Adversarial Domain Adaptation Learning for Accelerating Artificial Intelligence Based Military Solutions -
+1. Adversarial Domain Adaptation Learning for Accelerating Artificial Intelligence Based Military Solutions -
   [Video](https://ibm.box.com/v/Showcase-2c01-video) - [Background information](/2c01/)
   presented by Elisa Bertino, Purdue University  & Lance Kaplan, ARL
-* Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data -
+1. Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data -
   [Video](https://ibm.box.com/v/Showcase-1d01-video) - [Background information](/1d01/)
   presented by Alun Preece, Cardiff University, Dave Braines, IBM UK Lance Kaplan, ARL
-* Adapting Artificial Intelligence Systems to Recognize New Patterns of Distributed Activity -
+1. Adapting Artificial Intelligence Systems to Recognize New Patterns of Distributed Activity -
   [Video](https://ibm.box.com/v/Showcase-1c16-video) - [Background information](/1c16/)
   presented by Alun Preece, Cardiff University, Dave Braines, IBM UK & Lance Kaplan, ARL
 
@@ -87,38 +86,49 @@ other discussion during the event will not be recorded.
     </tr>
     <tr>
       <td>13.00</td>
-      <td><u>Overview of Achievement Cluster Groupings</u><br><br>        
-      1. AI in Contested Multi-Domain Coalition Operations<br>
-        <a href="https://ibm.ent.box.com/file/856470223796?v=Overview-Cluster1-video">
-          Video</a> - <a href="https://dais-legacy.org/AI_Cluster/">
-          Cluster Home Page</a><br><br>
-      2. Resilient Coalition Networking<br>
-         <a href="https://ibm.ent.box.com/file/856460463282?v=Overview-Cluster2-US-video">
-          Video</a> - <a href="https://dais-legacy.org/Resilient_Cluster/">
-          Cluster Home Page</a><br><br>
-      3. Integrating ad hoc Coalition teams and Understanding Dynamic Audiences<br>
-         <a href="https://ibm.box.com/s/hfdz9bsn6egtvotwzbj2ygcxz2muvtsj">
-          Video</a> - <a href="https://dais-legacy.org/Integrating_Cluster/">
-          Cluster Home Page</a><br><br>
-        </td>
-      <td><br>
-      1. Lance Kaplan, ARL<br><br>
-      2. Kevin Chan, ARL and John Melrose, Dstl<br><br>
-      3. Gavin Pearson, Dstl<br><br></td>
+      <td><u>Overview of Achievement Cluster Groupings</u>
+        <ol>
+          <li>
+            AI in Contested Multi-Domain Coalition Operations<br>
+            <a href="https://ibm.ent.box.com/file/856470223796?v=Overview-Cluster1-video">Video</a> -
+            <a href="https://dais-legacy.org/AI_Cluster/">Cluster Home Page</a>
+          </li>
+          <li>
+            Resilient Coalition Networking<br>
+            <a href="https://ibm.ent.box.com/file/856460463282?v=Overview-Cluster2-US-video">Video</a> -
+            <a href="https://dais-legacy.org/Resilient_Cluster/">Cluster Home Page</a>
+          </li>
+          <li>
+            Integrating ad hoc Coalition teams and Understanding Dynamic Audiences<br>
+            <a href="https://ibm.box.com/s/hfdz9bsn6egtvotwzbj2ygcxz2muvtsj">Video</a> -
+            <a href="https://dais-legacy.org/Integrating_Cluster/">Cluster Home Page</a>
+          </li>
+        </ol>
+      </td>
+      <td>
+        <ol>
+          <li>Lance Kaplan, ARL</li>
+          <li>Kevin Chan, ARL and John Melrose, Dstl</li>
+          <li>Gavin Pearson, Dstl</li>
+        </ol>
+      </td>
     </tr>
     <tr>
       <td>14.00-16.00</td>
-      <td><u>Breakout Sessions for Discussions / Q&A</u><br><br>
-        1.	AI in Contested Multi-Doman Coalition Operations<br>
-          <br>
-         2. Resilient Coalition Networking<br>
-             <br>
-         3.	Integrating Ad hoc Coalition Teams and Understanding Dynamic Audiences<br>
-              <br></td> 
-      <td><br>
-      1. <br>Lance Kaplan, ARL;<br> Dinesh Verma, Mudhakar Srivastava,<br> and Shiqiang Wang, IBM US;<br> Alessandra Russo, Imperial;<br> Alun Preece, Cardiff;<br> Dave Braines, IBM UK<br><br><br>
-      2. <br>Kevin Chan, ARL;<br>John Melrose, Dstl;<br>Don Towsley, UMASS; <br>Elisa Bertino, Purdue University; <br>Leandros Tassiulas, Yale University; <br>Kin Leung, Imperial<br><br>
-      3. <br>Ananthram Swami and Gosia Turalska, ARL<br>Gavin Pearson, Dstl<br><br></td>
+      <td><u>Breakout Sessions for Discussions / Q&A</u>
+        <ol>
+          <li>AI in Contested Multi-Doman Coalition Operations</li>
+          <li>Resilient Coalition Networking</li>
+          <li>Integrating Ad hoc Coalition Teams and Understanding Dynamic Audiences</li>
+        </ol>
+      </td> 
+      <td>
+        <ol>
+          <li>Lance Kaplan, ARL;<br> Dinesh Verma, Mudhakar Srivastava,<br> and Shiqiang Wang, IBM US;<br> Alessandra Russo, Imperial;<br> Alun Preece, Cardiff;<br> Dave Braines, IBM UK</li>
+          <li>Kevin Chan, ARL;<br>John Melrose, Dstl;<br>Don Towsley, UMASS; <br>Elisa Bertino, Purdue University; <br>Leandros Tassiulas, Yale University; <br>Kin Leung, Imperial</li>
+          <li>Ananthram Swami and Gosia Turalska, ARL<br>Gavin Pearson, Dstl</li>
+        </ol>
+      </td>
     </tr>
   </tbody>
 </table>
