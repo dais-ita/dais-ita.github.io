@@ -47,38 +47,32 @@ discussion during the event were not recorded.
   </tbody>
 </table>
 
-<ol>
-    <li>
-        Control Plane Architecture of Software Defined Coalitions- [Video](https://ibm.box.com/v/Showcase-2a08-video) - [Background information](/2a08/)<br>
-        presented by Leandros Tassiulas, Yale University, Don Towsley, University of Massachusetts Amherst & Kevin Chan, ARL
-    </li>
-    <li>
-        Vector Symbolic Architectures - Distributed & Dynamic Workflow Execution - [Video](https://ibm.box.com/v/Showcase-1a11-US-video) - [Background information](/1a11/)<br> 
-        presented by Graham Bent, IBM UK & Kevin Chan, ARL
-    </li>
-    <li>
-        Federated Learning in a Resource Constrained Networked Environment - [Video](https://ibm.box.com/v/Showcase-1a08-video) - [Background information](/1a08/)<br>
-        presented by Shiqiang Wang, IBM US & Kevin Chan, ARL
-    </li>
-    <li>
-        Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in Distributed Coalition Operations- [Video](https://ibm.box.com/v/Showcase-1c02-video) - [Background information](/1c02/)<br>
-        presented by Alessandra Russo, Imperial College London, Dan Cunnington, IBM UK & Lance Kaplan, ARL
-    <li>
-        Adversarial Domain Adaptation Learning for Accelerating Artificial Intelligence Based Military Solutions- [Video](https://ibm.box.com/v/Showcase-2c01-video) - [Background information](/2c01/)<br>
-        presented by Elisa Bertino, Purdue University  & Lance Kaplan, ARL
-    </li>
-    <li>
-        Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data- [Video](https://ibm.box.com/v/Showcase-1d01-video) - [Background information](/1d01/)<br>
-        presented by Alun Preece, Cardiff University, Dave Braines, IBM UK Lance Kaplan, ARL
-    </li>
-    <li>
-        Adapting Artificial Intelligence Systems to Recognize New Patterns of Distributed Activity- [Video](https://ibm.box.com/v/Showcase-1c16-video) - [Background information](/1c16/)<br>
-        presented by Alun Preece, Cardiff University, Dave Braines, IBM UK & Lance Kaplan, ARL
-    </li>
-</ol>
+* Control Plane Architecture of Software Defined Coalitions -
+  [Video](https://ibm.box.com/v/Showcase-2a08-video) - [Background information](/2a08/)
+  presented by Leandros Tassiulas, Yale University, Don Towsley, University of Massachusetts Amherst & Kevin Chan, ARL
+* Vector Symbolic Architectures - Distributed & Dynamic Workflow Execution -
+  [Video](https://ibm.box.com/v/Showcase-1a11-US-video) - [Background information](/1a11/)
+  presented by Graham Bent, IBM UK & Kevin Chan, ARL
+* Federated Learning in a Resource Constrained Networked Environment -
+  [Video](https://ibm.box.com/v/Showcase-1a08-video) - [Background information](/1a08/)
+  presented by Shiqiang Wang, IBM US & Kevin Chan, ARL
+* Advancing Artificial Intelligence with Neural-Symbolic Learning and its Application to Generative Policies in
+  Distributed Coalition Operations -
+  [Video](https://ibm.box.com/v/Showcase-1c02-video) - [Background information](/1c02/)
+  presented by Alessandra Russo, Imperial College London, Dan Cunnington, IBM UK & Lance Kaplan, ARL
+* Adversarial Domain Adaptation Learning for Accelerating Artificial Intelligence Based Military Solutions -
+  [Video](https://ibm.box.com/v/Showcase-2c01-video) - [Background information](/2c01/)
+  presented by Elisa Bertino, Purdue University  & Lance Kaplan, ARL
+* Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data -
+  [Video](https://ibm.box.com/v/Showcase-1d01-video) - [Background information](/1d01/)
+  presented by Alun Preece, Cardiff University, Dave Braines, IBM UK Lance Kaplan, ARL
+* Adapting Artificial Intelligence Systems to Recognize New Patterns of Distributed Activity -
+  [Video](https://ibm.box.com/v/Showcase-1c16-video) - [Background information](/1c16/)
+  presented by Alun Preece, Cardiff University, Dave Braines, IBM UK & Lance Kaplan, ARL
 
 ## Break: 12.00 – 13.00 U.S. Eastern Time<br>
-<sub>Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and other discussion during the event will not be recorded.<br>
+Presentations and demonstrations will be pre-recorded and can be viewed asynchronously where linked below. Q&A and
+other discussion during the event will not be recorded.
 
 ## Technical Session: Research Overview
 <table>
@@ -88,26 +82,23 @@ discussion during the event were not recorded.
    <tbody>
     <tr>
       <td><b>Time (U.S. Eastern)</b></td>
-      <td><b>Session&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>
+      <td><b>Session</b></td>
       <td><b>Presented by / Subject Matter Expert</b></td>
     </tr>
     <tr>
       <td>13.00</td>
       <td><u>Overview of Achievement Cluster Groupings</u><br><br>        
-      1. AI in Contested Multi-Doman Coalition Operations<br>
+      1. AI in Contested Multi-Domain Coalition Operations<br>
         <a href="https://ibm.ent.box.com/file/856470223796?v=Overview-Cluster1-video">
-          Video</a> - 
-        <a href="https://dais-legacy.org/AI_Cluster/">
+          Video</a> - <a href="https://dais-legacy.org/AI_Cluster/">
           Cluster Home Page</a><br><br>
       2. Resilient Coalition Networking<br>
          <a href="https://ibm.ent.box.com/file/856460463282?v=Overview-Cluster2-US-video">
-          Video</a> - 
-        <a href="https://dais-legacy.org/Resilient_Cluster/">
+          Video</a> - <a href="https://dais-legacy.org/Resilient_Cluster/">
           Cluster Home Page</a><br><br>
       3. Integrating ad hoc Coalition teams and Understanding Dynamic Audiences<br>
          <a href="https://ibm.box.com/s/hfdz9bsn6egtvotwzbj2ygcxz2muvtsj">
-          Video</a> - 
-        <a href="https://dais-legacy.org/Integrating_Cluster/">
+          Video</a> - <a href="https://dais-legacy.org/Integrating_Cluster/">
           Cluster Home Page</a><br><br>
         </td>
       <td><br>
