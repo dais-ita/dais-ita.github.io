@@ -6,19 +6,15 @@ title: "UK DAIS ITA Showcase Event"
 
 # UK DAIS ITA Showcase Event
 # 9th & 10th September 2021
-
-An Overview of the DAIS ITA Programme can be found [here](https://dais-legacy.org/)
+An Overview of the DAIS ITA Programme can be found [here](/)
 
 ## Showcase Objective
-
-To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS ITA scientific achievements addressing coalition analytics, networks and information challenges to 
-- Understand future potential (e.g. impact on capability)
-- Support/sponsor transition activities. 
+To inform UK military stakeholders and relevant Dstl Programme staff of the DAIS ITA scientific achievements
+addressing coalition analytics, networks and information challenges to:
+* Understand future potential (e.g., impact on capability)
+* Support/sponsor transition activities. 
 
 ## Agenda
-
-This meeting will be hosted via Webex. If you are asked for a meeting number please use 929 067 346.
-
 <table>
   <tbody>
     <tr>
@@ -77,30 +73,17 @@ This meeting will be hosted via Webex. If you are asked for a meeting number ple
   </tbody>
 </table>
 
-
 ## Demonstration Sessions
-
-These sessions cover a military issue and highlight how the latest science addresses this issue
-
-There will be some presented content and time for Q&A
-
-- Session A: Adaptable & Trusted AI.
-<!--Alun Preece & Gavin Pearson.  Possibly 1c16 & 1d01 -->
-- Session B: Coalition Analytics.
-<!--Graham Bent & Dave C-J & Shiqiang Wang.  1a08 & 1a11 on.-->
-- Session C: Resilient Coalition Network.
-<!--Kin Leung, Alessandra Russo & John Melrose.  Possibly 2a09 on SDC, & ? on Policy.-->
-- Session D: Analytics of Social Dynamics.
-<!--Roger Whitaker & Dave Braines.   Possibly 3c01, 3a03 & 3b02 (which is 30 mins!)-->
-
+These sessions cover a military issue and highlight how the latest science addresses this issue. There will be some
+presented content and time for Q&A:
+* Session A: Adaptable & Trusted AI.
+* Session B: Coalition Analytics.
+* Session C: Resilient Coalition Network.
+* Session D: Analytics of Social Dynamics.
 
 ## Other Achievement content
-
-The Showcase only shows a small percentage of the DAIS ITA content. Please feel free to explore other Key Achievements in the Clusters
-- [AI in Contested Multi-Doman Coalition Operations](/AI_Cluster)
-- [Resilient Coalition Networks](/Resiliant_Cluster)
-- [Integrating Ad hoc Coalition Teams and Understanding Dynamic Audiences](/Integrating_Cluster/)
-
-If you wish to speak to the researchers from any Achievement - please visit the Helpdesk and we will put you in touch (where possible)
-
-
+The Showcase only shows a small percentage of the DAIS ITA content. Please feel free to explore other Key
+Achievements in the Clusters:
+* [AI in Contested Multi-Domain Coalition Operations](/AI_Cluster)
+* [Resilient Coalition Networks](/Resilient_Cluster)
+* [Integrating Ad hoc Coalition Teams and Understanding Dynamic Audiences](/Integrating_Cluster/)

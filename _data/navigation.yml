@@ -1,18 +1,10 @@
 # main links
 main:
-  - title: "AI Cluster"
-    url: /AI_Cluster/
-  - title: "Resilient Coalition Networks"
-    url: /Resiliant_Cluster/
-  - title: "Integrating Coalition Teams"
-    url: /Integrating_Cluster/
+  - title: "Clusters"
+    url: /clusters/
+  - title: "Events"
+    url: /events/
+  - title: "Awards"
+    url: /awards/
   - title: "Science Library"
     url: /science-library/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
