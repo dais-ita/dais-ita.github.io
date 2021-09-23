@@ -23,7 +23,7 @@ addressing coalition analytics, networks and information challenges to:
     </tr>
     <tr>
       <td>10.00</td>
-      <td>>Welcome & Program Overview
+      <td>Welcome & Program Overview
       </td>
     </tr>
     <tr>
