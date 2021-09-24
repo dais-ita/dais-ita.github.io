@@ -5,6 +5,7 @@ permalink: /Integrating_Cluster/
 
 # Integrating Ad hoc Coalition Teams and Understanding Dynamic Audiences
 
+[Watch the Overview](https://ibm.box.com/s/hfdz9bsn6egtvotwzbj2ygcxz2muvtsj)
 Coalition operations occur in a complex and highly dynamic socio-technical information environment. Thus, there
 is a need to:
 
