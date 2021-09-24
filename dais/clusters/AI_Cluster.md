@@ -76,8 +76,7 @@ and in degraded communications environments;
 ## Integrated Distributed Analytics
 Able to integrate analytic services in (near) real-time with partners in degraded communication environments;
 * [Vector Symbolic Architectures and Hyperdimensional Computing for Coalition Operations - An Overview.](/1a11/)
-  Dynamic decentralised discovery of assets (e.g. information services & data) and chaining them together
-* (i.e. workflow construction and orchestration) to perform a task.
+  Dynamic decentralised discovery of assets (e.g. information services & data) and chaining them together (i.e. workflow construction and orchestration) to perform a task.
 * [Dynamic Communications Replanning using a Vector Symbolic Architecture.](/1a02/)
   Demonstration of maintaining network connectivity via the vector symbolic architecture technology.
 * [Combining Vector Symbolic Architecture Aspects and Artificial Intelligence Services Using Edge Deployment.](/1a05/)
