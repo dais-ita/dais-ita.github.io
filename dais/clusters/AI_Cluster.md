@@ -42,7 +42,7 @@ deep learning);
 ## Trusted AI
 Enable human users to rapidly achieve an appropriate degree of trust in AI systems when making high-stakes decisions;
 * [Achieving Rapid Trust of Adaptable Artificial Intelligence Systems.](/1d04/)
-  High level design and matching to user roles. 
+  Conceptual framework for trust calibration; identifies 6 roles requiring different explanations. 
 * [Uncertainty-Aware Artificial Intelligence and Machine Learning.](/1d05/)
   Revealing when the AI does not know in real-time at the edge. 
 * [Real-Time Explainable Artificial Intelligence: Time-Series and Multi-Modal Data.](/1d01/)
