@@ -16,7 +16,7 @@ is a need to:
 ##	Understand the interplay between groups and individuals and thus the potential of interventions to influence behaviour 
 * [Modelling the Emergent Behaviour of Human Social Groups.](/3c01/)
   Agent-based modelling of way in which group and individual psychological behaviours interact, give rise to
-* effects such as prejudice and devotion to a cause, and the emergence of opposed groups. 
+  effects such as prejudice and devotion to a cause, and the emergence of opposed groups. 
 * [Effect of Organizational Structure on Cultural Influence.](/3b03/)
   Modelling spread of cultural features within an organisation.                                    
 * [Winning hearts and minds: Maximizing influence in social networks.](/3b01/)
