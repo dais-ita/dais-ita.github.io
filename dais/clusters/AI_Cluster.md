@@ -98,6 +98,6 @@ AI able to operate on the constrained computing environment at the edge of tacti
 * [Energy Efficient Vector Symbolic Architecture Using Spiking Neural Networks.](/1f02/)
   Potential of sparse VSA to enable significant energy saving using novel SNN computing hardware. 
 * [Leveraging Binarised Neural Networks for SDC Control.](/2a06/)
-  Using binary representations of model weights to allow Machine Learning models on mobile hand-held devices.
+  Using binary representations of model weights to allow Machine Learning models on mobile hand-held devices to make inferences.
 
 
