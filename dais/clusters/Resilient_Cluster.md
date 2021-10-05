@@ -42,7 +42,7 @@ sharing and rapid adaptation in the case of fragmentation:
 * [Graph Attention Networks for Congestion and Mobility Prediction.](/2a05/)
   Techniques to avoid retraining Machine Learning models when network topologies change.
 * [Leveraging Binarised Neural Networks for SDC Control.](/2a06/)
-  Using binary representations of model weights to allow Machine Learning models on mobile hand-held devices.
+  Using binary representations of model weights to allow Machine Learning models on mobile hand-held devices to make inferences.
 * [Resource Sharing in Software Defined Coalitions to Support Coalition Missions.](/1f05/)
   A comparison of game-theoretic approaches for optimising resource sharing between coalition partners having
   different objectives.
