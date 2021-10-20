@@ -4,6 +4,8 @@ main:
     url: /clusters/
   - title: "Events"
     url: /events/
+  - title: "History"
+    url: /history/
   - title: "Awards"
     url: /awards/
   - title: "Science Library"
