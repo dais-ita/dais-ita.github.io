@@ -50,7 +50,7 @@ the tables below.
         <td>97</td>
         <td>104</td>
         <td>47</td>
-        <td>25</td>
+        <td>26</td>
         <td><strong>365</strong></td>
     </tr>
     <tr>
@@ -60,7 +60,7 @@ the tables below.
         <td>114</td>
         <td>136</td>
         <td>72</td>
-        <td>40</td>
+        <td>41</td>
         <td><strong>461</strong></td>
     </tr>
     </tbody>
@@ -184,7 +184,7 @@ the tables below.
         <td>114</td>
         <td>136</td>
         <td>72</td>
-        <td>40</td>
+        <td>41</td>
         <td><strong>461</strong></td>
     </tr>
     <tr>
@@ -252,7 +252,7 @@ the tables below.
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        <td>434 (60%)</td>
+        <td>435 (60%)</td>
     </tr>
     <tr>
         <td><strong>government</strong></td>
@@ -262,7 +262,7 @@ the tables below.
         <td>-</td>
         <td>-</td>
         <td>-</td>
-        <td>273 (38%)</td>
+        <td>274 (38%)</td>
     </tr>
     <tr>
         <td><strong>active DAIS authors</strong></td>
@@ -276,4 +276,3 @@ the tables below.
     </tr>
     </tbody>
 </table>
-

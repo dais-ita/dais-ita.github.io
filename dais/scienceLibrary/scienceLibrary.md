@@ -23,6 +23,21 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td><strong>collaboration</strong></td>
     </tr>
     <tr>
+        <td><a href="/doc-6145/">Supporting Agile User Fusion Analytics through Human-Agent Knowledge Fusion</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Dave Braines (IBM UK)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Colin Roberts (Cardiff)</li>
+                <li>Erik Blasch</li>
+            </ul>
+        </td>
+        <td>Nov-2021</td>
+        <td>24th International Conference on Information Fusion (FUSION'21) [<a href="https://ieeexplore.ieee.org/xpl/conhome/9626828/proceeding">link</a>]</td>
+        <td>international</td>
+    </tr>
+    <tr>
         <td><a href="/doc-7109/">Jointly-Learned State-Action Embedding for Efficient Reinforcement Learning</a></td>
         <td>external conference</td>
         <td>
