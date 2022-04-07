@@ -20,3 +20,4 @@ A number of publications specifically relating to the Cogni-sketch has been crea
 * Braines, Dave, Jane Stockdill‐Mander, and Eunjin Lee. "[The Science Library: Curation and visualization of a science gateway repository](/doc-6077/)." Concurrency and Computation: Practice and Experience (2020): e6100.
 * Braines, D., Preece, A. Roberts, C., & Blasch, E. (2021). ["Supporting Agile User Fusion Analytics through Human-Agent Knowledge Fusion](/doc-6145/)" in press
 <!-- * Roberts, C., Braines, D., & Preece, A. (2021). “The Wasp in a Bottle: Towards Understanding Human-Agent Knowledge Fusion in Open-Source Intelligence Analysis (OSINT) – Inventing ‘CogniSketch’”, in press. -->
+The Cogni-Sketch tool has also been [released as Open Source](https://github.com/dais-ita/cogni-sketch/)
