@@ -37,7 +37,7 @@ and UK: involving ~70 faculty/research staff and funding a cohort of ~36 PhD stu
 
 ![Overview Image](/dais/images/Overview1.png)
 
-It conducted basic research: its outputs include world-leading scientific publications (426 publications since
+It conducted basic research: its outputs include world-leading scientific publications (461 external publications since
 Sept 2016), open source code, low technology readiness level (TRL) demonstrators and trained researchers (PhDs).
 It has achieved significant gearing by publishing with 142 researchers from 86 non-DAIS organisations. 
 
