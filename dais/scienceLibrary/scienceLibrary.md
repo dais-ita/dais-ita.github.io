@@ -1215,7 +1215,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international</td>
     </tr>
     <tr>
@@ -1232,7 +1232,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international</td>
     </tr>
     <tr>
@@ -1266,7 +1266,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1318,7 +1318,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1334,7 +1334,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international</td>
     </tr>
     <tr>
@@ -1356,7 +1356,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1372,7 +1372,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international</td>
     </tr>
     <tr>
@@ -1394,7 +1394,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1411,7 +1411,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>collaborative with government</td>
     </tr>
     <tr>
@@ -1430,7 +1430,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1451,7 +1451,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1466,7 +1466,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international</td>
     </tr>
     <tr>
@@ -1480,7 +1480,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -1498,7 +1498,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1514,7 +1514,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1530,7 +1530,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -1545,7 +1545,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -1561,7 +1561,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1578,7 +1578,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1595,7 +1595,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>collaborative with government</td>
     </tr>
     <tr>
@@ -1613,7 +1613,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international</td>
     </tr>
     <tr>
@@ -1628,7 +1628,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1647,7 +1647,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -1664,7 +1664,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international</td>
     </tr>
     <tr>
@@ -1680,7 +1680,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international</td>
     </tr>
     <tr>
@@ -1698,7 +1698,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international</td>
     </tr>
     <tr>
@@ -1714,7 +1714,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1732,7 +1732,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1750,7 +1750,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international</td>
     </tr>
     <tr>
@@ -1768,7 +1768,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1785,7 +1785,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1835,7 +1835,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1850,7 +1850,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>single institute</td>
     </tr>
     <tr>
@@ -1867,7 +1867,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1887,7 +1887,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international</td>
     </tr>
     <tr>
@@ -1904,7 +1904,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international</td>
     </tr>
     <tr>
@@ -1921,7 +1921,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1934,7 +1934,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1957,7 +1957,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -1970,7 +1970,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>single institute</td>
     </tr>
     <tr>
@@ -1984,7 +1984,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -1998,7 +1998,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international</td>
     </tr>
     <tr>
@@ -2013,7 +2013,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international</td>
     </tr>
     <tr>
@@ -2032,7 +2032,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -2048,7 +2048,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -2064,7 +2064,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -2082,8 +2082,541 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2020</td>
-        <td>4th Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
         <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5328/">Learning Hierarchical Feature Spaces for Inherently Interpretable Coalition Model Sharing</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Harrison Taylor (Cardiff)</li>
+                <li>Richard Tomsett (IBM UK)</li>
+                <li>Prudhvi Gurram (ARL)</li>
+                <li>Supriyo Chakraborty (IBM US)</li>
+                <li>Yulia Hicks (Cardiff)</li>
+                <li>David Marshall (Cardiff)</li>
+                <li>Alun Preece (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5333/">Towards Capturing Uncertainty in FastLAS Predictions using Subjective Logic</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Daniel Cunnington (IBM UK)</li>
+                <li>Yaniv Aspis (Imperial)</li>
+                <li>Mark Law (Imperial)</li>
+                <li>Alessandra Russo (Imperial)</li>
+                <li>Krysia Broda (Imperial)</li>
+                <li>Jorge Lobo (Imperial)</li>
+                <li>Elisa Bertino (Purdue)</li>
+                <li>Dinesh Verma (IBM US)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5339/">Accelerating Federated Learning on Edge Devices with Adaptive Pruning</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Yuang Jiang (Yale)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Kin K. Leung (Imperial)</li>
+                <li>Kevin Chan (ARL)</li>
+                <li>Leandros Tassiulas (Yale)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5341/">Uncertainty in Explanations</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Prudhvi Gurram (ARL)</li>
+                <li>Supriyo Chakraborty (IBM US)</li>
+                <li>Richard Tomsett (IBM UK)</li>
+                <li>Raghuveer Rao (ARL)</li>
+                <li>Lance Kaplan (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5342/">Paying Attention to Attention for Explanation</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Supriyo Chakraborty (IBM US)</li>
+                <li>Franck Le (IBM US)</li>
+                <li>Prudhvi Gurram (ARL)</li>
+                <li>Richard Tomsett (IBM UK)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5343/">Optimizing the efficiency of collective decision making in groups</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Malgorzata Turalska (ARL)</li>
+                <li>Rosie Lickorish (IBM UK)</li>
+                <li>Geeth De Mel (IBM UK)</li>
+                <li>Liam Turner (Cardiff)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5349/">Influence Maximisation Game</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Sukankana Chakraborty (Southampton)</li>
+                <li>Sebastian Stein (Southampton)</li>
+                <li>Markus Brede (Southampton)</li>
+                <li>Matthew Jones (Southampton)</li>
+                <li>Lewis Hill (Southampton)</li>
+                <li>Ananthram Swami (ARL)</li>
+                <li>Rosie Lickorish (IBM UK)</li>
+                <li>Geeth De Mel (IBM UK)</li>
+                <li>Emma Jayes (Dstl)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5350/">Flexible State Representation for Multi-Agent Reinforcement Learning in SDC Fragmentation</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Tesfay Gebrekidan (Southampton)</li>
+                <li>Sebastian Stein (Southampton)</li>
+                <li>Tim Norman (Southampton)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5352/">Decentralised Auctions for Analytic Tasks in Edge Clouds</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Fan Bi (Southampton)</li>
+                <li>Sebastian Stein (Southampton)</li>
+                <li>Enrico Gerding (Southampton)</li>
+                <li>Nick Jennings (Imperial)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5354/">Auction-based Mechanisms for Resource-elastic Tasks in Edge Cloud Computing</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Mark Towers (Southampton)</li>
+                <li>Sebastian Stein (Southampton)</li>
+                <li>Fidan Mehmeti (PSU)</li>
+                <li>Tom La Porta (PSU)</li>
+                <li>Geeth De Mel (IBM UK)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5355/">Competitive influence maximisation using nonlinear budget constraints</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Sukankana Chakraborty (Southampton)</li>
+                <li>Sebastian Stein (Southampton)</li>
+                <li>Markus Brede (Southampton)</li>
+                <li>Ananthram Swami (ARL)</li>
+                <li>Geeth de Mel (IBM UK)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5356/">Competitive influence maximisation on signed networks</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Sukankana Chakraborty (Southampton)</li>
+                <li>Sebastian Stein (Southampton)</li>
+                <li>Markus Brede (Southampton)</li>
+                <li>Ananthram Swami (ARL)</li>
+                <li>Geeth de Mel (IBM UK)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5357/">Using Reinforcement Learning to Learn Novel Strategies for Collective Decision Making</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Hugo McNally (Southampton)</li>
+                <li>Sebastian Stein (Southampton)</li>
+                <li>Malgorzata Turalska (ARL)</li>
+                <li>Rosie Lickorish (IBM UK)</li>
+                <li>Geeth De Mel (IBM UK)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5370/">NSPL: Neural-Symbolic Policy Learner</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Daniel Cunnington (IBM UK)</li>
+                <li>Mark Law (Imperial)</li>
+                <li>Alessandra Russo (Imperial)</li>
+                <li>Elisa Bertino (Purdue)</li>
+                <li>Jorge Lobo (Imperial)</li>
+                <li>Lance Kaplan (ARL)</li>
+                <li>Murat Sensoy</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5371/">FastLAS2: Extending Inductive Logic Programming for Scalable Symbolic Machine Learning in Uncertain Domains</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <liMark Law (Imperial)</li>
+                <li>Alessandra Russo (Imperial)</li>
+                <li>Krysia Broda (Imperial)</li>
+                <li>Elisa Bertino (Purdue)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5372/">Stable and Supported Semantics in Continuous Vector Spaces</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Yaniv Aspis (Imperial)</li>
+                <li>Krysia Broda (Imperial)</li>
+                <li>Alessandra Russo (Imperial)</li>
+                <li>Jorge Lobo (Imperial)</li>
+                <li>Elisa Bertino (Purdue)</li>
+                <li>Supriyo Chakraborty (IBM US)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5387/">Compressing a Dataset via Linear Conditional Probability Densities on Voronoi Regions</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Stephen Pasteris (UCL)</li>
+                <li>Mark Herbster (UCL)</li>
+                <li>Richard Tomsett (IBM UK)</li>
+                <li>Dinesh Verma (IBM US)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5389/">A Fast Distributed K-Means Algorithm for the Approximate Aggregation of a Distributed Dataset</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Stephen Pasteris (UCL)</li>
+                <li>Ting He (PSU)</li>
+                <li>Mark Herbster (UCL)</li>
+                <li>Richard Tomsett (IBM UK)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5391/">A Fast Distributed Implementation of Machine Learning Algorithms that work via Online-to-Batch Conversion</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Stephen Pasteris (UCL)</li>
+                <li>Mark Herbster (UCL)</li>
+                <li>Richard Tomsett (IBM UK)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5397/">Online Resource Allocation Using Distributed Bidding Approaches</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Caroline Rublein (PSU)</li>
+                <li>Tom La Porta (PSU)</li>
+                <li>Fidan Mehmeti (PSU)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5398/">Solving Constrained Optimization Problems by LSTM Networks</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Zheyu (Joe) Chen (Imperial)</li>
+                <li>Kin Leung (Imperial)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Leandros Tassiulas (Yale)</li>
+                <li>Kevin Chan (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5412/">Robust Complex Event Processing with Sparse Data Using a Hybrid Neuro-Symbolic Approach</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Marc Roig Vilamala (Cardiff)</li>
+                <li>Harrison Taylor (Cardiff)</li>
+                <li>Tianwei Xing (UCLA)</li>
+                <li>Luis Garcia (UCLA)</li>
+                <li>Mani Srivastava (UCLA)</li>
+                <li>Lance Kaplan (ARL)</li>
+                <li>Alun Preece  (Cardiff)</li>
+                <li>Dave Braines (IBM UK)</li>
+                <li>Federico Cerutti</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5414/">The Online Learning of Facility Locations with Application to Service Placement</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Stephen Pasteris (UCL)</li>
+                <li>Ting He (PSU)</li>
+                <li>Fabio Vitale</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Mark Herbster (UCL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5424/">Towards the Estimation of Certainty in Symbolic Predictions</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Mark Law (Imperial)</li>
+                <li>Alessandra Russo (Imperial)</li>
+                <li>Krysia Broda (Imperial)</li>
+                <li>Elisa Bertino (Purdue)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5431/">DeepSQA: Understanding Sensor Data via a Deep Learning Approach to Sensory Question Answering</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Tianwei Xing (UCLA)</li>
+                <li>Marc Roig Vilamala (Cardiff)</li>
+                <li>Luis Garcia (UCLA)</li>
+                <li>Federico Cerutti</li>
+                <li>Lance Kaplan (ARL)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Mani Srivastava (UCLA)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5439/">Efficient Continual Learning Using Bayesian Approaches</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Tiffany Tuor (Imperial)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Kin Leung (Imperial)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5444/">Identifying Social Network Patterns with Exponential Random Graph Models</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Diane Felmlee (PSU)</li>
+                <li>Cassie McMillan (PSU)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Mudhakar Srivasta (IBM US)</li>
+                <li>Cheryl Giammanco (ARL)</li>
+                <li>Emma Jayes (Dstl)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5445/">Learning via a Swarm of Agents with Memory</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Stephen Pasteris (UCL)</li>
+                <li>Mark Herbster (UCL)</li>
+                <li>Richard Tomsett (IBM UK)</li>
+                <li>Don Towsley (UMass)</li>
+                <li>Yu-Zhen Chen (UMass)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5446/">Online Multitask Learning with Long-Term Memory</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Mark Herbster (UCL)</li>
+                <li>Stephen Pasteris (UCL)</li>
+                <li>Lisa Tse (UCL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5455/">Efficient Orchestration of Node-RED IoT Workflows Using a Vector Symbolic Architecture</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Chris Simpkin (Cardiff)</li>
+                <li>Ian Taylor (Cardiff)</li>
+                <li>Daniel Harborne (Cardiff)</li>
+                <li>Graham Bent (IBM UK)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Raghu Ganti (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5461/">The coevolution of social networks and vicarious dissonance</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Walter Colombo (Cardiff)</li>
+                <li>Liam Turner (Cardiff)</li>
+                <li>Yarrow Dunham (Yale)</li>
+                <li>Darren K. Doyle (Dstl)</li>
+                <li>Eilish Roy (Dstl)</li>
+                <li>Cheryl Giammanco (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5465/">The Centrality of Edges based on their role in Induced Triads</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Lauren Hudson (Cardiff)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Stuart Allen (Cardiff)</li>
+                <li>Liam Turner (Cardiff)</li>
+                <li>Diane Felmlee (PSU)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-5468/">Identity Fusion evolves in response to Vicarious Hypocrisy to support Indirect Reciprocity</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Walter Colombo (Cardiff)</li>
+                <li>Yarrow Dunham (Yale)</li>
+            </ul>
+        </td>
+        <td>Sep-2020</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2020</td>
+        <td>international</td>
     </tr>
     <tr>
         <td><a href="/doc-5586/">Biologically Plausible Class Discrimination Based Recurrent Neural Network Training for Motor Pattern Generation</a></td>
@@ -3097,7 +3630,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     </tr>
     <tr>
         <td><a href="/doc-4743/">Using Graphical Models as Explanations in Deep Neural Networks</a></td>
-        <td>internal conference</td>
+        <td>external conference</td>
         <td>
             <ul>
                 <li>Franck Le (IBM US)</li>
@@ -4454,6 +4987,268 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>Sep-2019</td>
         <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
         <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3912/">Representing and Learning Grammars in ASP with Domain-specific Scoring Functions</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Mark Law (Imperial)</li>
+                <li>Alessandra Russo (Imperial)</li>
+                <li>Elisa Bertino (Purdue)</li>
+                <li>Seraphin Calo (IBM US)</li>
+                <li>Dinesh Verma (IBM US)</li>
+                <li>Jorge Lobo</li>
+                <li>Krysia Broda (Imperial)</li>
+                <li>Greg Cirincione (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3913/">A Comparison Between Statistical and Symbolic Learning Approaches for Generative Policy Models</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Graham White (IBM UK)</li>
+                <li>Daniel Cunnington (IBM UK)</li>
+                <li>Mark Law (Imperial)</li>
+                <li>Alessandra Russo (Imperial)</li>
+                <li>Elisa Bertino (Purdue)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3918/">Examining the role of overlap and structural features in network motif analysis</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Malgorzata Turalska (ARL)</li>
+                <li>Ananthram Swami (ARL)</li>
+                <li>Liam Turner (Cardiff)</li>
+                <li>Nyala Noe (Cardiff)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3921/">The coevolution of social networks and cognitive dissonance</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Walter Colombo (Cardiff)</li>
+                <li>Liam Turner (Cardiff)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Yarrow Dunham (Yale)</li>
+                <li>Cheryl Giammanco (ARL)</li>
+                <li>Darren Doyle (Dstl)</li>
+                <li>Eilish Roy (Dstl)</li>
+                <li>Rachel Bellamy (IBM US)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3924/">Dyads, triads, and tetrads: Uncovering the local structure of social groups through network motifs</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Diane Felmlee (PSU)</li>
+                <li>Cassie McMillan (PSU)</li>
+                <li>Don Towsley (UMass)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3925/">Understanding the evolution of identity fusion and stereotyping</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Wafi Bedewi (Cardiff)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Walter Colombo (Cardiff)</li>
+                <li>Stuart Allen (Cardiff)</li>
+                <li>Yarrow Dunham (Yale)</li>
+                <li>Cheryl Giammanco (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3927/">Understanding networks through induced sub-structures</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Lauren Hudson (Cardiff)</li>
+                <li>Liam Turner (Cardiff)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Diane Felmlee (PSU)</li>
+                <li>Don Towsley (UMass)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3937/">Machine Learning-based Networking for Resilient Coalitions</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Joao Reis (UCL)</li>
+                <li>Truong Khoa Phan (UCL)</li>
+                <li>David Griffin (UCL)</li>
+                <li>Vinod K. Mishra (ARL)</li>
+                <li>Franck Le (IBM US)</li>
+                <li>Miguel Rio (UCL)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3946/">More Is Not Always Better: An Analytical Study of Controller Synchronizations in Distributed SDN</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Ziyao Zhang (Imperial)</li>
+                <li>Liang Ma (IBM US)</li>
+                <li>Kin Leung (Imperial)</li>
+                <li>Franck Le (IBM US)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3955/">Online Service Placement and Request Routing in Coalition Environments</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Victor Valls (Yale)</li>
+                <li>Geeth de Mel (IBM UK)</li>
+                <li>Heesung Kwon (ARL)</li>
+                <li>Sebastian Stein (Southampton)</li>
+                <li>Leandros Tassiulas (Yale)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3961/">OpenSDC: A Novel, More General-Compute Datapath for Software Defined Coalitions</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Qiao Xiang (Yale)</li>
+                <li>Franck Le (IBM US)</li>
+                <li>Yeon-sup Lim (IBM US)</li>
+                <li>Vinod K. Mishra (ARL)</li>
+                <li>Christopher Williams (Dstl)</li>
+                <li>Richard Yang (Yale)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3962/">Toward Coalition Resource Discovery and Representation for SDC using Generic Mathematical Programming Constraints as Basic Abstraction</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Qiao Xiang (Yale)</li>
+                <li>Franck Le (IBM US)</li>
+                <li>Yeon-sup Lim (IBM US)</li>
+                <li>Richard Yang (Yale)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3963/">Optimizing in the Dark: Learning Optimal Coalition Resource Availability through a Simple Feasibility Interface</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Qiao Xiang (Yale)</li>
+                <li>Franck Le (IBM US)</li>
+                <li>Richard Yang (Yale)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3964/">SFP: Toward Interdomain Coalition Programming</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Qiao Xiang (Yale)</li>
+                <li>Franck Le (IBM US)</li>
+                <li>Yeon-sup Lim (IBM US)</li>
+                <li>Vinod K. Mishra (ARL)</li>
+                <li>Paul Yu (ARL)</li>
+                <li>Jeremy Tucker (Dstl)</li>
+                <li>Richard Yang (Yale)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-3967/">Model Pruning Enables Efficient Federated Learning on Edge Devices</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Yuang Jiang (Yale)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Bong Jun Ko (IBM US)</li>
+                <li>Wei-Han Lee (IBM US)</li>
+                <li>Leandros Tassiulas (Yale)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-4555/">Constructing Distributed Time-Critical Applications Using a Vector Symbolic Architecture</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Chris Simpkin (Cardiff)</li>
+                <li>Ian Taylor (Cardiff)</li>
+                <li>Graham Bent (IBM UK)</li>
+                <li>Geeth de Mel (IBM UK)</li>
+                <li>Raghu K Ganti (IBM US)</li>
+            </ul>
+        </td>
+        <td>Sep-2019</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2019</td>
+        <td>international</td>
     </tr>
     <tr>
         <td><a href="/doc-3595/">A General Approach to Reasoning with Probabilities</a><br /><br /><br />
@@ -7048,7 +7843,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7065,7 +7860,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -7079,7 +7874,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -7113,7 +7908,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7129,7 +7924,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7145,7 +7940,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7216,7 +8011,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7238,7 +8033,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -7257,7 +8052,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -7272,7 +8067,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>collaborative with government</td>
     </tr>
     <tr>
@@ -7287,7 +8082,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -7307,7 +8102,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -7323,7 +8118,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -7343,7 +8138,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7362,7 +8157,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7377,7 +8172,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7401,7 +8196,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7423,7 +8218,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7439,7 +8234,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -7471,7 +8266,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7490,7 +8285,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7505,7 +8300,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -7523,7 +8318,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7540,7 +8335,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>collaborative with government</td>
     </tr>
     <tr>
@@ -7557,7 +8352,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7573,7 +8368,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -7589,7 +8384,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -7608,7 +8403,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>collaborative with government</td>
     </tr>
     <tr>
@@ -7625,7 +8420,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7644,7 +8439,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -7660,7 +8455,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7676,7 +8471,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -7693,7 +8488,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7707,7 +8502,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>collaborative with government</td>
     </tr>
     <tr>
@@ -7727,7 +8522,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7741,7 +8536,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>collaborative with government</td>
     </tr>
     <tr>
@@ -7758,7 +8553,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -7774,7 +8569,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -7790,7 +8585,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7808,7 +8603,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -7825,7 +8620,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -7843,7 +8638,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7861,7 +8656,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -7877,7 +8672,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7894,7 +8689,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>collaborative with government</td>
     </tr>
     <tr>
@@ -7912,7 +8707,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7928,7 +8723,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7945,7 +8740,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -7962,7 +8757,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>collaborative with government</td>
     </tr>
     <tr>
@@ -7978,7 +8773,106 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2018</td>
-        <td>2nd Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-2416/">Knowledge Sharing Between Heterogeneous Agents in a Coalition Setting</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Supriyo Chakraborty (IBM-US)</li>
+                <li>Prudhvi Gurram (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>collaborative with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-2420/">Routing Performance in Distributed SDN under Synchronization Constraint</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Daniel Harborne (Cardiff)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Chris Simpkin (Cardiff)</li>
+                <li>Ian Taylor (Cardiff)</li>
+                <li>Graham Bent (IBM UK)</li>
+                <li>Richard Tomsett (IBM UK)</li>
+                <li>Moustafa Alzantot (UCLA)</li>
+                <li>Chris Willis (BAE)</li>
+            </ul>
+        </td>
+        <td>Sep-2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-2444/">Social impact from in-group similarity: an extension of Axelrod’s model on cultural polarisation</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Rhodri Morris (Cardiff)</li>
+                <li>Liam Turner (Cardiff)</li>
+                <li>Cheryl Giammanco (ARL)</li>
+                <li>David Rand (Yale)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Sep-2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-2449/">Node-motifs: profiling nodes through motif-based analysis in social networks</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Liam Turner (Cardiff)</li>
+                <li>Lauren Hudson (Cardiff)</li>
+                <li>Jian Li (UMass)</li>
+                <li>Don Towsley (UMass)</li>
+                <li>Diane Felmlee (PSU)</li>
+            </ul>
+        </td>
+        <td>Sep-2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-2489/">The coevolution of identity fusion, social networks and the devoted actor</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Walter Colombo (Cardiff)</li>
+                <li>Yarrow Dunham (Yale)</li>
+                <li>Grace-Rose Williams (Dstl)</li>
+                <li>Darren Doyle (Dstl)</li>
+                <li>Cheryl Giammanco (ARL)</li>
+            </ul>
+        </td>
+        <td>Sep-2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-2523/">Neural Routing</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Joao Reis (UCL)</li>
+                <li>Miguel Rocha</li>
+                <li>Khoa Phan (UCL)</li>
+                <li>David Griffin (UCL)</li>
+                <li>Franck Le (IBM US)</li>
+                <li>Miguel Rio (UCL)</li>
+            </ul>
+        </td>
+        <td>Sep-2018</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2018</td>
         <td>international</td>
     </tr>
     <tr>
@@ -9494,7 +10388,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
     <tr>
         <td><a href="/doc-2740/">Dynamic Patterns of Terrorist Networks: A Comparison of Common Structures in Terrorist Network Ties</a><br /><br /><br />
             Variants: doc-4709</td>
-        <td>internal conference</td>
+        <td>external conference</td>
         <td>
             <ul>
                 <li>Cassie McMillan (PSU)</li>
@@ -9649,7 +10543,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -9665,7 +10559,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -9681,7 +10575,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -9695,7 +10589,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -9711,7 +10605,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -9733,7 +10627,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -9751,7 +10645,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -9770,7 +10664,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -9788,7 +10682,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -9804,7 +10698,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -9823,7 +10717,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -9841,7 +10735,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -9857,7 +10751,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -9874,7 +10768,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>collaborative with government</td>
     </tr>
     <tr>
@@ -9890,7 +10784,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -9909,7 +10803,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -9926,7 +10820,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -9944,7 +10838,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -9961,7 +10855,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -9979,7 +10873,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -9995,7 +10889,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>single institute</td>
     </tr>
     <tr>
@@ -10012,7 +10906,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -10028,7 +10922,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -10047,7 +10941,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -10063,7 +10957,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -10079,7 +10973,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -10096,7 +10990,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -10118,7 +11012,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -10144,7 +11038,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -10159,7 +11053,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -10175,7 +11069,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>single institute</td>
     </tr>
     <tr>
@@ -10194,7 +11088,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -10212,7 +11106,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -10225,7 +11119,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -10240,7 +11134,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -10256,7 +11150,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -10273,7 +11167,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>collaborative with government</td>
     </tr>
     <tr>
@@ -10288,7 +11182,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -10303,7 +11197,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -10317,7 +11211,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -10336,7 +11230,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -10354,7 +11248,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -10368,7 +11262,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>collaborative</td>
     </tr>
     <tr>
@@ -10385,7 +11279,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -10430,7 +11324,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -10447,7 +11341,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -10463,7 +11357,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -10480,7 +11374,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -10498,7 +11392,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international with government</td>
     </tr>
     <tr>
@@ -10514,7 +11408,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -10530,7 +11424,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>collaborative with government</td>
     </tr>
     <tr>
@@ -10547,7 +11441,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -10560,7 +11454,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
@@ -10577,7 +11471,54 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
             </ul>
         </td>
         <td>Sep-2017</td>
-        <td>1st Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-1532/">Latency-Free Distributed Averaging for Analytics Tasks</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Stephen Pasteris (UCL)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+            </ul>
+        </td>
+        <td>Sep-2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-1535/">Prophet: Resource State Abstraction as a Primitive for Coalition Networks</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Kai Gao (Yale)</li>
+                <li>J. Jensen Zhang</li>
+                <li>Kin Leung (Imperial)</li>
+                <li>Richard Yang (Yale)</li>
+            </ul>
+        </td>
+        <td>Sep-2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-1537/">Unicorn: Unified Resource Orchestration for Software Defined Coalitions</a></td>
+        <td>internal conference</td>
+        <td>
+            <ul>
+                <li>Qiao Xiang (Yale)</li>
+                <li>Shenshen Chen</li>
+                <li>Kai Gao (Yale)</li>
+                <li>Harvey Newman</li>
+                <li>Ian Taylor (Cardiff)</li>
+                <li>X. Tony Wang (Yale)</li>
+                <li>J. Jensen Zhang</li>
+                <li>Richard Yang (Yale)</li>
+            </ul>
+        </td>
+        <td>Sep-2017</td>
+        <td>Annual Fall Meeting of the DAIS ITA, 2017</td>
         <td>international</td>
     </tr>
     <tr>
