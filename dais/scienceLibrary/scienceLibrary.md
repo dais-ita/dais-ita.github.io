@@ -23,6 +23,220 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td><strong>collaboration</strong></td>
     </tr>
     <tr>
+        <td><a href="/doc-8006/">Communication-Efficient Device Scheduling for Federated Learning Using Stochastic Optimization</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Jake Perazzone (ARL)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Mingyue Ji</li>
+                <li>Kevin Chan (ARL)</li>
+            </ul>
+        </td>
+        <td>May-2022</td>
+        <td>IEEE International Conference on Computer Communications (INFOCOM), May 2022</td>
+        <td>collaborative with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8046/">Trustable service discovery for highly dynamic decentralized workflows</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Iain Barclay (Cardiff)</li>
+                <li>Chris Simpkin (Cardiff)</li>
+                <li>Graham Bent (Cardiff)</li>
+                <li>Tom La Porta (PSU)</li>
+                <li>Declan Millar (IBM UK)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Ian Taylor (Cardiff)</li>
+                <li>Dinesh Verma (IBM US)</li>
+            </ul>
+        </td>
+        <td>Apr-2022</td>
+        <td>Future Generation Computer Systems. 2022 Apr 9.</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8023/">KerGNNs: Interpretable Graph Neural Networks with Graph Kernels</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Aosong Feng (Yale)</li>
+                <li>Chenyu You (Yale)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Leandros Tassiulas (Yale)</li>
+            </ul>
+        </td>
+        <td>Mar-2022</td>
+        <td>AAAI Conference on Artificial Intelligence (2022)</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8014/">Demystifying Why Local Aggregation Helps: Convergence Analysis of Hierarchical SGD</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Jiayi Wang</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Rong-Rong Chen</li>
+                <li>Mingyue Ji</li>
+            </ul>
+        </td>
+        <td>Mar-2022</td>
+        <td>AAAI Conference on Artificial Intelligence (2022)</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8029/">Noise Resilient Leaky Integrate-and-re Neuron Based on Multi-domain Spintronic Devices</a></td>
+        <td>technical report</td>
+        <td>
+            <ul>
+                <li>Cheng Wang (Purdue)</li>
+                <li>Chankyu Lee (Purdue)</li>
+                <li>Kaushik Roy (Purdue)</li>
+            </ul>
+        </td>
+        <td>Feb-2022</td>
+        <td>n/a</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8022/">Handling epistemic and aleatory uncertainties in probabilistic circuits</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Federico Cerutti</li>
+                <li>Lance Kaplan (ARL)</li>
+                <li>Angelika Kimmig (Cardiff)</li>
+                <li>Murat Şensoy</li>
+            </ul>
+        </td>
+        <td>Jan-2022</td>
+        <td>Machine Learning. 2022 Jan 10:1-43</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8044/">TOFU: Towards Obfuscated Federated Updates by Encoding Weight Updates into Gradients from Proxy Data</a></td>
+        <td>technical report</td>
+        <td>
+            <ul>
+                <li>Isha Garg (Purdue)</li>
+                <li>Manish Nagaraj (Purdue)</li>
+                <li>Kaushik Roy (Purdue)</li>
+            </ul>
+        </td>
+        <td>Jan-2022</td>
+        <td>n/a</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8048/">Understanding the characteristics of COVID-19 misinformation communities through graphlet analysis</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>James Ashford (Cardiff)</li>
+                <li>Liam Turner (Cardiff)</li>
+                <li>Roger Whitaker (Cardiff)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Diane Felmlee (PSU)</li>
+            </ul>
+        </td>
+        <td>Jan-2022</td>
+        <td>Online Social Networks and Media, 27, p.100178</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8000/">A Gang of Adversarial Bandits</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Mark Herbster (UCL)</li>
+                <li>Stephen Pasteris (UCL)</li>
+                <li>Fabio Vitale</li>
+                <li>Massimiliano Pontil</li>
+            </ul>
+        </td>
+        <td>Dec-2021</td>
+        <td>Advances in Neural Information Processing Systems 34 (2021)</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8004/">Addressing the Limitations of AI/ML in creating Cognitive Solutions</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Dinesh Verma (IBM US)</li>
+                <li>Archit Verma (IBM US)</li>
+                <li>Utpal Mangla (IBM US)</li>
+            </ul>
+        </td>
+        <td>Dec-2021</td>
+        <td>2021 IEEE Third International Conference on Cognitive Machine Intelligence (CogMI), pp. 189-196. IEEE, 2021</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8007/">Competitive Algorithms for Online Multidimensional Knapsack Problems</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Lin Yang (UMass)</li>
+                <li>Ali Zeynali (UMass)</li>
+                <li>Mohammad Hajiesmaili (UMass)</li>
+                <li>Ramesh Sitaraman (UMass)</li>
+                <li>Don Towsley (UMass)</li>
+            </ul>
+        </td>
+        <td>Dec-2021</td>
+        <td>Proceedings of the ACM on Measurement and Analysis of Computing Systems 5, no. 3 (2021): 1-30.</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8008/">Cooperative stochastic bandits with asynchronous agents and constrained feedback</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Lin Yang (UMass)</li>
+                <li>Yu-Zhen Janice Chen (UMass)</li>
+                <li>Stephen Pasteris (UCL)</li>
+                <li>Mohammad Hajiesmaili (UMass)</li>
+                <li>John Lui</li>
+                <li>Don Towsley (UMass)</li>
+            </ul>
+        </td>
+        <td>Dec-2021</td>
+        <td>Advances in Neural Information Processing Systems 34 (2021)</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8025/">Learning from optimal caching for content delivery</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Gang Yan</li>
+                <li>Jian Li</li>
+                <li>Don Towsley (UMass)</li>
+            </ul>
+        </td>
+        <td>Dec-2021</td>
+        <td>CoNEXT '21: Proceedings of the 17th International Conference on emerging Networking EXperiments and Technologies</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8030/">On Exploring Attention-based Explanation for Transformer Models in Text Classification</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Shengzhong Liu</li>
+                <li>Franck Le (IBM US)</li>
+                <li>Supriyo Chakraborty (IBM US)</li>
+                <li>Tarek Abdelzaher</li>
+            </ul>
+        </td>
+        <td>Dec-2021</td>
+        <td>2021 IEEE International Conference on Big Data (Big Data) (pp. 1193-1203). IEEE.</td>
+        <td>single institutec</td>
+    </tr>
+    <tr>
         <td><a href="/doc-6145/">Supporting Agile User Fusion Analytics through Human-Agent Knowledge Fusion</a></td>
         <td>external conference</td>
         <td>
@@ -61,6 +275,210 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         </td>
         <td>Oct-2021</td>
         <td>Taylor and Francis group, 2021 [<a href="https://www.routledge.com/Federated-AI-for-Real-World-Business-Scenarios/Verma/p/book/9780367861575">link</a>]</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8005/">Coalition Situational Understanding Via Adaptive, Trusted and Resilient Distributed Artificial Intelligence Analytics</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Dave Braines (IBM UK)</li>
+                <li>Federico Cerutti</li>
+                <li>Gavin Pearson (Dstl)</li>
+                <li>Lance Kaplan (ARL)</li>
+            </ul>
+        </td>
+        <td>Oct-2021</td>
+        <td>NATO STO MP-IST-190</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8012/">DCT-SNN: Using DCT to Distribute Spatial Information over Time for Low-Latency Spiking Neural Networks</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Isha Garg (Purdue)</li>
+                <li>Sayeed Shafayet Chowdhury (Purdue)</li>
+                <li>Kaushik Roy (Purdue)</li>
+            </ul>
+        </td>
+        <td>Oct-2021</td>
+        <td>Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 4671-4680).</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8016/">EDIR: Efficient Distributed Image Retrieval of Novel Objects in Mobile Networks</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Noor Felemban (PSU)</li>
+                <li>Fidan Mehmeti (PSU)</li>
+                <li>Tom La Porta (PSU)</li>
+                <li>Heesung Kwon (ARL)</li>
+            </ul>
+        </td>
+        <td>Oct-2021</td>
+        <td>2021 IEEE 18th International Conference on Mobile Ad Hoc and Smart Systems (MASS) (pp. 392-400). IEEE</td>
+        <td>collaborative with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8026/">Modeling and Optimization in Software-Defined Networks</a></td>
+        <td>book</td>
+        <td>
+            <ul>
+                <li>Konstantinos Poularakis (Yale)</li>
+                <li>Leandros Tassiulas (Yale)</li>
+                <li>T.V. Lakshman</li>
+            </ul>
+        </td>
+        <td>Oct-2021</td>
+        <td>Software-Defined Networks. Synthesis Lectures on Learning, Networks, and Algorithms. 2021 Oct 1;2(2):1-74.</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8031/">Online Resource Allocation in Edge Computing Using Distributed Bidding Approaches</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Caroline Rublein (PSU)</li>
+                <li>Fidan Mehmeti (PSU)</li>
+                <li>Mark Towers (Southampton)</li>
+                <li>Sebastian Stein (Southampton)</li>
+                <li>Tom La Porta (PSU)</li>
+            </ul>
+        </td>
+        <td>Oct-2021</td>
+        <td>2021 IEEE 18th International Conference on Mobile Ad Hoc and Smart Systems (MASS)</td>
+        <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8049/">Using DeepProbLog to perform Complex Event Processing on an Audio Stream</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Marc Roig Vilamala (Cardiff)</li>
+                <li>Tianwei Xing (UCLA)</li>
+                <li>Harrison Taylor (Cardiff)</li>
+                <li>Luis Garcia (UCLA)</li>
+                <li>Mani Srivastava (UCLA)</li>
+                <li>Lance Kaplan (ARL)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Angelika Kimmig (Cardiff)</li>
+                <li>Federico Cerutti</li>
+            </ul>
+        </td>
+        <td>Oct-2021</td>
+        <td>1st International Joint Conference on Learning & Reasoning, 2021</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8009/">Did Karadzic Possess the Mens Rea for Genocide in Srebrenica?</a></td>
+        <td>externla conference</td>
+        <td>
+            <ul>
+                <li>Federico Cerutti (Cardiff)</li>
+                <li>Yvonne McDermott Rees</li>
+            </ul>
+        </td>
+        <td>Nov-2021</td>
+        <td>Proceedings of the 5th Workshop on Advances in Argumentation in Artificial Intelligence 2021</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8020/">Generalizable and Interpretable Deep Learning for Network Congestion Prediction</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Konstantinos Poularakis (Yale)</li>
+                <li>Qiaofeng Qin (Yale)</li>
+                <li>Franck Le (IBM US)</li>
+                <li>Sastry Kompella</li>
+                <li>Leandros Tassiulas (Yale)</li>
+            </ul>
+        </td>
+        <td>Nov-2021</td>
+        <td>2021 IEEE 29th International Conference on Network Protocols (ICNP)</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8036/">Resource Management in Software Defined Coalitions (SDC) through Slicing</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Athanasios Gkelias (Imperial)</li>
+                <li>Nitish Panigrahy (UMass)</li>
+                <li>Mohammad Mobayenjarihani (UMass)</li>
+                <li>Kin Leung (Imperial)</li>
+                <li>Don Towsley (UMass)</li>
+                <li>Patrick Baker(Dstl)</li>
+                <li>Olwen Worthington (Dstl)</li>
+                <li>Laurence Fowkes (Dstl)</li>
+            </ul>
+        </td>
+        <td>Nov-2021</td>
+        <td>MILCOM 2021 - 2021 IEEE Military Communications Conference (MILCOM), 2021, pp. 237-242</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8038/">Robust Solutions to Constrained Optimization Problems by LSTM Networks</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Zheyu Chen (Imperial)</li>
+                <li>Kin Leung (Imperial)</li>
+                <li>Shiqiang Wang (IBM US)</li>
+                <li>Leandros Tassiulas (Yale)</li>
+                <li>Kevin Chan (ARL)</li>
+            </ul>
+        </td>
+        <td>Nov-2021</td>
+        <td>MILCOM 2021 - 2021 IEEE Military Communications Conference (MILCOM), 2021, pp. 503-508</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8040/">Semantically-guided acquisition of trustworthy data for information fusion</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Declan Millar (IBM UK)</li>
+                <li>Dave Braines (IBM UK)</li>
+                <li>Erik Blasch</li>
+                <li>Doug Summers-Stay (ARL)</li>
+                <li>Iain Barclay (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Nov-2021</td>
+        <td>2021 IEEE 24th International Conference on Information Fusion (FUSION), 2021, pp. 1-8</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8042/">SPACE: Structured Compression and Sharing of Representational Space for Continual Learning</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Gobinda Saha (Purdue)</li>
+                <li>Isha Garg (Purdue)</li>
+                <li>Aayush Ankit (Purdue)</li>
+                <li>Kaushik Roy (Purdue)</li>
+            </ul>
+        </td>
+        <td>Nov-2021</td>
+        <td>IEEE Access, vol. 9, pp. 150480-150494, 2021</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8050/">VidQ: Video Query Using Optimized Audio-Visual Processing</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Noor Felemban (PSU)</li>
+                <li>Fidan Mehmeti (PSU)</li>
+                <li>(Tom La Porta (PSU)</li>
+            </ul>
+        </td>
+        <td>Nov-2021</td>
+        <td>Proceedings of the 17th ACM Symposium on QoS and Security for Wireless and Mobile Networks 2021 Nov 22 (pp. 51-60).</td>
         <td>single institute</td>
     </tr>
     <tr>
@@ -205,6 +623,21 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international</td>
     </tr>
     <tr>
+        <td><a href="/doc-8045/">Toward Stable Interdomain Network-Application Integration</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Qiao Xiang (Yale)</li>
+                <li>Franck Le (IBM US)</li>
+                <li>Jingxuan Zhang</li>
+                <li>Richard Yang(Yale)</li>
+            </ul>
+        </td>
+        <td>Aug-2021</td>
+        <td>NAI'21: Proceedings of the ACM SIGCOMM 2021 Workshop on Network-Application Integration</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
         <td><a href="/doc-7111/">More Is Not Always Better: An Analytical Study of Controller Synchronizations in Distributed SDN</a></td>
         <td>journal</td>
         <td>
@@ -261,6 +694,21 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>international with government</td>
     </tr>
     <tr>
+        <td><a href="/doc-8018/">FF-NSL: Feed-Forward Neural-Symbolic Learner</a></td>
+        <td>technical report</td>
+        <td>
+            <ul>
+                <li>Daniel Cunnington (IBM UK)</li>
+                <li>Mark Law (Imperial)</li>
+                <li>Alessandra Russo (Imperial)</li>
+                <li>Jorge Lobo (Imperial)</li>
+            </ul>
+        </td>
+        <td>Jul-2021</td>
+        <td>n/a</td>
+        <td>collaborative</td>
+    </tr>
+    <tr>
         <td><a href="/doc-7122/">The Coevolution of Social Networks and Cognitive Dissonance</a></td>
         <td>journal</td>
         <td>
@@ -295,6 +743,46 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>Jun-2021</td>
         <td>ICC 2021 - IEEE International Conference on Communications [<a href="https://ieeexplore.ieee.org/document/9500763">link</a>]</td>
         <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8010/">Data Reduction for Communication-Efficient Machine Learning</a></td>
+        <td>book</td>
+        <td>
+            <ul>
+                <li>Hanlin Lu (PSU)</li>
+            </ul>
+        </td>
+        <td>Jan-2021</td>
+        <td>PhD thesis</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8015/">Energy-efficient resource management for federated edge learning with CPU-GPU heterogeneous computing</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Qunsong Zeng</li>
+                <li>Yuqing Du</li>
+                <li>Kaibin Huang</li>
+                <li>Kin Leung (Imperial)</li>
+            </ul>
+        </td>
+        <td>Jun-2021</td>
+        <td>IEEE Transactions on Wireless Communications, 20(12), pp.7947-7962</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8021/">Gradient-Based Interpretability Methods and Binarized Neural Networks</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Amy Widdicombe (UCL)</li>
+                <li>Simon Julier (UCL)</li>
+            </ul>
+        </td>
+        <td>Jun-2021</td>
+        <td>Proceedings of the ICML 2021 Workshop on Theoretic Foundation, Criticism & Application Trend of Explainable AI</td>
+        <td>single institute</td>
     </tr>
     <tr>
         <td><a href="/doc-7106/">Explainable AI at the Edge: Perspectives & Requirements</a></td>
@@ -371,6 +859,37 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>May-2021</td>
         <td>IoTDI '21: Proceedings of the International Conference on Internet-of-Things Design and Implementation [<a href="https://dl.acm.org/doi/10.1145/3450268.3453529">link</a>]</td>
         <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8033/">Providing Assurance and Scrutability on Shared Data and Machine Learning Models with Verifiable Credentials</a></td>
+        <td>technical report</td>
+        <td>
+            <ul>
+                <li>Iain Barclay (Cardiff)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Ian Taylor (Cardiff)</li>
+                <li>Swapna Radha</li>
+                <li>Jarek Nabrzyski</li>
+            </ul>
+        </td>
+        <td>May-2021</td>
+        <td>n/a</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8035/">Reasoning about social preferences with uncertain beliefs</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Isaac Davis (Yale)</li>
+                <li>Ryan Carlson (Yale)</li>
+                <li>Yarrow Dunham (Yale)</li>
+                <li>Julian Jara-Ettinger (Yale)</li>
+            </ul>
+        </td>
+        <td>May-2021</td>
+        <td>Proceedings of the 43rd Annual Conference of the Cognitive Science Society.</td>
+        <td>single institute</td>
     </tr>
     <tr>
         <td><a href="/doc-7119/">Self-Aware Effective Identification and Response to Viral Cyber Threats</a></td>
@@ -752,6 +1271,57 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>collaborative with government</td>
     </tr>
     <tr>
+        <td><a href="/doc-8003/">A Vector Symbolic Approach for Cognitive Services and Decentralized Workflows</a></td>
+        <td>book</td>
+        <td>
+            <ul>
+                <li>Chris Simpkin (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Jan-2021</td>
+        <td>PhD thesis</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8013/">Deep Learning for Sensing in Complex and Dynamic Environments</a></td>
+        <td>book</td>
+        <td>
+            <ul>
+                <li>Tianwei Xing (UCLA)</li>
+            </ul>
+        </td>
+        <td>Jan-2021</td>
+        <td>PhD thesis</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8032/">Preliminary Considerations for Rational Argumentation under Aleatory and Epistemic Uncertainty</a></td>
+        <td>technical report</td>
+        <td>
+            <ul>
+                <li>Federico Cerutti</li>
+            </ul>
+        </td>
+        <td>Jan-2021</td>
+        <td>n/a</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8047/">Uncertain Bayesian Networks: Learning from Incomplete Data</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Conrad D. Hougen</li>
+                <li>Lance M. Kaplan (ARL)</li>
+                <li>Federico Cerutti</li>
+                <li>Alfred O. Hero</li>
+            </ul>
+        </td>
+        <td>Jan-2021</td>
+        <td>2021 IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP), 2021, pp. 1-6</td>
+        <td>single institute with government</td>
+    </tr>
+    <tr>
         <td><a href="/doc-7126/">Big data and data mining for wearable-based mobility analysis</a></td>
         <td>book chapter</td>
         <td>
@@ -811,6 +1381,21 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         </td>
         <td>Dec-2020</td>
         <td>Neural Information Processing Systems Online Conference 2020 [<a href="https://proceedings.neurips.cc/paper/2020/file/cdfa4c42f465a5a66871587c69fcfa34-Paper.pdf">link</a>]</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8017/">Exploring Vicinal Risk Minimization for Lightweight Out-of-Distribution Detection</a></td>
+        <td>technical report</td>
+        <td>
+            <ul>
+                <li>Deepak Ravikumar (Purdue)</li>
+                <li>Sangamesh Kodge (Purdue)</li>
+                <li>Isha Garg (Purdue)</li>
+                <li>Kaushik Roy (Purdue)</li>
+            </ul>
+        </td>
+        <td>Dec-2020</td>
+        <td>n/a</td>
         <td>single institute</td>
     </tr>
     <tr>
@@ -930,6 +1515,34 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>Nov-2020</td>
         <td>AAAI 2020 Fall Symposium Series [<a href="https://arxiv.org/abs/2010.14388">link</a>]</td>
         <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8019/">Filtered Manifold Alignment</a></td>
+        <td>technical report</td>
+        <td>
+            <ul>
+                <li>Stefan Dernbach (UMass)</li>
+                <li>Don Towsley (UMass)</li>
+            </ul>
+        </td>
+        <td>Nov-2020</td>
+        <td>n/a</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8034/">Proximity Based Load Balancing Policies on Graphs: A Simulation Study</a></td>
+        <td>technical report</td>
+        <td>
+            <ul>
+                <li>Nitish Panigrahy (UMass)</li>
+                <li>Thirupathaiah Vasantam (UMass)</li>
+                <li>Prithwish Basu (BBN)</li>
+                <li>Don Towsley (UMass)</li>
+            </ul>
+        </td>
+        <td>Nov-2020</td>
+        <td>n/a</td>
+        <td>collaborative</td>
     </tr>
     <tr>
         <td><a href="/doc-5919/">Towards human-agent knowledge fusion (HAKF) in support of distributed coalition teams</a><br /><br /><br />
@@ -1114,6 +1727,40 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>collaborative</td>
     </tr>
     <tr>
+        <td><a href="/doc-8001/">A Hybrid Neuro-Symbolic Approach for Complex Event Processing</a></td>
+        <td>technical report</td>
+        <td>
+            <ul>
+                <li>Marc Roig Vilamala (Cardiff)</li>
+                <li>Harrison Taylor (Cardiff)</li>
+                <li>Tianwei Xing (UCLA)</li>
+                <li>Luis Garcia (UCLA)</li>
+                <li>Mani Srivastava (UCLA)</li>
+                <li>Lance Kaplan (ARL)</li>
+                <li>Alun Preece (Cardiff)</li>
+                <li>Angelika Kimmig (Cardiff)</li>
+                <li>Federico Cerutti</li>
+            </ul>
+        </td>
+        <td>Oct-2020</td>
+        <td>n/a</td>
+        <td>international with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8011/">DCT-SNN: Using dct to distribute spatial information over time for learning low-latency spiking neural networks</a></td>
+        <td>technical report</td>
+        <td>
+            <ul>
+                <li>Isha Garg (Purdue)</li>
+                <li>Sayeed Shafayet Chowdhury (Purdue)</li>
+                <li>Kaushik Roy (Purdue)</li>
+            </ul>
+        </td>
+        <td>Oct-2020</td>
+        <td>n/a</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
         <td><a href="/doc-5912/">Breadth verses depth: the impact of tree structure on cultural influence</a><br /><br /><br />
             Variants: doc-6089</td>
         <td>external conference</td>
@@ -1247,6 +1894,19 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         </td>
         <td>Sep-2021</td>
         <td>Technical report</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8027/">Network Compression via Mixed Precision Quantization Using a Multi-Layer Perceptron for the Bit-Width Allocation</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Efstathia Soufleri (Purdue)</li>
+                <li>Kaushik Roy (Purdue)</li>
+            </ul>
+        </td>
+        <td>Sep-2021</td>
+        <td>IEEE Access. 2021 Sep 29;9:135059-68.</td>
         <td>single institute</td>
     </tr>
     <tr>
@@ -2321,7 +2981,7 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>internal conference</td>
         <td>
             <ul>
-                <liMark Law (Imperial)</li>
+                <li>Mark Law (Imperial)</li>
                 <li>Alessandra Russo (Imperial)</li>
                 <li>Krysia Broda (Imperial)</li>
                 <li>Elisa Bertino (Purdue)</li>
@@ -2739,6 +3399,23 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>Jul-2020</td>
         <td>2020 IEEE Annual Joint Conference: INFOCOM, IEEE Computer and Communications Societies [<a href="https://ieeexplore.ieee.org/document/9155222">link</a>]</td>
         <td>collaborative with government</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8037/">Resource Sharing in the Edge: A Distributed Bargaining-Theoretic Approach</a></td>
+        <td>technical report</td>
+        <td>
+            <ul>
+                <li>Faheem Zafari (Imperial)</li>
+                <li>Prithwish Basu (BBN)</li>
+                <li>Kin Leung (Imperial)</li>
+                <li>Jian Li</li>
+                <li>Ananthram Swami (ARL)</li>
+                <li>Don Towsley (UMass)</li>
+            </ul>
+        </td>
+        <td>Jul-2020</td>
+        <td>n/a</td>
+        <td>international with government</td>
     </tr>
     <tr>
         <td><a href="/doc-5524/">Toward Optimal Software-Defined Interdomain Routing</a></td>
@@ -3242,6 +3919,22 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>single institute</td>
     </tr>
     <tr>
+        <td><a href="/doc-8024/">Learning Features of Network Structures Using Graphlets</a></td>
+        <td>technical report</td>
+        <td>
+            <ul>
+                <li>Kun Tu (UMass)</li>
+                <li>Jian Li</li>
+                <li>Don Towsley (UMass)</li>
+                <li>Dave Braines (IBM UK)</li>
+                <li>Liam Turner (Cardiff)</li>
+            </ul>
+        </td>
+        <td>Apr-2020</td>
+        <td>n/a</td>
+        <td>international</td>
+    </tr>
+    <tr>
         <td><a href="/doc-5653/">The current state of automated negotiation theory: a literature review</a></td>
         <td>tech report</td>
         <td>
@@ -3271,6 +3964,22 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>Mar-2020</td>
         <td>Journal of Information and Telecommunication [<a href="https://www.tandfonline.com/doi/full/10.1080/24751839.2020.1741858">link</a>]</td>
         <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8002/">A TTL-based Approach for Content Placement in Edge Networks</a></td>
+        <td>external conference</td>
+        <td>
+            <ul>
+                <li>Nitish Panigrahy (UMass)</li>
+                <li>Jian Li</li>
+                <li>Faheem Zafari (Imperial)</li>
+                <li>Don Towsley (UMass)</li>
+                <li>Paul Yu (ARL)</li>
+            </ul>
+        </td>
+        <td>Mar-2020</td>
+        <td>In Performance Evaluation Methodologies and Tools: 14th EAI International Conference, VALUETOOLS 2021, Virtual Event, October 30–31, 2021, Proceedings (p. 1). Springer Nature.</td>
+        <td>international with government</td>
     </tr>
     <tr>
         <td><a href="/doc-5738/">Explaining Motion Relevance for Activity Recognition in Video Deep Learning Models</a></td>
@@ -6354,6 +7063,20 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>single institute</td>
     </tr>
     <tr>
+        <td><a href="/doc-8043/">Synthetic Ground Truth Generation for Evaluating Generative Policy Models</a></td>
+        <td>technical report</td>
+        <td>
+            <ul>
+                <li>Daniel Cunnington (IBM UK)</li>
+                <li>Graham White (IBM UK)</li>
+                <li>Geeth de Mel (IBM UK)</li>
+            </ul>
+        </td>
+        <td>Apr-2019</td>
+        <td>n/a</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
         <td><a href="/doc-3573/">An Objective-Driven On-Demand Network Abstraction for Adaptive Applications</a></td>
         <td>journal</td>
         <td>
@@ -7083,6 +7806,30 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>Jan-2019</td>
         <td>The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19)</td>
         <td>international</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8028/">Networking at Information Centric Edge</a></td>
+        <td>book</td>
+        <td>
+            <ul>
+                <li>Tao Zhao</li>
+            </ul>
+        </td>
+        <td>Jan-2019</td>
+        <td>PhD thesis</td>
+        <td>single institute</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8039/">Secure and Private Machine Learning for Smart Devices</a></td>
+        <td>book</td>
+        <td>
+            <ul>
+                <li>Moustafa Alzantot (UCLA)</li>
+            </ul>
+        </td>
+        <td>Jan-2019</td>
+        <td>PhD thesis</td>
+        <td>single institute</td>
     </tr>
     <tr>
         <td><a href="/doc-3581/">Probabilistic Logic Programming with Beta-Distributed Random Variables</a><br /><br /><br />
@@ -9480,6 +10227,20 @@ The remainder of this page lists all of the publications from the DAIS ITA progr
         <td>May-2018</td>
         <td>WiOpt 2018</td>
         <td>collaborative</td>
+    </tr>
+    <tr>
+        <td><a href="/doc-8041/">Social-collaborative determinants of content quality in online knowledge production systems: comparing Wikipedia and Stack Overflow</a></td>
+        <td>journal</td>
+        <td>
+            <ul>
+                <li>Sorin Adam Matei (Purdue)</li>
+                <li>Amani Abu Jabal (Purdue)</li>
+                <li>Elisa Bertino (Purdue)</li>
+            </ul>
+        </td>
+        <td>May-2018</td>
+        <td>Social Network Analysis and Mining volume 8, Article number: 36 (2018)</td>
+        <td>single institute</td>
     </tr>
     <tr>
         <td><a href="/doc-2675/">Integrating Learning and Reasoning Services for Explainable Information Fusion</a></td>
