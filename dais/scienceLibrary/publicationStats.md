@@ -258,3 +258,7 @@ the tables below.
     </tr>
     </tbody>
 </table>
+
+The publications listed above include collaboration beyond the core organisations of the
+DAIS ITA program, with over 142 additional authors from 86 other organisations across
+academia, industry and government from a total of 22 countries.
